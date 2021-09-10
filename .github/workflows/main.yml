@@ -21,7 +21,6 @@ jobs:
 
     - name: Install and Build
       run: |
-        cd site
         yarn install
         yarn build
         yarn export
