@@ -15,18 +15,18 @@ export default function Home({ orgs }) {
           State of Sensemaking
         </h1>
         <section>
-          {orgs.map(({ title, description, url, imageurl }) => (
+          {orgs.map((org) => (
             <article className="bg-white shadow overflow-hidden sm:rounded-lg mb-16 p-8">
               <a
                 className="p-4"
-                key={title}
-                href={url}
+                key={org.title}
+                href={org.url}
                 target="_blank"
               >
-                <h3 className="font-bold mb-2 text-4xl">{title}</h3>
+                <h3 className="font-bold mb-2 text-4xl">{org.title}</h3>
               </a>
-              <img src={imageurl} alt="" className="max-h-16" />
-              <div dangerouslySetInnerHTML={{ __html: description }} />
+              <img src={org.imageurl} alt="" className="max-h-16" />
+              <div dangerouslySetInnerHTML={{ __html: org.description }} />
             </article>
           ))}
         </section>
