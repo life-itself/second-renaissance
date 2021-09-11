@@ -1,7 +1,9 @@
 import Link from 'next/link'
 import Head from 'next/head'
 
-export default function Layout({ children, title = 'Home' }) {
+import Nav from '../components/Nav'
+
+export default function Layout({ children, title='' }) {
   return (
     <>
       <Head>
@@ -10,7 +12,8 @@ export default function Layout({ children, title = 'Home' }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      <main>
+      <Nav /> 
+      <main className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         {children}
       </main>
       <footer className="flex items-center justify-center w-full h-24 border-t">
@@ -27,4 +30,3 @@ export default function Layout({ children, title = 'Home' }) {
     </>
   )
 }
-

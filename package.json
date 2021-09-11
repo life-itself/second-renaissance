@@ -8,6 +8,8 @@
     "test": "jest"
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.1",
+    "@heroicons/react": "^1.0.4",
     "googleapis": "^84.0.0",
     "jest": "^27.0.6",
     "next": "latest",
