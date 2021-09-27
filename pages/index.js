@@ -95,22 +95,23 @@ export default function Home({ orgs }) {
             <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
               {orgs.map((org) => (
                 <div key={org.slug} className="group relative">
-                  <div className="w-full min-h-80 bg-gray-200 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
+                  <div className="w-full min-h-80 beige aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
                     <img
                       src={org.imageurl}
                       alt={org.title}
                       className="w-full h-full object-center object-cover lg:w-full lg:h-full"
                     />
                   </div>
-                  <div className="mt-4 flex justify-between">
+                  <div className="mt-2 flex justify-between">
                     <div>
-                      <h3 className="text-sm font-medium text-gray-900">
+                    <a className="extra-small exception font-medium tracking-wide accent-color uppercase">{org.category}</a>
+                      <h3 className="text-base font-medium hover:underline semi-black">
                         <a href={'@'+org.slug}>
                           <span aria-hidden="true" className="absolute inset-0" />
                           {org.title}
                         </a>
                       </h3>
-                      <p className="mt-1 text-sm text-gray-500">{org.url}</p>
+                      <p className="mt-1 text-sm darkgray pb-1">{org.url}</p>
                       <p className="text-sm text-gray-700">{org.description.slice(0, 100) + '…'}</p>
                     </div>
                   </div>

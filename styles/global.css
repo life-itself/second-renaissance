@@ -10,7 +10,7 @@ div, h6, body, a, p, li {
 }
 
 a.exception {
-  font-family: "Restora"!important;
+  font-family: "Montserrat"!important;
 }
 
 /* COLORS */
@@ -60,4 +60,8 @@ a.exception {
 	color: var(--offwhite-color);
 }
 
+/* OTHERS */
 
+.extra-small {
+  font-size: 0.50rem;
+}
