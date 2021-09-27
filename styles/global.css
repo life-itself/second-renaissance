@@ -1,16 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Restora";
+  src: url("/fonts/Restora/Restora.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Restora";
+  src: url("/fonts/Restora/RestoraBold.ttf");
+  font-style: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Restora";
+  src: url("/fonts/Restora/RestoraExtraLight.ttf");
+  font-style: light;
+  font-display: swap;
+}
+
 /* FONTS */
 
-h1, h2, h3, h4, h5 {
-  font-family: 'Restora'!important;
-  color: var(--semi-black);
-}
-
-div, h6, body, a, p, li {
-  font-family: 'Nunito Sans'!important;
-}
-
-a.exception {
-  font-family: "Montserrat"!important;
+@layer base {
+  h1, h2, h3, h4, h5 {
+    @apply font-serif;
+  }
 }
 
 /* COLORS */
