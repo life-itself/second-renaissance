@@ -1,0 +1,63 @@
+/* FONTS */
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Restora'!important;
+  color: var(--semi-black);
+}
+
+div, h6, body, a, p, li {
+  font-family: 'Nunito Sans'!important;
+}
+
+a.exception {
+  font-family: "Restora"!important;
+}
+
+/* COLORS */
+
+:root {
+  --accent-color:#F0CA5E;
+  --secondary-color: #d17846;
+  --darkgray-color: #4D4D4D;
+  --semi-black: #313131;
+  --offwhite-color: #FEFDFD;
+  --beige-color: rgba(228, 213, 206, 0.35);
+}
+
+.accent-color {
+  color: var(--accent-color);
+}
+
+.secondary-color {
+  color: var(--secondary-color);
+}
+
+.darkgray {
+  color:var(--darkgray-color);
+}
+
+.semi-black {
+  color: var(--semi-black);
+}
+
+.offwhite {
+  color: var(--offwhite-color);
+} 
+
+.beige {
+  background-color: var(--beige-color);
+}
+
+/* BUTTONS */
+
+.primary-button, .primary-button a {
+	background-color: var(--accent-color);
+	color:var(--darkgray-color);
+}
+
+.secondary-button, .secondary-button a {
+  background-color: var(--secondary-color);
+	color: var(--offwhite-color);
+}
+
+
