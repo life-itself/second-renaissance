@@ -1,16 +1,14 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { BellIcon, MenuIcon, XIcon } from '@heroicons/react/outline'
-
 import Link from 'next/link'
+
+import siteConfig from '../config/siteConfig.js'
+import navLinks from '../config/navLinks.js'
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
-
-const navigation = [
-  { name: 'Home', href: '/', current: false },
-]
 
 export default function Nav() {
   return (
@@ -32,11 +30,13 @@ export default function Nav() {
               </div>
               <div className="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex-shrink-0 flex items-center">
-                  State of Sensemaking
+                  <Link href="/">
+                    <a>{siteConfig.title}</a>
+                  </Link>
                 </div>
                 <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
                   {/* Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" */}
-                  {navigation.map((item) => (
+                  {navLinks.map((item) => (
                     <Link href={item.href}>
                       <a
                         key={item.name}
@@ -67,7 +67,7 @@ export default function Nav() {
           <Disclosure.Panel className="sm:hidden">
             <div className="pt-2 pb-4 space-y-1">
               {/* Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" */}
-              {navigation.map((item) => (
+              {navLinks.map((item) => (
                 <Link href={item.href}>
                   <a
                     key={item.name}
