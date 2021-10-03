@@ -1,8 +1,7 @@
-import Layout from '../components/Layout'
-
 export default function Organization({ org }) {
+  // TODO: set the title ...
+  // <Layout title={org.title}>
   return (
-    <Layout title={org.title}>
     <div className="bg-white">
       <div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8">
         {/* Product details */}
@@ -30,6 +29,5 @@ export default function Organization({ org }) {
         </div>
       </div>
     </div>
-    </Layout>
   )
 }
