@@ -6,6 +6,14 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      colors: {
+        accent:'#F0CA5E',
+        secondary:'#d17846',
+        darkgray:'#4D4D4D',
+        semiblack:'#313131',
+        offwhite:'#FEFDFD',
+        beige:'#F6F0EE'
+      },
       fontFamily: {
         sans: [
           'Nunito Sans',
