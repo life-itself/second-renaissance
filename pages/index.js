@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Image from 'next/image'
 
 import { getOrganizations } from "../lib/sheet"
 
@@ -96,7 +97,7 @@ export default function Home({ orgs }) {
                 <div key={org.slug} className="group relative">
                   <div className="w-full min-h-80 beige aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
                     <img
-                      src={org.imageurl}
+                      src={org.logourl}
                       alt={org.title}
                       className="w-full h-full object-center object-cover lg:w-full lg:h-full"
                     />

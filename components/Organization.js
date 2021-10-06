@@ -24,7 +24,7 @@ export default function Organization({ org }) {
         {/* Product image */}
         <div className="mt-10 lg:mt-0 lg:col-start-2 lg:row-span-2 lg:self-center">
           <div className="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden">
-            <img src={org.imageurl} alt={org.title} className="w-full h-full object-center object-cover" />
+            <img src={org.logourl} alt={org.title} className="w-full h-full object-center object-cover" />
           </div>
         </div>
       </div>
