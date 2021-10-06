@@ -1,5 +1,6 @@
 {
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +11,7 @@
   "dependencies": {
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.4",
+    "@microlink/mql": "^0.10.0",
     "@tailwindcss/typography": "^0.4.1",
     "googleapis": "^84.0.0",
     "gray-matter": "^4.0.3",
