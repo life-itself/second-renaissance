@@ -1,4 +1,4 @@
-import { getOrganizations } from "../../lib/sheet";
+import { getOrganizations } from "../../lib/db";
 import Organization from '../../components/Organization'
 
 export default function Page({org}) {

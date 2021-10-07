@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 
-import { getOrganizations } from "../lib/sheet"
+import { getOrganizations } from "../lib/db.js"
 
 
 export default function Home({ orgs }) {

@@ -1,25 +1,27 @@
-import { google } from 'googleapis';
-import {readFileSync} from 'fs';
-import {writeFileSync} from 'fs';
-import pkg from 'papaparse';
-const { parse } = pkg;
-import  mql from '@microlink/mql';
+import { google } from 'googleapis'
+import {readFileSync} from 'fs'
+import {writeFileSync} from 'fs'
+import path from 'path'
+import Papa from 'papaparse'
+import  mql from '@microlink/mql'
 
 
-export async function getOrganizations() {
-  // TODO: work out nicer variable for this
-  if (process.env.USE_DATA_FROM_GOOGLE_SHEETS) {
-    const out = await getOrganizationsFromGoogleSheet()
-    return out
-  } else {
-    const file = readFileSync('data/organizations-sample.csv', 'utf8');
-    const result = await parseCsvFile(file);
-    return result.data
+const DATA_DIR = './data'
+
+export async function transform() {
+  const file = readFileSync('data/cache/orgs-spreadsheet.csv', 'utf8');
+  const result = await parseCsvFile(file);
+  function transformOrg(org) {
+    return org
   }
+  const orgs = result.data.map(transformOrg)
+  writeFileSync(path.join(DATA_DIR, 'orgs.json'), JSON.stringify(orgs, null, 2))
+  // write out a sample of 20 of them
+  writeFileSync(path.join(DATA_DIR, 'orgs-sample.json'), JSON.stringify(orgs.slice(0,20), null, 2))
 }
 
 const parseCsvFile = (rawFile) => new Promise((resolve, reject) => {
-  parse(rawFile, {
+  Papa.parse(rawFile, {
     header: true,
     complete: result => {
       resolve(result);
@@ -82,6 +84,6 @@ export async function getMicroLinkInfo() {
     data.slug = item.slug
     results.push(data)
     console.log(`Done: ${item.slug}`)
-    writeFileSync('data/orgs-microlink.json', JSON.stringify(results, null, 2))
+    writeFileSync('../data/orgs-microlink.json', JSON.stringify(results, null, 2))
   }
 }
