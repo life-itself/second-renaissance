@@ -45,51 +45,6 @@
     }
   },
   {
-    "name": "Larger Us",
-    "slug": "larger-us",
-    "rd_1_focus": "YY",
-    "ch_focus": "",
-    "focus_notes": "",
-    "info_status": "",
-    "url": "https://larger.us",
-    "logo": {
-      "url": "https://larger.us/wp-content/uploads/2020/12/logo-green.svg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
-    },
-    "image_homepage": {
-      "url": ""
-    },
-    "description": "Larger Us supports a breakthrough from a them-and-us to a Larger Us world: one in which the ‘us’ we identify with includes 7.8 billion people, all other species, and future generations of both.\n\nWe do this by working to imagine and co-create new forms of citizenship and leadership – above all at the places where our states of mind and the state of the world intersect.\n\nLarger Us started out in 2018 after our founder Alex had been running a campaign for the UK to remain in the EU  – and realised his work was deepening political divides rather than helping to heal them.\n\nAs he thought more about political polarisation, he realised it was as much about our states of mind as the state of the world – whether we feel threatened or secure, whether we empathise with people or demonise them, what kind of stories we use to make sense of the world and our place in it.\n\nThat became the seed for our predecessor organisation, the Collective Psychology Project, which published its first report, A Larger Us, in 2019, pulling together ideas from over 200 conversations about the borders between our inner and outer worlds with psychologists and politicians, counsellors and campaigners, psychiatrists and peacebuilders.\n\nWe became Larger Us in early 2021, when we realised that we wanted to go much further than just publishing research – and instead become a co-created space for learning, sharing ideas, and asking the biggest questions about how we become a larger us rather than a them-and-us at a moment when everything depends on our ability to come together at all levels from neighbourhoods to nations.",
-    "tagline": "",
-    "activity orig": "Research, Events",
-    "activity": [
-      "Advocacy & Activism",
-      "Research & Policy"
-    ],
-    "topic": [
-      "Politics & Policy",
-      "Community"
-    ],
-    "regions": "UK",
-    "locations": [
-      "Leeds, GB"
-    ],
-    "started": "2019",
-    "ended": "",
-    "active": "Y",
-    "people": [
-      "Alex Evans"
-    ],
-    "notes_data_entry": "",
-    "twitter": "",
-    "instagram": "",
-    "facebook": "",
-    "image": {
-      "url": "https://larger.us/wp-content/uploads/2020/12/logo-green.svg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
-    }
-  },
-  {
     "name": "Dark Matter Labs",
     "slug": "dark-matter-labs",
     "rd_1_focus": "YY",
@@ -380,6 +335,51 @@
     "image": {
       "url": "https://www.findhorn.org/wp-content/uploads/2018/09/FF-LOGO.png",
       "cached": ""
+    }
+  },
+  {
+    "name": "Larger Us",
+    "slug": "larger-us",
+    "rd_1_focus": "YY",
+    "ch_focus": "",
+    "focus_notes": "",
+    "info_status": "",
+    "url": "https://larger.us",
+    "logo": {
+      "url": "https://larger.us/wp-content/uploads/2020/12/logo-green.svg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
+    },
+    "image_homepage": {
+      "url": ""
+    },
+    "description": "Larger Us supports a breakthrough from a them-and-us to a Larger Us world: one in which the ‘us’ we identify with includes 7.8 billion people, all other species, and future generations of both.\n\nWe do this by working to imagine and co-create new forms of citizenship and leadership – above all at the places where our states of mind and the state of the world intersect.\n\nLarger Us started out in 2018 after our founder Alex had been running a campaign for the UK to remain in the EU  – and realised his work was deepening political divides rather than helping to heal them.\n\nAs he thought more about political polarisation, he realised it was as much about our states of mind as the state of the world – whether we feel threatened or secure, whether we empathise with people or demonise them, what kind of stories we use to make sense of the world and our place in it.\n\nThat became the seed for our predecessor organisation, the Collective Psychology Project, which published its first report, A Larger Us, in 2019, pulling together ideas from over 200 conversations about the borders between our inner and outer worlds with psychologists and politicians, counsellors and campaigners, psychiatrists and peacebuilders.\n\nWe became Larger Us in early 2021, when we realised that we wanted to go much further than just publishing research – and instead become a co-created space for learning, sharing ideas, and asking the biggest questions about how we become a larger us rather than a them-and-us at a moment when everything depends on our ability to come together at all levels from neighbourhoods to nations.",
+    "tagline": "",
+    "activity orig": "Research, Events",
+    "activity": [
+      "Advocacy & Activism",
+      "Research & Policy"
+    ],
+    "topic": [
+      "Politics & Policy",
+      "Community"
+    ],
+    "regions": "UK",
+    "locations": [
+      "Leeds, GB"
+    ],
+    "started": "2019",
+    "ended": "",
+    "active": "Y",
+    "people": [
+      "Alex Evans"
+    ],
+    "notes_data_entry": "",
+    "twitter": "",
+    "instagram": "",
+    "facebook": "",
+    "image": {
+      "url": "https://larger.us/wp-content/uploads/2020/12/logo-green.svg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
     }
   },
   {
@@ -2841,8 +2841,8 @@
     }
   },
   {
-    "name": "Resurgence & Ecologist",
-    "slug": "resurgence-&-ecologist",
+    "name": "Resurgence and Ecologist",
+    "slug": "resurgence-and-ecologist",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -4033,8 +4033,8 @@
     }
   },
   {
-    "name": "CUSP (Centre for the Understanding of Sustainable Prosperity)",
-    "slug": "cusp-(centre-for-the-understanding-of-sustainable-prosperity)",
+    "name": "Centre for the Understanding of Sustainable Prosperity",
+    "slug": "centre-for-the-understanding-of-sustainable-prosperity",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4251,8 +4251,8 @@
     }
   },
   {
-    "name": "Science & Nonduality (SAND)",
-    "slug": "science-&-nonduality-(sand)",
+    "name": "Science and Nonduality (SAND)",
+    "slug": "science-and-nonduality",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4325,8 +4325,8 @@
     }
   },
   {
-    "name": "How The Light Gets In Festival",
-    "slug": "how-the-light-gets-in-festival",
+    "name": "How The Light Gets In",
+    "slug": "how-the-light-gets-in",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4435,7 +4435,7 @@
   },
   {
     "name": "Aeon Magazine",
-    "slug": "",
+    "slug": "aeon-magazine",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4474,7 +4474,7 @@
   },
   {
     "name": "The fourth group",
-    "slug": "",
+    "slug": "the-fourth-group",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4511,7 +4511,7 @@
   },
   {
     "name": "Global Conscious Movement",
-    "slug": "",
+    "slug": "global-conscious-movement",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4548,7 +4548,7 @@
   },
   {
     "name": "Sunday Assembly",
-    "slug": "",
+    "slug": "sunday-assembly",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4585,7 +4585,7 @@
   },
   {
     "name": "Global Witness",
-    "slug": "",
+    "slug": "global-witness",
     "rd_1_focus": "NN",
     "ch_focus": "",
     "focus_notes": "",
@@ -4622,7 +4622,7 @@
   },
   {
     "name": "Do One Better Podcast",
-    "slug": "",
+    "slug": "do-one-better-podcast",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4661,7 +4661,7 @@
   },
   {
     "name": "Gift of Compassion",
-    "slug": "",
+    "slug": "gift-of-compassion",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4739,7 +4739,7 @@
   },
   {
     "name": "Institute of Noetic Sciences",
-    "slug": "",
+    "slug": "institute-of-noetic-sciences",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4774,7 +4774,7 @@
   },
   {
     "name": "Commonweal",
-    "slug": "",
+    "slug": "commonweal",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4809,7 +4809,7 @@
   },
   {
     "name": "Brave Earth",
-    "slug": "",
+    "slug": "brave-earth",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
