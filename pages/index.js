@@ -63,7 +63,7 @@ export default function Home({ orgs }) {
                 <span className="block text-yellow-300 xl:inline">2021</span>
               </h1>
               <h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                A ongoing ecosystem mapping by <a href="https://lifeitself.us/ecosystem/">Life Itself and collaborators</a>. <a href="/about/">Learn more &raquo;</a>
+                An ongoing ecosystem mapping by <a href="https://lifeitself.us/ecosystem/">Life Itself and collaborators</a>. <a className="border-b-4" href="/about/">Learn more &raquo;</a>
               </h2>
               <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
                 <div className="rounded-md shadow">
