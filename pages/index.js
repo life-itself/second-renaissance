@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Link from 'next/link'
 
 import { getOrganizations } from "../lib/db.js"
 
@@ -61,16 +62,16 @@ export default function Home({ orgs }) {
                 <span className="block xl:inline">State of Sensemaking</span>{' '}
                 <span className="block text-yellow-300 xl:inline">2021</span>
               </h1>
-              <p className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                An ecosystem mapping by Life Itself
-              </p>
+              <h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+                A ongoing ecosystem mapping by <a href="https://lifeitself.us/ecosystem/">Life Itself and collaborators</a>. <a href="/about/">Learn more &raquo;</a>
+              </h2>
               <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
                 <div className="rounded-md shadow">
                   <a
-                    href="#"
+                    href="#profiles"
                     className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md bg-yellow-300 hover:bg-yellow-400 md:py-4 md:text-lg md:px-10"
                   >
-                    Download Report
+                    Browse Profiles
                   </a>
                 </div>
                 <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
@@ -78,7 +79,7 @@ export default function Home({ orgs }) {
                     href="#"
                     className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
                   >
-                    Browse Profiles 
+                    Contribute
                   </a>
                 </div>
               </div>
@@ -87,7 +88,7 @@ export default function Home({ orgs }) {
         </div>
       </div>
 
-      <section className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+      <section id="profiles" className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <div className="bg-white">
           <div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <h2 className="text-2xl font-extrabold tracking-tight text-gray-900">Profiles</h2>
