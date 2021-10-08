@@ -107,7 +107,7 @@ export default function Home({ orgs }) {
                     <div>
                     <a className="extra-small exception font-medium tracking-wide text-accent uppercase">{org.category}</a>
                       <h3 className="text-base font-medium hover:underline text-semiblack">
-                        <a href={'/entity/' + org.slug}>
+                        <a href={'/profile/' + org.slug}>
                           <span aria-hidden="true" className="absolute inset-0" />
                           {org.name}
                         </a>
