@@ -17,13 +17,51 @@ const DATA_PATHS = {
   topic: 'data/topic.json',
 }
 
+export function getOrganizations() {
+  const orgs = JSON.parse(readFileSync(DATA_PATHS.organization), 'utf8')
+  return orgs
+}
+
 export async function transform() {
-  const result = JSON.parse(readFileSync(DATA_PATHS.organization_cache))
-  const orgs = result.map(transformOrg)
+  const result = JSON.parse(readFileSync(DATA_PATHS.organization_cache), 'utf8')
+  let orgs = result.map(transformOrg)
+  // orgs = orgs.filter(org => !['NN', 'N'].includes(org.rd_1_status))
   writeFileSync(DATA_PATHS.organization, JSON.stringify(orgs, null, 2))
 }
 
 export function transformOrg(org) {
+  org.activity = [org.activity, org.activity_2].filter(item => item)
+  org.topic = [org.topic, org.topic_2, org.topic_3].filter(item => item)
+  org.logo = {
+    url: org.logo,
+    cached: org.logo_cached
+  }
+  org.image_homepage = {
+    url: org.image_homepage
+  }
+  org.locations = org.locations ? org.locations.split(';').map(loc => loc.trim()) : []
+  org.people = org.people ? org.people.split(',').map(loc => loc.trim()) : []
+  if (org.image_curated) {
+    org.image = {
+      url: org.image_curated
+    }
+  } else if (org.logo.url) {
+    org.image = org.logo
+  } else if (org.image_homepage.url) {
+    org.image = org.image_homepage
+  } else {
+    org.image = {
+      url: ''
+    }
+  }
+  const toRemove = [
+    'activity_2',
+    'topic_2',
+    'topic_3',
+    'logo_cached',
+    'image_curated'
+  ]
+  toRemove.forEach(e => delete org[e]);
   return org
 }
 
