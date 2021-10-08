@@ -5,7 +5,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "test": "jest"
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
@@ -15,7 +15,7 @@
     "dotenv": "^10.0.0",
     "googleapis": "^84.0.0",
     "gray-matter": "^4.0.3",
-    "jest": "^27.0.6",
+    "jest": "^27.2.4",
     "next": "latest",
     "next-mdx-remote": "^3.0.5",
     "papaparse": "^5.3.1",

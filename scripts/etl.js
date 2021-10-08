@@ -19,11 +19,12 @@ const DATA_PATHS = {
 
 export async function transform() {
   const result = JSON.parse(readFileSync(DATA_PATHS.organization_cache))
-  function transformOrg(org) {
-    return org
-  }
   const orgs = result.map(transformOrg)
   writeFileSync(DATA_PATHS.organization, JSON.stringify(orgs, null, 2))
+}
+
+export function transformOrg(org) {
+  return org
 }
 
 /*
