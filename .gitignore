@@ -3,6 +3,7 @@ data/orgs.json
 
 sandbox/*
 
+.env
 .env.local
 .next/**
 node_modules/**
