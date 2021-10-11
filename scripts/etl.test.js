@@ -1,9 +1,21 @@
 import * as etl from './etl.js'
+import topic from '../data/topic.json'
+import activity from '../data/activity.json'
 
 test('we have rightish amount of data in production org', () => {
   const orgs = etl.getOrganizations()
   expect(orgs.length).toBeGreaterThan(100)
   expect(orgs[0]['name']).toBe('Life Itself')
+})
+
+test('we have rightish amount of data in production topic', () => {
+  expect(topic.length).toEqual(11)
+  expect(topic[2]['name']).toBe('Development & Growth')
+})
+
+test('we have rightish amount of data in activities', () => {
+  expect(activity.length).toEqual(10)
+  expect(activity[0]['name']).toBe('Advocacy & Activism')
 })
 
 test('transform org does what it should', () => {

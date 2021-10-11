@@ -27,6 +27,10 @@ export async function transform() {
   let orgs = result.map(transformOrg)
   // orgs = orgs.filter(org => !['NN', 'N'].includes(org.rd_1_status))
   writeFileSync(DATA_PATHS.organization, JSON.stringify(orgs, null, 2))
+
+  // for now just copy
+  writeFileSync(DATA_PATHS.activity, readFileSync(DATA_PATHS.activity_cache, 'utf8'))
+  writeFileSync(DATA_PATHS.topic, readFileSync(DATA_PATHS.topic_cache, 'utf8'))
 }
 
 export function transformOrg(org) {

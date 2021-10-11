@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "advocacy",
+    "name": "Advocacy & Activism",
+    "description": "Engaging the public discourse directly on one or more issues.",
+    "image": "https://images.unsplash.com/photo-1591848478625-de43268e6fb8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWN0aXZpc218ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "emoji": ""
+  },
+  {
+    "slug": "art",
+    "name": "Art",
+    "description": "Creation of artistic works (including visual, literary, videographic etc).",
+    "image": "https://images.unsplash.com/photo-1459908676235-d5f02a50184b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGFydHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "emoji": ""
+  },
+  {
+    "slug": "business",
+    "name": "Business & Consulting",
+    "description": "Running a paid business or working with clients as a consultant",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YnVzaW5lc3N8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "emoji": ""
+  },
+  {
+    "slug": "education",
+    "name": "Education & Training",
+    "description": "Sharing knowledge & information. Courses & coaching. ",
+    "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGVkdWNhdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "emoji": ""
+  },
+  {
+    "slug": "events",
+    "name": "Events & Retreats",
+    "description": "Running public events or residential retreats.",
+    "image": "https://images.unsplash.com/photo-1477281765962-ef34e8bb0967?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1933&q=80",
+    "emoji": ""
+  },
+  {
+    "slug": "funding",
+    "name": "Funding",
+    "description": "Distributing funding to other projects.",
+    "image": "https://images.unsplash.com/photo-1589666564459-93cdd3ab856a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80",
+    "emoji": ""
+  },
+  {
+    "slug": "media",
+    "name": "Media & Publishing",
+    "description": "Media platforms and production i.e. curating and/or producing content. Media & publishing (producing podcasts, videos, blogs, online/print publications).",
+    "image": "https://images.unsplash.com/photo-1569016832321-084c128adeb8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80",
+    "emoji": ""
+  },
+  {
+    "slug": "network",
+    "name": "Network & Community",
+    "description": "Operating and sustaining a network or communitty of aligned actors.",
+    "image": "https://images.unsplash.com/photo-1566443280617-35db331c54fb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bmV0d29ya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "emoji": ""
+  },
+  {
+    "slug": "research",
+    "name": "Research & Policy",
+    "description": "Knowledge production and thought leadership. Think-tanks",
+    "image": "https://images.unsplash.com/photo-1567427018141-0584cfcbf1b8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzZWFyY2h8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "emoji": ""
+  },
+  {
+    "slug": "spaces",
+    "name": "Spaces & Infrastructure",
+    "description": "Creating spaces and infrastructure to enable and support conscious collectives and community.\n\n* Physical spaces: Co-living, Co-working, Sangha/retreats. Includes community building around that.\n* Infrastructure & support. Software (e.g. for non-hierarchical, flexible organisations)\n* Online spaces: Forums, Online communities (e.g. facebook groups)",
+    "image": "",
+    "emoji": ""
+  }
+]

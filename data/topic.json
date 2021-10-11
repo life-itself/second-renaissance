@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "wellbeing",
+    "name": "Wellbeing & Health",
+    "description": "Focused on improving quality of life through affecting the physical, psychological, environmental and social determinants of health and wellbeing.",
+    "image": "",
+    "emoji": "",
+    "counts": "1"
+  },
+  {
+    "slug": "spirituality",
+    "name": "Spirituality & Religion",
+    "description": "Focused on the world beyond the material and the rational.",
+    "image": "",
+    "emoji": "",
+    "counts": "4"
+  },
+  {
+    "slug": "development",
+    "name": "Development & Growth",
+    "description": "Focused on fostering personal development and growth in emotional, psychological, social and other internal capacities.",
+    "image": "",
+    "emoji": "",
+    "counts": "4"
+  },
+  {
+    "slug": "business",
+    "name": "Business & Work",
+    "description": "Focused on innovating the world of work, including through new methods and approaches to business and organisational mamagement.",
+    "image": "",
+    "emoji": "",
+    "counts": "4"
+  },
+  {
+    "slug": "community",
+    "name": "Community",
+    "description": "Focused on the role of community in human life and the fostering human flourishing, and approaches to building, sustianing and governing communities.",
+    "image": "",
+    "emoji": "",
+    "counts": "19"
+  },
+  {
+    "slug": "arts",
+    "name": "Arts & Culture",
+    "description": "Focused on the role and use of arts and culture in fostering social change.",
+    "image": "",
+    "emoji": "",
+    "counts": "5"
+  },
+  {
+    "slug": "ecology",
+    "name": "Ecology & Environment",
+    "description": "Focused on issues relating to the environment, including climate change but also nature more broadly and human relationships to it.",
+    "image": "",
+    "emoji": "",
+    "counts": "14"
+  },
+  {
+    "slug": "politics",
+    "name": "Politics & Policy",
+    "description": "Focused on engaging with the mainstream politics, creating policies and innovating political processes and systems. ",
+    "image": "",
+    "emoji": "",
+    "counts": "14"
+  },
+  {
+    "slug": "tech",
+    "name": "Technology & Blockchain",
+    "description": "Focused on the use of technological innovation, including blockchain, to foster social change and support new social systems.",
+    "image": "",
+    "emoji": "",
+    "counts": "6"
+  },
+  {
+    "slug": "governance",
+    "name": "Governance & Institutions",
+    "description": "Focused on devising new forms of governance and institutions to support alternative social paradigms. ",
+    "image": "",
+    "emoji": "",
+    "counts": "12"
+  },
+  {
+    "slug": "science",
+    "name": "Science",
+    "description": "Focused on the use of scientific methods and scientific knowledge to support social change and underpin new social paradigms.",
+    "image": "",
+    "emoji": "",
+    "counts": "3"
+  }
+]
