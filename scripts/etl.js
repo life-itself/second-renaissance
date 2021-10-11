@@ -88,14 +88,10 @@ export async function retrieve() {
 }
 
 export async function getMicroLinkInfo() {
-  const file = readFileSync('data/orgs-spreadsheet.csv', 'utf8')
-  const orgSheet = await parseCsvFile(file)
-
-  // console.log(result.data[0])
+  const orgs = getOrganizations()
 
   var results = []
-
-  for(const item of orgSheet.data) {
+  for(const item of orgs) {
     const { status, data } = await mql(item.url,
       {
         screenshot: true,
@@ -105,7 +101,7 @@ export async function getMicroLinkInfo() {
     data.slug = item.slug
     results.push(data)
     console.log(`Done: ${item.slug}`)
-    writeFileSync('../data/orgs-microlink.json', JSON.stringify(results, null, 2))
+    writeFileSync('./data/cache/orgs-microlink.json', JSON.stringify(results, null, 2))
   }
 }
 
