@@ -14,8 +14,11 @@ export default function Layout({ children, title='' }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap" rel="stylesheet" />
+        <link rel="preload" href="/fonts/Restora/Restora.ttf" as="font" crossOrigin="" />
+        <link rel="preload" href="/fonts/Restora/RestoraBold.ttf" as="font" crossOrigin="" />
+        <link rel="preload" href="/fonts/Restora/RestoraExtraLight.otf" as="font" crossOrigin="" />
       </Head>
       <div className="relative bg-yellow-200">
         <div className="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
