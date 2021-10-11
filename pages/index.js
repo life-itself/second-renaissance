@@ -1,13 +1,30 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import { NextSeo } from 'next-seo'
 
 import { getOrganizations } from "../lib/db.js"
+import config from '../config/siteConfig'
 
 
 export default function Home({ orgs }) {
   return (
     <>
+      <NextSeo
+        title={config.title + ' - ' + config.tagline}
+        description={config.description}
+        openGraph={{
+          images: [
+            {
+              url: 'https://lifeitself.us/wp-content/uploads/2021/09/Social_Change_Ecosystem-1980x1211.png',
+              alt: 'State of Sensemaking - Life Itself',
+              width: 1980,
+              height: 1211,
+              type: 'image/png',
+            }
+          ]
+        }}
+      />
       <div className="relative bg-gray-50 overflow-hidden">
         <div className="hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full" aria-hidden="true">
           <div className="relative h-full max-w-7xl mx-auto">
@@ -63,10 +80,10 @@ export default function Home({ orgs }) {
                 <span className="block text-yellow-300 xl:inline">2021</span>
               </h1>
               <h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                An ongoing ecosystem mapping by <a href="https://lifeitself.us/ecosystem/">Life Itself and collaborators</a>. 
+                {config.tagline}
               </h2>
               <p className="mt-3 max-w-md mx-auto text-gray-500 sm:text-lg md:mt-5 med:text-xl md:max-w-3xl">
-                This site is a tool for exploring an emerging ecosystem. We hope that charting it helps it become (more) visible, self-aware, interconnected, resourced and effective. We emphasize our work is preliminary and is limited by both resources and knowledge. We welcome help to improve it. <Link href="/about/"><a className="font-bold underline">Learn more &raquo;</a></Link>
+                {config.description} <Link href="/about/"><a className="font-bold underline">Learn more &raquo;</a></Link>
               </p>
               <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
                 <div className="rounded-md shadow">
