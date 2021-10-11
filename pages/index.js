@@ -63,8 +63,11 @@ export default function Home({ orgs }) {
                 <span className="block text-yellow-300 xl:inline">2021</span>
               </h1>
               <h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-                An ongoing ecosystem mapping by <a href="https://lifeitself.us/ecosystem/">Life Itself and collaborators</a>. <a className="border-b-4" href="/about/">Learn more &raquo;</a>
+                An ongoing ecosystem mapping by <a href="https://lifeitself.us/ecosystem/">Life Itself and collaborators</a>. 
               </h2>
+              <p className="mt-3 max-w-md mx-auto text-gray-500 sm:text-lg md:mt-5 med:text-xl md:max-w-3xl">
+                This site is a tool for exploring an emerging ecosystem. We hope that charting it helps it become (more) visible, self-aware, interconnected, resourced and effective. We emphasize our work is preliminary and is limited by both resources and knowledge. We welcome help to improve it. <Link href="/about/"><a className="font-bold underline">Learn more &raquo;</a></Link>
+              </p>
               <div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
                 <div className="rounded-md shadow">
                   <a
@@ -75,12 +78,13 @@ export default function Home({ orgs }) {
                   </a>
                 </div>
                 <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
-                  <a
-                    href="#"
-                    className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
-                  >
+                  <Link href="/contribute/">
+                    <a
+                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-gray-50 md:py-4 md:text-lg md:px-10"
+                      >
                     Contribute
-                  </a>
+                    </a>
+                  </Link>
                 </div>
               </div>
             </div>
