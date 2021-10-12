@@ -16,7 +16,7 @@ export default function Home({ orgs }) {
         openGraph={{
           images: [
             {
-              url: 'https://lifeitself.us/wp-content/uploads/2021/09/Social_Change_Ecosystem-1980x1211.png',
+              url: 'https://lifeitself.us/wp-content/uploads/2021/10/state-of-sensemaking-home-launch-20211012-1-2048x1077.png',
               alt: 'State of Sensemaking - Life Itself',
               width: 1980,
               height: 1211,
@@ -77,7 +77,7 @@ export default function Home({ orgs }) {
             <div className="text-center">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
                 <span className="block xl:inline">State of Sensemaking</span>{' '}
-                <span className="block text-yellow-300 xl:inline">2021</span>
+                <span className="block text-yellow-300 xl:inline">Directory</span>
               </h1>
               <h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
                 {config.tagline}
