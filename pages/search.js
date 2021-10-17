@@ -91,25 +91,26 @@ const Search = () => {
   return (
     <>
       <section className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
+        <p className="">
+          Profiles found: {sortedOrgs.length}
+        </p>
+
         <input
           type="search"
           name="search"
-          placeholder="Search ..." className="inline"
+          placeholder="Search ..."
+          className="mt-4 w-full md:w-1/2"
           value={searchQuery}
           onChange={(event) => handleSearch(event.target.value)}
         />
 
-        <p className="inline ml-6">
-          Profiles found: {sortedOrgs.length}
-        </p>
-
-        <div className="max-w-7xl mx-auto text-sm mt-4 grid grid-cols-1 auto-rows-min md:grid-cols-4 gap-y-10 md:gap-x-6">
+        <div className="max-w-7xl mx-auto text-sm mt-4 grid grid-cols-1 auto-rows-min md:grid-cols-none gap-y-10 md:gap-x-6">
           {facetResults.map(facet => (
           <fieldset>
             <legend className="block font-medium">{facet.title}</legend>
-            <div className="pt-2 space-y-1">
+            <div className="pt-2 space-y-1 md:space-y-0 md:space-x-4">
               {facet.buckets.map((option, optionIdx) => (
-                <div key={option.id} className="items-center text-base sm:text-sm">
+                <div key={option.id} className="items-center text-base sm:text-sm md:inline-block">
                   <input
                     id={`${facet.name}-${optionIdx}`}
                     name={`${facet.name}`}
@@ -119,7 +120,7 @@ const Search = () => {
                     checked={filterState[facet.name].includes(option.key)}
                     onChange={() => handleFilter([facet.name, option.key])}
                   />
-                  <label htmlFor={`${facet.name}-${optionIdx}`} className="ml-3 min-w-0 flex-1 text-gray-600">
+                  <label htmlFor={`${facet.name}-${optionIdx}`} className="ml-4 md:ml-1 min-w-0 text-gray-600">
                     {option.key} ({option.doc_count})
                   </label>
                 </div>
