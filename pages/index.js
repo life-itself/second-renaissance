@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { NextSeo } from 'next-seo'
 
 import { getOrganizations } from "../lib/db.js"
-import Search from "../components/search.js"
+import Search from "../components/Search.js"
 import config from '../config/siteConfig'
 
 
