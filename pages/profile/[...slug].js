@@ -10,7 +10,7 @@ export default function Page({org}) {
 export const getStaticProps = async ({ params }) => {
   const orgSlug = params['slug'][0]
   const orgs = await getOrganizations()
-  const org = orgs.filter(org => org.slug == orgSlug)[0]
+  const org = orgs.filter(org => org.id == orgSlug)[0]
   return {
     props: {
       org: org
@@ -20,7 +20,7 @@ export const getStaticProps = async ({ params }) => {
 
 export const getStaticPaths = async () => {
   const orgs = await getOrganizations()
-  var paths = orgs.map((org) => org.slug)
+  var paths = orgs.map((org) => org.id)
 
   // Map the path into the static paths object required by Next.js
   paths = paths.map((slug) => {

@@ -3,7 +3,7 @@ export default function OrgList({ orgs }) {
   return (
     <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
       {orgs.map((org) => (
-        <div key={org.slug} className="group relative">
+        <div key={org.id} className="group relative">
           <div className="w-full min-h-80 bg-beige aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
             <img
               src={org.image.url}
@@ -15,7 +15,7 @@ export default function OrgList({ orgs }) {
             <div>
             <a className="extra-small exception font-medium tracking-wide text-accent uppercase">{org.category}</a>
               <h3 className="text-base font-medium hover:underline text-semiblack">
-                <a href={'/profile/' + org.slug}>
+                <a href={'/profile/' + org.id}>
                   <span aria-hidden="true" className="absolute inset-0" />
                   {org.name}
                 </a>

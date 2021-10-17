@@ -26,7 +26,7 @@ test('transform org does what it should', () => {
 
 const lifeItself = {
   "name": "Life Itself",
-  "slug": "life-itself",
+  "id": "life-itself",
   "rd_1_focus": "YY",
   "ch_focus": "",
   "focus_notes": "",
@@ -58,7 +58,7 @@ const lifeItself = {
 
 const lifeItselfTidied = {
   "name": "Life Itself",
-  "slug": "life-itself",
+  "id": "life-itself",
   "rd_1_focus": "YY",
   "ch_focus": "",
   "focus_notes": "",

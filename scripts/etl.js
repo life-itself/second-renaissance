@@ -98,9 +98,9 @@ export async function getMicroLinkInfo() {
         // fullPage: true
       }
     )
-    data.slug = item.slug
+    data.id = item.id
     results.push(data)
-    console.log(`Done: ${item.slug}`)
+    console.log(`Done: ${item.id}`)
     writeFileSync('./data/cache/orgs-microlink.json', JSON.stringify(results, null, 2))
   }
 }

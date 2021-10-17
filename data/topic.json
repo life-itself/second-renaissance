@@ -1,90 +1,79 @@
 [
   {
-    "slug": "wellbeing",
+    "id": "wellbeing",
     "name": "Wellbeing & Health",
-    "description": "Focused on improving quality of life through affecting the physical, psychological, environmental and social determinants of health and wellbeing.",
+    "description": "Improving quality of life through affecting the physical, psychological, environmental and social determinants of health and wellbeing.",
     "image": "",
-    "emoji": "",
-    "counts": "1"
+    "emoji": ""
   },
   {
-    "slug": "spirituality",
+    "id": "spirituality",
     "name": "Spirituality & Religion",
-    "description": "Focused on the world beyond the material and the rational.",
-    "image": "",
-    "emoji": "",
-    "counts": "4"
+    "description": "World beyond the material and the rational.",
+    "image": "https://images.unsplash.com/photo-1530368333607-c100785945b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYyOTMwMzUzMQ&ixlib=rb-1.2.1&q=80&w=1080",
+    "emoji": ""
   },
   {
-    "slug": "development",
+    "id": "development",
     "name": "Development & Growth",
-    "description": "Focused on fostering personal development and growth in emotional, psychological, social and other internal capacities.",
+    "description": "Fostering personal development and growth in emotional, psychological, social and other internal capacities.",
     "image": "",
-    "emoji": "",
-    "counts": "4"
+    "emoji": ""
   },
   {
-    "slug": "business",
+    "id": "business",
     "name": "Business & Work",
-    "description": "Focused on innovating the world of work, including through new methods and approaches to business and organisational mamagement.",
+    "description": "Innovating the world of work, including through new methods and approaches to business and organisational mamagement.",
     "image": "",
-    "emoji": "",
-    "counts": "4"
+    "emoji": ""
   },
   {
-    "slug": "community",
+    "id": "community",
     "name": "Community",
-    "description": "Focused on the role of community in human life and the fostering human flourishing, and approaches to building, sustianing and governing communities.",
+    "description": "Role of community in human life and the fostering human flourishing, and approaches to building, sustianing and governing communities.",
     "image": "",
-    "emoji": "",
-    "counts": "19"
+    "emoji": ""
   },
   {
-    "slug": "arts",
+    "id": "arts",
     "name": "Arts & Culture",
-    "description": "Focused on the role and use of arts and culture in fostering social change.",
+    "description": "Role and use of arts and culture in fostering social change.",
     "image": "",
-    "emoji": "",
-    "counts": "5"
+    "emoji": ""
   },
   {
-    "slug": "ecology",
+    "id": "ecology",
     "name": "Ecology & Environment",
-    "description": "Focused on issues relating to the environment, including climate change but also nature more broadly and human relationships to it.",
+    "description": "Issues relating to the environment, including climate change but also nature more broadly and human relationships to it.",
     "image": "",
-    "emoji": "",
-    "counts": "14"
+    "emoji": ""
   },
   {
-    "slug": "politics",
+    "id": "politics",
     "name": "Politics & Policy",
-    "description": "Focused on engaging with the mainstream politics, creating policies and innovating political processes and systems. ",
+    "description": "Engaging with the mainstream politics, creating policies and innovating political processes and systems. ",
     "image": "",
-    "emoji": "",
-    "counts": "14"
+    "emoji": ""
   },
   {
-    "slug": "tech",
+    "id": "tech",
     "name": "Technology & Blockchain",
-    "description": "Focused on the use of technological innovation, including blockchain, to foster social change and support new social systems.",
+    "description": "Use of technological innovation, including blockchain, to foster social change and support new social systems.",
     "image": "",
-    "emoji": "",
-    "counts": "6"
+    "emoji": ""
   },
   {
-    "slug": "governance",
+    "id": "governance",
     "name": "Governance & Institutions",
-    "description": "Focused on devising new forms of governance and institutions to support alternative social paradigms. ",
+    "description": "Devising new forms of governance and institutions to support alternative social paradigms. ",
     "image": "",
-    "emoji": "",
-    "counts": "12"
+    "emoji": ""
   },
   {
-    "slug": "science",
+    "id": "science",
     "name": "Science",
-    "description": "Focused on the use of scientific methods and scientific knowledge to support social change and underpin new social paradigms.",
+    "description": "Use of scientific methods and scientific knowledge to support social change and underpin new social paradigms.",
     "image": "",
-    "emoji": "",
-    "counts": "3"
+    "emoji": ""
   }
 ]

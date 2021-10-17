@@ -1,7 +1,7 @@
 [
   {
     "name": "Life Itself",
-    "slug": "life-itself",
+    "id": "life-itself",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Dark Matter Labs",
-    "slug": "dark-matter-labs",
+    "id": "dark-matter-labs",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Dark Mountain",
-    "slug": "dark-mountain",
+    "id": "dark-mountain",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -151,7 +151,7 @@
   },
   {
     "name": "Ekskäret",
-    "slug": "ekskaret",
+    "id": "ekskaret",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -196,7 +196,7 @@
   },
   {
     "name": "Emerge",
-    "slug": "emerge",
+    "id": "emerge",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -246,7 +246,7 @@
   },
   {
     "name": "Enspiral",
-    "slug": "enspiral",
+    "id": "enspiral",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -293,7 +293,7 @@
   },
   {
     "name": "Findhorn Foundation",
-    "slug": "findhorn-foundation",
+    "id": "findhorn-foundation",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -339,7 +339,7 @@
   },
   {
     "name": "Larger Us",
-    "slug": "larger-us",
+    "id": "larger-us",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -384,7 +384,7 @@
   },
   {
     "name": "Metamoderna",
-    "slug": "metamoderna",
+    "id": "metamoderna",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -430,7 +430,7 @@
   },
   {
     "name": "Mind and Life",
-    "slug": "mind-and-life",
+    "id": "mind-and-life",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -475,7 +475,7 @@
   },
   {
     "name": "Mind and Life Europe",
-    "slug": "mind-and-life-europe",
+    "id": "mind-and-life-europe",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -520,7 +520,7 @@
   },
   {
     "name": "Newspeak House",
-    "slug": "newspeak-house",
+    "id": "newspeak-house",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -564,7 +564,7 @@
   },
   {
     "name": "One Project",
-    "slug": "one-project",
+    "id": "one-project",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -613,7 +613,7 @@
   },
   {
     "name": "Perspectiva",
-    "slug": "perspectiva",
+    "id": "perspectiva",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -663,7 +663,7 @@
   },
   {
     "name": "Presencing Institute",
-    "slug": "presencing-institute",
+    "id": "presencing-institute",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -708,7 +708,7 @@
   },
   {
     "name": "Rebel Wisdom",
-    "slug": "rebel-wisdom",
+    "id": "rebel-wisdom",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -755,7 +755,7 @@
   },
   {
     "name": "Schumacher College",
-    "slug": "schumacher-college",
+    "id": "schumacher-college",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -801,7 +801,7 @@
   },
   {
     "name": "The Alternative UK",
-    "slug": "the-alternative-uk",
+    "id": "the-alternative-uk",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -846,7 +846,7 @@
   },
   {
     "name": "The International Bateson Institute",
-    "slug": "the-international-bateson-institute",
+    "id": "the-international-bateson-institute",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -893,7 +893,7 @@
   },
   {
     "name": "The Mindfulness Initiative",
-    "slug": "the-mindfulness-initiative",
+    "id": "the-mindfulness-initiative",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -938,7 +938,7 @@
   },
   {
     "name": "Transition Network",
-    "slug": "transition-network",
+    "id": "transition-network",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -986,7 +986,7 @@
   },
   {
     "name": "New Economics Foundation",
-    "slug": "new-economics-foundation",
+    "id": "new-economics-foundation",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -1026,7 +1026,7 @@
   },
   {
     "name": "42 Acres",
-    "slug": "42-acres",
+    "id": "42-acres",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -1065,7 +1065,7 @@
   },
   {
     "name": "Advaya Initiative",
-    "slug": "advaya-initiative",
+    "id": "advaya-initiative",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -1082,7 +1082,7 @@
     "tagline": "",
     "activity orig": "Retreat Organisation, Events, Media",
     "activity": [
-      "Media",
+      "Media & Publishing",
       "Events & Retreats"
     ],
     "topic": [
@@ -1110,7 +1110,7 @@
   },
   {
     "name": "Authentic Revolution",
-    "slug": "authentic-revolution",
+    "id": "authentic-revolution",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -1147,7 +1147,7 @@
   },
   {
     "name": "Building Belonging",
-    "slug": "building-belonging",
+    "id": "building-belonging",
     "rd_1_focus": "?",
     "ch_focus": "?",
     "focus_notes": "- not clear what they really do?  ...",
@@ -1183,7 +1183,7 @@
   },
   {
     "name": "Centre for Applied Cultural Evolution",
-    "slug": "centre-for-applied-cultural-evolution",
+    "id": "centre-for-applied-cultural-evolution",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -1199,10 +1199,13 @@
     "description": "The Center for Applied Cultural Evolution has the mission to apply insights from cultural evolutionary studies to pressing social problems affecting human communities around the world. \n\nWe provide a bridge between researchers who study cultural change from diverse disciplinary backgrounds and practitioners seeking to guide the evolution of their communities to address chronic problems that impact the people living within them. \n\nIn simple terms, you can think of the Center for Applied Cultural Evolution as a gathering place for scholars and practitioners to set up field sites for applied cultural evolution research that support change makers as they go about their work of making the world a better place.",
     "tagline": "",
     "activity orig": "Research",
-    "activity": [],
+    "activity": [
+      "Research & Policy",
+      "Events & Retreats"
+    ],
     "topic": [
-      "Ecology & Environment",
-      "Health & Well-being"
+      "Community",
+      "Science"
     ],
     "regions": "South America",
     "locations": [
@@ -1225,7 +1228,7 @@
   },
   {
     "name": "Co.Creation Loft",
-    "slug": "co.creation-loft",
+    "id": "co.creation-loft",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -1268,7 +1271,7 @@
   },
   {
     "name": "Conscious Evolution",
-    "slug": "conscious-evolution",
+    "id": "conscious-evolution",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -1310,7 +1313,7 @@
   },
   {
     "name": "CTRL Shift",
-    "slug": "ctrl-shift",
+    "id": "ctrl-shift",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -1349,7 +1352,7 @@
   },
   {
     "name": "Cultural Catalyst Network",
-    "slug": "cultural-catalyst-network",
+    "id": "cultural-catalyst-network",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -1392,7 +1395,7 @@
   },
   {
     "name": "Culture Declares",
-    "slug": "culture-declares",
+    "id": "culture-declares",
     "rd_1_focus": "",
     "ch_focus": "?",
     "focus_notes": "Not doing anything in their own right",
@@ -1431,7 +1434,7 @@
   },
   {
     "name": "Daily Evolver",
-    "slug": "daily-evolver",
+    "id": "daily-evolver",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -1474,7 +1477,7 @@
   },
   {
     "name": "Damanhur",
-    "slug": "damanhur",
+    "id": "damanhur",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -1517,7 +1520,7 @@
   },
   {
     "name": "Dharma Action Network",
-    "slug": "dharma-action-network",
+    "id": "dharma-action-network",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -1562,7 +1565,7 @@
   },
   {
     "name": "EcoDharma",
-    "slug": "ecodharma",
+    "id": "ecodharma",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -1605,7 +1608,7 @@
   },
   {
     "name": "Ecotechnics",
-    "slug": "ecotechnics",
+    "id": "ecotechnics",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -1644,7 +1647,7 @@
   },
   {
     "name": "Embassy Network",
-    "slug": "embassy-network",
+    "id": "embassy-network",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -1683,7 +1686,7 @@
   },
   {
     "name": "Embercombe",
-    "slug": "embercombe",
+    "id": "embercombe",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -1728,7 +1731,7 @@
   },
   {
     "name": "Emergence Magazine",
-    "slug": "emergence-magazine",
+    "id": "emergence-magazine",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -1765,7 +1768,7 @@
   },
   {
     "name": "Esalen",
-    "slug": "esalen",
+    "id": "esalen",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -1811,7 +1814,7 @@
   },
   {
     "name": "Extinction Rebellion",
-    "slug": "extinction-rebellion",
+    "id": "extinction-rebellion",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -1858,7 +1861,7 @@
   },
   {
     "name": "For The Wild Podcast",
-    "slug": "for-the-wild-podcast",
+    "id": "for-the-wild-podcast",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -1901,7 +1904,7 @@
   },
   {
     "name": "Future Thinkers",
-    "slug": "future-thinkers",
+    "id": "future-thinkers",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -1946,7 +1949,7 @@
   },
   {
     "name": "Gaia House",
-    "slug": "gaia-house",
+    "id": "gaia-house",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -1993,7 +1996,7 @@
   },
   {
     "name": "GameB",
-    "slug": "gameb",
+    "id": "gameb",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -2039,7 +2042,7 @@
   },
   {
     "name": "Heart Politics",
-    "slug": "heart-politics",
+    "id": "heart-politics",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -2073,7 +2076,7 @@
   },
   {
     "name": "HOME",
-    "slug": "home",
+    "id": "home",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2119,7 +2122,7 @@
   },
   {
     "name": "Impact Theory",
-    "slug": "impact-theory",
+    "id": "impact-theory",
     "rd_1_focus": "",
     "ch_focus": "?",
     "focus_notes": "it's a weekly TV show about how people because successful/high achievers",
@@ -2155,7 +2158,7 @@
   },
   {
     "name": "Integral Life",
-    "slug": "integral-life",
+    "id": "integral-life",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -2198,7 +2201,7 @@
   },
   {
     "name": "Integral Zen",
-    "slug": "integral-zen",
+    "id": "integral-zen",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2245,7 +2248,7 @@
   },
   {
     "name": "K9 Coliving",
-    "slug": "k9-coliving",
+    "id": "k9-coliving",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -2283,7 +2286,7 @@
   },
   {
     "name": "Landmark",
-    "slug": "landmark",
+    "id": "landmark",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -2325,7 +2328,7 @@
   },
   {
     "name": "Liminal Learning Portal",
-    "slug": "liminal-learning-portal",
+    "id": "liminal-learning-portal",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2368,7 +2371,7 @@
   },
   {
     "name": "Liminal Village",
-    "slug": "liminal-village",
+    "id": "liminal-village",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2411,7 +2414,7 @@
   },
   {
     "name": "Microsolidarity",
-    "slug": "microsolidarity",
+    "id": "microsolidarity",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2454,7 +2457,7 @@
   },
   {
     "name": "Mindfulness for Change",
-    "slug": "mindfulness-for-change",
+    "id": "mindfulness-for-change",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2498,7 +2501,7 @@
   },
   {
     "name": "Mindvalley",
-    "slug": "mindvalley",
+    "id": "mindvalley",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2541,7 +2544,7 @@
   },
   {
     "name": "Monastic Academy",
-    "slug": "monastic-academy",
+    "id": "monastic-academy",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2586,7 +2589,7 @@
   },
   {
     "name": "On Being",
-    "slug": "on-being",
+    "id": "on-being",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2631,7 +2634,7 @@
   },
   {
     "name": "OuiShare",
-    "slug": "ouishare",
+    "id": "ouishare",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2677,7 +2680,7 @@
   },
   {
     "name": "Path Retreats",
-    "slug": "path-retreats",
+    "id": "path-retreats",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -2722,7 +2725,7 @@
   },
   {
     "name": "Plum Village",
-    "slug": "plum-village",
+    "id": "plum-village",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -2770,7 +2773,7 @@
   },
   {
     "name": "Purpose",
-    "slug": "purpose",
+    "id": "purpose",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -2806,7 +2809,7 @@
   },
   {
     "name": "Rat Park",
-    "slug": "rat-park",
+    "id": "rat-park",
     "rd_1_focus": "NN",
     "ch_focus": "",
     "focus_notes": "",
@@ -2842,7 +2845,7 @@
   },
   {
     "name": "Resurgence and Ecologist",
-    "slug": "resurgence-and-ecologist",
+    "id": "resurgence-and-ecologist",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -2887,7 +2890,7 @@
   },
   {
     "name": "RSA",
-    "slug": "rsa",
+    "id": "rsa",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -2930,7 +2933,7 @@
   },
   {
     "name": "Scuttlebutt",
-    "slug": "scuttlebutt",
+    "id": "scuttlebutt",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -2966,7 +2969,7 @@
   },
   {
     "name": "St Ethelburgas",
-    "slug": "st-ethelburgas",
+    "id": "st-ethelburgas",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -3005,7 +3008,7 @@
   },
   {
     "name": "Anthroposophy",
-    "slug": "anthroposophy",
+    "id": "anthroposophy",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -3052,7 +3055,7 @@
   },
   {
     "name": "Team Human",
-    "slug": "team-human",
+    "id": "team-human",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -3097,7 +3100,7 @@
   },
   {
     "name": "Terran Collective",
-    "slug": "terran-collective",
+    "id": "terran-collective",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -3144,7 +3147,7 @@
   },
   {
     "name": "The Emergence Network",
-    "slug": "the-emergence-network",
+    "id": "the-emergence-network",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -3189,7 +3192,7 @@
   },
   {
     "name": "The Future is Beautiful",
-    "slug": "the-future-is-beautiful",
+    "id": "the-future-is-beautiful",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -3232,44 +3235,8 @@
     }
   },
   {
-    "name": "The Hum",
-    "slug": "the-hum",
-    "rd_1_focus": "NN",
-    "ch_focus": "",
-    "focus_notes": "",
-    "info_status": "",
-    "url": "https://www.thehum.org/",
-    "logo": {
-      "url": "",
-      "cached": ""
-    },
-    "image_homepage": {
-      "url": ""
-    },
-    "description": "",
-    "tagline": "",
-    "activity orig": "Training, Courses",
-    "activity": [],
-    "topic": [],
-    "regions": "",
-    "locations": [],
-    "started": "",
-    "ended": "",
-    "active": "",
-    "people": [
-      "Richard D Bartlett"
-    ],
-    "notes_data_entry": "",
-    "twitter": "",
-    "instagram": "",
-    "facebook": "",
-    "image": {
-      "url": ""
-    }
-  },
-  {
     "name": "The Mindfulness Project",
-    "slug": "the-mindfulness-project",
+    "id": "the-mindfulness-project",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -3312,7 +3279,7 @@
   },
   {
     "name": "The Re.Generation",
-    "slug": "the-re.generation",
+    "id": "the-re.generation",
     "rd_1_focus": "",
     "ch_focus": "Y",
     "focus_notes": "",
@@ -3360,7 +3327,7 @@
   },
   {
     "name": "The School of Life",
-    "slug": "the-school-of-life",
+    "id": "the-school-of-life",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3397,7 +3364,7 @@
   },
   {
     "name": "The Tyringham Initiative",
-    "slug": "the-tyringham-initiative",
+    "id": "the-tyringham-initiative",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3438,7 +3405,7 @@
   },
   {
     "name": "The Wellbeing Project",
-    "slug": "the-wellbeing-project",
+    "id": "the-wellbeing-project",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3475,7 +3442,7 @@
   },
   {
     "name": "This Is Not The Truth",
-    "slug": "this-is-not-the-truth",
+    "id": "this-is-not-the-truth",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3514,7 +3481,7 @@
   },
   {
     "name": "Triratna (Buddhafield)",
-    "slug": "triratna-(buddhafield)",
+    "id": "triratna-(buddhafield)",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -3553,7 +3520,7 @@
   },
   {
     "name": "Ulex Project",
-    "slug": "ulex-project",
+    "id": "ulex-project",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3590,7 +3557,7 @@
   },
   {
     "name": "WakeUp",
-    "slug": "wakeup",
+    "id": "wakeup",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3630,7 +3597,7 @@
   },
   {
     "name": "Wisdom 2.0",
-    "slug": "wisdom-2.0",
+    "id": "wisdom-2.0",
     "rd_1_focus": "Y",
     "ch_focus": "",
     "focus_notes": "",
@@ -3667,7 +3634,7 @@
   },
   {
     "name": "Wisdom Hackers",
-    "slug": "wisdom-hackers",
+    "id": "wisdom-hackers",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "inactive ~rufus",
@@ -3701,7 +3668,7 @@
   },
   {
     "name": "World Future Council",
-    "slug": "world-future-council",
+    "id": "world-future-council",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3740,7 +3707,7 @@
   },
   {
     "name": "Under the Skin Podcast",
-    "slug": "under-the-skin-podcast",
+    "id": "under-the-skin-podcast",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3777,7 +3744,7 @@
   },
   {
     "name": "Joe Rogan Experience Podcast",
-    "slug": "joe-rogan-experience-podcast",
+    "id": "joe-rogan-experience-podcast",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -3813,7 +3780,7 @@
   },
   {
     "name": "Consciousness Hacking",
-    "slug": "consciousness-hacking",
+    "id": "consciousness-hacking",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3850,7 +3817,7 @@
   },
   {
     "name": "The Quadrangle",
-    "slug": "the-quadrangle",
+    "id": "the-quadrangle",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3886,7 +3853,7 @@
   },
   {
     "name": "The Psychedelic Society",
-    "slug": "the-psychedelic-society",
+    "id": "the-psychedelic-society",
     "rd_1_focus": "YY",
     "ch_focus": "",
     "focus_notes": "",
@@ -3923,7 +3890,7 @@
   },
   {
     "name": "Buddhafield",
-    "slug": "buddhafield",
+    "id": "buddhafield",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -3960,7 +3927,7 @@
   },
   {
     "name": "Nesta",
-    "slug": "nesta",
+    "id": "nesta",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -3997,7 +3964,7 @@
   },
   {
     "name": "Impact Hub",
-    "slug": "impact-hub",
+    "id": "impact-hub",
     "rd_1_focus": "N",
     "ch_focus": "",
     "focus_notes": "",
@@ -4034,7 +4001,7 @@
   },
   {
     "name": "Centre for the Understanding of Sustainable Prosperity",
-    "slug": "centre-for-the-understanding-of-sustainable-prosperity",
+    "id": "centre-for-the-understanding-of-sustainable-prosperity",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4071,7 +4038,7 @@
   },
   {
     "name": "Burning Man",
-    "slug": "burning-man",
+    "id": "burning-man",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4105,7 +4072,7 @@
   },
   {
     "name": "Theos Think Tank",
-    "slug": "theos-think-tank",
+    "id": "theos-think-tank",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4142,7 +4109,7 @@
   },
   {
     "name": "Sounds True",
-    "slug": "sounds-true",
+    "id": "sounds-true",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4178,7 +4145,7 @@
   },
   {
     "name": "Alternatives UK",
-    "slug": "alternatives-uk",
+    "id": "alternatives-uk",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4215,7 +4182,7 @@
   },
   {
     "name": "Waking up with Sam Harris",
-    "slug": "waking-up-with-sam-harris",
+    "id": "waking-up-with-sam-harris",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4252,7 +4219,7 @@
   },
   {
     "name": "Science and Nonduality (SAND)",
-    "slug": "science-and-nonduality",
+    "id": "science-and-nonduality",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4289,7 +4256,7 @@
   },
   {
     "name": "Evidence-based wisdom",
-    "slug": "evidence-based-wisdom",
+    "id": "evidence-based-wisdom",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4326,7 +4293,7 @@
   },
   {
     "name": "How The Light Gets In",
-    "slug": "how-the-light-gets-in",
+    "id": "how-the-light-gets-in",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4363,7 +4330,7 @@
   },
   {
     "name": "Raising Free People Network",
-    "slug": "raising-free-people-network",
+    "id": "raising-free-people-network",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4398,7 +4365,7 @@
   },
   {
     "name": "Reasons to be cheerful",
-    "slug": "reasons-to-be-cheerful",
+    "id": "reasons-to-be-cheerful",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4435,7 +4402,7 @@
   },
   {
     "name": "Aeon Magazine",
-    "slug": "aeon-magazine",
+    "id": "aeon-magazine",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4474,7 +4441,7 @@
   },
   {
     "name": "The fourth group",
-    "slug": "the-fourth-group",
+    "id": "the-fourth-group",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4511,7 +4478,7 @@
   },
   {
     "name": "Global Conscious Movement",
-    "slug": "global-conscious-movement",
+    "id": "global-conscious-movement",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4548,7 +4515,7 @@
   },
   {
     "name": "Sunday Assembly",
-    "slug": "sunday-assembly",
+    "id": "sunday-assembly",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4585,7 +4552,7 @@
   },
   {
     "name": "Global Witness",
-    "slug": "global-witness",
+    "id": "global-witness",
     "rd_1_focus": "NN",
     "ch_focus": "",
     "focus_notes": "",
@@ -4622,7 +4589,7 @@
   },
   {
     "name": "Do One Better Podcast",
-    "slug": "do-one-better-podcast",
+    "id": "do-one-better-podcast",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4661,7 +4628,7 @@
   },
   {
     "name": "Gift of Compassion",
-    "slug": "gift-of-compassion",
+    "id": "gift-of-compassion",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4700,7 +4667,7 @@
   },
   {
     "name": "Alter Ego",
-    "slug": "alter-ego",
+    "id": "alter-ego",
     "rd_1_focus": "?",
     "ch_focus": "",
     "focus_notes": "",
@@ -4739,7 +4706,7 @@
   },
   {
     "name": "Institute of Noetic Sciences",
-    "slug": "institute-of-noetic-sciences",
+    "id": "institute-of-noetic-sciences",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4774,7 +4741,7 @@
   },
   {
     "name": "Commonweal",
-    "slug": "commonweal",
+    "id": "commonweal",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",
@@ -4809,7 +4776,7 @@
   },
   {
     "name": "Brave Earth",
-    "slug": "brave-earth",
+    "id": "brave-earth",
     "rd_1_focus": "",
     "ch_focus": "",
     "focus_notes": "",

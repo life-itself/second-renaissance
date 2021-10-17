@@ -9,7 +9,7 @@ export default function Page({topic}) {
 
 export const getStaticProps = async ({ params }) => {
   const topicSlug = params['slug'][0]
-  const topic = topics.filter(topic => topic.slug == topicSlug)[0]
+  const topic = topics.filter(topic => topic.id == topicSlug)[0]
   return {
     props: {
       topic: topic
@@ -18,7 +18,7 @@ export const getStaticProps = async ({ params }) => {
 }
 
 export const getStaticPaths = async () => {
-  var paths = topics.map((topic) => topic.slug)
+  var paths = topics.map((topic) => topic.id)
 
   // Map the path into the static paths object required by Next.js
   paths = paths.map((slug) => {
