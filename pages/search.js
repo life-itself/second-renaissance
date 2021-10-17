@@ -9,13 +9,6 @@ import OrgList from '../components/OrgList.js'
 
 
 const Search = () => {
-  const [searchQuery, setSearchQuery] = useState('')
-
-  const handleSearch = (searchQuery) => {
-    setSearchQuery(searchQuery)
-  }
-
-
   const facets = [
     {
       id: 'topic',
@@ -26,6 +19,29 @@ const Search = () => {
       name: 'Activity'
     }
   ]
+  const defaultFilterState = {}
+  facets.forEach(f => {
+    defaultFilterState[f.id] = []
+  })
+
+  const [searchQuery, setSearchQuery] = useState('')
+  // filterState = { topic: ['Value1', 'Value2'], activity: ['ValueX', 'ValueY'] }
+  const [filterState, setFilterState] = useState(defaultFilterState)
+
+  const handleSearch = (searchQuery) => {
+    setSearchQuery(searchQuery)
+  }
+
+  const handleFilter = (info) => {
+    let [facet, item] = info
+    let newFilterState = Object.assign({}, filterState)
+    if(newFilterState[facet].includes(item)) {
+      newFilterState[facet] = newFilterState[facet].filter(x => x != item)
+    } else {
+      newFilterState[facet].push(item)
+    }
+    setFilterState(newFilterState)
+  }
 
   const searchIndex = new Fuse(orgs, {
     includeScore: true,
@@ -61,13 +77,16 @@ const Search = () => {
   }
 
   const searchResults2 = itemsjs.search({
-    per_page: 100,
-    ids: sortedOrgs.map(v => v.id)
+    per_page: 20000, // set to a number larger than any possible total so we have all
+    ids: sortedOrgs.map(v => v.id),
+    filters: filterState,
   })
 
   const facetResults = Object.entries(searchResults2.data.aggregations).map(item => {
     return item[1]
   })
+
+  sortedOrgs = searchResults2.data.items
 
   return (
     <>
@@ -75,8 +94,7 @@ const Search = () => {
         <input
           type="search"
           name="search"
-          placeholder="Search ..."
-          className="inline"
+          placeholder="Search ..." className="inline"
           value={searchQuery}
           onChange={(event) => handleSearch(event.target.value)}
         />
@@ -85,31 +103,30 @@ const Search = () => {
           Profiles found: {sortedOrgs.length}
         </p>
 
-        <div className="max-w-7xl mx-auto grid grid-cols-2 text-sm mt-4">
-          <div className="grid grid-cols-1 gap-y-10 auto-rows-min md:grid-cols-2 md:gap-x-6">
-            {facetResults.map(facet => (
-            <fieldset>
-              <legend className="block font-medium">{facet.title}</legend>
-              <div className="pt-2 space-y-1">
-                {facet.buckets.map((option, optionIdx) => (
-                  <div key={option.id} className="flex items-center text-base sm:text-sm">
-                    <input
-                      id={`${facet.name}-${optionIdx}`}
-                      name="${facet.name}[]"
-                      defaultValue={option.key}
-                      type="checkbox"
-                      className="flex-shrink-0 h-4 w-4 border-gray-300 rounded text-yellow-600 focus:ring-yellow-500"
-                      defaultChecked={option.checked}
-                    />
-                    <label htmlFor={`${facet.name}-${optionIdx}`} className="ml-3 min-w-0 flex-1 text-gray-600">
-                      {option.key} ({option.doc_count})
-                    </label>
-                  </div>
-                ))}
-              </div>
-            </fieldset>
-            ))}
-          </div>
+        <div className="max-w-7xl mx-auto text-sm mt-4 grid grid-cols-1 auto-rows-min md:grid-cols-4 gap-y-10 md:gap-x-6">
+          {facetResults.map(facet => (
+          <fieldset>
+            <legend className="block font-medium">{facet.title}</legend>
+            <div className="pt-2 space-y-1">
+              {facet.buckets.map((option, optionIdx) => (
+                <div key={option.id} className="items-center text-base sm:text-sm">
+                  <input
+                    id={`${facet.name}-${optionIdx}`}
+                    name={`${facet.name}`}
+                    defaultValue={option.key}
+                    type="checkbox"
+                    className="flex-shrink-0 h-4 w-4 border-gray-300 rounded text-yellow-600 focus:ring-yellow-500"
+                    checked={filterState[facet.name].includes(option.key)}
+                    onChange={() => handleFilter([facet.name, option.key])}
+                  />
+                  <label htmlFor={`${facet.name}-${optionIdx}`} className="ml-3 min-w-0 flex-1 text-gray-600">
+                    {option.key} ({option.doc_count})
+                  </label>
+                </div>
+              ))}
+            </div>
+          </fieldset>
+          ))}
         </div>
 
         <OrgList orgs={sortedOrgs} />
