@@ -1,6 +1,8 @@
 # About
 
-This site is one output from our ongoing efforts to map an emerging ecosystem. The ecosystem is still emerging and ill-defined. Reflecting this there is no clear name for it and we have settled for now on the title "state of sensemaking".
+This site is one output from [our ongoing efforts to map an emerging ecosystem][ecosystem]. The ecosystem is still emerging and ill-defined. Reflecting this there is no clear name for it and we have settled for now on the title "state of sensemaking".
+
+[ecosystem]: https://lifeitself.us/ecosystem/
 
 We emphasize our work here is clearly highly preliminary and is limited by both resources and our own knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](/contact/) and [contributions](/contribute/) to correct and improve it.
 
@@ -12,7 +14,7 @@ Beyond this thematic overlap we have identified four major areas of activity: _p
 
 [Browse the full list of profiles](/#profiles) to find out more about selected organisations in the ecosystem.
 
-## Context: the Larger Project
+## Context: [the Larger Ecosystem Mapping Project][ecosystem]
 
 *Mapping the ecosystem so that it becomes (more) self-aware, interconnected, resourced and effective.*
 
