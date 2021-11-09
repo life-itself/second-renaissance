@@ -26,7 +26,7 @@ Finally, there is purpose beyond simply exploration: understanding can lead to s
 
 ### What
 
-This project seeks to map the emerging ecosystem around social change for a new paradigm. We're seeking to provide an overview of the organisaitons in the space and better understand what they focus on, by what means, and what ties them together. We hope from this we can start to give a more coherent shape, name and set of key terms to the space.
+This project seeks to map the emerging ecosystem around social change for a new paradigm. We're seeking to provide an overview of the organisations in the space and better understand what they focus on, by what means, and what ties them together. We hope from this we can start to give a more coherent shape, name and set of key terms to the space.
 
 ### Why
 
@@ -36,10 +36,10 @@ We also hope that, by helping to create a more coherent identity for this ecosys
 
 ### How
 
-We are undertaking research to gather information on organisations, communities and individuals that are potentially part of this ecosystem -- as well as the connection to nearby spaces. The first stage of the project involves the creation of a repository, outlining the types and areas of focus of these organisaitons. Over time we will conduct more in depth analysis to map the ecosystem and chart how actors relate to one another across a number of dimensions.
+We are undertaking research to gather information on organisations, communities and individuals that are potentially part of this ecosystem -- as well as the connection to nearby spaces. The first stage of the project involves the creation of a repository, outlining the types and areas of focus of these organisations. Over time we will conduct more in depth analysis to map the ecosystem and chart how actors relate to one another across a number of dimensions.
 
 ## Disclaimer
 
 We emphasize our work here is clearly preliminary and is limited by both our resources and knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](/contact/) and [contributions](/contribute/) to correct and improve it.
 
-Specifically, we are doing our best to give as accurate a representation of each organisation we have listed. However, like everyone we make mistakes. If you believe the listing for your organisaiton should be changed then please contact us via the [contribute page](/contribute/) and we'll correct it as soon as possible.
+Specifically, we are doing our best to give as accurate a representation of each organisation we have listed. However, like everyone we make mistakes. If you believe the listing for your organisation should be changed then please contact us via the [contribute page](/contribute/) and we'll correct it as soon as possible.
