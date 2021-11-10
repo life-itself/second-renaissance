@@ -2,13 +2,12 @@ import React, { useState } from 'react'
 import Fuse from 'fuse.js'
 import ItemsJS from 'itemsjs'
 
-import orgs from '../data/organization.json'
 import topics from '../data/topic.json'
 import activitys from '../data/activity.json'
 import OrgList from '../components/OrgList.js'
 
 
-export default function Search() {
+export default function Search({ orgs }) {
   const facets = [
     {
       id: 'topic',
