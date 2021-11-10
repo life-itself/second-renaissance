@@ -1,4 +1,5 @@
 import Search from "../components/Search.js"
+import { getOrganizations } from "../lib/db.js"
 
 export default function Page({ orgs }) {
   return (
