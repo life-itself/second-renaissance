@@ -20,6 +20,11 @@ export default function Page({org}) {
             }
           ]
         }}
+        twitter={{
+          handle: '@handle',
+          site: '@site',
+          cardType: 'summary_large_image',
+        }}
       />
       <Organization org={org} />
     </>

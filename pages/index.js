@@ -25,6 +25,11 @@ export default function Home({ orgs }) {
             }
           ]
         }}
+        twitter={{
+          handle: '@handle',
+          site: '@site',
+          cardType: 'summary_large_image',
+        }}
       />
       <div className="relative bg-gray-50 overflow-hidden">
         <div className="hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full" aria-hidden="true">
