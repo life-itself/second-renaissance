@@ -1,9 +1,28 @@
+import { NextSeo } from 'next-seo'
+
 import { getOrganizations } from "../../lib/db";
 import Organization from '../../components/Organization'
+import config from '../../config/siteConfig'
+
 
 export default function Page({org}) {
   return (
-    <Organization org={org} />
+    <>
+      <NextSeo
+        title={org.name + ' - ' + config.title}
+        description={org.description.split('\n')[0].split('.')[0]}
+        openGraph={{
+          images: [
+            {
+              url: org.image.url,
+              alt: org.name,
+              type: 'image/png',
+            }
+          ]
+        }}
+      />
+      <Organization org={org} />
+    </>
   )
 }
 
