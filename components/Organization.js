@@ -1,6 +1,6 @@
 export default function Organization({ org }) {
   // TODO: set the title ...
-  // <Layout title={org.name}>
+  // <Layout title={org.name}> 
   return (
     <div className="bg-white">
       <div className="max-w-2xl mx-auto pb-16 pt-10 px-4 sm:pb-24 sm:px-6 lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:gap-x-8">
@@ -50,8 +50,7 @@ export default function Organization({ org }) {
               Organization information
             </h2>
 
-            <div className="mt-4 space-y-6">
-              <p className="text-base text-gray-500">{org.description}</p>
+            <div className="mt-4 space-y-6 text-base text-gray-500" dangerouslySetInnerHTML={{ __html: org.descriptionHtml }}>
             </div>
           </section>
         </div>
