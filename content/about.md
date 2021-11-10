@@ -12,9 +12,9 @@ There is a focus on systems, emergence, coherence, sovereignty, sensemaking as b
 
 Beyond this thematic overlap we have identified four major areas of activity: _physical spaces, research, media/publishing and events_. Nonetheless, it has been notable that many organisations have shifted to multi-channel working across a number of these (e.g. producing media content as well as running retreats and events).
 
-[Browse the full list of profiles](/#profiles) to find out more about selected organisations in the ecosystem.
+[Browse the full list of profiles](/#profiles) to find out more about selected organizations in the ecosystem.
 
-## Context: [the Larger Ecosystem Mapping Project][ecosystem]
+## Context: [the Larger Ecosystem Mapping Project][ecosystem] 
 
 *Mapping the ecosystem so that it becomes (more) self-aware, interconnected, resourced and effective.*
 
