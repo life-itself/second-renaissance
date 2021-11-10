@@ -3,10 +3,10 @@
     "name": "Life Itself",
     "id": "life-itself",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "COMPLETE",
     "url": "https://lifeitself.us",
+    "email": "",
     "logo": {
       "url": "https://lifeitself.us/wp-content/uploads/2020/12/life-itself-logo.svg",
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633363990/Ecosystem%20Mapping/life-itself-logo_syl7ai.svg"
@@ -18,12 +18,12 @@
     "tagline": "",
     "activity orig": "",
     "activity": [
-      "Spaces & infrastructure",
-      "Research & Policy"
+      "spaces",
+      "research"
     ],
     "topic": [
-      "Development & Growth",
-      "Community"
+      "development",
+      "community"
     ],
     "regions": "EU",
     "locations": [
@@ -36,9 +36,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://lifeitself.us/wp-content/uploads/2020/12/life-itself-logo.svg",
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633363990/Ecosystem%20Mapping/life-itself-logo_syl7ai.svg"
@@ -48,10 +49,10 @@
     "name": "Dark Matter Labs",
     "id": "dark-matter-labs",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://darkmatterlabs.org/",
+    "email": "info@darkmatterlabs.org",
     "logo": {
       "url": "https://cdn-images-1.medium.com/max/1200/1*Ri4JSC8W06dKCPqTtegEsQ.png",
       "cached": ""
@@ -63,12 +64,12 @@
     "tagline": "",
     "activity orig": "Design",
     "activity": [
-      "Research & Policy",
-      "Business & Consulting"
+      "research",
+      "business"
     ],
     "topic": [
-      "Governance & Institutions",
-      "Technology & Blockchain"
+      "governance",
+      "tech"
     ],
     "regions": "EU",
     "locations": [
@@ -95,9 +96,10 @@
       "Indy Johar"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://cdn-images-1.medium.com/max/1200/1*Ri4JSC8W06dKCPqTtegEsQ.png",
       "cached": ""
@@ -107,10 +109,10 @@
     "name": "Dark Mountain",
     "id": "dark-mountain",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://dark-mountain.net/",
+    "email": "",
     "logo": {
       "url": "https://dark-mountain.net/wp-content/themes/molecular/assets/images/logo.png",
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633424267/Ecosystem%20Mapping/61838-1_x8mzjf.jpg"
@@ -122,12 +124,12 @@
     "tagline": "The end of the world as we know it is not the end of the world full stop.",
     "activity orig": "Publishing, Writing/Art Project",
     "activity": [
-      "Media",
-      "Network & Community"
+      "media",
+      "network"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Arts & culture"
+      "ecology",
+      "arts"
     ],
     "regions": "UK",
     "locations": [
@@ -142,9 +144,10 @@
       "Paul Kingsnorth"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/DarkMountainProject",
     "twitter": "https://twitter.com/darkmtn",
     "instagram": "",
-    "facebook": "https://www.facebook.com/DarkMountainProject",
+    "phone": "",
     "image": {
       "url": "https://dark-mountain.net/wp-content/uploads/2021/09/TOPAS-TANA01-2048x1185.jpg"
     }
@@ -153,10 +156,10 @@
     "name": "Ekskäret",
     "id": "ekskaret",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://ekskaret.se/",
+    "email": "",
     "logo": {
       "url": "https://images.squarespace-cdn.com/content/v1/57e221918419c298291bafa1/1580995099397-I4UALZ6VMKSFATS43OSH/Eksk%C3%A4ret-logo_5900x2344_gr%C3%A5_transpbg+%28tight%29.png?format=1500w",
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633425250/Ecosystem%20Mapping/Eksk_C3_A4ret-logo_5900x2344_gr_C3_A5_transpbg_28tight_29_oxiwsi.png"
@@ -168,12 +171,12 @@
     "tagline": "",
     "activity orig": "Research, Events, Retreat Organisation",
     "activity": [
-      "Research & Policy",
-      "Events & Retreats"
+      "research",
+      "events"
     ],
     "topic": [
-      "Development & Growth",
-      "Community"
+      "development",
+      "community"
     ],
     "regions": "Sweden",
     "locations": [
@@ -187,9 +190,10 @@
       "Caroline Stiernstedt Sahlborn"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://images.squarespace-cdn.com/content/v1/57e221918419c298291bafa1/1601039187891-W5XWPEID8P0CBEDJSNTL/Anywhere%2Blogga.jpg?format=750w"
     }
@@ -198,10 +202,10 @@
     "name": "Emerge",
     "id": "emerge",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.whatisemerging.com/",
+    "email": "",
     "logo": {
       "url": "http://www.whatisemerging.com/assets/Emerge_Logo-dba107a9d19d3cfd0f50dbd96434cb7772f2edb24d9c5452b3283dec4135ebfe.png",
       "cached": ""
@@ -213,12 +217,12 @@
     "tagline": "Emerge is an independent, non-profit media platform aiming to explore the emerging cultural narratives of our time.",
     "activity orig": "Media Platform, Events, Community",
     "activity": [
-      "Media",
-      "Network & Community"
+      "media",
+      "network"
     ],
     "topic": [
-      "Politics & Policy",
-      "Development & Growth"
+      "politics",
+      "development"
     ],
     "regions": "Europe",
     "locations": [
@@ -236,9 +240,10 @@
       "Tomas Bjorkman"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "http://www.whatisemerging.com/assets/Emerge_Logo-dba107a9d19d3cfd0f50dbd96434cb7772f2edb24d9c5452b3283dec4135ebfe.png",
       "cached": ""
@@ -248,10 +253,10 @@
     "name": "Enspiral",
     "id": "enspiral",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://enspiral.com",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/2654200277/556dc009a02ce1b7af3993ee4e20fb98.png",
       "cached": ""
@@ -263,12 +268,12 @@
     "tagline": "",
     "activity orig": "Network of Networks",
     "activity": [
-      "Network & Community",
-      "Business & Consulting"
+      "network",
+      "business"
     ],
     "topic": [
-      "Business & Work",
-      "Community"
+      "business",
+      "community"
     ],
     "regions": "New Zealand",
     "locations": [
@@ -283,9 +288,10 @@
       "Joshua Vial"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/2654200277/556dc009a02ce1b7af3993ee4e20fb98.png",
       "cached": ""
@@ -295,10 +301,10 @@
     "name": "Findhorn Foundation",
     "id": "findhorn-foundation",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.findhorn.org/",
+    "email": "",
     "logo": {
       "url": "https://www.findhorn.org/wp-content/uploads/2018/09/FF-LOGO.png",
       "cached": ""
@@ -310,12 +316,12 @@
     "tagline": "",
     "activity orig": "Education & Training, Courses, Events, Retreats",
     "activity": [
-      "Education & Training",
-      "Network & Community"
+      "education",
+      "network"
     ],
     "topic": [
-      "Spirituality & Religion",
-      "Ecology & Environment"
+      "spirituality",
+      "ecology"
     ],
     "regions": "Scotland",
     "locations": [
@@ -329,9 +335,10 @@
       "Rachel K Olson"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.findhorn.org/wp-content/uploads/2018/09/FF-LOGO.png",
       "cached": ""
@@ -341,10 +348,10 @@
     "name": "Larger Us",
     "id": "larger-us",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://larger.us",
+    "email": "",
     "logo": {
       "url": "https://larger.us/wp-content/uploads/2020/12/logo-green.svg",
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
@@ -356,12 +363,12 @@
     "tagline": "",
     "activity orig": "Research, Events",
     "activity": [
-      "Advocacy & Activism",
-      "Research & Policy"
+      "advocacy",
+      "research"
     ],
     "topic": [
-      "Politics & Policy",
-      "Community"
+      "politics",
+      "community"
     ],
     "regions": "UK",
     "locations": [
@@ -374,9 +381,10 @@
       "Alex Evans"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://larger.us/wp-content/uploads/2020/12/logo-green.svg",
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
@@ -386,13 +394,13 @@
     "name": "Metamoderna",
     "id": "metamoderna",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://metamoderna.org/",
+    "email": "",
     "logo": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHX9WfYLpgBjm2SB1455FiTN48lS96ZNncxG_nu5BaIizG_2pr",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633427246/Ecosystem%20Mapping/images_kplcen.png"
     },
     "image_homepage": {
       "url": ""
@@ -401,12 +409,12 @@
     "tagline": "",
     "activity orig": "Online Platform",
     "activity": [
-      "Media",
-      "Education & Training"
+      "media",
+      "education"
     ],
     "topic": [
-      "Politics & Policy",
-      "Governance & Institutions"
+      "politics",
+      "governance"
     ],
     "regions": "Sweden",
     "locations": [
@@ -420,22 +428,23 @@
       "Emil Ejner Friis"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHX9WfYLpgBjm2SB1455FiTN48lS96ZNncxG_nu5BaIizG_2pr",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633427246/Ecosystem%20Mapping/images_kplcen.png"
     }
   },
   {
     "name": "Mind and Life",
     "id": "mind-and-life",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.mindandlife.org/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/683963786009669632/ouPiSmOs_400x400.png",
       "cached": ""
@@ -447,12 +456,12 @@
     "tagline": "",
     "activity orig": "Research, Events",
     "activity": [
-      "Research & Policy",
-      "Events & Retreats"
+      "research",
+      "events"
     ],
     "topic": [
-      "Science",
-      "Spirituality & Religion"
+      "science",
+      "spirituality"
     ],
     "regions": "US",
     "locations": [
@@ -465,9 +474,10 @@
       "Susan Bauer-Wu"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/683963786009669632/ouPiSmOs_400x400.png",
       "cached": ""
@@ -477,10 +487,10 @@
     "name": "Mind and Life Europe",
     "id": "mind-and-life-europe",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.mindandlife-europe.org/",
+    "email": "",
     "logo": {
       "url": "https://www.mindandlife-europe.org/fileadmin/lombego/layout/images/page_defaults/logo-mind-and-life-europe.svg",
       "cached": ""
@@ -492,12 +502,12 @@
     "tagline": "",
     "activity orig": "",
     "activity": [
-      "Research & Policy",
-      "Events & Retreats"
+      "research",
+      "events"
     ],
     "topic": [
-      "Science",
-      "Spirituality & Religion"
+      "science",
+      "spirituality"
     ],
     "regions": "Switzerland",
     "locations": [
@@ -510,9 +520,10 @@
       "Amy Cohen Varela"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.mindandlife-europe.org/fileadmin/lombego/layout/images/page_defaults/logo-mind-and-life-europe.svg",
       "cached": ""
@@ -522,10 +533,10 @@
     "name": "Newspeak House",
     "id": "newspeak-house",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.nwspk.com/",
+    "email": "",
     "logo": {
       "url": "https://media-exp1.licdn.com/dms/image/C560BAQGR--X_7aY3Gg/company-logo_200_200/0?e=2159024400&v=beta&t=XJkoKN_1y5G2KKhWAW4a4E5anw-XOCCo8PQ0RrG3Cao",
       "cached": ""
@@ -537,12 +548,12 @@
     "tagline": "",
     "activity orig": "Education & Collaborative Physical Space",
     "activity": [
-      "Spaces & infrastructure",
-      "Network & Community"
+      "spaces",
+      "network"
     ],
     "topic": [
-      "Politics & Policy",
-      "Technology & Blockchain"
+      "politics",
+      "tech"
     ],
     "regions": "UK",
     "locations": [
@@ -555,9 +566,10 @@
       "Ed Saperia"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.nwspk.com/assets/house-15412df1cb98576a94ef4fa4922b3a2ed0d03681988f5f54c402c4362a50afe6.png"
     }
@@ -566,10 +578,10 @@
     "name": "One Project",
     "id": "one-project",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://oneproject.org/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/1307099998576930816/_gGNBriH_400x400.jpg",
       "cached": ""
@@ -581,12 +593,12 @@
     "tagline": "",
     "activity orig": "",
     "activity": [
-      "Funding",
-      "Research & Policy"
+      "funding",
+      "research"
     ],
     "topic": [
-      "Governance & Institutions",
-      "Technology & Blockchain"
+      "governance",
+      "tech"
     ],
     "regions": "US",
     "locations": [
@@ -603,9 +615,10 @@
       "Zachary Walsh"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/1307099998576930816/_gGNBriH_400x400.jpg",
       "cached": ""
@@ -615,10 +628,10 @@
     "name": "Perspectiva",
     "id": "perspectiva",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.systems-souls-society.com/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/1443993216936775686/sQ45O8FR_400x400.jpg",
       "cached": ""
@@ -630,12 +643,12 @@
     "tagline": "",
     "activity orig": "Think Tank",
     "activity": [
-      "Research & Policy",
-      "Media"
+      "research",
+      "media"
     ],
     "topic": [
-      "Politics & Policy",
-      "Arts & Culture"
+      "politics",
+      "arts"
     ],
     "regions": "UK",
     "locations": [
@@ -653,9 +666,10 @@
       "Ronan Harrington"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/1443993216936775686/sQ45O8FR_400x400.jpg",
       "cached": ""
@@ -665,10 +679,10 @@
     "name": "Presencing Institute",
     "id": "presencing-institute",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.presencing.org/",
+    "email": "",
     "logo": {
       "url": "https://tllp.org/wp-content/uploads/2020/06/Presencing-Institute.jpg",
       "cached": ""
@@ -680,12 +694,12 @@
     "tagline": "",
     "activity orig": "Research, Training/Courses",
     "activity": [
-      "Education & Training",
-      "Business & Consulting"
+      "education",
+      "business"
     ],
     "topic": [
-      "Business & Work",
-      "Politics & Policy"
+      "business",
+      "politics"
     ],
     "regions": "US",
     "locations": [
@@ -698,9 +712,10 @@
       "Otto Sharmer"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://tllp.org/wp-content/uploads/2020/06/Presencing-Institute.jpg",
       "cached": ""
@@ -710,10 +725,10 @@
     "name": "Rebel Wisdom",
     "id": "rebel-wisdom",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.rebelwisdom.co.uk/",
+    "email": "",
     "logo": {
       "url": "https://pbcdn1.podbean.com/imglogo/image-logo/2929465/RW_itunes.png",
       "cached": ""
@@ -725,12 +740,12 @@
     "tagline": "",
     "activity orig": "Media Platform, Retreat Organisation, Courses, Events",
     "activity": [
-      "Media",
-      "Events & Retreats"
+      "media",
+      "events"
     ],
     "topic": [
-      "Development & Growth",
-      "Politics & Policy"
+      "development",
+      "politics"
     ],
     "regions": "UK",
     "locations": [
@@ -745,9 +760,10 @@
       "Ivo Mensch"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbcdn1.podbean.com/imglogo/image-logo/2929465/RW_itunes.png",
       "cached": ""
@@ -757,10 +773,10 @@
     "name": "Schumacher College",
     "id": "schumacher-college",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.schumachercollege.org.uk/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/1265299113937186819/klBKgPL1_400x400.jpg",
       "cached": ""
@@ -772,12 +788,12 @@
     "tagline": "",
     "activity orig": "Education & Courses",
     "activity": [
-      "Education & Training",
-      "Events & Retreats"
+      "education",
+      "events"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Governance & Institutions"
+      "ecology",
+      "governance"
     ],
     "regions": "UK",
     "locations": [
@@ -791,9 +807,10 @@
       "Satish Kumar"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/1265299113937186819/klBKgPL1_400x400.jpg",
       "cached": ""
@@ -803,10 +820,10 @@
     "name": "The Alternative UK",
     "id": "the-alternative-uk",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.thealternative.org.uk/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/951153658909118464/pRTZkuDO_400x400.jpg",
       "cached": ""
@@ -818,12 +835,12 @@
     "tagline": "",
     "activity orig": "Platform (Events & Media)",
     "activity": [
-      "Events & Retreats",
-      "Research & Policy"
+      "events",
+      "research"
     ],
     "topic": [
-      "Politics & Policy",
-      "Governance & Institutions"
+      "politics",
+      "governance"
     ],
     "regions": "UK",
     "locations": [
@@ -836,9 +853,10 @@
       "Indra Adnan"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/951153658909118464/pRTZkuDO_400x400.jpg",
       "cached": ""
@@ -848,10 +866,10 @@
     "name": "The International Bateson Institute",
     "id": "the-international-bateson-institute",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://batesoninstitute.org/",
+    "email": "",
     "logo": {
       "url": "https://batesoninstitute.org/wp-content/uploads/2018/08/IBI-logo2-01.svg",
       "cached": ""
@@ -863,12 +881,12 @@
     "tagline": "",
     "activity orig": "Research, Events",
     "activity": [
-      "Research & Policy",
-      "Events & Retreats"
+      "research",
+      "events"
     ],
     "topic": [
-      "Governance & Institutions",
-      "Science"
+      "governance",
+      "science"
     ],
     "regions": "Europe",
     "locations": [
@@ -883,9 +901,10 @@
       "William Bateson"
     ],
     "notes_data_entry": "",
+    "facebook": "https://batesoninstitute.org/#",
     "twitter": "https://batesoninstitute.org/#",
     "instagram": "https://batesoninstitute.org/#",
-    "facebook": "https://batesoninstitute.org/#",
+    "phone": "",
     "image": {
       "url": "https://batesoninstitute.org/wp-content/uploads/2018/08/IBI-logo2-01.svg",
       "cached": ""
@@ -895,10 +914,10 @@
     "name": "The Mindfulness Initiative",
     "id": "the-mindfulness-initiative",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.themindfulnessinitiative.org/",
+    "email": "",
     "logo": {
       "url": "https://img.fullcontact.com/static/4b4542ca157ca274aa0bbce559859698_e9154ecd523c59f35340890391d35ef17668fd2ea74de693941054e162c1e6fd",
       "cached": ""
@@ -910,12 +929,12 @@
     "tagline": "",
     "activity orig": "Training/Education",
     "activity": [
-      "Education & Training",
-      "Research & Policy"
+      "education",
+      "research"
     ],
     "topic": [
-      "Politics & Policy",
-      "Wellbeing & Health"
+      "politics",
+      "wellbeing"
     ],
     "regions": "UK",
     "locations": [
@@ -928,9 +947,10 @@
       "Jamie Bristow"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/themindfulnessinitiative/",
     "twitter": "https://twitter.com/MindfulNationUK",
     "instagram": "",
-    "facebook": "https://www.facebook.com/themindfulnessinitiative/",
+    "phone": "",
     "image": {
       "url": "https://img.fullcontact.com/static/4b4542ca157ca274aa0bbce559859698_e9154ecd523c59f35340890391d35ef17668fd2ea74de693941054e162c1e6fd",
       "cached": ""
@@ -940,10 +960,10 @@
     "name": "Transition Network",
     "id": "transition-network",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://transitionnetwork.org/",
+    "email": "",
     "logo": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkcmHsPczygR5QL2eQ_ePcVT1gJ-3LS-az4o7jZ-DNmRIEOZId",
       "cached": ""
@@ -955,12 +975,12 @@
     "tagline": "",
     "activity orig": "Movement/Community",
     "activity": [
-      "Network & Community",
-      "Research & Policy"
+      "network",
+      "research"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Governance & Institutions"
+      "ecology",
+      "governance"
     ],
     "regions": "Worldwide",
     "locations": [
@@ -976,9 +996,10 @@
       "Charlotte Du Cann"
     ],
     "notes_data_entry": "Totnes is just the main office but think there is no exact location - charlotte",
+    "facebook": "https://www.facebook.com/transitionnetwork",
     "twitter": "https://twitter.com/transitiontowns",
     "instagram": "",
-    "facebook": "https://www.facebook.com/transitionnetwork",
+    "phone": "",
     "image": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkcmHsPczygR5QL2eQ_ePcVT1gJ-3LS-az4o7jZ-DNmRIEOZId",
       "cached": ""
@@ -988,10 +1009,10 @@
     "name": "New Economics Foundation",
     "id": "new-economics-foundation",
     "rd_1_focus": "?",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://neweconomics.org/",
+    "email": "",
     "logo": {
       "url": "https://neweconomics.org/uploads/images/nef-logo.png",
       "cached": ""
@@ -1003,8 +1024,8 @@
     "tagline": "",
     "activity orig": "Research",
     "activity": [
-      "Research & Policy",
-      "Education & Advocacy"
+      "research",
+      "education"
     ],
     "topic": [],
     "regions": "",
@@ -1016,9 +1037,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://neweconomics.org/uploads/images/nef-logo.png",
       "cached": ""
@@ -1028,10 +1050,10 @@
     "name": "42 Acres",
     "id": "42-acres",
     "rd_1_focus": "?",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://42acres.com/",
+    "email": "",
     "logo": {
       "url": "https://media-exp1.licdn.com/dms/image/C510BAQF-leR1fjFybA/company-logo_200_200/0?e=2159024400&v=beta&t=mPwwRHM8kFsTGy7GyKLkHJwpbYDe9Enhc0WCEicts0A",
       "cached": ""
@@ -1043,7 +1065,7 @@
     "tagline": "",
     "activity orig": "Event Space, Retreats",
     "activity": [
-      "Spaces & infrastructure"
+      "spaces"
     ],
     "topic": [],
     "regions": "UK",
@@ -1055,9 +1077,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://media-exp1.licdn.com/dms/image/C510BAQF-leR1fjFybA/company-logo_200_200/0?e=2159024400&v=beta&t=mPwwRHM8kFsTGy7GyKLkHJwpbYDe9Enhc0WCEicts0A",
       "cached": ""
@@ -1067,10 +1090,10 @@
     "name": "Advaya Initiative",
     "id": "advaya-initiative",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://advaya.co/",
+    "email": "",
     "logo": {
       "url": "https://www.datocms-assets.com/19891/1579185585-advaya-joyful-revolution-logo.png?w=500&fm=png",
       "cached": ""
@@ -1082,12 +1105,12 @@
     "tagline": "",
     "activity orig": "Retreat Organisation, Events, Media",
     "activity": [
-      "Media & Publishing",
-      "Events & Retreats"
+      "media",
+      "events"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Spirituality & Religion"
+      "ecology",
+      "spirituality"
     ],
     "regions": "UK",
     "locations": [
@@ -1100,9 +1123,10 @@
       "Ruby & Cristabel"
     ],
     "notes_data_entry": "Online global platform so no location per se - charlotte",
+    "facebook": "https://www.facebook.com/advaya.co/",
     "twitter": "https://twitter.com/advaya_co",
     "instagram": "https://www.instagram.com/advaya.co",
-    "facebook": "https://www.facebook.com/advaya.co/",
+    "phone": "",
     "image": {
       "url": "https://www.datocms-assets.com/19891/1579185585-advaya-joyful-revolution-logo.png?w=500&fm=png",
       "cached": ""
@@ -1112,10 +1136,10 @@
     "name": "Authentic Revolution",
     "id": "authentic-revolution",
     "rd_1_focus": "?",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.authrev.org/",
+    "email": "",
     "logo": {
       "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2277917/settings_images/sVWixyFTB6refx5Mp2mQ_Untitled_drawing_1.png",
       "cached": ""
@@ -1137,9 +1161,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2277917/settings_images/sVWixyFTB6refx5Mp2mQ_Untitled_drawing_1.png",
       "cached": ""
@@ -1149,10 +1174,10 @@
     "name": "Building Belonging",
     "id": "building-belonging",
     "rd_1_focus": "?",
-    "ch_focus": "?",
     "focus_notes": "- not clear what they really do?  ...",
     "info_status": "MINOR",
     "url": "https://www.buildingbelonging.us/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -1174,9 +1199,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -1185,10 +1211,10 @@
     "name": "Centre for Applied Cultural Evolution",
     "id": "centre-for-applied-cultural-evolution",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://culturalevolutioncenter.org/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t31.18172-8/28234800_444883732593670_5324703852385318528_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=t6hNu8crE8oAX-uh6XV&_nc_ht=scontent.fbhx4-2.fna&oh=75dc26bbaa54cfb05d9431e50e57613f&oe=6183A5FD",
       "cached": ""
@@ -1200,12 +1226,12 @@
     "tagline": "",
     "activity orig": "Research",
     "activity": [
-      "Research & Policy",
-      "Events & Retreats"
+      "research",
+      "events"
     ],
     "topic": [
-      "Community",
-      "Science"
+      "community",
+      "science"
     ],
     "regions": "South America",
     "locations": [
@@ -1218,9 +1244,10 @@
       "Joe Brewer (as of 2019)"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/centerforappliedculturalevolution/",
     "twitter": "https://twitter.com/evolvingfutures/",
     "instagram": "",
-    "facebook": "https://www.facebook.com/centerforappliedculturalevolution/",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t31.18172-8/28234800_444883732593670_5324703852385318528_o.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=t6hNu8crE8oAX-uh6XV&_nc_ht=scontent.fbhx4-2.fna&oh=75dc26bbaa54cfb05d9431e50e57613f&oe=6183A5FD",
       "cached": ""
@@ -1230,10 +1257,10 @@
     "name": "Co.Creation Loft",
     "id": "co.creation-loft",
     "rd_1_focus": "?",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "http://cocreationloft.com/",
+    "email": "",
     "logo": {
       "url": "https://images.squarespace-cdn.com/content/58b97907d1758e4cc270a38c/1488555228476-OPFIDCEKG88YCMO860M8/Logo.png?content-type=image%2Fpng",
       "cached": ""
@@ -1245,8 +1272,8 @@
     "tagline": "",
     "activity orig": "Coworking Space, Community, Events",
     "activity": [
-      "Spaces & Infrastructure",
-      "Network & Community"
+      "spaces",
+      "network"
     ],
     "topic": [],
     "regions": "Europe",
@@ -1261,9 +1288,10 @@
       "Tomas Bjorkman"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://images.squarespace-cdn.com/content/58b97907d1758e4cc270a38c/1488555228476-OPFIDCEKG88YCMO860M8/Logo.png?content-type=image%2Fpng",
       "cached": ""
@@ -1273,10 +1301,10 @@
     "name": "Conscious Evolution",
     "id": "conscious-evolution",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.consciousevolution.co.uk/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/96266489_864272394051192_2512802949038604288_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=lP9qQY-zTJwAX-ObVeq&_nc_oc=AQlfn69BAOSNds_xUg4N14_HMXQBHw7R6MOw0QGhtd8vjkTUj_WcBhWhb7zhMs9JYD4sZftNe6X-ht0YjSfYWa5A&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=03306b566e88f67de9fed2ff5ee49dde&oe=61823EB7",
       "cached": ""
@@ -1288,12 +1316,12 @@
     "tagline": "",
     "activity orig": "Media Platform",
     "activity": [
-      "Media",
-      "Art"
+      "media",
+      "art"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Spirituality"
+      "ecology",
+      "spirituality"
     ],
     "regions": "UK",
     "locations": [],
@@ -1304,9 +1332,10 @@
       "Robb Cobbold"
     ],
     "notes_data_entry": "location within england unspecified - charlotte",
+    "facebook": "https://www.facebook.com/evoconscious",
     "twitter": "https://twitter.com/EvoConscious",
     "instagram": "",
-    "facebook": "https://www.facebook.com/evoconscious",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/90875588_834234140388351_6482764400393453568_n.png?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=-QkAUY9vsyIAX89e--l&_nc_ht=scontent.fbhx4-2.fna&oh=2a8629b24af2aeb50834828b3ae3a4df&oe=61846D1F"
     }
@@ -1315,10 +1344,10 @@
     "name": "CTRL Shift",
     "id": "ctrl-shift",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "http://www.ctrlshiftsummit.org.uk/",
+    "email": "",
     "logo": {
       "url": "https://www.ctrlshiftsummit.org.uk/wp-content/uploads/2019/04/CTRLshift_Partners_2019.png",
       "cached": ""
@@ -1342,9 +1371,10 @@
       "Andy Goldring"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.ctrlshiftsummit.org.uk/wp-content/uploads/2019/04/CTRLshift_Partners_2019.png",
       "cached": ""
@@ -1354,10 +1384,10 @@
     "name": "Cultural Catalyst Network",
     "id": "cultural-catalyst-network",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://culturalcatalystnetwork.org/",
+    "email": "",
     "logo": {
       "url": "http://culturalcatalystnetwork.org/wp-content/uploads/2019/04/logo354.png",
       "cached": ""
@@ -1369,12 +1399,12 @@
     "tagline": "",
     "activity orig": "Events, Education, Training, Network",
     "activity": [
-      "Education & Training",
-      "Events & Retreats"
+      "education",
+      "events"
     ],
     "topic": [
-      "Governance & Institutions",
-      "Community"
+      "governance",
+      "community"
     ],
     "regions": "",
     "locations": [],
@@ -1385,9 +1415,10 @@
       "Karl Steyaert (*)"
     ],
     "notes_data_entry": "information lacking on website about location and social media - charlotte",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "http://culturalcatalystnetwork.org/wp-content/uploads/2019/04/logo354.png",
       "cached": ""
@@ -1396,11 +1427,11 @@
   {
     "name": "Culture Declares",
     "id": "culture-declares",
-    "rd_1_focus": "",
-    "ch_focus": "?",
+    "rd_1_focus": "N",
     "focus_notes": "Not doing anything in their own right",
     "info_status": "",
     "url": "https://www.culturedeclares.org/",
+    "email": "",
     "logo": {
       "url": "https://ecoartfilm.files.wordpress.com/2019/04/culturedeclareskite-horiz-bw-lrg.png",
       "cached": ""
@@ -1424,9 +1455,10 @@
       "Lucy Neal"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://ecoartfilm.files.wordpress.com/2019/04/culturedeclareskite-horiz-bw-lrg.png",
       "cached": ""
@@ -1435,11 +1467,11 @@
   {
     "name": "Daily Evolver",
     "id": "daily-evolver",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.dailyevolver.com/theory/",
+    "email": "",
     "logo": {
       "url": "https://www.dailyevolver.com/wp-content/uploads/2020/05/tde_2020_rainbow_podcast.png",
       "cached": ""
@@ -1451,12 +1483,12 @@
     "tagline": "",
     "activity orig": "Media Platform",
     "activity": [
-      "Media",
-      "Network & Community"
+      "media",
+      "network"
     ],
     "topic": [
-      "Inner Development",
-      "Spirituality"
+      "development",
+      "spirituality"
     ],
     "regions": "",
     "locations": [],
@@ -1467,9 +1499,10 @@
       "Jeff Salzman"
     ],
     "notes_data_entry": "no obvious location (just online) and start date unclear, just going off date they joined twitter -charlotte",
+    "facebook": "https://www.facebook.com/pages/The-Daily-Evolver/138656902866992",
     "twitter": "https://twitter.com/dailyevolver",
     "instagram": "",
-    "facebook": "https://www.facebook.com/pages/The-Daily-Evolver/138656902866992",
+    "phone": "",
     "image": {
       "url": "https://www.dailyevolver.com/wp-content/uploads/2020/05/tde_2020_rainbow_podcast.png",
       "cached": ""
@@ -1479,10 +1512,10 @@
     "name": "Damanhur",
     "id": "damanhur",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "http://www.damanhur.org",
+    "email": "",
     "logo": {
       "url": "https://damanhur.org/wp-content/uploads/2020/07/damanhur-gold-1024x745.png",
       "cached": ""
@@ -1494,12 +1527,12 @@
     "tagline": "",
     "activity orig": "Spiritual Ecovillage",
     "activity": [
-      "Spaces & Infrastructure",
-      "Events & Retreats"
+      "spaces",
+      "events"
     ],
     "topic": [
-      "Spirituality",
-      "Community"
+      "spirituality",
+      "community"
     ],
     "regions": "Italy",
     "locations": [
@@ -1510,9 +1543,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://damanhur.org/wp-content/uploads/2020/07/damanhur-gold-1024x745.png",
       "cached": ""
@@ -1521,11 +1555,11 @@
   {
     "name": "Dharma Action Network",
     "id": "dharma-action-network",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "http://www.thedancewebsite.org/",
+    "email": "",
     "logo": {
       "url": "http://www.thedancewebsite.org/wp-content/uploads/header-logo.png",
       "cached": ""
@@ -1537,12 +1571,12 @@
     "tagline": "",
     "activity orig": "Contemplative Activism",
     "activity": [
-      "Activism & Advocacy",
-      "Events & Retreats"
+      "advocacy",
+      "events"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Spirituality"
+      "ecology",
+      "spirituality"
     ],
     "regions": "UK",
     "locations": [
@@ -1555,9 +1589,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "I have wrote just a few of their main locations, they have more in the UK and one in the US. Also unclear how active they are as most recent is last year (and cannot find any social media for confirmation) - charlotte",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "http://www.thedancewebsite.org/wp-content/uploads/header-logo.png",
       "cached": ""
@@ -1566,11 +1601,11 @@
   {
     "name": "EcoDharma",
     "id": "ecodharma",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "http://www.ecodharma.com/",
+    "email": "",
     "logo": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKTfHQ-RLizAysLEoeVzji_mx1lmqFXGWN2CDgFnWejS3X7vyU",
       "cached": ""
@@ -1582,11 +1617,11 @@
     "tagline": "",
     "activity orig": "Community, Events, Retreat Organisation",
     "activity": [
-      "Events & Retreats",
-      "Network & Community"
+      "events",
+      "network"
     ],
     "topic": [
-      "Community",
+      "community",
       "Inner Development"
     ],
     "regions": "Spain",
@@ -1598,9 +1633,10 @@
     "active": "?",
     "people": [],
     "notes_data_entry": "no upcoming courses/events, so unclear about active status - charoltte",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKTfHQ-RLizAysLEoeVzji_mx1lmqFXGWN2CDgFnWejS3X7vyU",
       "cached": ""
@@ -1609,11 +1645,11 @@
   {
     "name": "Ecotechnics",
     "id": "ecotechnics",
-    "rd_1_focus": "?",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://ecotechnics.edu",
+    "email": "",
     "logo": {
       "url": "https://goldenstupa.media/wp-content/uploads/2018/10/institute-of-ecotechnics-logo-horiz.jpg",
       "cached": ""
@@ -1637,9 +1673,10 @@
       "Mark Nelson"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://goldenstupa.media/wp-content/uploads/2018/10/institute-of-ecotechnics-logo-horiz.jpg",
       "cached": ""
@@ -1648,11 +1685,11 @@
   {
     "name": "Embassy Network",
     "id": "embassy-network",
-    "rd_1_focus": "?",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://embassynetwork.com",
+    "email": "",
     "logo": {
       "url": "https://embassynetwork.com/static/img/en-logo-transparent.png",
       "cached": ""
@@ -1676,9 +1713,10 @@
       "Zarinah Agnew"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://embassynetwork.com/static/img/en-logo-transparent.png",
       "cached": ""
@@ -1687,11 +1725,11 @@
   {
     "name": "Embercombe",
     "id": "embercombe",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://embercombe.org/",
+    "email": "",
     "logo": {
       "url": "https://embercombe.org/wp-content/uploads/2018/02/embercombe-logo-full-gradient-white-1.jpg",
       "cached": ""
@@ -1703,12 +1741,12 @@
     "tagline": "",
     "activity orig": "Retreat Organisation, Events",
     "activity": [
-      "Events & Retreats",
-      "Spaces & Infrastructure"
+      "events",
+      "spaces"
     ],
     "topic": [
-      "Inner Development",
-      "Community"
+      "development",
+      "community"
     ],
     "regions": "UK",
     "locations": [
@@ -1721,9 +1759,10 @@
       "Mac Macartney"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/Embercombe",
     "twitter": "https://twitter.com/embercombe",
     "instagram": "",
-    "facebook": "https://www.facebook.com/Embercombe",
+    "phone": "",
     "image": {
       "url": "https://embercombe.org/wp-content/uploads/2018/02/embercombe-logo-full-gradient-white-1.jpg",
       "cached": ""
@@ -1732,11 +1771,11 @@
   {
     "name": "Emergence Magazine",
     "id": "emergence-magazine",
-    "rd_1_focus": "?",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://emergencemagazine.org/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/3349551077/0d5cda955f28ddce1be6d453fa753c1e_400x400.jpeg",
       "cached": ""
@@ -1758,9 +1797,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/3349551077/0d5cda955f28ddce1be6d453fa753c1e_400x400.jpeg",
       "cached": ""
@@ -1770,10 +1810,10 @@
     "name": "Esalen",
     "id": "esalen",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.esalen.org/",
+    "email": "",
     "logo": {
       "url": "https://assets-global.website-files.com/602d8561ae2fe611c947c905/602d8561ae2fe6277647c9a0_esalen-logo.png",
       "cached": ""
@@ -1785,11 +1825,11 @@
     "tagline": "",
     "activity orig": "Retreat Organisation, Education, Events",
     "activity": [
-      "Education & Training",
-      "Events & Retreats"
+      "education",
+      "events"
     ],
     "topic": [
-      "Spirituality",
+      "spirituality",
       "Inner Development"
     ],
     "regions": "US",
@@ -1804,9 +1844,10 @@
       "Richard Price"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/EsalenInstitute",
     "twitter": "https://twitter.com/esalen",
     "instagram": "https://www.instagram.com/esalen/",
-    "facebook": "https://www.facebook.com/EsalenInstitute",
+    "phone": "",
     "image": {
       "url": "https://assets-global.website-files.com/602d8561ae2fe611c947c905/602d8561ae2fe6277647c9a0_esalen-logo.png",
       "cached": ""
@@ -1815,11 +1856,11 @@
   {
     "name": "Extinction Rebellion",
     "id": "extinction-rebellion",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://rebellion.earth/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/242652455_1064897814339033_4247340432238296433_n.png?_nc_cat=1&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jSqf70uL2lAAX-rypgV&_nc_ht=scontent.fbhx4-2.fna&oh=5ba89a5eedaa73985c3ed9f0a0076b3b&oe=6182F49C",
       "cached": ""
@@ -1831,12 +1872,12 @@
     "tagline": "",
     "activity orig": "Movement, Community",
     "activity": [
-      "Activism & Advocacy",
-      "Network & Community"
+      "advocacy",
+      "network"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Governance & Institutions"
+      "ecology",
+      "governance"
     ],
     "regions": "Worldwide",
     "locations": [],
@@ -1851,9 +1892,10 @@
       "Jessica Townsend"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/XRebellionUK/",
     "twitter": "https://twitter.com/xrebellionuk",
     "instagram": "https://www.instagram.com/xrebellionuk/",
-    "facebook": "https://www.facebook.com/XRebellionUK/",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/242652455_1064897814339033_4247340432238296433_n.png?_nc_cat=1&_nc_rgb565=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jSqf70uL2lAAX-rypgV&_nc_ht=scontent.fbhx4-2.fna&oh=5ba89a5eedaa73985c3ed9f0a0076b3b&oe=6182F49C",
       "cached": ""
@@ -1862,11 +1904,11 @@
   {
     "name": "For The Wild Podcast",
     "id": "for-the-wild-podcast",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://forthewild.world/",
+    "email": "",
     "logo": {
       "url": "https://images.squarespace-cdn.com/content/5403e5dbe4b04db10d1d362b/1576009090772-BA18WE4IWU2Q3VA8ZNYQ/FTW_Logo_CoverArt.jpg?content-type=image%2Fjpeg",
       "cached": ""
@@ -1878,12 +1920,12 @@
     "tagline": "",
     "activity orig": "Podcast, Events",
     "activity": [
-      "Media",
-      "Events & Retreats"
+      "media",
+      "events"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Arts & culture"
+      "ecology",
+      "arts"
     ],
     "regions": "Worldwide",
     "locations": [
@@ -1894,9 +1936,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "Location on twitter is 'cascadia'... not heard of this and unclear if this is technically part of US - charlotte",
+    "facebook": "https://www.facebook.com/forthewild.world/",
     "twitter": "https://twitter.com/ForTheWild_",
     "instagram": "http://instagram.com/for.the.wild/",
-    "facebook": "https://www.facebook.com/forthewild.world/",
+    "phone": "",
     "image": {
       "url": "https://images.squarespace-cdn.com/content/5403e5dbe4b04db10d1d362b/1576009090772-BA18WE4IWU2Q3VA8ZNYQ/FTW_Logo_CoverArt.jpg?content-type=image%2Fjpeg",
       "cached": ""
@@ -1906,10 +1949,10 @@
     "name": "Future Thinkers",
     "id": "future-thinkers",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://futurethinkers.org/",
+    "email": "",
     "logo": {
       "url": "https://futurethinkers.org/wp-content/uploads/2015/06/Future-Thinkers-Text-Logo2-1-300x149.png",
       "cached": ""
@@ -1921,12 +1964,12 @@
     "tagline": "",
     "activity orig": "Podcast & Media Platform",
     "activity": [
-      "Spaces & Infrastructure",
-      "Media"
+      "spaces",
+      "media"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Community"
+      "ecology",
+      "community"
     ],
     "regions": "Canada",
     "locations": [
@@ -1939,9 +1982,10 @@
       "Euvie Ivanova & Mike Gilliand"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "https://futurethinkers.org/twitter",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://futurethinkers.org/wp-content/uploads/2015/06/Future-Thinkers-Text-Logo2-1-300x149.png",
       "cached": ""
@@ -1950,11 +1994,11 @@
   {
     "name": "Gaia House",
     "id": "gaia-house",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://gaiahouse.co.uk/",
+    "email": "",
     "logo": {
       "url": "https://gaiahouse.co.uk/wp-content/uploads/gaia-house-logo.png",
       "cached": ""
@@ -1966,12 +2010,12 @@
     "tagline": "",
     "activity orig": "Retreat Centre",
     "activity": [
-      "Events & Retreats",
-      "Education & Training"
+      "events",
+      "education"
     ],
     "topic": [
-      "Spirituality",
-      "Community"
+      "spirituality",
+      "community"
     ],
     "regions": "UK",
     "locations": [
@@ -1986,9 +2030,10 @@
       "Stephen Bachelor"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/Gaia.House.UK",
     "twitter": "https://twitter.com/GaiaHouseUK",
     "instagram": "",
-    "facebook": "https://www.facebook.com/Gaia.House.UK",
+    "phone": "",
     "image": {
       "url": "https://gaiahouse.co.uk/wp-content/uploads/gaia-house-logo.png",
       "cached": ""
@@ -1998,10 +2043,10 @@
     "name": "GameB",
     "id": "gameb",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.game-b.org/landing?space_id=3844035",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/69631315_10156628149138367_7339950752103661568_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8631f5&_nc_ohc=jNvSAM7MMJwAX_DhLnT&_nc_ht=scontent.fbhx4-1.fna&oh=66efde26d87f674f9e457df71f0fc5dc&oe=61833381",
       "cached": ""
@@ -2013,12 +2058,12 @@
     "tagline": "",
     "activity orig": "Online Forum/Community",
     "activity": [
-      "Network & Community",
-      "Media"
+      "network",
+      "media"
     ],
     "topic": [
-      "Politics & Policy",
-      "Governance & Institutions"
+      "politics",
+      "governance"
     ],
     "regions": "",
     "locations": [],
@@ -2032,9 +2077,10 @@
       "Jamie Wheal"
     ],
     "notes_data_entry": "limited info on wesite as you have to 'request to join' to access more info, so i've done some guesswork - might be worth joining to find out more? - charlotte",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/69631315_10156628149138367_7339950752103661568_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=8631f5&_nc_ohc=jNvSAM7MMJwAX_DhLnT&_nc_ht=scontent.fbhx4-1.fna&oh=66efde26d87f674f9e457df71f0fc5dc&oe=61833381",
       "cached": ""
@@ -2043,11 +2089,11 @@
   {
     "name": "Heart Politics",
     "id": "heart-politics",
-    "rd_1_focus": "?",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "http://heartpolitics.org.nz/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -2067,9 +2113,10 @@
     "active": "",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -2077,11 +2124,11 @@
   {
     "name": "HOME",
     "id": "home",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://aschoolcalledhome.org/",
+    "email": "",
     "logo": {
       "url": "https://i1.wp.com/aschoolcalledhome.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-14.17.19.jpg?w=1440&ssl=1",
       "cached": ""
@@ -2093,12 +2140,12 @@
     "tagline": "",
     "activity orig": "Education/School",
     "activity": [
-      "Education & Training",
-      "Events & Retreats"
+      "education",
+      "events"
     ],
     "topic": [
-      "Community",
-      "Ecology & Environment"
+      "community",
+      "ecology"
     ],
     "regions": "Sweden",
     "locations": [
@@ -2112,9 +2159,10 @@
       "Anna Bjorkman"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://i1.wp.com/aschoolcalledhome.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-14.17.19.jpg?w=1440&ssl=1",
       "cached": ""
@@ -2123,11 +2171,11 @@
   {
     "name": "Impact Theory",
     "id": "impact-theory",
-    "rd_1_focus": "",
-    "ch_focus": "?",
+    "rd_1_focus": "N",
     "focus_notes": "it's a weekly TV show about how people because successful/high achievers",
     "info_status": "",
     "url": "https://impacttheory.com/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -2149,9 +2197,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -2160,10 +2209,10 @@
     "name": "Integral Life",
     "id": "integral-life",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://integrallife.com",
+    "email": "",
     "logo": {
       "url": "https://integrallife.com/wp-content/uploads/2016/07/IntegralLife_logo-500px-Trans-middle.png",
       "cached": ""
@@ -2175,12 +2224,12 @@
     "tagline": "",
     "activity orig": "Talks, papers, videos, podcasts",
     "activity": [
-      "Media",
-      "Network & Community"
+      "media",
+      "network"
     ],
     "topic": [
-      "Inner Development",
-      "Spirituality"
+      "development",
+      "spirituality"
     ],
     "regions": "Worldwide",
     "locations": [],
@@ -2191,9 +2240,10 @@
       "Ken Wilber"
     ],
     "notes_data_entry": "no location - just an online global community",
+    "facebook": "https://www.facebook.com/Integral-Life-51300016841/",
     "twitter": "https://twitter.com/integrallife",
     "instagram": "",
-    "facebook": "https://www.facebook.com/Integral-Life-51300016841/",
+    "phone": "",
     "image": {
       "url": "https://integrallife.com/wp-content/uploads/2016/07/IntegralLife_logo-500px-Trans-middle.png",
       "cached": ""
@@ -2202,11 +2252,11 @@
   {
     "name": "Integral Zen",
     "id": "integral-zen",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://integralzen.org",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/969143454818295808/8flO4UV__400x400.jpg",
       "cached": ""
@@ -2218,12 +2268,12 @@
     "tagline": "",
     "activity orig": "Community",
     "activity": [
-      "Network & Community",
-      "Events & Retreats"
+      "network",
+      "events"
     ],
     "topic": [
-      "Spirituality",
-      "Community"
+      "spirituality",
+      "community"
     ],
     "regions": "US",
     "locations": [
@@ -2238,9 +2288,10 @@
       "Ivo Mensch"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/IntegralZen",
     "twitter": "https://twitter.com/integralzen",
     "instagram": "https://www.instagram.com/integralzen/",
-    "facebook": "https://www.facebook.com/IntegralZen",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/969143454818295808/8flO4UV__400x400.jpg",
       "cached": ""
@@ -2249,11 +2300,11 @@
   {
     "name": "K9 Coliving",
     "id": "k9-coliving",
-    "rd_1_focus": "?",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.k9coliving.com/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -2277,9 +2328,10 @@
       "Alex Bjorkman"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -2288,10 +2340,10 @@
     "name": "Landmark",
     "id": "landmark",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.landmarkworldwide.com",
+    "email": "",
     "logo": {
       "url": "https://lh3.googleusercontent.com/proxy/goBzhSS3kHhlPKyEv07IlMnNjrXE4P1cG8o9O_joC7nT693A-BiNwikwenxirgkBxKl9bIG20GQj2WFVl6zpJCVf74irCuuQwIHW3nLgvTbQKS8YkCbMp0t4",
       "cached": ""
@@ -2318,9 +2370,10 @@
       "Pip"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://lh3.googleusercontent.com/proxy/goBzhSS3kHhlPKyEv07IlMnNjrXE4P1cG8o9O_joC7nT693A-BiNwikwenxirgkBxKl9bIG20GQj2WFVl6zpJCVf74irCuuQwIHW3nLgvTbQKS8YkCbMp0t4",
       "cached": ""
@@ -2329,11 +2382,11 @@
   {
     "name": "Liminal Learning Portal",
     "id": "liminal-learning-portal",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://tllp.org/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/94143992_106883267667332_451784302741422080_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=w80AWMRRU5kAX-i5X2b&_nc_ht=scontent.fbhx4-2.fna&oh=2872f0febd8733bbe383caf11e19ee7c&oe=6183E939",
       "cached": ""
@@ -2345,12 +2398,12 @@
     "tagline": "",
     "activity orig": "Online platform",
     "activity": [
-      "Media",
-      "Network & Community"
+      "media",
+      "network"
     ],
     "topic": [
-      "Inner Development",
-      "Politics & Policy"
+      "development",
+      "politics"
     ],
     "regions": "UK",
     "locations": [
@@ -2361,9 +2414,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "interestingly, these guys have done their own version of your ecosystem mapping! - charlotte",
+    "facebook": "https://www.facebook.com/TheLiminalLearningPortal/",
     "twitter": "http://twitter.com/TheLLPortal",
     "instagram": "",
-    "facebook": "https://www.facebook.com/TheLiminalLearningPortal/",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/94143992_106883267667332_451784302741422080_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=w80AWMRRU5kAX-i5X2b&_nc_ht=scontent.fbhx4-2.fna&oh=2872f0febd8733bbe383caf11e19ee7c&oe=6183E939",
       "cached": ""
@@ -2372,11 +2426,11 @@
   {
     "name": "Liminal Village",
     "id": "liminal-village",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "http://liminalvillage.com/",
+    "email": "",
     "logo": {
       "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHX_zWMR5ZSeg/company-logo_200_200/0/1619428882770?e=1641427200&v=beta&t=kZYLoI7dkK8FhtkgfuehLArMqIu1PhN9blU1mskXKxI",
       "cached": ""
@@ -2388,12 +2442,12 @@
     "tagline": "",
     "activity orig": "",
     "activity": [
-      "Spaces & Infrastructure",
-      "Education & Training"
+      "spaces",
+      "education"
     ],
     "topic": [
-      "Inner Development",
-      "Technology & Blockchain"
+      "development",
+      "tech"
     ],
     "regions": "Italy",
     "locations": [
@@ -2404,9 +2458,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "start date unclear and no social media - charlotte",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHX_zWMR5ZSeg/company-logo_200_200/0/1619428882770?e=1641427200&v=beta&t=kZYLoI7dkK8FhtkgfuehLArMqIu1PhN9blU1mskXKxI",
       "cached": ""
@@ -2415,11 +2470,11 @@
   {
     "name": "Microsolidarity",
     "id": "microsolidarity",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.microsolidarity.cc/",
+    "email": "",
     "logo": {
       "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1092286/1092286-1550274124491-4dbc589e71fdb.jpg",
       "cached": ""
@@ -2431,12 +2486,12 @@
     "tagline": "",
     "activity orig": "Online Platform",
     "activity": [
-      "Spaces & Infrastructure",
-      "Education & Training"
+      "spaces",
+      "education"
     ],
     "topic": [
-      "Community",
-      "Health & Well-being"
+      "community",
+      "wellbeing"
     ],
     "regions": "",
     "locations": [],
@@ -2447,9 +2502,10 @@
       "Richard D. Bartlett"
     ],
     "notes_data_entry": "online platform with resources for making communities so no location - charlotte",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1092286/1092286-1550274124491-4dbc589e71fdb.jpg",
       "cached": ""
@@ -2458,11 +2514,11 @@
   {
     "name": "Mindfulness for Change",
     "id": "mindfulness-for-change",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.mindfulnessforchange.co.nz/",
+    "email": "",
     "logo": {
       "url": "https://images.squarespace-cdn.com/content/v1/58c313346b8f5b5e4d4d5c3e/1489215159909-TXDS5THO324PDNDOGQXA/mindfulnessforchangelogo.png?format=1500w",
       "cached": ""
@@ -2474,11 +2530,11 @@
     "tagline": "",
     "activity orig": "Network, Community, Events",
     "activity": [
-      "Network & Community",
-      "Events & Retreats"
+      "network",
+      "events"
     ],
     "topic": [
-      "Community",
+      "community",
       "Inner Development"
     ],
     "regions": "New Zealand",
@@ -2491,9 +2547,10 @@
       "Richard Turton"
     ],
     "notes_data_entry": "I've only wrote down a few of the people - Charlotte",
+    "facebook": "http://www.facebook.com/mindfulnessforchange",
     "twitter": "",
     "instagram": "",
-    "facebook": "http://www.facebook.com/mindfulnessforchange",
+    "phone": "",
     "image": {
       "url": "https://images.squarespace-cdn.com/content/v1/58c313346b8f5b5e4d4d5c3e/1489215159909-TXDS5THO324PDNDOGQXA/mindfulnessforchangelogo.png?format=1500w",
       "cached": ""
@@ -2502,11 +2559,11 @@
   {
     "name": "Mindvalley",
     "id": "mindvalley",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.mindvalley.com/",
+    "email": "",
     "logo": {
       "url": "https://i.pinimg.com/originals/5a/10/ca/5a10ca30e2b3a599a1c648c0db7ffae3.jpg",
       "cached": ""
@@ -2518,12 +2575,12 @@
     "tagline": "",
     "activity orig": "Education/Trainings, Events, Media Platform",
     "activity": [
-      "Education & Training",
-      "Media"
+      "education",
+      "media"
     ],
     "topic": [
-      "Business & Work",
-      "Technology & Blockchain"
+      "business",
+      "tech"
     ],
     "regions": "Online",
     "locations": [],
@@ -2534,9 +2591,10 @@
       "Vishen Lakhiani"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/mindvalley/",
     "twitter": "",
     "instagram": "https://www.instagram.com/mindvalley/",
-    "facebook": "https://www.facebook.com/mindvalley/",
+    "phone": "",
     "image": {
       "url": "https://i.pinimg.com/originals/5a/10/ca/5a10ca30e2b3a599a1c648c0db7ffae3.jpg",
       "cached": ""
@@ -2545,11 +2603,11 @@
   {
     "name": "Monastic Academy",
     "id": "monastic-academy",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.monasticacademy.com/",
+    "email": "",
     "logo": {
       "url": "https://i1.sndcdn.com/avatars-000628073310-cst70c-t500x500.jpg",
       "cached": ""
@@ -2561,12 +2619,12 @@
     "tagline": "",
     "activity orig": "Monastary & Retreat Organisation",
     "activity": [
-      "Education & Training",
-      "Events & Retreats"
+      "education",
+      "events"
     ],
     "topic": [
-      "Spirituality",
-      "Community"
+      "spirituality",
+      "community"
     ],
     "regions": "US",
     "locations": [
@@ -2579,9 +2637,10 @@
       "Daniel Thorson"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/monasticacademy/",
     "twitter": "https://twitter.com/MonasticAcademy",
     "instagram": "https://www.instagram.com/monasticacademy/",
-    "facebook": "https://www.facebook.com/monasticacademy/",
+    "phone": "",
     "image": {
       "url": "https://i1.sndcdn.com/avatars-000628073310-cst70c-t500x500.jpg",
       "cached": ""
@@ -2591,10 +2650,10 @@
     "name": "On Being",
     "id": "on-being",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://onbeing.org/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/1006247786281611265/vf3-Nd_h.jpg",
       "cached": ""
@@ -2606,12 +2665,12 @@
     "tagline": "Pursuing deep thinking and moral imagination, social courage and joy, to renew inner life, outer life, and life together.",
     "activity orig": "Platform ('Media and Public Life Initiative')",
     "activity": [
-      "Media",
-      "Network & Community"
+      "media",
+      "network"
     ],
     "topic": [
-      "Inner Development",
-      "Community"
+      "development",
+      "community"
     ],
     "regions": "US",
     "locations": [
@@ -2624,9 +2683,10 @@
       "Krista Tippett"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/onbeing",
     "twitter": "https://twitter.com/onbeing",
     "instagram": "https://instagram.com/onbeing",
-    "facebook": "https://www.facebook.com/onbeing",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/1006247786281611265/vf3-Nd_h.jpg",
       "cached": ""
@@ -2636,10 +2696,10 @@
     "name": "OuiShare",
     "id": "ouishare",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.ouishare.net",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.18169-9/30716218_1820858814601553_456237605382221493_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8tm1Eka2zykAX9JK6xu&_nc_ht=scontent.fbhx4-2.fna&oh=73453a840e887ae131488df2ebc9f0ad&oe=6181EF03",
       "cached": ""
@@ -2651,12 +2711,12 @@
     "tagline": "",
     "activity orig": "Networking for sharing economy and systems change\"",
     "activity": [
-      "Network & Community",
-      "Events & Retreats"
+      "network",
+      "events"
     ],
     "topic": [
-      "Governance & Institutions",
-      "Politics & Policy"
+      "governance",
+      "politics"
     ],
     "regions": "Worldwide",
     "locations": [
@@ -2670,9 +2730,10 @@
       "Asmaa"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/OuiShare/",
     "twitter": "https://twitter.com/ouishare",
     "instagram": "https://www.instagram.com/ouishare/",
-    "facebook": "https://www.facebook.com/OuiShare/",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.18169-9/30716218_1820858814601553_456237605382221493_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=8tm1Eka2zykAX9JK6xu&_nc_ht=scontent.fbhx4-2.fna&oh=73453a840e887ae131488df2ebc9f0ad&oe=6181EF03",
       "cached": ""
@@ -2682,10 +2743,10 @@
     "name": "Path Retreats",
     "id": "path-retreats",
     "rd_1_focus": "",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://pathretreats.com/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/45313983_1971423326285748_6480964366714798080_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EBNSkrmsC1YAX9mARcs&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=ff43ef1d42159643ea36f36c5fc7bbbc&oe=618578A3",
       "cached": ""
@@ -2697,11 +2758,11 @@
     "tagline": "",
     "activity orig": "Retreat Organisation",
     "activity": [
-      "Events & Retreats"
+      "events"
     ],
     "topic": [
-      "Spirituality",
-      "Health & Well-being"
+      "spirituality",
+      "wellbeing"
     ],
     "regions": "Worldwide",
     "locations": [
@@ -2715,9 +2776,10 @@
       "Rafia Morgan (connected to Rebel WIsdom)"
     ],
     "notes_data_entry": "I've just wrote down few of many locations - charlotte",
+    "facebook": "https://www.facebook.com/pathretreats/",
     "twitter": "https://twitter.com/pathretreats",
     "instagram": "https://www.instagram.com/pathretreats/",
-    "facebook": "https://www.facebook.com/pathretreats/",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/45313983_1971423326285748_6480964366714798080_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EBNSkrmsC1YAX9mARcs&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=ff43ef1d42159643ea36f36c5fc7bbbc&oe=618578A3",
       "cached": ""
@@ -2726,11 +2788,11 @@
   {
     "name": "Plum Village",
     "id": "plum-village",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://plumvillage.org",
+    "email": "",
     "logo": {
       "url": "http://compassionatementalhealth.co.uk/wp-content/uploads/2020/05/Plum-Village.jpg",
       "cached": ""
@@ -2742,11 +2804,11 @@
     "tagline": "",
     "activity orig": "Monastary & Retreat Organisation",
     "activity": [
-      "Events & Retreats",
-      "Education & Training"
+      "events",
+      "education"
     ],
     "topic": [
-      "Spirituality",
+      "spirituality",
       "Inner Development"
     ],
     "regions": "Worldwide",
@@ -2763,9 +2825,10 @@
       "Phap Luu"
     ],
     "notes_data_entry": "More locations for plum village than i have written down (i just wrote the main one) - Charlotte",
+    "facebook": "https://www.facebook.com/plumvillage/",
     "twitter": "https://twitter.com/plumvillageom",
     "instagram": "https://www.instagram.com/plumvillagefrance/",
-    "facebook": "https://www.facebook.com/plumvillage/",
+    "phone": "",
     "image": {
       "url": "http://compassionatementalhealth.co.uk/wp-content/uploads/2020/05/Plum-Village.jpg",
       "cached": ""
@@ -2775,10 +2838,10 @@
     "name": "Purpose",
     "id": "purpose",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.purpose.com/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -2800,9 +2863,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -2811,10 +2875,10 @@
     "name": "Rat Park",
     "id": "rat-park",
     "rd_1_focus": "NN",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://ratpark.org/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -2836,9 +2900,10 @@
     "active": "No",
     "people": [],
     "notes_data_entry": "Offline with no website as of Oct 2021 ~rufus",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -2847,10 +2912,10 @@
     "name": "Resurgence and Ecologist",
     "id": "resurgence-and-ecologist",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.resurgence.org/",
+    "email": "",
     "logo": {
       "url": "https://www.resurgence.org/grafix/covers/300/isimg_319.jpg",
       "cached": ""
@@ -2862,12 +2927,12 @@
     "tagline": "",
     "activity orig": "Magazine, Events",
     "activity": [
-      "Media",
-      "Events & Retreats"
+      "media",
+      "events"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Health & Well-being"
+      "ecology",
+      "wellbeing"
     ],
     "regions": "UK",
     "locations": [
@@ -2880,9 +2945,10 @@
       "Satish Kumar"
     ],
     "notes_data_entry": "",
+    "facebook": "http://www.facebook.com/Resurgencetrust",
     "twitter": "https://twitter.com/intent/tweet?text=Resurgence%20%E2%80%A2%20Contact%20Us&url=https%3A%2F%2Fwww.resurgence.org%2Fcontact%2F%23.YV6kH1u63Ow.twitter&related=",
     "instagram": "http://instagram.com/resurgencetrust",
-    "facebook": "http://www.facebook.com/Resurgencetrust",
+    "phone": "",
     "image": {
       "url": "https://www.resurgence.org/grafix/covers/300/isimg_319.jpg",
       "cached": ""
@@ -2891,11 +2957,11 @@
   {
     "name": "RSA",
     "id": "rsa",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.thersa.org/",
+    "email": "",
     "logo": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdipjNxBYycKFkVFq1EXJxSbNimAcCpIRQtGkgSr-2-yzSfyLl",
       "cached": ""
@@ -2907,12 +2973,12 @@
     "tagline": "WE UNITE PEOPLE AND IDEAS\n\nJoin us to resolve the challenges of our time.",
     "activity orig": "Events, Research",
     "activity": [
-      "Research & Policy",
-      "Network & Community"
+      "research",
+      "network"
     ],
     "topic": [
-      "Ecology & Environment",
-      "Governance & Institutions"
+      "ecology",
+      "governance"
     ],
     "regions": "UK",
     "locations": [
@@ -2923,9 +2989,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/theRSAorg",
     "twitter": "https://twitter.com/thersaorg",
     "instagram": "https://www.instagram.com/thersaorg/",
-    "facebook": "https://www.facebook.com/theRSAorg",
+    "phone": "",
     "image": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdipjNxBYycKFkVFq1EXJxSbNimAcCpIRQtGkgSr-2-yzSfyLl",
       "cached": ""
@@ -2935,10 +3002,10 @@
     "name": "Scuttlebutt",
     "id": "scuttlebutt",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://scuttlebutt.nz/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -2960,9 +3027,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -2971,10 +3039,10 @@
     "name": "St Ethelburgas",
     "id": "st-ethelburgas",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://stethelburgas.org/",
+    "email": "",
     "logo": {
       "url": "https://stethelburgas.org/wp-content/themes/st-ethelburgas/images/green-icon-outline.svg",
       "cached": ""
@@ -2998,9 +3066,10 @@
       "Justine Huxley"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://stethelburgas.org/wp-content/themes/st-ethelburgas/images/green-icon-outline.svg",
       "cached": ""
@@ -3010,10 +3079,10 @@
     "name": "Anthroposophy",
     "id": "anthroposophy",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "http://www.alfaproject.org/what-is-a-steiner-education.html",
+    "email": "",
     "logo": {
       "url": "http://www.alfaproject.org/uploads/4/6/8/0/46805691/published/alfa-master-logo-transparent.png?1580810876",
       "cached": ""
@@ -3025,12 +3094,12 @@
     "tagline": "",
     "activity orig": "School",
     "activity": [
-      "Education & Training",
-      "Network & Community"
+      "education",
+      "network"
     ],
     "topic": [
-      "Inner Development",
-      "Community"
+      "development",
+      "community"
     ],
     "regions": "Ireland",
     "locations": [
@@ -3045,9 +3114,10 @@
       "Leo"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/RaheenWoodSteinerSecondarySchoolAlfa",
     "twitter": "",
     "instagram": "",
-    "facebook": "https://www.facebook.com/RaheenWoodSteinerSecondarySchoolAlfa",
+    "phone": "",
     "image": {
       "url": "http://www.alfaproject.org/uploads/4/6/8/0/46805691/published/alfa-master-logo-transparent.png?1580810876",
       "cached": ""
@@ -3057,10 +3127,10 @@
     "name": "Team Human",
     "id": "team-human",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://teamhuman.fm/",
+    "email": "",
     "logo": {
       "url": "https://cdn-images-1.medium.com/max/1198/1*OCcR4oPZqQ9FYmazKdcl8Q@2x.png",
       "cached": ""
@@ -3072,12 +3142,12 @@
     "tagline": "",
     "activity orig": "Podcast & Media (Douglas Rushkoff)",
     "activity": [
-      "Media",
-      "Network & Community"
+      "media",
+      "network"
     ],
     "topic": [
-      "Politics & Policy",
-      "Arts & culture"
+      "politics",
+      "arts"
     ],
     "regions": "",
     "locations": [
@@ -3090,9 +3160,10 @@
       "Douglas Rushkoff"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "http://twitter.com/teamhumanshow",
     "instagram": "http://instagram.com/teamhumanshow",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://cdn-images-1.medium.com/max/1198/1*OCcR4oPZqQ9FYmazKdcl8Q@2x.png",
       "cached": ""
@@ -3101,11 +3172,11 @@
   {
     "name": "Terran Collective",
     "id": "terran-collective",
-    "rd_1_focus": "",
-    "ch_focus": "Y",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.terran.io/",
+    "email": "",
     "logo": {
       "url": "https://www.terran.io/static/terran_collective_logo_blue-e8fef1da3d88b0b5eb9feebab7f012c0.svg",
       "cached": ""
@@ -3117,12 +3188,12 @@
     "tagline": "",
     "activity orig": "Community",
     "activity": [
-      "Network & Community",
-      "Spaces & Infrastructure"
+      "network",
+      "spaces"
     ],
     "topic": [
-      "Community",
-      "Technology & Blockchain"
+      "community",
+      "tech"
     ],
     "regions": "US",
     "locations": [
@@ -3137,9 +3208,10 @@
       "Aaron Brodeur and Dor Garbash"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/TerranCollective/",
     "twitter": "",
     "instagram": "",
-    "facebook": "https://www.facebook.com/TerranCollective/",
+    "phone": "",
     "image": {
       "url": "https://www.terran.io/static/terran_collective_logo_blue-e8fef1da3d88b0b5eb9feebab7f012c0.svg",
       "cached": ""
@@ -3149,10 +3221,10 @@
     "name": "The Emergence Network",
     "id": "the-emergence-network",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "http://www.emergencenetwork.org/",
+    "email": "",
     "logo": {
       "url": "http://www.emergencenetwork.org/wp-content/uploads/2017/06/Comp-2_1.gif",
       "cached": ""
@@ -3164,12 +3236,12 @@
     "tagline": "What if the way we respond to the crisis is part of the crisis?",
     "activity orig": "Research, Events, Media",
     "activity": [
-      "Activism & Advocacy",
-      "Research & Policy"
+      "advocacy",
+      "research"
     ],
     "topic": [
-      "Arts & culture",
-      "Politics & Policy"
+      "arts",
+      "politics"
     ],
     "regions": "India",
     "locations": [
@@ -3182,9 +3254,10 @@
       "Bayo Ako"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "http://www.emergencenetwork.org/wp-content/uploads/2017/06/Comp-2_1.gif",
       "cached": ""
@@ -3194,10 +3267,10 @@
     "name": "The Future is Beautiful",
     "id": "the-future-is-beautiful",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.thefutureisbeautiful.co/",
+    "email": "",
     "logo": {
       "url": "https://islington.impacthub.net/wp-content/uploads/2017/11/The-future-is-beautiful.png",
       "cached": ""
@@ -3209,12 +3282,12 @@
     "tagline": "",
     "activity orig": "Podcast",
     "activity": [
-      "Media",
-      "Events & Retreats"
+      "media",
+      "events"
     ],
     "topic": [
-      "Inner Development",
-      "Business & Work"
+      "development",
+      "business"
     ],
     "regions": "UK",
     "locations": [
@@ -3227,9 +3300,10 @@
       "Amisha Ghadiali"
     ],
     "notes_data_entry": "",
+    "facebook": "http://www.facebook.com/thefutureisbeautiful",
     "twitter": "http://www.twitter.com/thinkactvote",
     "instagram": "http://instagram.com/thefutureisbeautiful",
-    "facebook": "http://www.facebook.com/thefutureisbeautiful",
+    "phone": "",
     "image": {
       "url": "https://i1.wp.com/www.thefutureisbeautiful.co/wp-content/uploads/2020/03/The-Vision-Wisdom-Activism-We-Need-3.png?w=828&ssl=1"
     }
@@ -3238,10 +3312,10 @@
     "name": "The Mindfulness Project",
     "id": "the-mindfulness-project",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.mindfulness-project.org/",
+    "email": "",
     "logo": {
       "url": "https://www.mindfulness-project.org/wp-content/uploads/2018/04/logoWhite1.jpg",
       "cached": ""
@@ -3253,12 +3327,12 @@
     "tagline": "",
     "activity orig": "Events, Courses",
     "activity": [
-      "Events & Retreats",
-      "Education & Training"
+      "events",
+      "education"
     ],
     "topic": [
-      "Inner Development",
-      "Health & Well-being"
+      "development",
+      "wellbeing"
     ],
     "regions": "Germany",
     "locations": [
@@ -3269,9 +3343,10 @@
     "active": "Y",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/mindfulnessprojectthailand",
     "twitter": "",
     "instagram": "https://www.instagram.com/mindfulnessprojectthailand/",
-    "facebook": "https://www.facebook.com/mindfulnessprojectthailand",
+    "phone": "",
     "image": {
       "url": "https://www.mindfulness-project.org/wp-content/uploads/2018/04/logoWhite1.jpg",
       "cached": ""
@@ -3281,10 +3356,10 @@
     "name": "The Re.Generation",
     "id": "the-re.generation",
     "rd_1_focus": "",
-    "ch_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://theregeneration.me/",
+    "email": "",
     "logo": {
       "url": "http://theregeneration.me/wp-content/uploads/2019/06/regen-logo-temporary.png",
       "cached": ""
@@ -3296,12 +3371,12 @@
     "tagline": "Respect, Restore, Regenerate",
     "activity orig": "Media Platform, Courses, Events",
     "activity": [
-      "Media",
-      "Events & Retreats"
+      "media",
+      "events"
     ],
     "topic": [
-      "Health & Well-being",
-      "Community"
+      "wellbeing",
+      "community"
     ],
     "regions": "Europe",
     "locations": [
@@ -3317,9 +3392,10 @@
       "Libby Davy"
     ],
     "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/TheReGeneration.me",
     "twitter": "",
     "instagram": "https://www.instagram.com/the.re.generation/",
-    "facebook": "https://www.facebook.com/TheReGeneration.me",
+    "phone": "",
     "image": {
       "url": "http://theregeneration.me/wp-content/uploads/2019/06/regen-logo-temporary.png",
       "cached": ""
@@ -3328,11 +3404,11 @@
   {
     "name": "The School of Life",
     "id": "the-school-of-life",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.theschooloflife.com/",
+    "email": "",
     "logo": {
       "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDir5SBmh9dA/company-logo_200_200/0?e=2159024400&v=beta&t=bF-hCBxtonLXkO2ddg5VT4Txng2qTS2uVpdJ1q1ivbw",
       "cached": ""
@@ -3354,9 +3430,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDir5SBmh9dA/company-logo_200_200/0?e=2159024400&v=beta&t=bF-hCBxtonLXkO2ddg5VT4Txng2qTS2uVpdJ1q1ivbw",
       "cached": ""
@@ -3365,11 +3442,11 @@
   {
     "name": "The Tyringham Initiative",
     "id": "the-tyringham-initiative",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://tyringhaminitiative.com/",
+    "email": "",
     "logo": {
       "url": "https://tyringham.wpengine.com/wp-content/uploads/2018/05/Tyringham-EYE-White-Thick-lines-400.png",
       "cached": ""
@@ -3395,9 +3472,10 @@
       "Graham Hancock"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://tyringham.wpengine.com/wp-content/uploads/2018/05/Tyringham-EYE-White-Thick-lines-400.png",
       "cached": ""
@@ -3406,11 +3484,11 @@
   {
     "name": "The Wellbeing Project",
     "id": "the-wellbeing-project",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "http://wellbeing-project.org/",
+    "email": "",
     "logo": {
       "url": "http://wellbeing-project.org/wp-content/uploads/2017/12/wbp_header_logo-1.png",
       "cached": ""
@@ -3432,9 +3510,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "http://wellbeing-project.org/wp-content/uploads/2017/12/wbp_header_logo-1.png",
       "cached": ""
@@ -3443,11 +3522,11 @@
   {
     "name": "This Is Not The Truth",
     "id": "this-is-not-the-truth",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.facebook.com/thisisnotthetruth/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/40065068_2173070552951656_6507638024883404800_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=0C1z0g1yzg8AX9DjFwr&_nc_ht=scontent.fbhx4-1.fna&oh=a63e77114ad80c493bdfc84e7711d160&oe=6182C98D",
       "cached": ""
@@ -3471,9 +3550,10 @@
       "Maria Clara Parente"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/40065068_2173070552951656_6507638024883404800_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=0C1z0g1yzg8AX9DjFwr&_nc_ht=scontent.fbhx4-1.fna&oh=a63e77114ad80c493bdfc84e7711d160&oe=6182C98D",
       "cached": ""
@@ -3483,10 +3563,10 @@
     "name": "Triratna (Buddhafield)",
     "id": "triratna-(buddhafield)",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "www.thebuddhistcentre.com",
+    "email": "",
     "logo": {
       "url": "https://maltamindfulnesscentrecom.files.wordpress.com/2020/06/logo-new.jpg?w=683",
       "cached": ""
@@ -3510,9 +3590,10 @@
       "Jai Raja"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://maltamindfulnesscentrecom.files.wordpress.com/2020/06/logo-new.jpg?w=683",
       "cached": ""
@@ -3522,10 +3603,10 @@
     "name": "Ulex Project",
     "id": "ulex-project",
     "rd_1_focus": "",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://ulexproject.org/",
+    "email": "",
     "logo": {
       "url": "https://ulexproject.org/wp-content/uploads/2016/10/ulex-new-logo.png",
       "cached": ""
@@ -3547,9 +3628,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://ulexproject.org/wp-content/uploads/2016/10/ulex-new-logo.png",
       "cached": ""
@@ -3559,10 +3641,10 @@
     "name": "WakeUp",
     "id": "wakeup",
     "rd_1_focus": "",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "http://wkup.org",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/3702617769/503b58b72747ff46583c05abd212e8be_400x400.jpeg",
       "cached": ""
@@ -3587,9 +3669,10 @@
       "Esteban (retired)"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/3702617769/503b58b72747ff46583c05abd212e8be_400x400.jpeg",
       "cached": ""
@@ -3599,10 +3682,10 @@
     "name": "Wisdom 2.0",
     "id": "wisdom-2.0",
     "rd_1_focus": "Y",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "http://www.wisdom2summit.com",
+    "email": "",
     "logo": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbITdjnu-S3BauuN4oolmRTSs59wCTOEAhLglOSDOQQyCtKQst",
       "cached": ""
@@ -3624,9 +3707,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbITdjnu-S3BauuN4oolmRTSs59wCTOEAhLglOSDOQQyCtKQst",
       "cached": ""
@@ -3636,10 +3720,10 @@
     "name": "Wisdom Hackers",
     "id": "wisdom-hackers",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "inactive ~rufus",
     "info_status": "",
     "url": "http://www.wisdomhackers.com/",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -3659,9 +3743,10 @@
     "active": "No",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -3669,11 +3754,11 @@
   {
     "name": "World Future Council",
     "id": "world-future-council",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.worldfuturecouncil.org/",
+    "email": "",
     "logo": {
       "url": "https://www.worldfuturecouncil.org/wp-content/uploads/2016/02/wfclogo_voiceoffg-02-02-02.png",
       "cached": ""
@@ -3697,9 +3782,10 @@
       "Otto Sharmer"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.worldfuturecouncil.org/wp-content/uploads/2016/02/wfclogo_voiceoffg-02-02-02.png",
       "cached": ""
@@ -3708,11 +3794,11 @@
   {
     "name": "Under the Skin Podcast",
     "id": "under-the-skin-podcast",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.russellbrand.com/podcasts/",
+    "email": "",
     "logo": {
       "url": "https://www.russellbrand.com/wp-content/uploads/2021/03/rb-logo-retina3.png",
       "cached": ""
@@ -3734,9 +3820,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.russellbrand.com/wp-content/uploads/2021/03/rb-logo-retina3.png",
       "cached": ""
@@ -3746,10 +3833,10 @@
     "name": "Joe Rogan Experience Podcast",
     "id": "joe-rogan-experience-podcast",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -3771,9 +3858,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -3781,11 +3869,11 @@
   {
     "name": "Consciousness Hacking",
     "id": "consciousness-hacking",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.cohack.org/",
+    "email": "",
     "logo": {
       "url": "https://media-exp1.licdn.com/dms/image/C560BAQEuKNl5_HjTCA/company-logo_200_200/0/1519866732271?e=2159024400&v=beta&t=IoBMsr3fXHIHNX_VTQCVibD7gQ_XD2h8GmQ4PSeccE0",
       "cached": ""
@@ -3807,9 +3895,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://media-exp1.licdn.com/dms/image/C560BAQEuKNl5_HjTCA/company-logo_200_200/0/1519866732271?e=2159024400&v=beta&t=IoBMsr3fXHIHNX_VTQCVibD7gQ_XD2h8GmQ4PSeccE0",
       "cached": ""
@@ -3818,11 +3907,11 @@
   {
     "name": "The Quadrangle",
     "id": "the-quadrangle",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://thequadrangle.co/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.18169-9/28031_423394197723549_1546410726_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dIQBunluEzkAX8yY9RX&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-1.fna&oh=977fc1749b3f4fc52232460c0458be0d&oe=6182D44B",
       "cached": ""
@@ -3844,9 +3933,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/49514473_2071578226238463_7960975037098360832_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=TfWUnWhLBxwAX_rEVMJ&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=1d85a36073429d5873392fcb66ce21e9&oe=618372C5"
     }
@@ -3855,10 +3945,10 @@
     "name": "The Psychedelic Society",
     "id": "the-psychedelic-society",
     "rd_1_focus": "YY",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://psychedelicsociety.org.uk/",
+    "email": "",
     "logo": {
       "url": "https://images.squarespace-cdn.com/content/v1/5e2f0ae503b587720e341f5b/1591632113636-YXD1IT9U0P87S9WCSVXG/Logo-Colour.png?format=1500w",
       "cached": ""
@@ -3880,9 +3970,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://images.squarespace-cdn.com/content/v1/5e2f0ae503b587720e341f5b/1591632113636-YXD1IT9U0P87S9WCSVXG/Logo-Colour.png?format=1500w",
       "cached": ""
@@ -3891,11 +3982,11 @@
   {
     "name": "Buddhafield",
     "id": "buddhafield",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.buddhafield.com/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/131315740_10164709908445597_218588957163229194_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zrloYXnWWHwAX-jD2rs&_nc_ht=scontent.fbhx4-1.fna&oh=b0d40470924fcc12ac16961770323c98&oe=61844B67",
       "cached": ""
@@ -3917,9 +4008,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/131315740_10164709908445597_218588957163229194_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=zrloYXnWWHwAX-jD2rs&_nc_ht=scontent.fbhx4-1.fna&oh=b0d40470924fcc12ac16961770323c98&oe=61844B67",
       "cached": ""
@@ -3929,10 +4021,10 @@
     "name": "Nesta",
     "id": "nesta",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.nesta.org.uk/",
+    "email": "",
     "logo": {
       "url": "https://media.nesta.org.uk/images/nesta_vertical_logo_rgb.max-1200x600.jpg",
       "cached": ""
@@ -3954,9 +4046,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://media.nesta.org.uk/images/nesta_vertical_logo_rgb.max-1200x600.jpg",
       "cached": ""
@@ -3966,10 +4059,10 @@
     "name": "Impact Hub",
     "id": "impact-hub",
     "rd_1_focus": "N",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://impacthub.net/",
+    "email": "",
     "logo": {
       "url": "https://impacthub.net/wp-content/uploads/2017/10/logo-main.svg",
       "cached": ""
@@ -3991,9 +4084,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://impacthub.net/wp-content/uploads/2017/10/logo-main.svg",
       "cached": ""
@@ -4002,11 +4096,11 @@
   {
     "name": "Centre for the Understanding of Sustainable Prosperity",
     "id": "centre-for-the-understanding-of-sustainable-prosperity",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.cusp.ac.uk/",
+    "email": "",
     "logo": {
       "url": "https://weall.org/wp-content/uploads/CUSP.jpg",
       "cached": ""
@@ -4028,9 +4122,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://weall.org/wp-content/uploads/CUSP.jpg",
       "cached": ""
@@ -4039,11 +4134,11 @@
   {
     "name": "Burning Man",
     "id": "burning-man",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://burningman.org",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -4063,9 +4158,10 @@
     "active": "",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
@@ -4073,11 +4169,11 @@
   {
     "name": "Theos Think Tank",
     "id": "theos-think-tank",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.theosthinktank.co.uk/",
+    "email": "",
     "logo": {
       "url": "https://yt3.ggpht.com/ytc/AKedOLSvKFmaUTN9i-PTAOk1j8vv5K_wp_Rm55kHymapGA=s900-c-k-c0x00ffffff-no-rj",
       "cached": ""
@@ -4099,9 +4195,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://yt3.ggpht.com/ytc/AKedOLSvKFmaUTN9i-PTAOk1j8vv5K_wp_Rm55kHymapGA=s900-c-k-c0x00ffffff-no-rj",
       "cached": ""
@@ -4110,11 +4207,11 @@
   {
     "name": "Sounds True",
     "id": "sounds-true",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.soundstrue.com/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/46463266_10156766594749719_2793391599118188544_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=cuKIh72LdoQAX8ceeVN&_nc_ht=scontent.fbhx4-2.fna&oh=c5d45d4f183204d00b9693e832fec065&oe=61856485",
       "cached": ""
@@ -4136,9 +4233,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.6435-9/46458072_10156766593164719_5327771033627787264_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=e3f864&_nc_ohc=dY5B4FRgkesAX_sqICb&_nc_ht=scontent.fbhx4-1.fna&oh=f1f4ce5e01234c887c30f94cf3dc7ea3&oe=618357FE"
     }
@@ -4146,11 +4244,11 @@
   {
     "name": "Alternatives UK",
     "id": "alternatives-uk",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.alternatives.org.uk/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.18169-9/12289748_950773981625648_4885802080062041185_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=p0iCCOtwDSEAX8N5x9v&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=d0631c92efcf193bfd0115e4cb8ba32f&oe=61833FB6",
       "cached": ""
@@ -4172,9 +4270,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.18169-9/12289748_950773981625648_4885802080062041185_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=p0iCCOtwDSEAX8N5x9v&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=d0631c92efcf193bfd0115e4cb8ba32f&oe=61833FB6",
       "cached": ""
@@ -4183,11 +4282,11 @@
   {
     "name": "Waking up with Sam Harris",
     "id": "waking-up-with-sam-harris",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://wakingup.com/",
+    "email": "",
     "logo": {
       "url": "https://samharris.org/wp-content/uploads/2018/01/Waking-Up-wide.jpg",
       "cached": ""
@@ -4209,9 +4308,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://samharris.org/wp-content/uploads/2018/01/Waking-Up-wide.jpg",
       "cached": ""
@@ -4220,11 +4320,11 @@
   {
     "name": "Science and Nonduality (SAND)",
     "id": "science-and-nonduality",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.scienceandnonduality.com/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/49133846_2242993802417321_6750647338915594240_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GuX8rgZLRtMAX9zlOM-&_nc_ht=scontent.fbhx4-2.fna&oh=6aa34ce49d1966ff119da1d9b3daab40&oe=6184B47D",
       "cached": ""
@@ -4246,9 +4346,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/49133846_2242993802417321_6750647338915594240_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GuX8rgZLRtMAX9zlOM-&_nc_ht=scontent.fbhx4-2.fna&oh=6aa34ce49d1966ff119da1d9b3daab40&oe=6184B47D",
       "cached": ""
@@ -4257,11 +4358,11 @@
   {
     "name": "Evidence-based wisdom",
     "id": "evidence-based-wisdom",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://evidencebasedwisdom.com/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.18169-9/17362697_185868608577871_8740154654562142983_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GVh364mprXQAX9Wj4hm&_nc_ht=scontent.fbhx4-1.fna&oh=eb5917e1d1ed5f01b2eb6ca4f6f49031&oe=6181C9C2",
       "cached": ""
@@ -4283,9 +4384,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-1.fna.fbcdn.net/v/t1.18169-9/17362697_185868608577871_8740154654562142983_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=GVh364mprXQAX9Wj4hm&_nc_ht=scontent.fbhx4-1.fna&oh=eb5917e1d1ed5f01b2eb6ca4f6f49031&oe=6181C9C2",
       "cached": ""
@@ -4294,11 +4396,11 @@
   {
     "name": "How The Light Gets In",
     "id": "how-the-light-gets-in",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://howthelightgetsin.org/",
+    "email": "",
     "logo": {
       "url": "https://pbs.twimg.com/profile_images/1248211971809218560/xESdClqz_400x400.jpg",
       "cached": ""
@@ -4320,9 +4422,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://pbs.twimg.com/profile_images/1248211971809218560/xESdClqz_400x400.jpg",
       "cached": ""
@@ -4331,11 +4434,11 @@
   {
     "name": "Raising Free People Network",
     "id": "raising-free-people-network",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.raisingfreepeople.com/",
+    "email": "",
     "logo": {
       "url": "https://i0.wp.com/raisingfreepeople.com/wp-content/uploads/2020/03/RFP-logo.png?fit=903%2C307&ssl=1",
       "cached": ""
@@ -4355,9 +4458,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://i0.wp.com/raisingfreepeople.com/wp-content/uploads/2020/03/RFP-logo.png?fit=903%2C307&ssl=1",
       "cached": ""
@@ -4366,11 +4470,11 @@
   {
     "name": "Reasons to be cheerful",
     "id": "reasons-to-be-cheerful",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://reasonstobecheerful.world/",
+    "email": "",
     "logo": {
       "url": "https://reasonstobecheerful.world/wp-content/uploads/2019/08/RTBC_Logo.svg",
       "cached": ""
@@ -4392,9 +4496,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://reasonstobecheerful.world/wp-content/uploads/2019/08/RTBC_Logo.svg",
       "cached": ""
@@ -4403,11 +4508,11 @@
   {
     "name": "Aeon Magazine",
     "id": "aeon-magazine",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://aeon.co/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/96551666_3830107890397592_7712776285881106432_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=D1v8TkDAlGEAX9wo9cB&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=cf049264ea2c42b47643849eb98471bb&oe=61828667",
       "cached": ""
@@ -4431,9 +4536,10 @@
       "Sally Davies - deputy editor"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/96551666_3830107890397592_7712776285881106432_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=D1v8TkDAlGEAX9wo9cB&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=cf049264ea2c42b47643849eb98471bb&oe=61828667",
       "cached": ""
@@ -4442,11 +4548,11 @@
   {
     "name": "The fourth group",
     "id": "the-fourth-group",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://thefourthgroup.org/",
+    "email": "",
     "logo": {
       "url": "https://thefourthgroup.org/wp-content/uploads/2016/09/cropped-13412938_538067403059935_5536971427479769527_n-2.jpg",
       "cached": ""
@@ -4468,9 +4574,10 @@
     "active": "Not obviously",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://thefourthgroup.org/wp-content/uploads/2016/09/cropped-13412938_538067403059935_5536971427479769527_n-2.jpg",
       "cached": ""
@@ -4479,11 +4586,11 @@
   {
     "name": "Global Conscious Movement",
     "id": "global-conscious-movement",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.globalconscious.co.uk/",
+    "email": "",
     "logo": {
       "url": "https://static.wixstatic.com/media/d4e341_7266cbe9f60d4ad287d74f663ef3b6fd~mv2.png/v1/fill/w_796,h_200,al_c,q_85,usm_0.66_1.00_0.01/GCM%20Logo_Black.webp",
       "cached": ""
@@ -4505,9 +4612,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://static.wixstatic.com/media/d4e341_7266cbe9f60d4ad287d74f663ef3b6fd~mv2.png/v1/fill/w_796,h_200,al_c,q_85,usm_0.66_1.00_0.01/GCM%20Logo_Black.webp",
       "cached": ""
@@ -4516,11 +4624,11 @@
   {
     "name": "Sunday Assembly",
     "id": "sunday-assembly",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.sundayassembly.com/",
+    "email": "",
     "logo": {
       "url": "https://www.sundayassembly.com/wp-content/uploads/2021/04/logo-white.png",
       "cached": ""
@@ -4542,9 +4650,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.sundayassembly.com/wp-content/uploads/2021/04/logo-white.png",
       "cached": ""
@@ -4554,10 +4663,10 @@
     "name": "Global Witness",
     "id": "global-witness",
     "rd_1_focus": "NN",
-    "ch_focus": "",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.globalwitness.org/",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.18169-9/15192626_1220720957989223_9082972287758755747_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=CoXXGmMOP_4AX_kNtJJ&_nc_ht=scontent.fbhx4-2.fna&oh=6f9689a3ea37e7d477f6519eeabbf80d&oe=6183B379",
       "cached": ""
@@ -4579,9 +4688,10 @@
     "active": "Yes",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.18169-9/15192626_1220720957989223_9082972287758755747_n.png?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=CoXXGmMOP_4AX_kNtJJ&_nc_ht=scontent.fbhx4-2.fna&oh=6f9689a3ea37e7d477f6519eeabbf80d&oe=6183B379",
       "cached": ""
@@ -4590,11 +4700,11 @@
   {
     "name": "Do One Better Podcast",
     "id": "do-one-better-podcast",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.lidji.org/",
+    "email": "",
     "logo": {
       "url": "https://static.wixstatic.com/media/b2a84d_c3f58fa92b4d431b9c073e83600c33e0~mv2_d_1400_1400_s_2.jpeg/v1/fill/w_418,h_418,al_c,q_80,usm_0.66_1.00_0.01/Do%20One%20Better%20Podcast%20Logo%201400.webp",
       "cached": ""
@@ -4618,9 +4728,10 @@
       "Alberto Lidji"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://static.wixstatic.com/media/b2a84d_c3f58fa92b4d431b9c073e83600c33e0~mv2_d_1400_1400_s_2.jpeg/v1/fill/w_418,h_418,al_c,q_80,usm_0.66_1.00_0.01/Do%20One%20Better%20Podcast%20Logo%201400.webp",
       "cached": ""
@@ -4629,11 +4740,11 @@
   {
     "name": "Gift of Compassion",
     "id": "gift-of-compassion",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://gocompassion.org/",
+    "email": "",
     "logo": {
       "url": "https://gocompassion.org/wp-content/uploads/2021/02/logo-gift-of-compassion.svg",
       "cached": ""
@@ -4657,9 +4768,10 @@
       "Angela Oh"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://gocompassion.org/wp-content/uploads/2021/02/logo-gift-of-compassion.svg",
       "cached": ""
@@ -4668,14 +4780,14 @@
   {
     "name": "Alter Ego",
     "id": "alter-ego",
-    "rd_1_focus": "?",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "IMAGE",
     "url": "https://alterego.network/",
+    "email": "",
     "logo": {
-      "url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-9/29694443_163253617723118_6014373808351466630_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=IhZQbDRy9Q4AX95ibEd&_nc_ht=scontent-cdt1-1.xx&oh=0a1cbd6242b41d8aa0b29a4739e8cd6b&oe=613EFA6B",
-      "cached": ""
+      "url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-9/29694443_163253617723118_6014373808351466630_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7hGynqDtAqIAX9-ef2K&_nc_ht=scontent-cdt1-1.xx&oh=281ce9177e2a20b81888364b5658af60&oe=61B1ACEB",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636559410/Ecosystem%20Mapping/29694443_163253617723118_6014373808351466630_n_vdukjr.jpg"
     },
     "image_homepage": {
       "url": ""
@@ -4696,22 +4808,23 @@
       "Ronan Harrington"
     ],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
-      "url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-9/29694443_163253617723118_6014373808351466630_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=IhZQbDRy9Q4AX95ibEd&_nc_ht=scontent-cdt1-1.xx&oh=0a1cbd6242b41d8aa0b29a4739e8cd6b&oe=613EFA6B",
-      "cached": ""
+      "url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-9/29694443_163253617723118_6014373808351466630_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7hGynqDtAqIAX9-ef2K&_nc_ht=scontent-cdt1-1.xx&oh=281ce9177e2a20b81888364b5658af60&oe=61B1ACEB",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636559410/Ecosystem%20Mapping/29694443_163253617723118_6014373808351466630_n_vdukjr.jpg"
     }
   },
   {
     "name": "Institute of Noetic Sciences",
     "id": "institute-of-noetic-sciences",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "N",
     "focus_notes": "",
     "info_status": "",
     "url": "https://noetic.org",
+    "email": "",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/61256861_2161029123945344_3241801320285339648_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9wZYkZ0Kf6QAX9sna9t&_nc_ht=scontent.fbhx4-2.fna&oh=bf451f6ff91d9828e088e9413fc2680f&oe=6182E8F1",
       "cached": ""
@@ -4731,9 +4844,10 @@
     "active": "",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/61256861_2161029123945344_3241801320285339648_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=9wZYkZ0Kf6QAX9sna9t&_nc_ht=scontent.fbhx4-2.fna&oh=bf451f6ff91d9828e088e9413fc2680f&oe=6182E8F1",
       "cached": ""
@@ -4742,11 +4856,11 @@
   {
     "name": "Commonweal",
     "id": "commonweal",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://commonweal.org",
+    "email": "",
     "logo": {
       "url": "https://www.commonweal.org/app/themes/cwl19/dist/images/commonweal_logo-light_bbcb3626.svg",
       "cached": ""
@@ -4766,9 +4880,10 @@
     "active": "",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": "https://www.commonweal.org/app/themes/cwl19/dist/images/commonweal_logo-light_bbcb3626.svg",
       "cached": ""
@@ -4777,11 +4892,11 @@
   {
     "name": "Brave Earth",
     "id": "brave-earth",
-    "rd_1_focus": "",
-    "ch_focus": "",
+    "rd_1_focus": "Y",
     "focus_notes": "",
     "info_status": "",
     "url": "https://www.braveearth.com",
+    "email": "",
     "logo": {
       "url": "",
       "cached": ""
@@ -4801,9 +4916,10 @@
     "active": "",
     "people": [],
     "notes_data_entry": "",
+    "facebook": "",
     "twitter": "",
     "instagram": "",
-    "facebook": "",
+    "phone": "",
     "image": {
       "url": ""
     }
