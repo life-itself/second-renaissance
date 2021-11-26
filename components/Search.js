@@ -6,7 +6,11 @@ import topics from '../data/topic.json'
 import activitys from '../data/activity.json'
 import OrgList from '../components/OrgList.js'
 
-
+/** JS search component
+  Use 2 search systems:
+  1. Fuse: for general text search
+  2. ItemJS: for faceting etc. We disable its native search and use Fuse for that as better
+  **/
 export default function Search({ orgs }) {
   const facets = [
     {
