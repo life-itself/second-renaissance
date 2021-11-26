@@ -37,33 +37,33 @@ export function transformOrg(org) {
   org.activity = [org.activity, org.activity_2].filter(item => item)
   org.topic = [org.topic, org.topic_2, org.topic_3].filter(item => item)
   org.logo = {
-    url: org.logo,
-    cached: org.logo_cached
+    url: org['logo.url'],
+    cached: org['logo.cached']
   }
   org.image_homepage = {
     url: org.image_homepage
   }
+  org.image = {
+    url: org['image.url'],
+    cached: org['image.cached']
+  }
   org.locations = org.locations ? org.locations.split(';').map(loc => loc.trim()) : []
   org.people = org.people ? org.people.split(',').map(loc => loc.trim()) : []
-  if (org.image_curated) {
-    org.image = {
-      url: org.image_curated
-    }
-  } else if (org.logo.url) {
-    org.image = org.logo
-  } else if (org.image_homepage.url) {
-    org.image = org.image_homepage
-  } else {
-    org.image = {
-      url: ''
+  if (!org.image.url) {
+    if (org.logo.url) {
+      org.image = org.logo
+    } else if (org.image_homepage.url) {
+      org.image = org.image_homepage
     }
   }
   const toRemove = [
     'activity_2',
     'topic_2',
     'topic_3',
-    'logo_cached',
-    'image_curated'
+    'logo.url',
+    'logo.cached',
+    'image.url',
+    'image.cached',
   ]
   toRemove.forEach(e => delete org[e]);
   return org
