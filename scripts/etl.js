@@ -34,6 +34,9 @@ export async function transform() {
 }
 
 export function transformOrg(org) {
+  if (!org.id) {
+    console.warn(`Organization without ID: ${org.name}`)
+  }
   org.activity = [org.activity, org.activity_2].filter(item => item)
   org.topic = [org.topic, org.topic_2, org.topic_3].filter(item => item)
   org.logo = {
