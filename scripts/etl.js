@@ -38,7 +38,7 @@ export function transformOrg(org) {
     console.warn(`Organization without ID: ${org.name}`)
   }
   org.activity = [org.activity, org.activity_2].filter(item => item)
-  org.topic = [org.topic, org.topic_2, org.topic_3].filter(item => item)
+  org.topic = [org.topic, org.topic_2].filter(item => item)
   org.logo = {
     url: org['logo.url'],
     cached: org['logo.cached']
@@ -62,7 +62,6 @@ export function transformOrg(org) {
   const toRemove = [
     'activity_2',
     'topic_2',
-    'topic_3',
     'logo.url',
     'logo.cached',
     'image.url',

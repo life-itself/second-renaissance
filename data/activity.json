@@ -7,13 +7,6 @@
     "emoji": ""
   },
   {
-    "id": "art",
-    "name": "Art",
-    "description": "Creation of artistic works (including visual, literary, videographic etc).",
-    "image": "https://images.unsplash.com/photo-1459908676235-d5f02a50184b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGFydHN8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
-    "emoji": ""
-  },
-  {
     "id": "business",
     "name": "Business & Consulting",
     "description": "Running a paid business or working with clients as a consultant",
@@ -50,8 +43,8 @@
   },
   {
     "id": "network",
-    "name": "Network & Community",
-    "description": "Operating and sustaining a network or community of aligned actors.",
+    "name": "Networks & Forums",
+    "description": "Operating and sustaining a network or online forum to connect aligned actors.",
     "image": "https://images.unsplash.com/photo-1566443280617-35db331c54fb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bmV0d29ya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
     "emoji": ""
   },
@@ -64,7 +57,7 @@
   },
   {
     "id": "spaces",
-    "name": "Spaces & Infrastructure",
+    "name": "Community Spaces",
     "description": "Creating spaces and infrastructure to enable and support conscious collectives and community.\n\n* Physical spaces: Co-living, Co-working, Sangha/retreats. Includes community building around that.\n* Infrastructure & support. Software (e.g. for non-hierarchical, flexible organisations)\n* Online spaces: Forums, Online communities (e.g. facebook groups)",
     "image": "",
     "emoji": ""

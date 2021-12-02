@@ -21,8 +21,8 @@
     "emoji": ""
   },
   {
-    "id": "business",
-    "name": "Business & Work",
+    "id": "work",
+    "name": "Future of work",
     "description": "Innovating the world of work, including through new methods and approaches to business and organisational mamagement.",
     "image": "",
     "emoji": ""
@@ -50,8 +50,8 @@
   },
   {
     "id": "politics",
-    "name": "Politics & Policy",
-    "description": "Engaging with the mainstream politics, creating policies and innovating political processes and systems. ",
+    "name": "Politics & Economics",
+    "description": "Engaging with existing political and economic systems, creating policies and innovating new approaches to politics and economics.",
     "image": "",
     "emoji": ""
   },
@@ -66,13 +66,6 @@
     "id": "governance",
     "name": "Governance & Institutions",
     "description": "Devising new forms of governance and institutions to support alternative social paradigms. ",
-    "image": "",
-    "emoji": ""
-  },
-  {
-    "id": "science",
-    "name": "Science",
-    "description": "Use of scientific methods and scientific knowledge to support social change and underpin new social paradigms.",
     "image": "",
     "emoji": ""
   }
