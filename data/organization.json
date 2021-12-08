@@ -1587,7 +1587,7 @@
     "tagline": "",
     "inner": "0.8",
     "cultural": "0.2",
-    "systems": "",
+    "systems": "0",
     "activity orig": "Retreat Organisation, Events",
     "activity": [
       "events",
@@ -1902,9 +1902,9 @@
     "images_extra": "",
     "description": "Gaia House is a silent meditation retreat centre, a sanctuary of contemplative calm set amongst the gentle hills and quiet woodlands of South Devon. \n\nWe warmly welcome all people of every age, ethnicity, cultural heritage and religious background, socio-economic group, sexual orientation and gender identity, and we are actively working to investigate and remove barriers to inclusion.",
     "tagline": "",
-    "inner": "0",
+    "inner": "1",
     "cultural": "0",
-    "systems": "1",
+    "systems": "0",
     "activity orig": "Retreat Centre",
     "activity": [
       "events",
@@ -1958,8 +1958,8 @@
     "description": "We're gaining the power of gods, but without the love, wisdom and discernment of gods—that is a self-extinctionary scenario. \n\nWelcome to Game B, a transcontextual inquiry into a new social operating system for humanity. \n\nGame A is what got us to this time of metacrisis and collapse. Game B is what emerges in response. \n\nCome play with us as we learn to become wiser, together, gain coherence and begin to move towards a new social operating system emphasizing human wellbeing, metastability, and built on good values that we will be happy to call home and we will be proud to leave to our descendants.",
     "tagline": "",
     "inner": "0",
-    "cultural": "0",
-    "systems": "1",
+    "cultural": "0.3",
+    "systems": "0.7",
     "activity orig": "Online Forum/Community",
     "activity": [
       "network",
@@ -2011,9 +2011,9 @@
     "images_extra": "",
     "description": "HOME is a school where we study the mess the world is in, not as a set of discrete problems to be solved, but as a tangled and humbling predicament. \n\nWe learn from artists, philosophers, community builders, improvisors, historians and poets. Looking for a term to bridge these worlds, we call ourselves a school for culturemakers. We cultivate the art of invitation, hospitality and friendship, finding here the seeds of other ways of being human together.\n\nHOME is a school that grows out of the conversations we bring together around our kitchen table. It’s a learning community and a gathering place for those who are drawn to the work of regrowing a living culture.\n\nIt’s the fruit of the projects we led, the books we read, the organisations we built, the people we learned with and the friendships that formed us over the past two decades.\n\nAnd it’s a new beginning. Something we’re figuring out together as we go along, with the help of that web of friends and collaborators.\n\nHOME is a school the shape of a pocket. An air-pocket. A breathing space. A pocket of resistance and hope.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.2",
+    "cultural": "0.8",
+    "systems": "0",
     "activity orig": "Education/School",
     "activity": [
       "education",
@@ -2021,7 +2021,7 @@
     ],
     "topic": [
       "community",
-      "ecology"
+      "development"
     ],
     "regions": "Sweden",
     "locations": [
@@ -2065,9 +2065,9 @@
     "images_extra": "",
     "description": "Integral Life is a member-driven digital media community that supports the growth, education and application of Integral Philosophy and integrative metatheory to complex issues in the 21st century. \n\nIntegral Life offers perspectives, practices, analysis and community to help people grow into the full  capacities of integral consciousness in order to thrive in a rapidly-evolving world.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.7",
+    "cultural": "0.3",
+    "systems": "0",
     "activity orig": "Talks, papers, videos, podcasts",
     "activity": [
       "media",
@@ -2116,17 +2116,17 @@
     "images_extra": "",
     "description": "Integral Zen started in about 2005, in Denver Colorado, 18 blocks from the Ken Wilber residence. Our local Zen community (Sangha) in Denver was a laboratory where we experimented. \n\nWe experimented with ways that we can add things to this exquisite waking up Dharma, the Buddhist Dharma, the Zen lineage, the teachings of 2,600 years, and more. Integral Zen is about breaking your heart open so you can take home this connection to selfless compassion and share it with those that you love.\n\nThe Mission of Integral Zen is to offer an evolutionary path to awakening and full human fulfillment, based on the teachings and practices of Rinzai Zen, and our root teachers Soen Roshi, Eido Roshi, Jun Po Roshi, and the collected works and wisdom of the integral philosopher Ken Wilber. This living community is non-dogmatic in its philosophy, and open to the evolution of its own processes and instructions.",
     "tagline": "",
-    "inner": "",
+    "inner": "1",
     "cultural": "",
-    "systems": "1",
+    "systems": "0",
     "activity orig": "Community",
     "activity": [
-      "network",
-      "events"
+      "events",
+      "education"
     ],
     "topic": [
       "spirituality",
-      "community"
+      "development"
     ],
     "regions": "US",
     "locations": [
@@ -2171,12 +2171,17 @@
     "images_extra": "",
     "description": "",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.2",
+    "cultural": "0.7",
+    "systems": "0.1",
     "activity orig": "Collaborative Physical Space, Events",
-    "activity": [],
-    "topic": [],
+    "activity": [
+      "spaces"
+    ],
+    "topic": [
+      "community",
+      "wellbeing"
+    ],
     "regions": "",
     "locations": [
       "Sweden"
@@ -2218,13 +2223,13 @@
     "images_extra": "",
     "description": "Curating Content To Support Learning About Our Civilization's Transition.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.5",
+    "cultural": "0.5",
+    "systems": "0",
     "activity orig": "Online platform",
     "activity": [
       "media",
-      "network"
+      "education"
     ],
     "topic": [
       "development",
@@ -2269,17 +2274,17 @@
     "images_extra": "",
     "description": "The Liminal Village is a co-living co-creation-space in a networked-rural setting, where we experiment with holistic and alternative technologies to co-create open-source and globally applicable solutions using Blockchain, Artificial Intelligence, Permaculture, Pain Medicine. \n\nIt is a place without spectators, as all the guests participate in the creation of the program, giving talks and workshops about their knowledge or passions.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.5",
+    "cultural": "0.3",
+    "systems": "0.2",
     "activity orig": "",
     "activity": [
       "spaces",
       "education"
     ],
     "topic": [
-      "development",
-      "tech"
+      "community",
+      "development"
     ],
     "regions": "Italy",
     "locations": [
@@ -2320,17 +2325,17 @@
     "images_extra": "",
     "description": "In late 2018, Richard D. Bartlett published a proposal to start a \"microsolidarity\" group — a small mutual aid community for people to do a kind of personal development, in good company, for social benefit.\n\nSince then, an open research network has been gradually self-organising around this concept and these practices.\nThis website is the central hub to collect resources for the co-development of multiple such communities. The most useful material is currently here: methods for cultivating Crews for peer-to-peer support in tiny groups.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.4",
+    "cultural": "0.2",
+    "systems": "0.4",
     "activity orig": "Online Platform",
     "activity": [
-      "spaces",
+      "network",
       "education"
     ],
     "topic": [
       "community",
-      "wellbeing"
+      "development"
     ],
     "regions": "",
     "locations": [],
@@ -2371,17 +2376,17 @@
     "images_extra": "",
     "description": "Mindfulness for Change is designed to serve people who are connected with that heartfelt intention to do some good in the world, and help you to connect to like-minded people in community. \n\nAs a community we're in a process of learning to support each other in the work, or to find whatever the work is for us. The work could be hugely diverse - there are so many ways of making change. Mindfulness for Change hosts online and offline spaces for community to form.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.8",
+    "cultural": "0.2",
+    "systems": "0",
     "activity orig": "Network, Community, Events",
     "activity": [
       "network",
       "events"
     ],
     "topic": [
-      "community",
-      "development"
+      "development",
+      "community"
     ],
     "regions": "New Zealand",
     "locations": [],
@@ -2423,17 +2428,17 @@
     "images_extra": "",
     "description": "The Monastic Academy is a training center dedicated to creating wise, powerful, and loving leaders who are an unstoppable force for social and environmental peace on Earth.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "1",
+    "cultural": "0",
+    "systems": "0",
     "activity orig": "Monastary & Retreat Organisation",
     "activity": [
-      "education",
-      "events"
+      "events",
+      "education"
     ],
     "topic": [
       "spirituality",
-      "community"
+      "development"
     ],
     "regions": "US",
     "locations": [
@@ -2476,17 +2481,17 @@
     "images_extra": "",
     "description": "The On Being Project is a nonprofit media and public life initiative. We make a public radio show, podcasts, and tools for the art of living.  Pursuing deep thinking and moral imagination, social courage and joy, to renew inner life, outer life, and life together. Attending to the wholeness of every person: the life of the mind, the truth of the body, and the wild mystery of the human spirit.\n\nThis is what we do. Through content, experiences, accompaniment, and practical tools, The On Being Project tends the human change that makes social transformation possible. ",
     "tagline": "Pursuing deep thinking and moral imagination, social courage and joy, to renew inner life, outer life, and life together.",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.8",
+    "cultural": "0.2",
+    "systems": "0",
     "activity orig": "Platform ('Media and Public Life Initiative')",
     "activity": [
       "media",
-      "network"
+      "education"
     ],
     "topic": [
       "development",
-      "community"
+      "spirituality"
     ],
     "regions": "US",
     "locations": [
@@ -2530,8 +2535,8 @@
     "description": "Ouishare connects people and accelerates projects for systemic change. \n\nWe question and experiment with social models based on collaboration, openness, and fairness. \n\nWe proudly have 60+ Connectors in 20 cities, organized + 300 events including 10 international conferences and published 9 research studies since 2012. - we feel uncomfortable with solutionism and its underlying mandate: measure, innovate, accelerate. \n\nAddressing the pains of our times is no longer a question of tech, data or AI. We are convinced that digital technology is neither the problem, nor the solution- more than anything, it distracts us from asking the important questions.  \n\nOuishare questions the status quo, instigates encounters between actors from different corners of society and is a leader in creating forms of collaboration. Our work is defined by long term thinking, listening, dialogue. We work at the intersections to create bridges between knowledge, skills and experiences, to shift societal power dynamics. \n\nOuishare is an international network defined by five values: collaboration, openness, care, do-cracy and permanent beta. A non-profit started in France in 2012, today Ouishare’s network spans from Europe to Latin and North America, to the Middle-East.",
     "tagline": "",
     "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "cultural": "0.2",
+    "systems": "0.8",
     "activity orig": "Networking for sharing economy and systems change\"",
     "activity": [
       "network",
@@ -2539,7 +2544,7 @@
     ],
     "topic": [
       "governance",
-      "politics"
+      "community"
     ],
     "regions": "Worldwide",
     "locations": [
@@ -2584,16 +2589,17 @@
     "images_extra": "",
     "description": "For the past 40 years, Turiya and Rafia, the Path Retreats founders, have been training in a multitude of spiritual and therapeutic modalities. \n\nFor a great part of that time they also received personal guidance and life-training from Osho, an enlightened master, which has given them a deep understanding and great sensitivity to the powerful, yet subtle inter-relatedness of psychological issues and the realization of true spiritual nature. \n\nThe influence of Osho is foundational to the Path of Love 7-Day process, and the first Path of Love was held in 1995 at the Osho International Meditation Resort in India, which today remains one of the foremost meditation centers in the world.",
     "tagline": "",
-    "inner": "",
+    "inner": "1",
     "cultural": "",
-    "systems": "1",
+    "systems": "0",
     "activity orig": "Retreat Organisation",
     "activity": [
-      "events"
+      "events",
+      "education"
     ],
     "topic": [
       "spirituality",
-      "wellbeing"
+      "development"
     ],
     "regions": "Worldwide",
     "locations": [
@@ -2637,9 +2643,9 @@
     "images_extra": "",
     "description": "Plum Village is a mindfulness practice centre in the South of France founded by Zen Master Thich Nhat Hanh. \nIt is home to an international community with practice centers in Europe, Asia, US and Australia, and hundreds of sanghas around the world.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.8",
+    "cultural": "0.2",
+    "systems": "0",
     "activity orig": "Monastary & Retreat Organisation",
     "activity": [
       "events",
@@ -2693,17 +2699,17 @@
     "images_extra": "",
     "description": "Welcome to The Resurgence Trust, where you'll find positive, informed and original perspectives on environmental issues, activism, social justice, arts and ethical living\n\nThe Resurgence Trust is an educational charity at the forefront of a movement for change. The charity was established in 2006 to further the educational work of Resurgence magazine.\n\nThe Resurgence Trust informs the environmental debate, inspires a culture of optimism and guides us towards positive solutions to the global challenges we now face.\n\nThe aim of charity is to foster a greater connection to Nature to enhance personal wellbeing, support resilient communities and inform social change towards regenerative societies that enrich our natural environment.\n\nThe charity works to advance education on a range of issues including conservation, regeneration of the natural environment, arts, and culture. The Trust achieves this through three main programmes - the publication of Resurgence & Ecologist, the publication of The Ecologist website, and the production of dynamic a series of events, conferences and workshops.\n\nThrough implementing the Trust's charitable objectives, we aim to raise awareness of the opportunities for positive change, inspire action and facilitate debates.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.2",
+    "cultural": "0.8",
+    "systems": "0",
     "activity orig": "Magazine, Events",
     "activity": [
       "media",
-      "events"
+      "education"
     ],
     "topic": [
       "ecology",
-      "wellbeing"
+      "politics"
     ],
     "regions": "UK",
     "locations": [
@@ -2746,17 +2752,17 @@
     "images_extra": "",
     "description": "We are a constellation of humans and nonhumans working together trans-locally to curate projects, rituals, conversations and events that nurture senses of the otherwise via practices that trouble the traditional boundaries of agency and possibility.",
     "tagline": "What if the way we respond to the crisis is part of the crisis?",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.3",
+    "cultural": "0.7",
+    "systems": "0",
     "activity orig": "Research, Events, Media",
     "activity": [
-      "advocacy",
-      "research"
+      "research",
+      "events"
     ],
     "topic": [
-      "arts",
-      "politics"
+      "politics",
+      "arts"
     ],
     "regions": "India",
     "locations": [
@@ -2799,17 +2805,17 @@
     "images_extra": "",
     "description": "On this show we explore the weave between politics, spirituality, creativity and sustainability.",
     "tagline": "",
-    "inner": "",
-    "cultural": "",
-    "systems": "1",
+    "inner": "0.2",
+    "cultural": "0.8",
+    "systems": "0",
     "activity orig": "Podcast",
     "activity": [
       "media",
-      "events"
+      "education"
     ],
     "topic": [
-      "development",
-      "work"
+      "politics",
+      "development"
     ],
     "regions": "UK",
     "locations": [
@@ -2852,9 +2858,9 @@
     "images_extra": "",
     "description": "The Mindfulness Project is a radical new approach to a holistic lifestyle. We combine proven methods of the fields of meditation, yoga,  psychology, permaculture, natural building, arts and combine them to a healing system of transforming ourselves and the environment.",
     "tagline": "",
-    "inner": "",
+    "inner": "1",
     "cultural": "",
-    "systems": "1",
+    "systems": "0",
     "activity orig": "Events, Courses",
     "activity": [
       "events",
@@ -2903,16 +2909,16 @@
     "images_extra": "",
     "description": "The Re-Generation will highlight people and projects for ‘systems change’ in six definitive areas — Food, Health, Economics, Community, Culture and Consciousness.\n\nBy bringing together world luminaries and thought leaders in all these key areas, The Re-Generation will present a series of dialogues, debates and panels at festivals, gatherings and other events around the globe.\n\nAll of these will be made available as audio and video recordings onto this one platform, along with podcasts and other original content.\n\nEvery living cell on the planet, from micro-organisms in the soil and phytoplankton in the oceans, to the cells of our very bodies, the tallest redwood trees and the largest mammals, are now threatened by human activity – by the waste products we have created and which cannot safely be sequestered by natural processes within the time frames required.\n\nWhile phasing out the industries that are inherently out of step with natural processes, can we actively implement new processes and technologies that are inherently regenerative by design, thereby restoring resilience to the biosphere, regenerating biodiversity, habitats and communities around the globe, through a combination of circular economics; decentralised, bioregional governance; restorative ecological design; regenerative farming and renewable energy technologies? And if so, how will this be possible?\n\nThese are the crucial questions that The Re-Generation will address.\n\nIn direct contrast to previously dismissed movements of this kind, The Re-Generation does not so much identify with what it is against, but with what it is for",
     "tagline": "Respect, Restore, Regenerate",
-    "inner": "0",
-    "cultural": "0.5",
-    "systems": "0.5",
+    "inner": "0.1",
+    "cultural": "0.8",
+    "systems": "0.1",
     "activity orig": "Media Platform, Courses, Events",
     "activity": [
       "media",
       "events"
     ],
     "topic": [
-      "wellbeing",
+      "politics",
       "community"
     ],
     "regions": "Europe",
@@ -2959,17 +2965,17 @@
     "images_extra": "",
     "description": "We are a global initiative co-created with Ashoka, Esalen, Impact Hub, Porticus, the Skoll Foundation and Synergos. Our work is about demonstrating how individual and organisational wellbeing can be cultivated, building credible research, hosting a community of global and regional organisations in learning and putting this into practice, and storytelling.",
     "tagline": "",
-    "inner": "0.5",
-    "cultural": "0.5",
+    "inner": "0.7",
+    "cultural": "0.3",
     "systems": "0",
     "activity orig": "Research, Media Platform",
     "activity": [
-      "research",
-      "events"
+      "business",
+      "education"
     ],
     "topic": [
       "wellbeing",
-      "community"
+      "work"
     ],
     "regions": "",
     "locations": [
@@ -3063,16 +3069,16 @@
     "images_extra": "",
     "description": "The Ulex Project provides high-quality training for activists, change makers, and organisations. We take an integral approach – combining personal, inter-personal and political transformation. We look for systemic responses to systemic challenges – building movement capacity for social justice and ecological integrity. We deepen reflection and strengthen connections for personal and collective empowerment.",
     "tagline": "",
-    "inner": "0.3",
+    "inner": "0.7",
     "cultural": "0",
-    "systems": "0.7",
+    "systems": "0.3",
     "activity orig": "Training, Courses, Events",
     "activity": [
       "education",
-      "network"
+      "spaces"
     ],
     "topic": [
-      "ecology",
+      "development",
       "politics"
     ],
     "regions": "",
@@ -3114,17 +3120,17 @@
     "images_extra": "",
     "description": "Wake Up: Young Buddhists and non-Buddhists for a Healthy and Compassionate Society\nWake Up is an active global community of young Start a Wake Up Sanghamindfulness practitioners, aged 18-35, inspired by the teachings of Zen Master and peace activist Thich Nhat Hanh. We come together to practice mindfulness in order to take care of ourselves, nourish happiness and contribute to building a healthier and a more compassionate society. To find a group near you check our groups page.",
     "tagline": "",
-    "inner": "0.5",
-    "cultural": "0.5",
+    "inner": "0.7",
+    "cultural": "0.3",
     "systems": "0",
     "activity orig": "Sangha/Community (Organising groups of young mindfulness practictioners)",
     "activity": [
-      "spaces",
+      "network",
       "events"
     ],
     "topic": [
       "spirituality",
-      "wellbeing"
+      "community"
     ],
     "regions": "World",
     "locations": [
@@ -3178,7 +3184,7 @@
     ],
     "topic": [
       "wellbeing",
-      "development"
+      "tech"
     ],
     "regions": "",
     "locations": [
@@ -3217,18 +3223,19 @@
       "url": ""
     },
     "images_extra": "",
-    "description": "We create life-affirming experiences to connect people with themselves, each other, the natural world and the mystery of existence.\nWe are passionate about reinstating the public understanding of and access to psychedelics in the UK and beyond.",
+    "description": "We create life-affirming experiences to connect people with themselves, each other, the natural world and the mystery of existence.\n\nWe are passionate about reinstating the public understanding of and access to psychedelics in the UK and beyond.",
     "tagline": "",
-    "inner": "0.6",
+    "inner": "0.7",
     "cultural": "0.4",
-    "systems": "0",
+    "systems": "-0.1",
     "activity orig": "Psychedilic Research and Events",
     "activity": [
       "events",
       "education"
     ],
     "topic": [
-      "development"
+      "development",
+      "spirituality"
     ],
     "regions": "",
     "locations": [
@@ -3277,7 +3284,7 @@
     "activity orig": "Retreats, Events, Festival",
     "activity": [
       "events",
-      "spaces"
+      "education"
     ],
     "topic": [
       "spirituality",
@@ -3379,7 +3386,7 @@
     "activity orig": "Events",
     "activity": [
       "events",
-      "spaces"
+      "education"
     ],
     "topic": [
       "wellbeing",
@@ -3424,17 +3431,17 @@
     "images_extra": "",
     "description": "Group of thinkers and researchers, doing talks and webinars on these issues",
     "tagline": "",
-    "inner": "0",
-    "cultural": "1",
+    "inner": "0.8",
+    "cultural": "0.2",
     "systems": "0",
     "activity orig": "Events, Webinars",
     "activity": [
       "media",
-      "spaces"
+      "events"
     ],
     "topic": [
       "spirituality",
-      "community"
+      "development"
     ],
     "regions": "",
     "locations": [
@@ -3477,8 +3484,8 @@
     "images_extra": "",
     "description": "The site translates academic research regarding the science and psychology of wisdom into understandable and helpful resources for the wider public. It also hosts the On Wisdom Podcast.",
     "tagline": "",
-    "inner": "0",
-    "cultural": "1",
+    "inner": "0.2",
+    "cultural": "0.8",
     "systems": "0",
     "activity orig": "Research",
     "activity": [
@@ -3525,16 +3532,17 @@
     "images_extra": "",
     "description": "Raising Free People Network helps families, organizations, and corporations to examine, assess, and solve big issues in education, leadership, and personal development. By tapping into techniques and philosophies from the unschooling and deschooling movements, our network uses independent broadcast media along with live trainings and events to sustain cultures of belonging, equity, and confident autonomy.",
     "tagline": "",
-    "inner": "0",
-    "cultural": "0.5",
-    "systems": "0.5",
+    "inner": "0.4",
+    "cultural": "0.6",
+    "systems": "0",
     "activity orig": "Network, education, consulting",
     "activity": [
       "media",
-      "events"
+      "education"
     ],
     "topic": [
-      "development"
+      "development",
+      "politics"
     ],
     "regions": "",
     "locations": [],
@@ -3573,15 +3581,16 @@
     "images_extra": "",
     "description": "Alter Ego is a powerful network of leaders who are prototyping a deeper form of change, people who know that we need to change at a psychological and cultural level to have a chance of making it through this crisis moment in history.\n\nThe organisation runs gatherings, which aim to create a spacious few days of renewal and inspiration, where attendees can expect to make some new friends and potentially form exciting work projects.\n\nAlter Ego has been gathering new political leaders to find our way out of this crisis moment in history. Their new media series profiles the big ideas that are emerging from the pioneering edge of the political conversation. It’s a beautiful network of leaders who are prototyping a deeper form of change, people who know that we need to change at a psychological and cultural level to have a chance of making it through this crisis moment in history.",
     "tagline": "",
-    "inner": "0.5",
-    "cultural": "0.5",
+    "inner": "0.7",
+    "cultural": "0.3",
     "systems": "0",
     "activity orig": "Media Platform & Retreat Organisation",
     "activity": [
       "events",
-      "spaces"
+      "network"
     ],
     "topic": [
+      "development",
       "community"
     ],
     "regions": "UK",
@@ -3625,17 +3634,17 @@
     "images_extra": "",
     "description": "Commonweal is a center for learning and research, transformation, and discovery. Our programs work in the areas of health and healing; education and the arts; and environment and justice. We are located in Bolinas, California, on land that is part of the Point Reyes National Seashore.",
     "tagline": "",
-    "inner": "0.5",
-    "cultural": "0.5",
-    "systems": "0",
+    "inner": "0.34",
+    "cultural": "0.34",
+    "systems": "0.32",
     "activity orig": "",
     "activity": [
       "spaces",
-      "events"
+      "network"
     ],
     "topic": [
-      "wellbeing",
-      "arts"
+      "politics",
+      "ecology"
     ],
     "regions": "",
     "locations": [
@@ -3678,17 +3687,17 @@
     "images_extra": "",
     "description": "Brave Earth (Tierra Valiente) is a burgeoning community, regenerative farm, and healing arts center based in northern Costa Rica. Here amidst the jungle, thermal pools and cloud forest, we are exploring new and ancient ways of living.\nRegenerative design uses whole systems thinking to create resilient and equitable systems that integrate the needs of society with the integrity of Nature. \nWe believe it requires bravery to step out of the traditional constructs of globalized monoculture and step into alternative systems grounded in the reality of what is possible when we align ourselves to the wisdom and power of Nature.",
     "tagline": "A Living Laboratory for Regeneration",
-    "inner": "0.2",
-    "cultural": "0.6",
-    "systems": "0.2",
+    "inner": "0.5",
+    "cultural": "0.4",
+    "systems": "0.1",
     "activity orig": "",
     "activity": [
       "spaces",
       "events"
     ],
     "topic": [
-      "community",
-      "ecology"
+      "ecology",
+      "community"
     ],
     "regions": "Costa Rica",
     "locations": [
@@ -3729,17 +3738,17 @@
     "images_extra": "",
     "description": "Prosocial World (PW) is a non-profit organization that seeks to evolve a more prosocial world. Inspired by scientists, we take the word “evolve” seriously, basing our methods on the most recent developments in evolutionary, complex systems, and contextual behavioral science to enhance cooperation and inspire positive change for the well-being of others. Prosocial World is built upon its own Core Design Principles, fostering polycentric governance.  \nThe community of practice within Prosocial World has built the Prosocial ARC Process, a method for helping any group, anywhere in the world, work better together. The Prosocial ARC Process is a unique, practical, applied, behavioral approach that contributes to a significant worldwide research effort using evolutionary theory as a unifying theoretical framework. ARC teaches us how to develop and act on our collective consciousness with purpose, which in our view is a function of three considerations: Awareness of our internal thoughts, The quality of our Relationships, The Cultural agreements we create\n",
     "tagline": "We exist to serve others, innovate, and make the world a better place, with a humble yet confident voice.",
-    "inner": "0.3",
-    "cultural": "0.4",
+    "inner": "0.2",
+    "cultural": "0.5",
     "systems": "0.3",
     "activity orig": "",
     "activity": [
-      "research",
-      "education"
+      "education",
+      "research"
     ],
     "topic": [
       "development",
-      "wellbeing"
+      "politics"
     ],
     "regions": "World",
     "locations": [],
@@ -3884,17 +3893,17 @@
     "images_extra": "",
     "description": "We are building a movement of moral imagination: collective imagining to increase radical kinship with the human and more-than-human worlds, present, past and future.",
     "tagline": "We are building a movement of moral imagination: collective imagining to increase radical kinship with the human and more-than-human worlds, present, past and future.",
-    "inner": "0",
+    "inner": "0.1",
     "cultural": "0.5",
-    "systems": "0.5",
+    "systems": "0.4",
     "activity orig": "",
     "activity": [
       "events",
-      "spaces"
+      "research"
     ],
     "topic": [
-      "community",
-      "ecology"
+      "politics",
+      "arts"
     ],
     "regions": "UK",
     "locations": [
@@ -3942,10 +3951,12 @@
     "systems": "0",
     "activity orig": "",
     "activity": [
-      "education",
-      "media"
+      "media",
+      "events"
     ],
-    "topic": [],
+    "topic": [
+      "spirituality"
+    ],
     "regions": "",
     "locations": [],
     "started": "",
