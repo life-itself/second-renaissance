@@ -1,7 +1,7 @@
 const siteConfig = {
-  title: 'State of Sensemaking',
-  tagline: 'An ecosystem mapping by Life Itself and collaborators',
-  description: 'This site is a tool for exploring an emerging ecosystem. We hope that charting it helps it become (more) visible, self-aware, interconnected, resourced and effective. We emphasize this is a work in progress, limited by both our resources and knowledge. We welcome help to improve it.',
+  title: 'Mapping Metamodernism',
+  tagline: 'Charting an emerging ecosystem by Life Itself, Emerge and collaborators',
+  description: 'This project maps an emerging “metamodernist” ecosystem centred on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged. Discover key features and ideas of this growing space. Explore associated organizations, individuals and initiatives. See how it relates to other established and emerging movements.',
   author: 'Life Itself',
   authorLogo: '',
   authorUrl: '',
