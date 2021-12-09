@@ -31,4 +31,5 @@ This is a Next.JS based app.
   SPREADSHEET_ID=
   ```
 * Run `node scripts/cli.js`
-
+* Files should have changed in `./data/` (assuming there is new data)
+* [Optional] You can then commit this new data to push it live to the production site
