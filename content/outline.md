@@ -34,7 +34,7 @@ It identifies the need to incorporate methods and routes to change spanning a va
 
 Participants are actively engaging with wider society for the purposes of social transformation. This sets it apart from groups which may be doing large amount of inner work but without connecting this directly and explicitly to broader social change, for example certain parts of the spiritual, developmental and psychedelic communities. 
 
-## What are some of its Core Characteristics?
+## What are Some of its Core Characteristics?
 
 Beyond the three pillars listed above, we also identify three high-level commonalities in outlook and approach: post-individualism, (w)holism and counterculturalism. 
 
@@ -54,7 +54,7 @@ Counterculturalism for us is a desire to go beyond the dominant norms and narrat
 
 To use the Wilberian terminology, there is a desire to move beyond the 'green' developmental stage which is currently taken to characterise Western liberal societies, and much of the progressive movement as a whole. This leads actors in the ecosystem to be more open to questioning or dispute social and political positions that may be understood as norms not just in wider society, but also those (for example understandings of inclusivity) within progressive circles themselves.
 
-## Language and buzzwords
+## Language and Buzzwords
 
 The language of the ecosystem draws heavily on concepts such as complexity, systems and emergence, developmental models, spirituality and practice, and on sensemaking, different forms of knowledge and ‘cosmo-local’ activism. Other commonalities include an interest in decentralised governance, new narratives, alternative social imaginaries and regenerative culture. 
 
