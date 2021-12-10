@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Head from 'next/head'
 import { XIcon } from '@heroicons/react/outline'
-import { ExclamationIcon } from '@heroicons/react/solid'
+import { BellIcon } from '@heroicons/react/solid'
 
 import Nav from '../components/Nav'
 
@@ -26,8 +26,8 @@ export default function Layout({ children, title='' }) {
             <p className="font-medium">
               <span className="md:hidden">Alpha release!</span>
               <span className="hidden md:inline">
-                <ExclamationIcon className="h-6 w-6 inline-block mr-1" aria-hidden="true" />
-                Alpha release!
+                <BellIcon className="h-6 w-6 inline-block mr-1" aria-hidden="true" />
+                Beta release!
                </span>
               <span className="block sm:ml-2 sm:inline-block">
                 <a href="about#disclaimer" className="font-bold underline">
