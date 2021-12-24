@@ -64,7 +64,7 @@ export default function Organization({ org }) {
         {/* Product image */}
         <div className="mt-10 lg:mt-0 row-span-2">
           <div className="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden">
-            <img src={org.image.url} alt={org.name} className="w-full h-full object-center object-cover" />
+            <img src={org.image.cached ? org.image.cached : org.image.url} alt={org.name} className="w-full h-full object-center object-cover" />
           </div>
         </div>
       </div>
