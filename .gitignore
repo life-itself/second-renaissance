@@ -5,5 +5,10 @@ sandbox/*
 
 .env
 .env.local
+.next/
 .next/**
+node_modules/
 node_modules/**
+
+# Local Netlify folder
+.netlify
