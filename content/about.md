@@ -4,7 +4,7 @@ This site is one output from [our ongoing efforts to map an emerging ecosystem][
 
 [ecosystem]: https://lifeitself.us/ecosystem/
 
-We emphasize our work here is clearly highly preliminary and is limited by both resources and our own knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](/contact/) and [contributions](/contribute/) to correct and improve it.
+We emphasize our work here is clearly highly preliminary and is limited by both resources and our own knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](https://lifeitself.us/contact) and [contributions](/contribute/) to correct and improve it.
 
 The ecosystem as we have mapped it is quite broad – even disparate. However there are commonalities. Emerging organizations and individuals are opting towards ‘teal’ style collaboration and community building in order to maximize resources as a generalist, lateral way of operating comes into view as a more effective way of tackling systemic problems.
 
@@ -40,6 +40,6 @@ We are undertaking research to gather information on organizations, communities 
 
 ## Disclaimer
 
-We emphasize our work here is clearly preliminary and is limited by both our resources and knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](/contact/) and [contributions](/contribute/) to correct and improve it.
+We emphasize our work here is clearly preliminary and is limited by both our resources and knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](https://lifeitself.us/contact) and [contributions](/contribute/) to correct and improve it.
 
 Specifically, we are doing our best to give as accurate a representation of each organization we have listed. However, like everyone we make mistakes. If you believe the listing for your organization should be changed then please contact us via the [contribute page](/contribute/) and we'll correct it as soon as possible.
