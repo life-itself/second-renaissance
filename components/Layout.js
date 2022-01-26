@@ -14,7 +14,7 @@ export default function Layout({ children, title='' }) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap" rel="stylesheet" />
         <link rel="preload" href="/fonts/Restora/Restora.ttf" as="font" crossOrigin="" />
         <link rel="preload" href="/fonts/Restora/RestoraBold.ttf" as="font" crossOrigin="" />
@@ -52,7 +52,7 @@ export default function Layout({ children, title='' }) {
       {children}
       <footer className="flex items-center justify-center w-full h-24 border-t">
         <a
-          className="flex items-center justify-center"
+          className="flex items-center justify-center gap-4"
           href="https://lifeitself.us/"
           target="_blank"
           rel="noopener noreferrer"
