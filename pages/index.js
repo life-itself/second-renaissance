@@ -7,6 +7,7 @@ import path from 'path'
 import { MDXRemote } from 'next-mdx-remote'
 
 import { getOrganizations } from "../lib/db.js"
+import TernaryPlot from '../components/Visualizations/TernaryPlot'
 import Search from "../components/Search.js"
 import config from '../config/siteConfig'
 import parse from '../lib/mdx.js'
@@ -126,6 +127,8 @@ export default function Home({ orgs, outline }) {
           </main>
         </div>
       </div>
+
+      <TernaryPlot orgs={orgs} />
 
       <section id="outline" className="max-w-md md:max-w-3xl mx-auto px-2 sm:px-6 lg:px-8 mt-24 prose">
         <MDXRemote {...outline} />
