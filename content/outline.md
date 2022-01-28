@@ -1,6 +1,7 @@
 ---
 title: Outline
 ---
+Mapping organizations’ approach to social change, based on how strongly they focus on affecting systems, culture and individuals’ inner lives as levers for broader transformation. [Read more about the visualzsation.](/about-vis/)
 
 # Overview of the Ecosystem
 
