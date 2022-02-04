@@ -1,14 +1,17 @@
 import { MDXRemote } from 'next-mdx-remote'
 import dynamic from 'next/dynamic'
 import Head from 'next/head'
-import Link from 'next/link'
+// import Link from 'next/link'
 
+const TernaryPlot = dynamic(() => import("./TernaryPlot"))
 
-const components = {
-  Head,
-}
+export default function MdxPage({ children, source, frontMatter, orgs }) {
+  const components = {
+    Head,
+    //  dynamic loading of component only when present in markdown
+    TernaryPlot: orgs ? TernaryPlot : null
+  }
 
-export default function MdxPage({ children, source, frontMatter }) {
   return (
     <article className="prose mx-auto p-6">
       <header>
@@ -23,7 +26,7 @@ export default function MdxPage({ children, source, frontMatter }) {
         </div>
       </header>
       <section>
-        <MDXRemote {...source} components={components} />
+        <MDXRemote {...source} components={components} scope={{ orgs: orgs }} />
       </section>
     </article>
   )

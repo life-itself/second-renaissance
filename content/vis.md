@@ -2,7 +2,7 @@
 
 This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. 
 
-TODO: Vis Component Goes Here ... 
+<TernaryPlot orgs={orgs} />
 
 Systems approaches focus on changing institutions and systems., Organisations focused on this area are particularly interested in areas such as governance, economics and technology. Cultural approaches focus on changing the broader collective culture, targeting aspects such as norms, values and collective narratives. Inner approaches focus  on the inner transformation of individuals as a way of transforming society at large, both through personal development and shifting  perspectives of how they relate to themselves, others, and the planet. 
 
