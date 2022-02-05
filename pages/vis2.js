@@ -1,21 +1,22 @@
-import React from 'react'
+import { useEffect, useRef } from 'react'
 import * as d3 from 'd3'
-import { useEffect } from 'react'
-import { getOrganizations } from "../lib/db.js"
+import { getOrganizations } from "lib/db.js"
+import { getTreeData } from 'lib/d3'
 import topicsRaw from '../data/topic'
+import CircularVis from 'components/CircularVis'
 
 export default function Page({ orgs }) {
-  const svg = React.useRef(null)
+  const svg = useRef(null)
 
-  React.useEffect(() => {
+  useEffect(() => {
     // d3 hierarcy structure e.g. result of d3.stratify
-    const treeData = getTreeData(orgs, topicsRaw)
+    const treeData = getTreeData(orgs, topicsRaw);
     const root = d3.hierarchy(treeData);
     const nodes = root.descendants();
     const links = root.links();
 
     // drawChart(svg, treeData)
-    drawChart2(svg, nodes, links)
+    drawChart2(svg, nodes, links);
     // ForceGraph({ svgRef: svg, nodes, links })
   }, [svg, orgs])
 
@@ -26,9 +27,13 @@ export default function Page({ orgs }) {
         <div id="chart">
           <svg ref={svg} />
         </div>
+        <h1 className="mt-16 mb-8 text-4xl">
+          Mapping the Space — Circular Packing
+        </h1>
+        <CircularVis orgs={orgs} />
       </div>
     </>
-  )
+  );
 }
 
 export async function getStaticProps(context) {
@@ -38,51 +43,6 @@ export async function getStaticProps(context) {
       orgs,
     }
   }
-}
-
-function getTreeData(orgs, topics) {
-    const example = `id,parentId,Xsize,img
-cars,
-owned,cars
-traded,cars
-learned,cars
-pilot,owned,40
-325ci,owned,40
-accord,owned,20
-chevette,traded,10
-odyssey,learned,20
-maxima,learned,10`
-  // return d3.stratify()(d3.csvParse(example));
-  
-  let preppedData = [
-    { id: 'root', parentId: null, name: 'Social Change' }
-  ]
-  for(const topic of topics) {
-    preppedData.push({
-      parentId: 'root',
-      ...topic
-    })
-  }
-  for(const org of orgs) {
-    if (org.topic && org.topic[0]) {
-      preppedData.push({
-        parentId: org.topic[0],
-        ...org
-      })
-      if (org.topic[1]) {
-        preppedData.push({
-          parentId: org.topic[1],
-          ...org
-        })
-      }
-    }
-  }
-
-  const treeData = d3.stratify()
-    .id(d => d['id'])
-    .parentId(d => d['parentId'])
-    (preppedData)
-  return treeData
 }
 
 /**
