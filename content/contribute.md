@@ -1,10 +1,10 @@
 # Contribute
 
-## Add your organization or initiative
+## Add an organization or initiative
 
-Please fill out this [Google form](https://forms.gle/9337PCNXHtc7xQYW9).
+Please fill out this [Google form](https://forms.gle/9337PCNXHtc7xQYW9) to suggest organizations that you feel align with the approaches and core characteristics outlined in the [Overview of the Ecosystem](https://ecosystem.lifeitself.us/#outline). You don’t have to be a representative or closely related contact of the organization to do so. 
 
-We'll process your request as soon as possible.
+We'll process your suggestion as soon as possible. If you have any questions, please [get in touch &raquo;][contact].
 
 ## Amend information
 
