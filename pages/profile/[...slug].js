@@ -5,30 +5,32 @@ import Organization from '../../components/Organization'
 import config from '../../config/siteConfig'
 
 
-export default function Page({org}) {
+export default function Page({ org }) {
+  const orgImage = org.image.cached ?? (org.logo.cached || org.logo.url);
   return (
     <>
       <NextSeo
-        title={org.name + ' - ' + config.title}
-        description={org.description.split('\n')[0].split('.')[0]}
+        title={org.name + " - " + config.title}
+        description={org.description.split("\n")[0].split(".")[0]}
         openGraph={{
           images: [
             {
-              url: org.image.url,
+              url: orgImage,
+              width: 1200,
+              height: 630,
               alt: org.name,
-              type: 'image/png',
-            }
-          ]
+            },
+          ],
         }}
         twitter={{
-          handle: '@handle',
-          site: '@site',
-          cardType: 'summary_large_image',
+          handle: "@forlifeitself",
+          site: "ecosystem.lifeitself.us",
+          cardType: "summary_large_image",
         }}
       />
       <Organization org={org} />
     </>
-  )
+  );
 }
 
 export const getStaticProps = async ({ params }) => {
