@@ -6,15 +6,16 @@
     "url": "https://lifeitself.us",
     "email": "hello@lifeitself.us",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
     "images_extra": "",
     "description": "We are pragmatic utopians, committed to practical action for a radically wiser, weller world. \n\nWe create coliving hubs, start businesses, do research and engage in activism to pioneer a wiser culture. We are ordinary people who choose an extra-ordinary path, treading the middle way between Plum Village and Silicon Valley.\n\nDespite our wealth and technologies, we are struggling at both a personal and collective levels. Personally, we are are not truly happy, satisfied and at peace; collectively we are failing to act powerfully on issues ranging from climate change to health. We believe the roots of both of these lie in our culture – which is grounded in materialism, technology and individualism – and thus a breakthrough requires a transformation in culture: the views, values, beliefs, practices that underlie our collective way of being.\n\nReal change requires us to work, and even live, together – hence creating co-living spaces and businesses; and to share ideas through writing and events, ultimately engaging in politics and social change.\n\nWe balance the spiritual and the rational. We like meditation as much as we like getting things done. We want meaningful work and a meaningful life. We value the environment and technology, art and science. We take action, both personal and political. We’re the middle way between the suit and the hippy, between the billionaire and the monk.",
     "tagline": "",
-    "inner": "0.5",
+    "inner": "0.4",
     "cultural": "0.4",
-    "systems": "0.1",
+    "systems": "0.2",
     "activity orig": "",
     "activity": [
       "spaces",
@@ -42,9 +43,9 @@
     "facebook": "https://www.facebook.com/forlifeitself/",
     "twitter": "https://twitter.com/forlifeitself/",
     "instagram": "https://www.instagram.com/forlifeitself/",
-    "linkedin": "not-found ",
+    "linkedin": "https://www.linkedin.com/company/life-itself",
     "youtube": "https://www.youtube.com/channel/UCmBq3VO9w_MLTKD_CHsYN-Q",
-    "blog": "not-found",
+    "blog": "https://lifeitself.us/blog/",
     "phone": "",
     "have_email": "Y",
     "logo": {
@@ -63,6 +64,7 @@
     "url": "https://darkmatterlabs.org/",
     "email": "info@darkmatterlabs.org",
     "email2": "indy@darkmatterlabs.org",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644856778/Ecosystem%20Mapping/DM_logo_transparent_dqrgfd.png",
     "image_homepage": {
       "url": ""
     },
@@ -81,7 +83,7 @@
       "governance",
       "tech"
     ],
-    "regions": "EU",
+    "regions": "Worldwide",
     "locations": [
       "London, GB",
       "Amsterdam, NL",
@@ -103,7 +105,7 @@
     "ended": "",
     "active": "Y",
     "people": [
-      "Indy Johar <crm>"
+      "Indy Johar"
     ],
     "notes_data_entry": "",
     "facebook": "https://www.facebook.com/darkmatterlabs.org/",
@@ -119,8 +121,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633433602/Ecosystem%20Mapping/1_Ri4JSC8W06dKCPqTtegEsQ_zihlsn.png"
     },
     "image": {
-      "url": "https://cdn-images-1.medium.com/max/1200/1*Ri4JSC8W06dKCPqTtegEsQ.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633433602/Ecosystem%20Mapping/1_Ri4JSC8W06dKCPqTtegEsQ_zihlsn.png"
+      "url": "https://www.facebook.com/darkmatterlabs.org/photos/a.2460963374023928/2460958107357788",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644858515/Ecosystem%20Mapping/dark_matter_labs_diagtv.jpg"
     }
   },
   {
@@ -130,6 +132,7 @@
     "url": "https://dark-mountain.net/",
     "email": "info@dark-mountain.net",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644856977/Ecosystem%20Mapping/dark_mountain_no_background_fk4ksx.png",
     "image_homepage": {
       "url": ""
     },
@@ -185,6 +188,7 @@
     "url": "https://ekskaret.se/",
     "email": "info@ekskaret.se",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633425250/Ecosystem%20Mapping/Eksk_C3_A4ret-logo_5900x2344_gr_C3_A5_transpbg_28tight_29_oxiwsi.png",
     "image_homepage": {
       "url": ""
     },
@@ -211,7 +215,7 @@
     "ended": "",
     "active": "Y",
     "people": [
-      "Tomas Bjorkman <crm>",
+      "Tomas Bjorkman",
       "Caroline Stiernstedt Sahlborn"
     ],
     "notes_data_entry": "",
@@ -239,6 +243,7 @@
     "url": "https://www.whatisemerging.com/",
     "email": "contribute@whatisemerging.com ",
     "email2": "hello@whatisemerging.com",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644857164/Ecosystem%20Mapping/emerge_r3fnwj.png",
     "image_homepage": {
       "url": ""
     },
@@ -286,8 +291,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633425661/Ecosystem%20Mapping/Emerge_Logo-dba107a9d19d3cfd0f50dbd96434cb7772f2edb24d9c5452b3283dec4135ebfe_gra3bq.png"
     },
     "image": {
-      "url": "http://www.whatisemerging.com/assets/Emerge_Logo-dba107a9d19d3cfd0f50dbd96434cb7772f2edb24d9c5452b3283dec4135ebfe.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633425661/Ecosystem%20Mapping/Emerge_Logo-dba107a9d19d3cfd0f50dbd96434cb7772f2edb24d9c5452b3283dec4135ebfe_gra3bq.png"
+      "url": "https://www.facebook.com/photo?fbid=718017315781877&set=pcb.718019692448306",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644858991/Ecosystem%20Mapping/emerge_octuqq.jpg"
     }
   },
   {
@@ -297,6 +302,7 @@
     "url": "https://enspiral.com",
     "email": "foundation@enspiral.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644857281/enspiral_by72hj.png",
     "image_homepage": {
       "url": ""
     },
@@ -341,8 +347,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633426313/Ecosystem%20Mapping/556dc009a02ce1b7af3993ee4e20fb98_mglzry.png"
     },
     "image": {
-      "url": "https://pbs.twimg.com/profile_images/2654200277/556dc009a02ce1b7af3993ee4e20fb98.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633426313/Ecosystem%20Mapping/556dc009a02ce1b7af3993ee4e20fb98_mglzry.png"
+      "url": "https://www.facebook.com/Enspiral/photos/1842923669072040",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644859288/Ecosystem%20Mapping/enspiralimage1_ycnxt3.jpg"
     }
   },
   {
@@ -352,6 +358,7 @@
     "url": "https://www.findhorn.org/",
     "email": "enquiries@findhorn.org ",
     "email2": "social.media@findhorn.org",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644857415/findhorn_no_background_ewxnkk.png",
     "image_homepage": {
       "url": ""
     },
@@ -395,8 +402,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633426825/Ecosystem%20Mapping/FF-LOGO_likqwk.png"
     },
     "image": {
-      "url": "https://www.findhorn.org/wp-content/uploads/2018/09/FF-LOGO.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633426825/Ecosystem%20Mapping/FF-LOGO_likqwk.png"
+      "url": "https://www.findhorn.org/",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644912620/Ecosystem%20Mapping/FindhornFoundation-nature-sanctuary-meditation-quiet-garden-4-1_f3g7k2.webp"
     }
   },
   {
@@ -406,6 +413,7 @@
     "url": "https://larger.us",
     "email": "hello@larger.us",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644857912/Ecosystem%20Mapping/largerus_yvomob.png",
     "image_homepage": {
       "url": ""
     },
@@ -448,8 +456,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
     },
     "image": {
-      "url": "https://larger.us/wp-content/uploads/2020/12/logo-green.svg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633364959/Ecosystem%20Mapping/logo-green_qev3tt.svg"
+      "url": "https://larger.us/",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644913022/Ecosystem%20Mapping/larger_us_xsjjto.webp"
     }
   },
   {
@@ -459,6 +467,7 @@
     "url": "https://metamoderna.org/",
     "email": "emil@metamoderna.org ",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644858089/Ecosystem%20Mapping/metamoderna_eqjbw3.png",
     "image_homepage": {
       "url": ""
     },
@@ -502,8 +511,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633427246/Ecosystem%20Mapping/images_kplcen.png"
     },
     "image": {
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHX9WfYLpgBjm2SB1455FiTN48lS96ZNncxG_nu5BaIizG_2pr",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633427246/Ecosystem%20Mapping/images_kplcen.png"
+      "url": "https://metamoderna.org/wp-content/uploads/2022/02/Protopia.png",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645013873/Ecosystem%20Mapping/Protopia_brfbbo.png"
     }
   },
   {
@@ -513,6 +522,7 @@
     "url": "https://www.mindandlife.org/",
     "email": "info@mindandlife.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644913405/Ecosystem%20Mapping/mind_and_life_ut5gld.png",
     "image_homepage": {
       "url": ""
     },
@@ -555,8 +565,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633427906/Ecosystem%20Mapping/ouPiSmOs_400x400_bmkf46.png"
     },
     "image": {
-      "url": "https://pbs.twimg.com/profile_images/683963786009669632/ouPiSmOs_400x400.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633427906/Ecosystem%20Mapping/ouPiSmOs_400x400_bmkf46.png"
+      "url": "https://3eflcosga2p27vjw240zkfmu-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/2019-SRI-Slideshow-003.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644929186/Ecosystem%20Mapping/mind_and_life_povd8a.jpg"
     }
   },
   {
@@ -566,6 +576,7 @@
     "url": "https://www.mindandlife-europe.org/",
     "email": "office@mindandlife-europe.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644914174/Ecosystem%20Mapping/mind_and_life_europe_no_BG_vkqvfg.png",
     "image_homepage": {
       "url": ""
     },
@@ -608,8 +619,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633428800/Ecosystem%20Mapping/logo-mind-and-life-europe_vkjh4a.svg"
     },
     "image": {
-      "url": "https://www.mindandlife-europe.org/fileadmin/lombego/layout/images/page_defaults/logo-mind-and-life-europe.svg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633428800/Ecosystem%20Mapping/logo-mind-and-life-europe_vkjh4a.svg"
+      "url": "https://www.mindandlife-europe.org/our-work/mle-retreat/#gallery-486-8",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644929316/Ecosystem%20Mapping/MLE_lurqhm.jpg"
     }
   },
   {
@@ -619,6 +630,7 @@
     "url": "https://www.nwspk.com/",
     "email": "contact@newspeak.house ",
     "email2": "ed@nwspk.com",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644914277/Ecosystem%20Mapping/NH_no_BG_c8fxzu.png",
     "image_homepage": {
       "url": ""
     },
@@ -672,6 +684,7 @@
     "url": "https://oneproject.org/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644914366/Ecosystem%20Mapping/one_project_no_BG_t2chf6.png",
     "image_homepage": {
       "url": ""
     },
@@ -729,6 +742,7 @@
     "url": "https://www.systems-souls-society.com/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644914800/Ecosystem%20Mapping/perspectiva_no_BG_qoj2rz.png",
     "image_homepage": {
       "url": ""
     },
@@ -786,6 +800,7 @@
     "url": "https://www.presencing.org/",
     "email": "info@presencing.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644914888/Ecosystem%20Mapping/PI_no_BG_flf2ne.png",
     "image_homepage": {
       "url": ""
     },
@@ -828,8 +843,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636970982/Ecosystem%20Mapping/Presencing-Institute_wn2she.jpg"
     },
     "image": {
-      "url": "https://tllp.org/wp-content/uploads/2020/06/Presencing-Institute.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636970982/Ecosystem%20Mapping/Presencing-Institute_wn2she.jpg"
+      "url": "https://www.presencing.org/assets/images/aboutus/presencing-institute/overview_by_otto.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644930094/Ecosystem%20Mapping/presencing_Institute_chv6ct.jpg"
     }
   },
   {
@@ -839,6 +854,7 @@
     "url": "https://www.rebelwisdom.co.uk/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644915124/Ecosystem%20Mapping/rebel_wisdom_no_BG_fgjxdo.png",
     "image_homepage": {
       "url": ""
     },
@@ -883,8 +899,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633430249/Ecosystem%20Mapping/RW_itunes_vwlu3e.png"
     },
     "image": {
-      "url": "https://pbcdn1.podbean.com/imglogo/image-logo/2929465/RW_itunes.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633430249/Ecosystem%20Mapping/RW_itunes_vwlu3e.png"
+      "url": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/73372201_549707012264018_6167972202726555648_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=vhAKOpk_1M8AX8v3JDn&_nc_ht=scontent.fgla3-1.fna&oh=00_AT9G4Ip1KG9p93Pbp4kOPJxsmgpwVDxbdBxVC56k4Fhifg&oe=62310D04",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644930492/Ecosystem%20Mapping/rebel_wisdom_1_moll7y.jpg"
     }
   },
   {
@@ -894,6 +910,7 @@
     "url": "https://www.schumachercollege.org.uk/",
     "email": "admin@schumachercollege.org.uk",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644915192/Ecosystem%20Mapping/schumacher_college_fnouja.png",
     "image_homepage": {
       "url": ""
     },
@@ -937,8 +954,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633430591/Ecosystem%20Mapping/klBKgPL1_400x400_soanqt.jpg"
     },
     "image": {
-      "url": "https://pbs.twimg.com/profile_images/1265299113937186819/klBKgPL1_400x400.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633430591/Ecosystem%20Mapping/klBKgPL1_400x400_soanqt.jpg"
+      "url": "https://campus.dartington.org/wp-content/uploads/2021/10/Untitled-design-48.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644930624/Ecosystem%20Mapping/schumacher_college_nbimih.jpg"
     }
   },
   {
@@ -948,6 +965,7 @@
     "url": "https://www.thealternative.org.uk/",
     "email": "info@thealternative.org.uk",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644915258/Ecosystem%20Mapping/the_alternative_no_bg_fw9c72.png",
     "image_homepage": {
       "url": ""
     },
@@ -990,8 +1008,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633510429/Ecosystem%20Mapping/pRTZkuDO_400x400_gr3vui.jpg"
     },
     "image": {
-      "url": "https://pbs.twimg.com/profile_images/951153658909118464/pRTZkuDO_400x400.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633510429/Ecosystem%20Mapping/pRTZkuDO_400x400_gr3vui.jpg"
+      "url": "https://www.instagram.com/p/CRo1X18oQ_R/",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644933219/Ecosystem%20Mapping/IMG_3849_mhtzn3.jpg"
     }
   },
   {
@@ -1001,6 +1019,7 @@
     "url": "https://batesoninstitute.org/",
     "email": "contact@batesoninstitute.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644915341/Ecosystem%20Mapping/bateson_no_bg_ezmfbd.png",
     "image_homepage": {
       "url": ""
     },
@@ -1044,8 +1063,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633510744/Ecosystem%20Mapping/IBI-logo2-01_vokg1r.svg"
     },
     "image": {
-      "url": "https://batesoninstitute.org/wp-content/uploads/2018/08/IBI-logo2-01.svg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1633510744/Ecosystem%20Mapping/IBI-logo2-01_vokg1r.svg"
+      "url": "https://scontent.fgla3-2.fna.fbcdn.net/v/t31.18172-8/13690930_1150874694962925_3095967598829956745_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=9267fe&_nc_ohc=S5FOKGdAtVMAX_0mKYJ&_nc_ht=scontent.fgla3-2.fna&oh=00_AT-iIbbVieeAjp1l6aDdCkgNN38uzClEnUxT1DSpvplMLg&oe=622FEC8A",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644933654/Ecosystem%20Mapping/bateson_h7nwpu.jpg"
     }
   },
   {
@@ -1055,6 +1074,7 @@
     "url": "https://www.themindfulnessinitiative.org/",
     "email": "social@themindfulnessinitiative.org.uk",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636629641/Ecosystem%20Mapping/The_Mindfulness_Initiative_mthusx.png",
     "image_homepage": {
       "url": ""
     },
@@ -1108,6 +1128,7 @@
     "url": "https://transitionnetwork.org/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644915439/Ecosystem%20Mapping/transition_network_vy97wd.png",
     "image_homepage": {
       "url": ""
     },
@@ -1153,8 +1174,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636971620/Ecosystem%20Mapping/Transition_Network_kurey0.jpg"
     },
     "image": {
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQkcmHsPczygR5QL2eQ_ePcVT1gJ-3LS-az4o7jZ-DNmRIEOZId",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636971620/Ecosystem%20Mapping/Transition_Network_kurey0.jpg"
+      "url": "https://transitionnetwork.org/wp-content/uploads/2016/10/Head-Heart-Hands-at-the-Cultivate-Centre-in-Dublin.-1200x900.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644933780/Ecosystem%20Mapping/transition_network_tsdwix.jpg"
     }
   },
   {
@@ -1164,6 +1185,7 @@
     "url": "https://advaya.co/",
     "email": "advaya@advayainitiative.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644915543/Ecosystem%20Mapping/advaya_no_BG_alpjwo.png",
     "image_homepage": {
       "url": ""
     },
@@ -1207,8 +1229,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636971845/Ecosystem%20Mapping/advaya_initiative_fglhw6.png"
     },
     "image": {
-      "url": "https://www.datocms-assets.com/19891/1579185585-advaya-joyful-revolution-logo.png?w=500&fm=png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636971845/Ecosystem%20Mapping/advaya_initiative_fglhw6.png"
+      "url": "https://www.datocms-assets.com/19891/1639715125-tyler-palmer-1k-zmgdjkwk-unsplash.jpg?w=1000&h=666.6666666666666&fit=crop&fm=jpg&q=35",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645014277/Ecosystem%20Mapping/advaya_ststzh.jpg"
     }
   },
   {
@@ -1218,6 +1240,7 @@
     "url": "https://culturalevolutioncenter.org/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644918168/Ecosystem%20Mapping/CACE_no_background_ulahh5.png",
     "image_homepage": {
       "url": ""
     },
@@ -1260,8 +1283,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060469/Ecosystem%20Mapping/Center_for_ACE_xzapin.jpg"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t31.18172-8/28162062_444883559260354_7893366896126127944_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=YaLmdu3aOMwAX-EBa7y&_nc_ht=scontent-lcy1-1.xx&oh=f28778327b42a3e81a872ac99248ca64&oe=61BA56AE",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060469/Ecosystem%20Mapping/Center_for_ACE_xzapin.jpg"
+      "url": "http://culturalevolutioncenter.org//wp-content/uploads/2018/01/CDI-Earth-Image.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644934412/Ecosystem%20Mapping/CACE_sxs0sh.jpg"
     }
   },
   {
@@ -1271,6 +1294,7 @@
     "url": "https://www.consciousevolution.co.uk/",
     "email": "cobboldr1@gmail.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644918252/Ecosystem%20Mapping/conscious_evolution_no_BG_arlobc.png",
     "image_homepage": {
       "url": ""
     },
@@ -1322,6 +1346,7 @@
     "url": "https://culturalcatalystnetwork.org/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644922318/Ecosystem%20Mapping/CCN_no_bakground_baq56p.png",
     "image_homepage": {
       "url": ""
     },
@@ -1362,8 +1387,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972341/Ecosystem%20Mapping/Cultural_Catalyst_Network_kdoepd.png"
     },
     "image": {
-      "url": "http://culturalcatalystnetwork.org/wp-content/uploads/2019/04/logo354.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972341/Ecosystem%20Mapping/Cultural_Catalyst_Network_kdoepd.png"
+      "url": "http://culturalcatalystnetwork.org/wp-content/uploads/2019/06/UNADJUSTEDNONRAW_thumb_27e5.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644934579/Ecosystem%20Mapping/CCN_dknps5.jpg"
     }
   },
   {
@@ -1373,6 +1398,7 @@
     "url": "https://www.dailyevolver.com/theory/",
     "email": "jeff@dailyevolver.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644922385/Ecosystem%20Mapping/DEP_no_BG_zdyg8d.png",
     "image_homepage": {
       "url": ""
     },
@@ -1413,8 +1439,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972351/Ecosystem%20Mapping/Daily_Evolver_c9p8df.png"
     },
     "image": {
-      "url": "https://www.dailyevolver.com/wp-content/uploads/2020/05/tde_2020_rainbow_podcast.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972351/Ecosystem%20Mapping/Daily_Evolver_c9p8df.png"
+      "url": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.18169-9/10308362_706053269460683_6744133873890270790_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=sDWz6n0uBc4AX_IjfIV&_nc_ht=scontent.fgla3-1.fna&oh=00_AT-pL9sUfStMzsAWRDfxhiW0rZnh-PYjMHLgTH8ZGX7W6Q&oe=6231DDAE",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644934794/Ecosystem%20Mapping/DE_dcclsk.jpg"
     }
   },
   {
@@ -1424,6 +1450,7 @@
     "url": "http://www.damanhur.org",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644922448/Ecosystem%20Mapping/DAMANHUR_no_BG_iag0jn.png",
     "image_homepage": {
       "url": ""
     },
@@ -1464,8 +1491,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972375/Ecosystem%20Mapping/Damanhur_udwo6n.png"
     },
     "image": {
-      "url": "https://damanhur.org/wp-content/uploads/2020/07/damanhur-gold-1024x745.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972375/Ecosystem%20Mapping/Damanhur_udwo6n.png"
+      "url": "https://cdn.bitrix24.eu/b5745751/landing/b15/b15609ee2de1ac39c1a389ec39510cc3/Screen_Shot_2020-07-10_at_17.58.45_copy_2x_2x_2x.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644935081/Ecosystem%20Mapping/Damanhur_zcme1e.jpg"
     }
   },
   {
@@ -1475,6 +1502,7 @@
     "url": "http://www.thedancewebsite.org/",
     "email": "joe@thedancewebsite.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644922764/Ecosystem%20Mapping/Dharma_no_BG_hi55hx.png",
     "image_homepage": {
       "url": ""
     },
@@ -1517,8 +1545,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972383/Ecosystem%20Mapping/Dharma_Action_Network_dv4hwe.png"
     },
     "image": {
-      "url": "http://www.thedancewebsite.org/wp-content/uploads/header-logo.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972383/Ecosystem%20Mapping/Dharma_Action_Network_dv4hwe.png"
+      "url": "https://lh5.googleusercontent.com/-oQPO8YZVKVHIIO7n61YeZIrM8a5rXPX7HjMf4INBpjr8p1VqYqD9mAD1SCUgwJa1TlBBAU8AXTNgA9raVn6_dUJ4p1YtRcQsY1fuqfTwowJUHm6=w1280",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644935250/Ecosystem%20Mapping/dance_kgfihm.png"
     }
   },
   {
@@ -1528,6 +1556,7 @@
     "url": "http://www.ecodharma.com/",
     "email": "info@ecodharma.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644922868/Ecosystem%20Mapping/ecodharma_gl6zvi.png",
     "image_homepage": {
       "url": ""
     },
@@ -1568,8 +1597,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972389/Ecosystem%20Mapping/ecodharma_ru01rd.png"
     },
     "image": {
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRKTfHQ-RLizAysLEoeVzji_mx1lmqFXGWN2CDgFnWejS3X7vyU",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972389/Ecosystem%20Mapping/ecodharma_ru01rd.png"
+      "url": "http://www.ecodharma.com/public/workspace/body-images/retreat1.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644935342/Ecosystem%20Mapping/ecodharma_ni7wpx.jpg"
     }
   },
   {
@@ -1579,6 +1608,7 @@
     "url": "https://embercombe.org/",
     "email": "info@embercombe.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644922934/Ecosystem%20Mapping/embercombe_pcltzl.png",
     "image_homepage": {
       "url": ""
     },
@@ -1621,8 +1651,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972395/Ecosystem%20Mapping/embercombe_uduwtb.jpg"
     },
     "image": {
-      "url": "https://embercombe.org/wp-content/uploads/2018/02/embercombe-logo-full-gradient-white-1.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972395/Ecosystem%20Mapping/embercombe_uduwtb.jpg"
+      "url": "https://embercombe.org/wp-content/uploads/2014/11/journey-header-800.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644935525/Ecosystem%20Mapping/embercombe_sgtv2u.jpg"
     }
   },
   {
@@ -1632,6 +1662,7 @@
     "url": "https://emergencemagazine.org/",
     "email": "info@emergencemagazine.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923017/Ecosystem%20Mapping/emergence_no_BG_jezcgy.png",
     "image_homepage": {
       "url": ""
     },
@@ -1672,8 +1703,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060034/Ecosystem%20Mapping/Emergence_Magazine_fh8jrh.jpg"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.18169-9/28661373_1428301050608212_8152975983994803920_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=evMbxZ1wZ64AX94O3yZ&_nc_ht=scontent-lcy1-1.xx&oh=029c9a50eb71d76b843e5a66e6a3df8c&oe=61B7881E",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060034/Ecosystem%20Mapping/Emergence_Magazine_fh8jrh.jpg"
+      "url": "https://emergencemagazine.org/app/uploads/2021/03/Vol-2-Header-B-2200x1375.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644935643/Ecosystem%20Mapping/emergence_g7d4te.jpg"
     }
   },
   {
@@ -1683,6 +1714,7 @@
     "url": "https://www.esalen.org/",
     "email": "info@esalen.org",
     "email2": "marketing@esalen.org",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923068/Ecosystem%20Mapping/esalen_no_BG_lsiva0.png",
     "image_homepage": {
       "url": ""
     },
@@ -1726,8 +1758,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972727/Ecosystem%20Mapping/Esalen_bauplm.png"
     },
     "image": {
-      "url": "https://assets-global.website-files.com/602d8561ae2fe611c947c905/602d8561ae2fe6277647c9a0_esalen-logo.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972727/Ecosystem%20Mapping/Esalen_bauplm.png"
+      "url": "https://assets-global.website-files.com/602d8561ae2fe6ec8347c903/604fa5b98b2e46b01e66d9a7_lawn-fence-sunset-woman-walking.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644935824/Ecosystem%20Mapping/esalen_jnqz76.jpg"
     }
   },
   {
@@ -1737,6 +1769,7 @@
     "url": "https://rebellion.earth/",
     "email": "enquiries@extinctionrebellion.uk",
     "email2": "press@extinctionrebellion.uk",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -1792,6 +1825,7 @@
     "url": "https://forthewild.world/",
     "email": "connect@forthewild.world",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923214/Ecosystem%20Mapping/FTW_no_BG_vy5ir2.png",
     "image_homepage": {
       "url": ""
     },
@@ -1832,8 +1866,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972737/Ecosystem%20Mapping/for_the_wild_v9edyw.jpg"
     },
     "image": {
-      "url": "https://images.squarespace-cdn.com/content/5403e5dbe4b04db10d1d362b/1576009090772-BA18WE4IWU2Q3VA8ZNYQ/FTW_Logo_CoverArt.jpg?content-type=image%2Fjpeg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972737/Ecosystem%20Mapping/for_the_wild_v9edyw.jpg"
+      "url": "https://images.squarespace-cdn.com/content/v1/5403e5dbe4b04db10d1d362b/1609445423024-7UCBD80SVI392WD8CG8P/LoggedForest_KoaKalish.jpeg?format=1000w",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644936017/Ecosystem%20Mapping/for_the_wild_h8d1pi.jpg"
     }
   },
   {
@@ -1843,6 +1877,7 @@
     "url": "https://futurethinkers.org/",
     "email": "contact@futurethinkers.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923271/Ecosystem%20Mapping/future_thinkers_no_BG_zppfg9.png",
     "image_homepage": {
       "url": ""
     },
@@ -1885,8 +1920,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972743/Ecosystem%20Mapping/future_thinkers_k05yql.png"
     },
     "image": {
-      "url": "https://futurethinkers.org/wp-content/uploads/2015/06/Future-Thinkers-Text-Logo2-1-300x149.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636972743/Ecosystem%20Mapping/future_thinkers_k05yql.png"
+      "url": "https://futurethinkers.org/wp-content/uploads/2019/08/1200px-Junction_2015-682x682.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644936535/Ecosystem%20Mapping/future_thinkers_r2rcz6.jpg"
     }
   },
   {
@@ -1896,6 +1931,7 @@
     "url": "https://gaiahouse.co.uk/",
     "email": "info@gaiahouse.co.uk",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923410/Ecosystem%20Mapping/Gaia_house_no_BG_yroqqf.png",
     "image_homepage": {
       "url": ""
     },
@@ -1940,8 +1976,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973127/Ecosystem%20Mapping/gaia-house_he40iz.png"
     },
     "image": {
-      "url": "https://gaiahouse.co.uk/wp-content/uploads/gaia-house-logo.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973127/Ecosystem%20Mapping/gaia-house_he40iz.png"
+      "url": "https://gaiahouse.co.uk/wp-content/uploads/gaia-house-front-garden-slide.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644936614/Ecosystem%20Mapping/gaia-house-front-garden-slide_idssik.jpg"
     }
   },
   {
@@ -1951,6 +1987,7 @@
     "url": "https://www.game-b.org/landing?space_id=3844035",
     "email": "not-found ",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923486/Ecosystem%20Mapping/Game_B_no_BG_xqskov.png",
     "image_homepage": {
       "url": ""
     },
@@ -2005,6 +2042,7 @@
     "url": "https://aschoolcalledhome.org/",
     "email": "not-found ",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923668/Ecosystem%20Mapping/home_no_bg_sbpmdn.png",
     "image_homepage": {
       "url": ""
     },
@@ -2048,8 +2086,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973115/Ecosystem%20Mapping/Home_wg3srp.webp"
     },
     "image": {
-      "url": "https://i1.wp.com/aschoolcalledhome.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-14.17.19.jpg?w=1440&ssl=1",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973115/Ecosystem%20Mapping/Home_wg3srp.webp"
+      "url": "https://miro.medium.com/max/1400/1*PuvYZPDOjoQsl08vP7ZQWg.jpeg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644936974/Ecosystem%20Mapping/home_thyegy.jpg"
     }
   },
   {
@@ -2059,6 +2097,7 @@
     "url": "https://integrallife.com",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923723/Ecosystem%20Mapping/integral_no_BG_cae6r0.png",
     "image_homepage": {
       "url": ""
     },
@@ -2099,8 +2138,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973104/Ecosystem%20Mapping/Integral_Life_svdv9v.png"
     },
     "image": {
-      "url": "https://integrallife.com/wp-content/uploads/2016/07/IntegralLife_logo-500px-Trans-middle.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973104/Ecosystem%20Mapping/Integral_Life_svdv9v.png"
+      "url": "https://cdn-bfiho.nitrocdn.com/zzpmBMsOKhwaececAhGHncOFbbwatBIq/assets/static/optimized/rev-a33133f/wp-content/uploads/2022/02/Ancestry-Practice-notitle-2-1024x576.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645014374/Ecosystem%20Mapping/integral_life_wwlrcg.jpg"
     }
   },
   {
@@ -2110,6 +2149,7 @@
     "url": "https://integralzen.org",
     "email": "info@integralzen.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923843/Ecosystem%20Mapping/integral_no_BG_1_xclgmc.png",
     "image_homepage": {
       "url": ""
     },
@@ -2154,8 +2194,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973095/Ecosystem%20Mapping/Integral_Zen_zegnm2.jpg"
     },
     "image": {
-      "url": "https://pbs.twimg.com/profile_images/969143454818295808/8flO4UV__400x400.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973095/Ecosystem%20Mapping/Integral_Zen_zegnm2.jpg"
+      "url": "https://integralzen.org/uploads/medium/kodo3_a9w3xq9f.JPG",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644940919/Ecosystem%20Mapping/kodo3_a9w3xq9f_ilhe4w.jpg"
     }
   },
   {
@@ -2165,6 +2205,7 @@
     "url": "https://www.k9coliving.com/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644923902/Ecosystem%20Mapping/K9_no_BG_hzs5n0.png",
     "image_homepage": {
       "url": ""
     },
@@ -2206,8 +2247,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637059890/Ecosystem%20Mapping/K9_coliving_wjxdzb.png"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/88331206_853950778411399_928951913741811712_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wJY-gOCSvlsAX9b0tMX&_nc_ht=scontent-lcy1-1.xx&oh=73b62abd16e6d1353c8635f6199a9203&oe=61B9103B",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637059890/Ecosystem%20Mapping/K9_coliving_wjxdzb.png"
+      "url": "https://images.squarespace-cdn.com/content/v1/5a72fce680bd5e563a9723fc/1543509531954-HROW48OFP4EXISXFT7WT/Screen+Shot+2018-11-29+at+5.34.17+PM.png?format=500w",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644941178/Ecosystem%20Mapping/K9_kv6ptm.png"
     }
   },
   {
@@ -2217,6 +2258,7 @@
     "url": "https://tllp.org/",
     "email": "not-found ",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644924105/Ecosystem%20Mapping/LLP_no_BG_y4eq0m.png",
     "image_homepage": {
       "url": ""
     },
@@ -2268,6 +2310,7 @@
     "url": "http://liminalvillage.com/",
     "email": "info@liminalvillage.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644924258/Ecosystem%20Mapping/Liminal_village_no_BG_tpfoao.png   OR    https://res.cloudinary.com/ds7qslkd0/image/upload/v1644924385/Ecosystem%20Mapping/liminal_village_no_BG_2_u0sxu3.png  ",
     "image_homepage": {
       "url": ""
     },
@@ -2308,8 +2351,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973475/Ecosystem%20Mapping/Liminal_Village_yxi49h.jpg"
     },
     "image": {
-      "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHX_zWMR5ZSeg/company-logo_200_200/0/1619428882770?e=1641427200&v=beta&t=kZYLoI7dkK8FhtkgfuehLArMqIu1PhN9blU1mskXKxI",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973475/Ecosystem%20Mapping/Liminal_Village_yxi49h.jpg"
+      "url": "https://liminalvillage.com/wp-content/uploads/2019/08/IMG_7366.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644942007/Ecosystem%20Mapping/liminal_village_o3uoan.jpg"
     }
   },
   {
@@ -2319,6 +2362,7 @@
     "url": "https://www.microsolidarity.cc/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644924548/Ecosystem%20Mapping/microsolidarity_no_BG_rqia0w.png",
     "image_homepage": {
       "url": ""
     },
@@ -2359,8 +2403,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973470/Ecosystem%20Mapping/Microsolidarity_l1x1d3.jpg"
     },
     "image": {
-      "url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/1092286/1092286-1550274124491-4dbc589e71fdb.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973470/Ecosystem%20Mapping/Microsolidarity_l1x1d3.jpg"
+      "url": "https://291427895-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LU3FK9LrDJt_kDjvIFM%2F-LU3U8xM02roGgMn3AGx%2F-LU3UZENfl3PUpJf4bFG%2Ffractal-map-of-belonging-edited.jpg?alt=media&token=a1c2bcd0-4f21-40d9-8c68-4be5851efc10",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644942135/Ecosystem%20Mapping/fractal-map-of-belonging-edited_wduaul.jpg"
     }
   },
   {
@@ -2370,6 +2414,7 @@
     "url": "https://www.mindfulnessforchange.co.nz/",
     "email": "team@mindfulnessforchange.co.nz",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644924643/Ecosystem%20Mapping/minfulness_for_change_no_B_G_guj3xn.png",
     "image_homepage": {
       "url": ""
     },
@@ -2411,8 +2456,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973515/Ecosystem%20Mapping/Mindfulness_for_Change_ya40nd.png"
     },
     "image": {
-      "url": "https://images.squarespace-cdn.com/content/v1/58c313346b8f5b5e4d4d5c3e/1489215159909-TXDS5THO324PDNDOGQXA/mindfulnessforchangelogo.png?format=1500w",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973515/Ecosystem%20Mapping/Mindfulness_for_Change_ya40nd.png"
+      "url": "https://medium.com/mindfulnessforchange/contemplative-education-16fac2471b73",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644942302/Ecosystem%20Mapping/m_pzaeuw.jpg"
     }
   },
   {
@@ -2422,6 +2467,7 @@
     "url": "https://www.monasticacademy.com/",
     "email": "info@monasticacademy.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644924822/Ecosystem%20Mapping/monastic_academy_no_BG_az0svu.png",
     "image_homepage": {
       "url": ""
     },
@@ -2464,8 +2510,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973460/Ecosystem%20Mapping/Monastic_Academy_fuuuzq.jpg"
     },
     "image": {
-      "url": "https://i1.sndcdn.com/avatars-000628073310-cst70c-t500x500.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973460/Ecosystem%20Mapping/Monastic_Academy_fuuuzq.jpg"
+      "url": "https://i0.wp.com/www.monasticacademy.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-07-at-1.32.37-PM.png?w=1294&ssl=1",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644942415/Ecosystem%20Mapping/MA_idjxvi.png"
     }
   },
   {
@@ -2475,6 +2521,7 @@
     "url": "https://onbeing.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644924894/Ecosystem%20Mapping/On_being_no_BG_ahiq2y.png",
     "image_homepage": {
       "url": ""
     },
@@ -2517,8 +2564,8 @@
       "cached": ""
     },
     "image": {
-      "url": "https://pbs.twimg.com/profile_images/1006247786281611265/vf3-Nd_h.jpg",
-      "cached": ""
+      "url": "https://scontent.fgla3-2.fna.fbcdn.net/v/t1.6435-9/74474282_10156373217291876_380903817505406976_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=2c4854&_nc_ohc=DtXUn2jMeFkAX9WZDmS&_nc_ht=scontent.fgla3-2.fna&oh=00_AT_V0NEkCkm8gpNQ6SsKIsIelQjdIsbARN9pmZcHDnrEPQ&oe=6231B3C6",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644942648/Ecosystem%20Mapping/On_being_1_iyjzug.jpg"
     }
   },
   {
@@ -2528,6 +2575,7 @@
     "url": "https://www.ouishare.net",
     "email": "not-found (see \"people\")",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644943020/Ecosystem%20Mapping/ouishare_ac9sl0.png",
     "image_homepage": {
       "url": ""
     },
@@ -2572,8 +2620,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/Ouishare_jna5d4.png"
     },
     "image": {
-      "url": "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.18169-9/30716218_1820858814601553_456237605382221493_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ObggSgSfa94AX9l-JPV&_nc_oc=AQluWAVtHqE4yOI2XfH_k_igV-_TqxbMvqeL9sCBfDWxOzV_nMECbXGfedl7fxmNrY0&_nc_ht=scontent-lhr8-1.xx&oh=0ff50bd183f34e6a73a17ebdc5696184&oe=61CD1483",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/Ouishare_jna5d4.png"
+      "url": "https://uploads-ssl.webflow.com/5a32b7c449520e00017ffd8b/5ee79262ff13e174fb6e015a_ouishare-fest-comment-la-ville-moderne-peut-elle-se-partager%2CM467674.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644942888/Ecosystem%20Mapping/ouishare_cftslr.jpg"
     }
   },
   {
@@ -2583,6 +2631,7 @@
     "url": "https://pathretreats.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644943204/Ecosystem%20Mapping/PT_without_BG_dng8mm.png",
     "image_homepage": {
       "url": ""
     },
@@ -2623,11 +2672,11 @@
     "have_email": "N",
     "logo": {
       "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/45313983_1971423326285748_6480964366714798080_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EBNSkrmsC1YAX9mARcs&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=ff43ef1d42159643ea36f36c5fc7bbbc&oe=618578A3",
-      "cached": ""
+      "cached": "https://pathretreats.com/wp-content/uploads/2018/03/path-logo-1.png"
     },
     "image": {
-      "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/45313983_1971423326285748_6480964366714798080_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EBNSkrmsC1YAX9mARcs&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=ff43ef1d42159643ea36f36c5fc7bbbc&oe=618578A3",
-      "cached": ""
+      "url": "https://pathretreats.com/wp-content/uploads/2021/05/testa-327x497.png",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645005758/Ecosystem%20Mapping/path_retreats_meditation_scspz4.png"
     }
   },
   {
@@ -2637,6 +2686,7 @@
     "url": "https://plumvillage.org",
     "email": "not-found ",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644943287/Ecosystem%20Mapping/PV_no_BG_vmxqad.png",
     "image_homepage": {
       "url": ""
     },
@@ -2682,8 +2732,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637058836/Ecosystem%20Mapping/Plum_village_errtmq.jpg"
     },
     "image": {
-      "url": "http://compassionatementalhealth.co.uk/wp-content/uploads/2020/05/Plum-Village.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637058836/Ecosystem%20Mapping/Plum_village_errtmq.jpg"
+      "url": "https://plumvillage.org/wp-content/uploads/2019/08/180-Plum-Village-monastery-in-France-birdseye-view-PHOTO-PVCEB.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645005825/Ecosystem%20Mapping/plum_village_ff5zva.jpg"
     }
   },
   {
@@ -2693,6 +2743,7 @@
     "url": "https://www.resurgence.org/",
     "email": "members@resurgence.org",
     "email2": "info@resurgence.org",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644998105/Ecosystem%20Mapping/R_E_wcacuz.png",
     "image_homepage": {
       "url": ""
     },
@@ -2735,8 +2786,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973754/Ecosystem%20Mapping/Resurgence_Ecologist_lmaczs.jpg"
     },
     "image": {
-      "url": "https://www.resurgence.org/grafix/covers/300/isimg_319.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973754/Ecosystem%20Mapping/Resurgence_Ecologist_lmaczs.jpg"
+      "url": "https://www.resurgence.org/grafix/covers/600/isimg_330.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645005974/Ecosystem%20Mapping/R_E_gnxwan.jpg"
     }
   },
   {
@@ -2746,6 +2797,7 @@
     "url": "http://www.emergencenetwork.org/",
     "email": "info@emergencenetwork.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644998303/Ecosystem%20Mapping/TEN_no_BG_1_finqjd.png",
     "image_homepage": {
       "url": ""
     },
@@ -2788,8 +2840,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/the_emergence_network_p1pu4f.gif"
     },
     "image": {
-      "url": "http://www.emergencenetwork.org/wp-content/uploads/2017/06/Comp-2_1.gif",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/the_emergence_network_p1pu4f.gif"
+      "url": "https://scontent.fgla3-2.fna.fbcdn.net/v/t1.6435-9/54257755_2474245265941282_5733198702076493824_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=JJF_zZEOOIkAX8GvpEO&_nc_ht=scontent.fgla3-2.fna&oh=00_AT9DuWCjH5ziaq_B1Gz_cbjA0Gv6j29ugFHGfgd7VuuoHA&oe=6230F7D6",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645006360/Ecosystem%20Mapping/TEN_nl0gd6.jpg"
     }
   },
   {
@@ -2799,6 +2851,7 @@
     "url": "https://www.thefutureisbeautiful.co/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644998451/Ecosystem%20Mapping/TFIB_no_BG_zhy7oh.png",
     "image_homepage": {
       "url": ""
     },
@@ -2837,12 +2890,12 @@
     "phone": "",
     "have_email": "N",
     "logo": {
-      "url": "https://islington.impacthub.net/wp-content/uploads/2017/11/The-future-is-beautiful.png",
+      "url": "https://i0.wp.com/www.thefutureisbeautiful.co/wp-content/uploads/2020/01/cropped-The-Future-Is-Beautiful-Logo.png?fit=2852%2C1157&ssl=1",
       "cached": ""
     },
     "image": {
       "url": "https://i1.wp.com/www.thefutureisbeautiful.co/wp-content/uploads/2020/03/The-Vision-Wisdom-Activism-We-Need-3.png?w=828&ssl=1",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645006499/Ecosystem%20Mapping/Amisha-Yoga-Meditation_joyeyr.jpg"
     }
   },
   {
@@ -2852,6 +2905,7 @@
     "url": "https://www.mindfulness-project.org/",
     "email": "info@mindfulness-project.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644998588/Ecosystem%20Mapping/MP_no_BG_zouha4.png",
     "image_homepage": {
       "url": ""
     },
@@ -2892,8 +2946,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458846/Ecosystem%20Mapping/mindfulness_project_uwyog3.jpg"
     },
     "image": {
-      "url": "https://www.mindfulness-project.org/wp-content/uploads/2018/04/logoWhite1.jpg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458846/Ecosystem%20Mapping/mindfulness_project_uwyog3.jpg"
+      "url": "https://scontent.fgla3-2.fna.fbcdn.net/v/t39.30808-6/243098993_4446688975410819_7189102888643976436_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=2c4854&_nc_ohc=7xJZjOYJ8YIAX8LcwaC&_nc_ht=scontent.fgla3-2.fna&oh=00_AT8rDbO8RDciFu9UPaQS4R-4sMQ-7XgOmFYd_-WxrzAFIA&oe=62119200",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645006683/Ecosystem%20Mapping/mindfulness_ndfaf6.jpg"
     }
   },
   {
@@ -2903,6 +2957,7 @@
     "url": "https://theregeneration.me/",
     "email": "not-found (see \"people\")",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644998739/Ecosystem%20Mapping/TRG_no_BG_w1rudv.png",
     "image_homepage": {
       "url": ""
     },
@@ -2948,8 +3003,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/the_re-generation_jxdrqd.png"
     },
     "image": {
-      "url": "http://theregeneration.me/wp-content/uploads/2019/06/regen-logo-temporary.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/the_re-generation_jxdrqd.png"
+      "url": "https://scontent.fgla3-1.fna.fbcdn.net/v/t1.6435-9/117888909_1237742056587886_708167622438499559_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=2c4854&_nc_ohc=f9zhKo6UdHIAX9ecb8B&_nc_ht=scontent.fgla3-1.fna&oh=00_AT9UaDKhkpLynJ0tdMXV4NFzDi3V5-pxUGOcLf1T_QEg3g&oe=6231667C",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645007003/Ecosystem%20Mapping/Re.gen_bdboph.jpg"
     }
   },
   {
@@ -2959,6 +3014,7 @@
     "url": "http://wellbeing-project.org/",
     "email": "media@wellbeing-project.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644998822/Ecosystem%20Mapping/TWP_no_BG_ukadkb.png",
     "image_homepage": {
       "url": ""
     },
@@ -2999,8 +3055,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973770/Ecosystem%20Mapping/The_Wellbeing_Project_pbntid.png"
     },
     "image": {
-      "url": "http://wellbeing-project.org/wp-content/uploads/2017/12/wbp_header_logo-1.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973770/Ecosystem%20Mapping/The_Wellbeing_Project_pbntid.png"
+      "url": "https://thewellbeingproject.co.uk/wp-content/uploads/2021/11/iStock-956479962-1-scaled.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645007270/Ecosystem%20Mapping/wellbeing_kveoqh.jpg"
     }
   },
   {
@@ -3010,6 +3066,7 @@
     "url": "www.thebuddhistcentre.com",
     "email": "info@thebuddhistcentre.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644999277/Ecosystem%20Mapping/Triratna_ipkwdl.png",
     "image_homepage": {
       "url": ""
     },
@@ -3052,8 +3109,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973761/Ecosystem%20Mapping/Triratna_oz8bhv.webp"
     },
     "image": {
-      "url": "https://maltamindfulnesscentrecom.files.wordpress.com/2020/06/logo-new.jpg?w=683",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973761/Ecosystem%20Mapping/Triratna_oz8bhv.webp"
+      "url": "https://www.buddhafield.com/sites/default/files/styles/page_header_image/public/images/headers/Spare%20banner%20for%20website%204.jpg?itok=HNevkntt",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645007380/Ecosystem%20Mapping/buddhafiled_lvuryt.jpg"
     }
   },
   {
@@ -3063,6 +3120,7 @@
     "url": "https://ulexproject.org/",
     "email": "info@ulexproject.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644999337/Ecosystem%20Mapping/ulex_no_bg_cwsx8w.png",
     "image_homepage": {
       "url": ""
     },
@@ -3103,8 +3161,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/ulex_ndmfln.png"
     },
     "image": {
-      "url": "https://ulexproject.org/wp-content/uploads/2016/10/ulex-new-logo.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/ulex_ndmfln.png"
+      "url": "https://scontent.fgla3-2.fna.fbcdn.net/v/t1.6435-9/56730678_1165989486895976_831465845568831488_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=cdbe9c&_nc_ohc=EjZkoXyxZycAX-JABFc&_nc_ht=scontent.fgla3-2.fna&oh=00_AT9Ka34H9xNEip7U5swBYumvTIKSmsRTYz_bV-vZsyP89A&oe=6232C0FF",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645007912/Ecosystem%20Mapping/ulex1_ngpuxf.jpg"
     }
   },
   {
@@ -3114,6 +3172,7 @@
     "url": "http://wkup.org",
     "email": "info@wkup.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644999391/Ecosystem%20Mapping/WU_no_BG_uqytvk.png",
     "image_homepage": {
       "url": ""
     },
@@ -3157,8 +3216,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/wake_up_ifykfe.jpg"
     },
     "image": {
-      "url": "https://pbs.twimg.com/profile_images/3702617769/503b58b72747ff46583c05abd212e8be_400x400.jpeg",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458847/Ecosystem%20Mapping/wake_up_ifykfe.jpg"
+      "url": "https://wkup.org/wp-content/uploads/2014/06/1965025_1533522786874719_568285340554110432_n-768x513.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645007998/Ecosystem%20Mapping/wakeup_mnozqh.jpg"
     }
   },
   {
@@ -3168,6 +3227,7 @@
     "url": "http://www.wisdom2summit.com",
     "email": "sponsors@wisdom2conference.com",
     "email2": "info@wisdom2conference.com",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644999458/Ecosystem%20Mapping/wisdom_ycoc5u.png",
     "image_homepage": {
       "url": ""
     },
@@ -3208,8 +3268,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974027/Ecosystem%20Mapping/Wisdom_2.0_xi5kfr.png"
     },
     "image": {
-      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbITdjnu-S3BauuN4oolmRTSs59wCTOEAhLglOSDOQQyCtKQst",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974027/Ecosystem%20Mapping/Wisdom_2.0_xi5kfr.png"
+      "url": "https://images.squarespace-cdn.com/content/v1/5f8663fc5daaf71f9561262d/1603140764239-Z2FP3Z592KWH5HR7LB8M/Wisdom2019-BZM-1046.jpg?format=2500w",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645008108/Ecosystem%20Mapping/Wisdom2019-BZM-1046_h0z0yk.jpg"
     }
   },
   {
@@ -3219,6 +3279,7 @@
     "url": "https://psychedelicsociety.org.uk/",
     "email": "enquiries@psychedelicsociety.org.uk",
     "email2": "press@psychedelicsociety.org.uk",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644999522/Ecosystem%20Mapping/TPS_no_BG_nacjpv.png",
     "image_homepage": {
       "url": ""
     },
@@ -3261,8 +3322,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974035/Ecosystem%20Mapping/The_Psychadelic_society_irojmr.png"
     },
     "image": {
-      "url": "https://images.squarespace-cdn.com/content/v1/5e2f0ae503b587720e341f5b/1591632113636-YXD1IT9U0P87S9WCSVXG/Logo-Colour.png?format=1500w",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974035/Ecosystem%20Mapping/The_Psychadelic_society_irojmr.png"
+      "url": "https://images.squarespace-cdn.com/content/v1/5e2f0ae503b587720e341f5b/1639854543602-BGFVFJ1TQG2LWSL76ZGV/1_mrUsf_8tnkXc47F-Y_QcWQ.jpeg?format=1000w",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645008430/Ecosystem%20Mapping/PS_yk0vcm.jpg"
     }
   },
   {
@@ -3272,6 +3333,7 @@
     "url": "https://www.buddhafield.com/",
     "email": "information@buddhafield.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644999587/Ecosystem%20Mapping/Buddhafield_no_BG_wxcfgp.png",
     "image_homepage": {
       "url": ""
     },
@@ -3312,8 +3374,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637059456/Ecosystem%20Mapping/Buddhafield_qlk5r3.jpg"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/131315740_10164709908445597_218588957163229194_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=WTyniY_Ons4AX_oF9wS&_nc_ht=scontent-lcy1-1.xx&oh=cd49756ad1398a3f8a0db0dc7d518ef0&oe=61B7B5E7",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637059456/Ecosystem%20Mapping/Buddhafield_qlk5r3.jpg"
+      "url": "https://www.buddhafield.com/sites/default/files/images/headers/Buddhahead.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645008678/Ecosystem%20Mapping/Buddhahead_a99dzr.jpg"
     }
   },
   {
@@ -3323,6 +3385,7 @@
     "url": "https://www.theosthinktank.co.uk/",
     "email": "hello@theosthinktank.co.uk",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645003107/Ecosystem%20Mapping/Theos_xpqirw.png",
     "image_homepage": {
       "url": ""
     },
@@ -3363,8 +3426,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974014/Ecosystem%20Mapping/Theos_Think_Tank_uohinn.jpg"
     },
     "image": {
-      "url": "https://yt3.ggpht.com/ytc/AKedOLSvKFmaUTN9i-PTAOk1j8vv5K_wp_Rm55kHymapGA=s900-c-k-c0x00ffffff-no-rj",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974014/Ecosystem%20Mapping/Theos_Think_Tank_uohinn.jpg"
+      "url": "https://www.theosthinktank.co.uk/assets/generated/articles/page/d8590d2b524509115e5a87e632b33329.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645008950/Ecosystem%20Mapping/theos_wepceu.jpg"
     }
   },
   {
@@ -3374,6 +3437,7 @@
     "url": "https://www.alternatives.org.uk/",
     "email": "info@alternatives.org.uk",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645003735/Ecosystem%20Mapping/Alternatives_UK_aljcd7.png",
     "image_homepage": {
       "url": ""
     },
@@ -3414,8 +3478,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060867/Ecosystem%20Mapping/Alternatives_UK_iinlcr.jpg"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.18169-9/12289748_950773981625648_4885802080062041185_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=qNqUgCnNdKIAX8S0Jd1&_nc_ht=scontent-lcy1-1.xx&oh=7a19fc467fbc5d07d18d1a6497c9aa41&oe=61BA9EB6",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060867/Ecosystem%20Mapping/Alternatives_UK_iinlcr.jpg"
+      "url": "https://scontent.fgla3-2.fna.fbcdn.net/v/t1.18169-9/17951752_1351092234927152_8793413239077130503_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=9267fe&_nc_ohc=TN7_7GZCbZcAX9zAtnL&_nc_ht=scontent.fgla3-2.fna&oh=00_AT9ZrYfak0oMBq8gc-kj3yIb8oSkFnucD_CfJzhJ5U8cqg&oe=623310EA",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645009148/Ecosystem%20Mapping/alt_msvfiu.jpg"
     }
   },
   {
@@ -3425,6 +3489,7 @@
     "url": "https://www.scienceandnonduality.com/",
     "email": "info@scienceandnonduality.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645003831/Ecosystem%20Mapping/science_no_BG_jixhao.png",
     "image_homepage": {
       "url": ""
     },
@@ -3467,8 +3532,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060878/Ecosystem%20Mapping/Science_and_non_duality_nw8dgu.jpg"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/49133846_2242993802417321_6750647338915594240_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=RibZYJGrcs4AX_6-PdT&_nc_ht=scontent-lcy1-1.xx&oh=c6134b51516162de629784e5f0647153&oe=61B81EFD",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060878/Ecosystem%20Mapping/Science_and_non_duality_nw8dgu.jpg"
+      "url": "https://scontent.fgla3-1.fna.fbcdn.net/v/t39.30808-6/259354519_4884402564943085_6543704430427337792_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=TLiqyFKG-MwAX-WaWCE&_nc_oc=AQn3UuAXJ21SvZTsuDXvFJT_jEjiZec7l9_JYq7DSLfiGSqIUH3YGDIDGsvlW8G-k4IywMkuzXTrkTnagDmUKJeb&_nc_ht=scontent.fgla3-1.fna&oh=00_AT8e49qRC2KWPZ5VHmqmFOhSDu0218ETNEMiBnKOhwZesg&oe=62112FC8",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645009346/Ecosystem%20Mapping/sci_and_non_du_pvofvo.jpg"
     }
   },
   {
@@ -3478,6 +3543,7 @@
     "url": "https://evidencebasedwisdom.com/",
     "email": "charles@evidencebasedwisdom.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645003912/Ecosystem%20Mapping/EBW_no_BG_ki1f7j.png",
     "image_homepage": {
       "url": ""
     },
@@ -3515,8 +3581,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060729/Ecosystem%20Mapping/Evidence_based_wisdom_l0kgbj.png"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.18169-9/17362697_185868608577871_8740154654562142983_n.png?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=qSB_t51aPfAAX_l7wuK&_nc_ht=scontent-lcy1-1.xx&oh=ffb21390bb2b3a497cbb3b60bfe056e7&oe=61B928C2",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637060729/Ecosystem%20Mapping/Evidence_based_wisdom_l0kgbj.png"
+      "url": "https://evidencebasedwisdom.files.wordpress.com/2019/07/artificial-intelligence-3382507_1920.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645011400/Ecosystem%20Mapping/artificial-intelligence-3382507_1920_og8vkd.jpg"
     }
   },
   {
@@ -3526,6 +3592,7 @@
     "url": "https://www.raisingfreepeople.com/",
     "email": "she@akilahsrichards.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645003981/Ecosystem%20Mapping/RFP_no_BG_vamzhl.png",
     "image_homepage": {
       "url": ""
     },
@@ -3564,8 +3631,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974311/Ecosystem%20Mapping/Raising_Free_people_spddc0.webp"
     },
     "image": {
-      "url": "https://i0.wp.com/raisingfreepeople.com/wp-content/uploads/2020/03/RFP-logo.png?fit=903%2C307&ssl=1",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636974311/Ecosystem%20Mapping/Raising_Free_people_spddc0.webp"
+      "url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/sor0hdZVQUm1Fv34bnQv",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645011538/Ecosystem%20Mapping/schooltoself-thumb_ise6gp.jpg"
     }
   },
   {
@@ -3575,6 +3642,7 @@
     "url": "https://alterego.network/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004041/Ecosystem%20Mapping/AE_no_BG_mzjaly.png",
     "image_homepage": {
       "url": ""
     },
@@ -3617,8 +3685,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636559410/Ecosystem%20Mapping/29694443_163253617723118_6014373808351466630_n_vdukjr.jpg"
     },
     "image": {
-      "url": "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-9/29694443_163253617723118_6014373808351466630_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7hGynqDtAqIAX9-ef2K&_nc_ht=scontent-cdt1-1.xx&oh=281ce9177e2a20b81888364b5658af60&oe=61B1ACEB",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636559410/Ecosystem%20Mapping/29694443_163253617723118_6014373808351466630_n_vdukjr.jpg"
+      "url": "http://alterego.network/",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645011812/Ecosystem%20Mapping/alter_ego_vvvhln.png"
     }
   },
   {
@@ -3628,8 +3696,9 @@
     "url": "https://commonweal.org",
     "email": "socialmedia@commonweal.org",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004156/Ecosystem%20Mapping/commonweal_u4xzx0.png",
     "image_homepage": {
-      "url": "https://www.commonweal.org/app/uploads/2020/04/cwlhome-leveled.jpg"
+      "url": ""
     },
     "images_extra": "",
     "description": "Commonweal is a center for learning and research, transformation, and discovery. Our programs work in the areas of health and healing; education and the arts; and environment and justice. We are located in Bolinas, California, on land that is part of the Point Reyes National Seashore.",
@@ -3667,11 +3736,11 @@
     "have_email": "Y",
     "logo": {
       "url": "",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004156/Ecosystem%20Mapping/commonweal_u4xzx0.png"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.18169-9/1897898_1474077992809183_1266267244830878880_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=g9OisaHYwPoAX_OQdPz&_nc_ht=scontent-lcy1-1.xx&oh=b42e62ebe57a7774e40574b78492c47f&oe=61B84A26",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637061203/Ecosystem%20Mapping/Commonweal_dw4jpz.jpg"
+      "url": "https://www.commonweal.org/app/uploads/2022/01/Commonweal-Tent-table-Kyra-Epstein-400.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645012034/Ecosystem%20Mapping/Commonweal-Tent-table-Kyra-Epstein-400_webius.jpg"
     }
   },
   {
@@ -3681,6 +3750,7 @@
     "url": "https://www.braveearth.com",
     "email": "hello@braveearth.com",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004260/Ecosystem%20Mapping/BE_no_BG_xdxl4a.png",
     "image_homepage": {
       "url": ""
     },
@@ -3721,8 +3791,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637061073/Ecosystem%20Mapping/Brave_Earth_mzi4af.jpg"
     },
     "image": {
-      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/56742589_314783589109523_7263876586254893056_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jfFmydaT6MoAX87nbNF&_nc_ht=scontent-lcy1-1.xx&oh=e2529c72cc5c1789834df5947ed34641&oe=61B87A77",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1637061073/Ecosystem%20Mapping/Brave_Earth_mzi4af.jpg"
+      "url": "https://images.squarespace-cdn.com/content/v1/5c4f3c2f31d4dfaa8075b088/1624566223688-OJB45I8QV4QAIDFPQ80M/image-asset.jpeg?format=1500w",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645012146/Ecosystem%20Mapping/brave_earth_sadhui.jpg"
     }
   },
   {
@@ -3732,6 +3802,7 @@
     "url": "https://www.prosocial.world/",
     "email": "hello@prosocial.world",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004324/Ecosystem%20Mapping/prosocial_no_bg_jfzumn.png",
     "image_homepage": {
       "url": ""
     },
@@ -3787,6 +3858,7 @@
     "url": "https://www.radicalpurpose.org/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004391/Ecosystem%20Mapping/radical_no_bg_sijlx2.png",
     "image_homepage": {
       "url": ""
     },
@@ -3825,8 +3897,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458848/Ecosystem%20Mapping/radical_purpose_o2klr1.png"
     },
     "image": {
-      "url": "https://uploads-ssl.webflow.com/5f62d2effe59ee3097599207/60996e694a3cb17d0d6b1c81_LOGO-Cyan-400px.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638458848/Ecosystem%20Mapping/radical_purpose_o2klr1.png"
+      "url": "https://uploads-ssl.webflow.com/5f62d2effe59ee3097599207/607f7f0f1bef56cbe96d7c2b_Medallion.png",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645012403/Ecosystem%20Mapping/radical_daao6y.png"
     }
   },
   {
@@ -3836,6 +3908,7 @@
     "url": "https://www.society2045.com/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004455/Ecosystem%20Mapping/society_no_bg_wc0qdg.png",
     "image_homepage": {
       "url": ""
     },
@@ -3887,6 +3960,7 @@
     "url": "https://www.moralimaginations.com/",
     "email": "hello@moralimaginations.com",
     "email2": "hello@phoebetickell.com",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004623/Ecosystem%20Mapping/MI_no_BG_llwipu.png",
     "image_homepage": {
       "url": ""
     },
@@ -3940,6 +4014,7 @@
     "url": "https://www.essentiafoundation.org/",
     "email": "not-found",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004680/Ecosystem%20Mapping/EF_no_BG_bw5wq5.png",
     "image_homepage": {
       "url": ""
     },
@@ -3982,8 +4057,8 @@
       "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638459638/Ecosystem%20Mapping/essentia_foundation_vqpluy.png"
     },
     "image": {
-      "url": "https://www.essentiafoundation.org/wp-content/uploads/logo-black-e1609768271849.png",
-      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1638459638/Ecosystem%20Mapping/essentia_foundation_vqpluy.png"
+      "url": "https://www.essentiafoundation.org/wp-content/uploads/GSFC_20171208_Archive_e000273_orig.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645012830/Ecosystem%20Mapping/essentia_nygtmu.jpg"
     }
   },
   {
@@ -3993,6 +4068,7 @@
     "url": "https://neweconomics.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004746/Ecosystem%20Mapping/NEF_amcwja.png",
     "image_homepage": {
       "url": ""
     },
@@ -4030,8 +4106,8 @@
       "cached": ""
     },
     "image": {
-      "url": "https://neweconomics.org/uploads/images/nef-logo.png",
-      "cached": ""
+      "url": "https://neweconomics.org/uploads/images/_morepanel1/08_21_NEF_Retrofitting_campaign_doorknock_Edits-13.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645012943/Ecosystem%20Mapping/NEF_roazvg.jpg"
     }
   },
   {
@@ -4041,6 +4117,7 @@
     "url": "https://42acres.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004797/Ecosystem%20Mapping/42_acres_no_bg_gh50i0.png",
     "image_homepage": {
       "url": ""
     },
@@ -4077,8 +4154,8 @@
       "cached": ""
     },
     "image": {
-      "url": "https://media-exp1.licdn.com/dms/image/C510BAQF-leR1fjFybA/company-logo_200_200/0?e=2159024400&v=beta&t=mPwwRHM8kFsTGy7GyKLkHJwpbYDe9Enhc0WCEicts0A",
-      "cached": ""
+      "url": "https://uploads-ssl.webflow.com/6048d94d2e420e988bf6db86/6125408cd14b47111f92e421_TM-42ACRES-AUG21-2.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645013187/Ecosystem%20Mapping/42_pdytia.jpg"
     }
   },
   {
@@ -4088,6 +4165,7 @@
     "url": "https://www.authrev.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645004854/Ecosystem%20Mapping/AR_no_BG_klzyvw.png",
     "image_homepage": {
       "url": ""
     },
@@ -4122,8 +4200,8 @@
       "cached": ""
     },
     "image": {
-      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2277917/settings_images/sVWixyFTB6refx5Mp2mQ_Untitled_drawing_1.png",
-      "cached": ""
+      "url": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2300155/settings_images/DkZzZVQOS16gQ8F4Shd6_file.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645013258/Ecosystem%20Mapping/AR_dsgdqf.jpg"
     }
   },
   {
@@ -4133,6 +4211,7 @@
     "url": "https://www.buildingbelonging.us/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645005007/Ecosystem%20Mapping/BB_no_BG_fcfskw.png",
     "image_homepage": {
       "url": ""
     },
@@ -4167,8 +4246,8 @@
       "cached": ""
     },
     "image": {
-      "url": "",
-      "cached": ""
+      "url": "https://miro.medium.com/max/1334/0*zvLNVsXeLKKpwKol.jpeg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645013354/Ecosystem%20Mapping/BB_qt3vmh.jpg"
     }
   },
   {
@@ -4178,6 +4257,7 @@
     "url": "http://cocreationloft.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645005060/Ecosystem%20Mapping/CCL_no_BG_llpei5.png",
     "image_homepage": {
       "url": ""
     },
@@ -4218,8 +4298,8 @@
       "cached": ""
     },
     "image": {
-      "url": "https://images.squarespace-cdn.com/content/58b97907d1758e4cc270a38c/1488555228476-OPFIDCEKG88YCMO860M8/Logo.png?content-type=image%2Fpng",
-      "cached": ""
+      "url": "https://images.squarespace-cdn.com/content/v1/58b97907d1758e4cc270a38c/1570122974651-NS8BY6H8K0U80B3F4QJ9/190814_Pri_Cowork_Fru%CC%88hstu%CC%88ck+im+Cocreation+Loft_Schinkestra%C3%9Fe_L8911681.jpg?format=2500w",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645013457/Ecosystem%20Mapping/Cocreation_hckzof.jpg"
     }
   },
   {
@@ -4229,6 +4309,7 @@
     "url": "http://www.ctrlshiftsummit.org.uk/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4276,6 +4357,7 @@
     "url": "https://www.culturedeclares.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4323,6 +4405,7 @@
     "url": "https://ecotechnics.edu",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4370,6 +4453,7 @@
     "url": "https://embassynetwork.com",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4417,6 +4501,7 @@
     "url": "http://heartpolitics.org.nz/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4460,6 +4545,7 @@
     "url": "https://impacttheory.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4505,6 +4591,7 @@
     "url": "https://www.landmarkworldwide.com",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4555,6 +4642,7 @@
     "url": "https://www.mindvalley.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4606,6 +4694,7 @@
     "url": "https://www.purpose.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4651,6 +4740,7 @@
     "url": "https://ratpark.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4696,6 +4786,7 @@
     "url": "https://www.thersa.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4747,6 +4838,7 @@
     "url": "https://scuttlebutt.nz/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4792,6 +4884,7 @@
     "url": "https://stethelburgas.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4839,6 +4932,7 @@
     "url": "https://teamhuman.fm/",
     "email": "",
     "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021100/Ecosystem%20Mapping/TH_nvnyth.png",
     "image_homepage": {
       "url": ""
     },
@@ -4881,8 +4975,8 @@
       "cached": ""
     },
     "image": {
-      "url": "https://cdn-images-1.medium.com/max/1198/1*OCcR4oPZqQ9FYmazKdcl8Q@2x.png",
-      "cached": ""
+      "url": "https://images.squarespace-cdn.com/content/v1/5f3d45e1b8a05d74a8deb4b5/1597852062791-MXHL0YGB71G6ZMFVAE0H/TH_Rushkoff.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021361/Ecosystem%20Mapping/TH_Rushkoff_depcap.jpg"
     }
   },
   {
@@ -4892,6 +4986,7 @@
     "url": "https://www.terran.io/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4947,6 +5042,7 @@
     "url": "https://www.theschooloflife.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -4978,11 +5074,11 @@
     "have_email": "",
     "logo": {
       "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDir5SBmh9dA/company-logo_200_200/0?e=2159024400&v=beta&t=bF-hCBxtonLXkO2ddg5VT4Txng2qTS2uVpdJ1q1ivbw",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644228472/Ecosystem%20Mapping/0_ubagi9.jpg"
     },
     "image": {
       "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDir5SBmh9dA/company-logo_200_200/0?e=2159024400&v=beta&t=bF-hCBxtonLXkO2ddg5VT4Txng2qTS2uVpdJ1q1ivbw",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1644228472/Ecosystem%20Mapping/0_ubagi9.jpg"
     }
   },
   {
@@ -4992,6 +5088,7 @@
     "url": "https://tyringhaminitiative.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5041,6 +5138,7 @@
     "url": "https://www.facebook.com/thisisnotthetruth/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5088,6 +5186,7 @@
     "url": "http://www.wisdomhackers.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5131,6 +5230,7 @@
     "url": "https://www.worldfuturecouncil.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5178,6 +5278,7 @@
     "url": "https://www.russellbrand.com/podcasts/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5223,6 +5324,7 @@
     "url": "https://open.spotify.com/show/4rOoJ6Egrf8K2IrywzwOMk",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5268,6 +5370,7 @@
     "url": "https://www.cohack.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5313,6 +5416,7 @@
     "url": "https://thequadrangle.co/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5358,6 +5462,7 @@
     "url": "https://www.nesta.org.uk/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5403,6 +5508,7 @@
     "url": "https://impacthub.net/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5448,6 +5554,7 @@
     "url": "https://www.cusp.ac.uk/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5493,6 +5600,7 @@
     "url": "https://burningman.org",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5536,6 +5644,7 @@
     "url": "https://www.soundstrue.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5581,6 +5690,7 @@
     "url": "https://wakingup.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5626,6 +5736,7 @@
     "url": "https://howthelightgetsin.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5671,6 +5782,7 @@
     "url": "https://reasonstobecheerful.world/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5716,6 +5828,7 @@
     "url": "https://aeon.co/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5763,6 +5876,7 @@
     "url": "https://thefourthgroup.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5808,6 +5922,7 @@
     "url": "https://www.globalconscious.co.uk/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5853,6 +5968,7 @@
     "url": "https://www.sundayassembly.com/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5898,6 +6014,7 @@
     "url": "https://www.globalwitness.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5943,6 +6060,7 @@
     "url": "https://www.lidji.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -5990,6 +6108,7 @@
     "url": "https://gocompassion.org/",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -6037,6 +6156,7 @@
     "url": "https://noetic.org",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -6080,6 +6200,7 @@
     "url": "https://lecielfoundation.com",
     "email": "",
     "email2": "",
+    "transparent logo": "",
     "image_homepage": {
       "url": ""
     },
@@ -6113,6 +6234,749 @@
     },
     "image": {
       "url": "",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Mindfulness and Social Change Network",
+    "id": "mindfulness-and-social-change-network",
+    "rd_1_focus": "N",
+    "url": "https://mindfulnessandsocialchange.org/",
+    "email": "team@mindfulnessandsocialchange.org",
+    "email2": "",
+    "transparent logo": "",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "",
+    "tagline": "",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [],
+    "topic": [],
+    "regions": "",
+    "locations": [],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "",
+      "cached": ""
+    },
+    "image": {
+      "url": "",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Coexistence Awarness based Intrinsically motivated Association",
+    "id": "coexistence-awarness-based-intrinsically-motivated-association",
+    "rd_1_focus": "Y",
+    "url": "www.caia.global",
+    "email": "jannes@caia.global",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021483/Ecosystem%20Mapping/CAIA_no_BG_hlznhu.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "We develop concepts for sustainable design and evaluate the research applied. This knowledge is then available to everyone as a blueprint. Through exchange and collaboration together with like-minded initiatives and projects, we bring extensive practical knowledge to sustainable practices.\n\nNot only does ECO CiVi offer perspectives for the development of functioning local circulation systems working at the intersection of consciousness, science and culture, it also offers a laboratory that supports economic, ecological, social and cultural change.",
+    "tagline": "An ECO City Village (ECO CiVi), a real-world laboratory for the village of the future, is being built in the village of Steyerberg, near Hanover.",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "research",
+      "spaces"
+    ],
+    "topic": [
+      "ecology",
+      "governance"
+    ],
+    "regions": "",
+    "locations": [
+      "Steyerberg, Germany"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "CAIA eG"
+    ],
+    "notes_data_entry": "How do we want to live in the future? How will we feed ourselves, interact with each other, and educate ourselves? How and where will we consume? How will we communicate and get around? What impact will these things have on our existence, our society and our planet? How will we manage to survive as a human race in the long term?\n\nThe ECO City Village offers solutions to the pressing challenges of our time, a concept that combines the advantages of rural and urban life. In the village of Steyerberg, we are creating new perspectives for a vital and future-oriented coexistence.\nIt is up to each of us, as humans, to bring a new perspective of sustainability to life on Earth.",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://caia.global/wp-content/uploads/2020/12/CAIA_Logo_rgb_72ppi.jpg",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://caia.global/wp-content/uploads/2021/02/CAIA-IngaLankenau-Bildung-III.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645022983/Ecosystem%20Mapping/CAIA_image_gxp0bt.jpg"
+    }
+  },
+  {
+    "name": "Black Forest School of Metamodernism ",
+    "id": "black-forest-school-of-metamodernism-",
+    "rd_1_focus": "?",
+    "url": "https://www.blackforestmetamodernism.org/",
+    "email": "adrian.wagner@humboldt-viadrina.org ",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021624/Ecosystem%20Mapping/BFM_no_BG_smhb8i.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "Post Post what? \nPozt Poztmodern Angzt Dizorder. It iz quvite common. Ur zymptoms r quvite clazzic. \nWhat are you talking about, Doc? \nU r experienzink—or rather, continuouzly re-experienzink zhe Poztmodernizt Angzt ov zhe Labyrinth. ….'\n(Postpostmodern Angst Disorder - Metamodernist Poetry, M. H. Frost)\n\nOur quest from a Black Forest point of view is how to navigate within the labyrinth of a post(traumatized) modernity. Or to be blunt: How can we overcome the continuous re-experience of the postmodern angst of the labyrinth and face the traumatized collective memory of modernity? \n\nThe task of black forest metamodernism is not to walk the talk, it is to stop, and to fall into love. Love as a structurally transcending force, with love beauty can be found even in the trauma of the meaning crises. After all, it was the lover of Theseus in the old minotaur myth that gave him the red thread. We can’t find this thread alone, it grows from one heart to another heart. An unfolding process towards resonance coherence and clarity. \n\nMetamodernism today can be seen differinitiated in the cultural in-between, the political after and the mystical beyond. Black Forest Metamodernism uniqueness is to start with the natural underneath. What is the ground, the field of attention modernity and postmodernity grew from? On what soil do we place our feet? Rather then going in-between, after or beyond we go underneath.To make the invisible visible. To disolve the trauma of modernity means to ground, compost and heal the postpostmodern angst disorder. \n",
+    "tagline": "The entry point into metamodernism of the Black Forest School is the traumatization of modernity ",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "network"
+    ],
+    "topic": [
+      "arts",
+      "wellbeing"
+    ],
+    "regions": "",
+    "locations": [
+      "Todtnauerberg, Germany"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "Adrian Wagner"
+    ],
+    "notes_data_entry": "Core project combining metamodernity, nature, DAOs and art: https://seedslibrary.com/poetree-gestell-x-a-decentralized-autonomous-installation/",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1920,f_auto,q_auto/859958/75788146-DC10-444E-9D06-FECD7C4B429D.jpg",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1920,f_auto,q_auto/859958/739A379C-65E9-4A16-930D-C1D0DD945ECD.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645023079/Ecosystem%20Mapping/BFM_mhdvbr.webp"
+    }
+  },
+  {
+    "name": "The Nongrowth Society",
+    "id": "the-nongrowth-society",
+    "rd_1_focus": "Y",
+    "url": "https://thenongrowthsociety.com/",
+    "email": "andreas@opinionsbyran.se",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021703/Ecosystem%20Mapping/TNS_no_B_G_ws5dtc.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "The Nongrowth Society (or The Superduperfantasticprosperingwithinlimitsplace) is a a posture, a teenagers rebellion against the current economic norm of more and more. It is a response to that we as a society have a  serious problem (https://www.thenongrowthsociety.com/the-problem) at hand. The problem is that our socioeconomic system is based on economic growth and has made it a goal to grow endlessly. \n\nCertainly growth can have ecologically good connotations, like the growth of crop, but as anything physical growing exponentially in a finite space will eventually hit the limits so too will our socioeconomic system. Endless economic growth is therefore nothing that should be the foundation for a society and we should instead focus more on planting, growing and caring for imagination, freedom, kindness, equality, empathy, love and prosperity, all within our planetary limits.\n\nThe Nongrowth Society is an intent to orchestrate change, drawn upon brilliant ideas from the past and present and based on the belief that we humans by oneself and in togetherness at least can try. And we have to try because as Thatcher and Reagan said in the 80s about the now planet and people destroying economy: There Is No Alternative (TINA). Now There Is No Alternative To Try Something Different! (TINATTSD). \n\nLet us build on the collective power of these creative and other creative minds that don’t mind that when the going gets tough the tough gets going!\n\nhttps://thenongrowthsociety.com/important-note-and-a-disclaimer/",
+    "tagline": "How we all can prosper within limits",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "education"
+    ],
+    "topic": [
+      "arts",
+      "ecology"
+    ],
+    "regions": "",
+    "locations": [
+      "Sweden"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "The Nongrowth Society"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://media.thenongrowthsociety.com/2021/03/the-Nongrowth-Society-logo.png",
+      "cached": ""
+    },
+    "image": {
+      "url": "http://media.thenongrowthsociety.com/2021/03/webpage-icon.png",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645023242/Ecosystem%20Mapping/Nongrowth_w0hh4q.png"
+    }
+  },
+  {
+    "name": "Ashes of the Magi",
+    "id": "ashes-of-the-magi",
+    "rd_1_focus": "N",
+    "url": "https://www.ashesofthemagi.com/",
+    "email": "absurdmusician@gmail.com",
+    "email2": "",
+    "transparent logo": "",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "Better to just look at it. ",
+    "tagline": "story creation engine for facilitating self-reflection, communitas, and religio. ",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "research"
+    ],
+    "topic": [
+      "spirituality",
+      "arts"
+    ],
+    "regions": "",
+    "locations": [
+      "Portland, OR USA."
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "Rob Randolph"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://static.wixstatic.com/media/efbf6f_981ac7a94eff4e178f9913395a186cee~mv2.png/v1/fill/w_89,h_90,al_c,q_85,usm_0.66_1.00_0.01/Ashes%20Logo1_8-01-01.webp",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://static.wixstatic.com/media/efbf6f_981ac7a94eff4e178f9913395a186cee~mv2.png/v1/fill/w_89,h_90,al_c,q_85,usm_0.66_1.00_0.01/Ashes%20Logo1_8-01-01.webp",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Fathom Trust",
+    "id": "fathom-trust",
+    "rd_1_focus": "Y",
+    "url": "https://fathomtrust.com/",
+    "email": "djslife@gmail.com",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021822/Ecosystem%20Mapping/TFT_no_BG_ctxwtc.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "We are building a network of educational and therapeutic communities to help people suffering with stress, fatigue, and physical and psychological conditions to learn to live well and create social, economic, and spiritual renewal.\n\nOur hubs bring together a network of craftspeople by providing workshops, materials, teaching and marketing opportunities. Our approach creates opportunities for the older generation to contribute their skills and time whilst experiencing the solidarity that comes from seeing young people thrive in community.",
+    "tagline": "(Note: This is not my organization) Making Well",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "spaces"
+    ],
+    "topic": [
+      "wellbeing",
+      "community"
+    ],
+    "regions": "",
+    "locations": [
+      "United Kingdom"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "Dan Slife"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://fathomtrust.com/wp-content/themes/fathom-trust/images/logo-icon.svg",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://fathomtrust.com/wp-content/uploads/2021/05/DSC01065-400x600.jpg",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645023330/Ecosystem%20Mapping/fathom_gpfoq6.jpg"
+    }
+  },
+  {
+    "name": "Oi Polloi",
+    "id": "oi-polloi",
+    "rd_1_focus": "Y",
+    "url": "www.oipolloi.io",
+    "email": "Mary.valiakas@gmail.com",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021909/Ecosystem%20Mapping/OP_no_BG_r1lzm2.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "An arts and culture development agency rebooting Greece as a beacon of civilisation. \n\nOi Polloi, from the Greek for ‘the many’, is a development agency that engages leading edge thinkers, practitioners, and big hearts into reimagining how society operates in terms of emerging systems and technologies. Using Greece as a sandbox, we’re out to create a legacy that resonates through the ages: a renaissance of humanity.\n\nWe believe that humanity’s endeavours have become too far removed from values that are in harmony with the personal and greater good. We also believe that it’s down to us to rewrite the rules of life. After all, humans are unique in that ‘we are able to create physical instantiations of the objects we imagine. Whereas other species are stuck with nature’s inventory.’ (César Hidalgo). You can also think of us as change by the masses, for the masses.\n\nA TIME FOR HEROIC ACTION\nWe also believe that in this Age of Crisis, only big ideas can tackle big challenges. That’s why everything we do is designed for global, but conceived for local – and personal. Critical in our endeavour are a fascination with life, generosity of spirit, and love of honour (‘filotimo’). Qualities that created the ancient Greek legacy the world reveres today. Join us as we kindle a flame in the darkness. And reignite Greece as a beacon of civilisation.\n\nSOME OF OUR KEY AIMS?\nDrawing on the evolutionary power of the imagination to redefine how society operates, offering humanity realistic hope for the future, and celebrating the positive things to come. But to achieve all this, it will take the many acting as one. ",
+    "tagline": "The many acting as one",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "business",
+      "network"
+    ],
+    "topic": [
+      "arts",
+      "politics"
+    ],
+    "regions": "Europe",
+    "locations": [
+      "Athens, GR",
+      "London, GB"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "Mary Valiakas"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://images.squarespace-cdn.com/content/v1/59bbcb42a803bbbf83d66412/1507885551474-UGWWD90OBB15LPQSMAHT/OP_Logotype1_RGB_Blue.jpg?format=1500w",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://images.squarespace-cdn.com/content/v1/59bbcb42a803bbbf83d66412/1507885551474-UGWWD90OBB15LPQSMAHT/OP_Logotype1_RGB_Blue.jpg?format=1500w",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Flourishing Diversity",
+    "id": "flourishing-diversity",
+    "rd_1_focus": "Y",
+    "url": "http://flourishingdiversity.com/",
+    "email": "laura@flourishingdiversity.com",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021978/Ecosystem%20Mapping/FD_no_BG_jkylqv.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "We co-create spaces that invite you to listen, exchange, envision and act upon three foundational principles:\n1. Life on earth is possible because of biological and cultural diversity, where each part is equally vital to the whole.\n2. The ecological crisis is calling us to deepen our connections to the planet and all its living species.\n3. Humans have an inherent ability to be guardians of the environments we inhabit and directly enhance them in ways that support all species to flourish and thrive in their own way.\n\nThese principles are understood in many Indigenous cultures and earth-based communities. They have been further explored through anthropological and conservation research carried out by Flourishing Diversity co-founders and individuals, communities and organisations that are part of our ecosystem.",
+    "tagline": "We bring together voices from all over the world to explore humanity’s interconnection with the lands, waters, forests and fellow species. We create spaces to listen to and learn from all life.",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "media",
+      "network"
+    ],
+    "topic": [
+      "ecology"
+    ],
+    "regions": "UK",
+    "locations": [
+      "London, GB",
+      "Bristol, GB"
+    ],
+    "started": "2019",
+    "ended": "",
+    "active": "Y",
+    "people": [
+      "Laura Tyley"
+    ],
+    "notes_data_entry": "Thank you for putting this incredible resource together! ",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "http://flourishingdiversity.com/wp-content/uploads/2020/10/fdslogo-copy.png",
+      "cached": ""
+    },
+    "image": {
+      "url": "http://flourishingdiversity.com/wp-content/uploads/2020/10/fdslogo-copy.png",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Dr. Tamsin/TEEMLab/Geoversity",
+    "id": "dr.-tamsin/teemlab/geoversity",
+    "rd_1_focus": "N",
+    "url": "teemlab.com/geoversity.org",
+    "email": "drtamsin@drtamsin.com",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645022228/Ecosystem%20Mapping/Geoversity_no_BG_dzjxvo.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "I am an evolutionary biologist, anthropologist, and biomimic working to inspire a major mindshift: away from mechanistic efficiency towards living systems thinking and evolutionary design in everything we do. I work with organizations on rehumanizing structures,  process, cultures, and to cultivate living systems-literate leaders. I am also the Dean of Biocultural Leadership at geoversity in Panama, where we empower indigenous leaders and communities to manage the ecosystems they inhabit.",
+    "tagline": "Rehumanize, revitalize, regenerate. Evolutionary thinking applied to the way we work and live.",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "education",
+      "business"
+    ],
+    "topic": [
+      "work",
+      "ecology"
+    ],
+    "regions": "",
+    "locations": [
+      "San Diego, USA",
+      "Borrego Springs, USA",
+      "Panama City, Panama"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "Tamsin Woolley-Barker"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://images.squarespace-cdn.com/content/v1/615dec1fbd5653295343e02c/df56eed7-fc24-43ab-b04f-4e6eaa57b804/Geoversity-logo-2-hor.png?format=500w",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://images.squarespace-cdn.com/content/v1/615dec1fbd5653295343e02c/df56eed7-fc24-43ab-b04f-4e6eaa57b804/Geoversity-logo-2-hor.png?format=500w",
+      "cached": ""
+    }
+  },
+  {
+    "name": "The Context Institute",
+    "id": "the-context-institute",
+    "rd_1_focus": "Y",
+    "url": "www.context.org",
+    "email": "timothycsb@gmail.com",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645022446/Ecosystem%20Mapping/CI_no_BG_dpwoyd.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "About Context Institute\n\nThis page describes the mission, history, approach, and values of Context Institute. It is also the start of the Foundation Stones’ Main Thread.\n\nContext Institute is an independent non-profit (501(c)(3)) organization, founded in 1979 by Robert and Diane Gilman, devoted to helping all of us create the best possible 21st century we can — for each of us, for our communities, and for all of life. We are one of a handful of organizations that have focused on sustainability as a central theme for more than 35 years, and we are internationally recognized as an authority in this area.\n\nHistory\n\nWe began as a local living-lightly organization, with a mission “to develop, disseminate, and facilitate techniques and skills for low cash-flow, low environmental-impact lifestyles that make efficient use of personal, social, and planetary resources.” We are still pursuing that same mission, but over the years our understanding of that mission has grown deeper and more systemic. Today we describe it as “catalyzing a graceful transition to the Planetary Era.”\n\nIn 1983, we broadened our focus out to the planet as a whole and began our quarterly journal IN CONTEXT. In the succeeding years, Institute staff have published, spoken, and consulted in such diverse areas as community development, cultural history and cultural change, systems thinking, education, ecological living, sustainable economics, and the built environment.\n\nFor many years we were best known for our journal, IN CONTEXT: A Quarterly of Humane Sustainable Culture. in print from 1983 to 1995 and now available on this site. We have also been involved in a variety of other publishing and collaboration & consulting programs. Please see Context Institute’s History for a more complete description of these varied activities.\n\nNow our focus is on the Bright Future Now adventure tour to the future and the worldwide Bright Future Network made up of a graduates from Bright Future Now.\n\nCentral to our approach is our sense that the world is now going through a process of cultural change that is as profound as the shift, over 5000 years ago, out of hunting and gathering and into agriculture and cities. We refer to that previous shift as going from the Tribal Era to the Empire Era. We see ourselves as now in the transition between the Empire Era and the Planetary Era. (For more detail on this perspective, see “What Time Is It?”.)\n\nWe recognize the great dangers of our times, yet, because the underlying momentum of change is so great, we also see these as times of great opportunity to develop humane and sustainable cultures for the Planetary Era, cultures that could provide a quality of life for all that would make today’s societies look like the dark ages. It is this positive vision of the possible, together with a keen awareness that time is of the essence, that motivates our work.\n\nWhile we address some of the same issues as those addressed by environmental, political, social-action, and personal-growth organizations, our approach is different. As much as possible, we approach these issues from the context of the emerging Planetary Era, rather than within the context of the waning Empire Era. This leads us to focus on yes rather than no, on voluntary human-scale innovation, and to integrate the full gamut of human concerns — environmental, social, economic and personal — into a long-term, whole-system, constructive perspective.\n\nMuch of the Institute’s work focuses on encouraging the sustainable redevelopment of the industrialized world. We focus here because we feel that most of the world’s unsustainable practices have their roots in these globally dominant societies. Any real solutions must address, and help to transform, this cultural core. Indeed, we feel that such sustainable redevelopment, with all the profound cultural change that will entail, is the central challenge and task facing the industrialized world, and humanity, during the coming decades.\n\nAssisting cultural leaders\n\nThe Institute directs its work towards those who are willing and able to help move their organizations, their communities, their personal lives, and their societies in a more humane and sustainable direction. We think of these people as cultural leaders, some of whom are in positions of institutional power, and others who are simply influential through their own initiative and sensitivity. We focus on these early adopters because experience shows that the most effective way to promote lasting cultural change is to educate and empower cultural leaders who then influence the rest of society.\n\nWe assist these cultural leaders through Bright Future Now and the Bright Future Network in ways that enable them to discover:\n\n-a whole-system understanding of the new human context in the early 21st century\n-practical, experience-based approaches to the perplexing issues of our times consistent with this emerging context\n-strategies and skills for effective change\n-realistic vision, hope and empowerment\n-Core values\n\nIn addition to expertise in particular topic areas, our work is characterized by a way of thinking which we feel is important for the development of humane sustainable cultures appropriate for the Planetary Era. While there is no simple name or description for this way of thinking, it includes the following elements:\n\nSystems Thinking – We draw on our background in systems theory to ask, and help those we serve to ask: How do the pieces in the puzzle fit together? What’s going on beneath the surface? What are the significant feedback loops that tie a system together? What are its dynamics in time? At what points in a system can change most fruitfully be introduced?\n\nSolution Orientation – We start where many others leave off: with a vision of a preferred future (humane and sustainable) and a critical awareness of the problems of the present. With this as our starting point, we see our primary task as searching for those constructive, experience-based, promising solutions and approaches that could provide a path from today’s problems to that preferred future. While others provide the necessary “no” to the dysfunctions of business-as-usual, we focus on providing the necessary “yes” that provides a viable and desirable alternative.\n\nEcological Thinking – Our ability to survive as a species requires an understanding of human interdependence with each other and with all life and a recognition that we must find solutions that work for the whole. The ecological system is both the basic reality in which we need to function and a fruitful metaphor for more sustainable human systems, such as production systems in which the wastes from one process become resources for another.\n\nLong-Term Orientation – A deep sense of history, going back thousands, millions and even billions of years, helps us to more richly understand the character and possibilities of cultural evolution. A long-term commitment to many generations into the future provides the moral foundation for the basic principles of sustainability. Taken together, they enable us to focus on essentials and avoid being distracted by the fads and short-term news of the day.\n\nCompassion and Forgiveness – We are all in this together. We are all a part of, and to varying degrees collude with, the unsustainable systems in which we are embedded … and we all have something to contribute toward a positive future. Context Institute is committed to a clear-eyed understanding of the problems of today, but we are not motivated by an interest in finding individuals or groups to blame. We work instead to remind ourselves and each other of that more spacious spirit in which compassion and forgiveness are natural responses, and healing is the natural result.\n\nBy applying this way of thinking to a wide variety of social, cultural, and ecological issues, we have helped with building a vision for a sustainable future among a small but influential group of opinion leaders and innovators. We intend to continue to extend the range of people involved in exploring these issues and building this vision.",
+    "tagline": "Context Institute is an independent non-profit (501(c)(3)) organization, founded in 1979 by Robert and Diane Gilman, devoted to helping all of us create the best possible 21st century we can — for each of us, for our communities, and for all of life. We are one of a handful of organizations that have focused on sustainability as a central theme for more than 35 years, and we are internationally recognized as an authority in this area.",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "business",
+      "network"
+    ],
+    "topic": [
+      "community",
+      "tech"
+    ],
+    "regions": "US",
+    "locations": [
+      "Washingon State, US"
+    ],
+    "started": "1979",
+    "ended": "",
+    "active": "Y",
+    "people": [
+      "Timothy Bell"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://www.context.org/wp-content/themes/hybrid-ci/images/cilogoL.svg",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://www.context.org/wp-content/themes/hybrid-ci/images/cilogoL.svg",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Yellow",
+    "id": "yellow",
+    "rd_1_focus": "Y",
+    "url": "http://www.yellowlearning.org",
+    "email": "alex@alexcarabi.com",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645022615/Ecosystem%20Mapping/yellow_now_bg_jpfkby.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "Yellow is an online learning space, unlike any other. \n\nSmall groups are formed which gather every two weeks, for two hours, over a period of five months, to explore and learn together. \n\nWhat is most distinctive about Yellow is what it is not, not what it is. There are no learning objectives, no agenda, no titles or professional biographies and no curriculum. \n\nInstead, Yellow allows small groups of people, to build connection, intimacy and trust, using highly varied stimuli (including art, food or movement) learning about themselves and their work in the process. We design it in response to them. \n\nIf it sounds like a very open space, that’s because it is. We need some spaces where we don’t try to define and control things in advance. So Yellow runs counter to what we normally do and acts as a ‘counterspace’ where the unimagined or unanticipated can emerge. ",
+    "tagline": "Spaces of learning for a complex world",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "education",
+      "network"
+    ],
+    "topic": [
+      "development",
+      "community"
+    ],
+    "regions": "EU",
+    "locations": [
+      "Arenas de San Pedro, ES",
+      "Berlin, DE"
+    ],
+    "started": "not-found",
+    "ended": "",
+    "active": "Y",
+    "people": [
+      "Alex Carabi"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "y",
+    "logo": {
+      "url": "https://images.squarespace-cdn.com/content/5eaa9a133c04b85c2ae34108/c1b83cc8-14e1-4d96-a855-7a364a6ad663/social-image.jpg?content-type=image%2Fjpeg",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://images.squarespace-cdn.com/content/5eaa9a133c04b85c2ae34108/c1b83cc8-14e1-4d96-a855-7a364a6ad663/social-image.jpg?content-type=image%2Fjpeg",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Intentional Society",
+    "id": "intentional-society",
+    "rd_1_focus": "Y",
+    "url": "https://www.intentionalsociety.org",
+    "email": "jam@j-baker.org",
+    "email2": "",
+    "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645022714/Ecosystem%20Mapping/IS_no_BG_grmh3e.png",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "We are a geographically distributed community of seekers and friends, connecting face-to-face via video calls. We connect and reflect together in relationship as a catalyst to self-development, increased awareness, greater integrity. We relish our diversity across gender, generation, nation, ethnicity, religious (or non-) background, socioeconomic status, and other perspectives increasingly. Some of us bring backgrounds in various related fields or scenes: adult development psychology, relational practices (e.g. Authentic Relating, Circling, Collective Presencing), and the \"sensemaking web\" (e.g. Game B, Integral, Metamodernism). Regardless, all of us are united in one thing above all else: seeking to grow.\n\nMost weeks, our main activity is metaphorically assembling “around the campfire” to learn and play collectively, to make sense of ourselves and our relationships to others and to the world. \n\nAt the deeper conceptual layer, what we're doing together is authoring a developmental community of practice with a culture of expanded awareness. There's a conventional script for “becoming an adult” that goes something like “finish school, get a job, get married and have 2.5 kids, buy a house and then acquire more toys while climbing the corporate ladder.” This also seems like a recipe for having a mid-life crisis of meaning. The conventional script sells us short: we can, and do, keep developing throughout our whole lives.\n\nHow does one practice development, or build a culture around it? We think a large part of the answer comes from relational practices. A lot of theory and thought has gone into what we do together. But it’s also what people everywhere have known and done for millenia, in villages, tribes, and crews of belonging and support. There is wisdom in both science and woo, in the latest discoveries and in ancient traditions. We thrive as social, relational beings, growing in small groups of high trust - and even as we’re faced with global challenges that demand coordination across humanity to meet, we think that any future of global unity must emerge fractally outward from interpersonal trust and cooperation at local scale.",
+    "tagline": "A community for people who want to grow",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "network"
+    ],
+    "topic": [
+      "development",
+      "community"
+    ],
+    "regions": "",
+    "locations": [
+      "Online - time zones from New Zealand to Nigeria"
+    ],
+    "started": "2020",
+    "ended": "",
+    "active": "Y",
+    "people": [
+      "James Baker"
+    ],
+    "notes_data_entry": "at the intersection of relational practices (Authentic Relating, Circling, Collective Presencing) and adult development (ego development, coaching), with a Microsolidarity organizing approach",
+    "facebook": "not-found",
+    "twitter": "not-found",
+    "instagram": "not-found",
+    "linkedin": "not-found",
+    "youtube": "not-found",
+    "blog": "not-found",
+    "phone": "not-found",
+    "have_email": "Y",
+    "logo": {
+      "url": "https://www.intentionalsociety.org/images/is-draft-logo.jpg",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://www.intentionalsociety.org/static/deb792b4ec7671c25b95062cd5bab23a/a2b05/wave-to-internet.webp",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645194606/Ecosystem%20Mapping/Intentional%20Society.webp"
+    }
+  },
+  {
+    "name": "Sayara International",
+    "id": "sayara-international",
+    "rd_1_focus": "N",
+    "url": "www.sayarainternational.com",
+    "email": "scott@sayarainternational.com",
+    "email2": "",
+    "transparent logo": "",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "Sayara International is a global development firm that specializes in the design and implementation of rigorous research, social and behavior change communications, and governance strategies in conflict-affected and transitioning societies.",
+    "tagline": "A global development impact firm that specializes in the design and implementation of rigorous research, social and behavioral change communications, and governance strategies in conflict-affected and transitioning societies in 30 countries around the globe.",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "research",
+      "research"
+    ],
+    "topic": [
+      "governance"
+    ],
+    "regions": "",
+    "locations": [
+      "Washington, DC"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "",
+    "people": [
+      "Scott Shadian"
+    ],
+    "notes_data_entry": "I'm Scott Shadian the Co-Founder of Sayara International, a global development impact firm that specializes in the design and implementation of rigorous research, social and behavioral change communications, and community based strategies in conflict-affected and transitioning societies in 30 countries around the globe. Our team recently led Sayara's evacuation operation in Afghanistan, which culminated in the evacuation of 1200 vulnerable Afghans (you can read more about that operation in a recent NYT Magazine article, here. Sayara is featured in \"Part 3: Evacuation\").\n\nBrief on Emergence Field Labs\n\nEvents such as the January 6th Insurrection and the fall of Kabul, along with rising gun-violence and hyperpolarization in the US point to structural and systemic failures of institutions to overcome siloed-thinking, lagging impact, inability to scale programming and understand failure within the constraints of government and philanthropic programming to affect positive social change. In response, Sayara is developing a new global research laboratory, Emergence Field Labs (B-Corp), which will break-down silos of traditional research and incorporate emergent social behavioral theories-of-change through on-going relationships with academia (i.e. Oxfords 'Social Cohesion model' & Yale's 'BioSocial Network Model'), while employing complexity science  (i.e Columbia's 'Dynamic Systems Theory'), as opposed to relying solely on quantitative modeling.\n\nUsing on-the-ground-demonstrations and crowdsourcing to test, adapt and validate emergent social change models, Emergence will become the first organization dedicated to scientifically demonstrating and validating novel metrics in support of social impact, leading to the creation of foundational indexes and analytics: e.g. social cohesion, stability, resilience, polarization, climate resilience and peacebuilding. By becoming a key bridge between government/philanthropy academia and civil society, Emergence will discover and apply novel research frameworks and intervention models to the world's most urgent issues, seeking causal and scalable solutions, as opposed to symptomatic treatments of social problems, such: gun violence reduction, hyper-polarization, income inequality (UBI), and gender-based violence. Ultimately, this continuous stream of data will support the development of a machine learning algorithm, Mycelium, which will be built upon the novel learning frameworks validated in the field by Emergence's global research network, producing critical data and indexes for government, philanthropy and impact investment objectives. \n",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "",
+      "cached": ""
+    },
+    "image": {
+      "url": "",
+      "cached": ""
+    }
+  },
+  {
+    "name": "A Fairer Society",
+    "id": "a-fairer-society",
+    "rd_1_focus": "?",
+    "url": "https://livein.afairersociety.com/",
+    "email": "nathaniel@afairersociety.com",
+    "email2": "",
+    "transparent logo": "",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "We are a small sociocratic worker cooperative, dedicated to building a fairer society one community at a time. A fairer society is one where everyone has what they need to thrive, has a real say in matters that concern them, and where human prosperity is good for the Earth. We help people to create or acquire the things that matter to them, like housing, food, transport, energy, and the places where they work, and to run them in deeply collaborative ways.",
+    "tagline": "We help our clients build a fairer society, one community at a time.",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "business",
+      "spaces"
+    ],
+    "topic": [
+      "community",
+      "work"
+    ],
+    "regions": "UK",
+    "locations": [
+      "Uckfield",
+      "Liverpool"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "Y",
+    "people": [],
+    "notes_data_entry": "",
+    "facebook": "https://www.facebook.com/afairersociety/",
+    "twitter": "https://twitter.com/afairersociety",
+    "instagram": "not-found",
+    "linkedin": "https://www.linkedin.com/company/afairersociety",
+    "youtube": "not-found",
+    "blog": "not-found",
+    "phone": "",
+    "have_email": "Y",
+    "logo": {
+      "url": "https://media1-production-mightynetworks.imgix.net/asset/11568195/AFS_corelogo_SOCIAL.jpg",
+      "cached": ""
+    },
+    "image": {
+      "url": "https://media1-production-mightynetworks.imgix.net/asset/11568195/AFS_corelogo_SOCIAL.jpg",
       "cached": ""
     }
   }
