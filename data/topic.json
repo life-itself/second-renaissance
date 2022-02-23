@@ -4,69 +4,79 @@
     "name": "Wellbeing & Health",
     "description": "Improving quality of life through affecting the physical, psychological, environmental and social determinants of health and wellbeing.",
     "image": "",
-    "emoji": ""
+    "emoji": "🌻",
+    "super-topic": "Wellbeing, Spiritual & Growth"
   },
   {
     "id": "spirituality",
     "name": "Spirituality & Religion",
     "description": "World beyond the material and the rational.",
     "image": "https://images.unsplash.com/photo-1530368333607-c100785945b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTYyOTMwMzUzMQ&ixlib=rb-1.2.1&q=80&w=1080",
-    "emoji": ""
+    "emoji": "🧘",
+    "super-topic": "Wellbeing, Spiritual & Growth"
   },
   {
     "id": "development",
     "name": "Development & Growth",
     "description": "Fostering personal development and growth in emotional, psychological, social and other internal capacities.",
     "image": "",
-    "emoji": ""
-  },
-  {
-    "id": "work",
-    "name": "Future of work",
-    "description": "Innovating the world of work, including through new methods and approaches to business and organisational mamagement.",
-    "image": "",
-    "emoji": ""
+    "emoji": "☯️",
+    "super-topic": "Wellbeing, Spiritual & Growth"
   },
   {
     "id": "community",
     "name": "Community",
     "description": "Role of community in human life and the fostering human flourishing, and approaches to building, sustaining and governing communities.",
     "image": "",
-    "emoji": ""
-  },
-  {
-    "id": "arts",
-    "name": "Arts & Culture",
-    "description": "Role and use of arts and culture in fostering social change.",
-    "image": "",
-    "emoji": ""
-  },
-  {
-    "id": "ecology",
-    "name": "Ecology & Environment",
-    "description": "Issues relating to the environment, including climate change but also nature more broadly and human relationships to it.",
-    "image": "",
-    "emoji": ""
+    "emoji": "🧑‍🤝‍🧑",
+    "super-topic": "Governance, Community and Politics"
   },
   {
     "id": "politics",
     "name": "Politics & Economics",
     "description": "Engaging with existing political and economic systems, creating policies and innovating new approaches to politics and economics.",
     "image": "",
-    "emoji": ""
-  },
-  {
-    "id": "tech",
-    "name": "Technology & Blockchain",
-    "description": "Use of technological innovation, including blockchain, to foster social change and support new social systems.",
-    "image": "",
-    "emoji": ""
+    "emoji": "🏛️",
+    "super-topic": "Governance, Community and Politics"
   },
   {
     "id": "governance",
     "name": "Governance & Institutions",
     "description": "Devising new forms of governance and institutions to support alternative social paradigms. ",
     "image": "",
-    "emoji": ""
+    "emoji": "⚖️",
+    "super-topic": "Governance, Community and Politics"
+  },
+  {
+    "id": "work",
+    "name": "Future of work",
+    "description": "Innovating the world of work, including through new methods and approaches to business and organisational management.",
+    "image": "",
+    "emoji": "💼",
+    "super-topic": "Making ..."
+  },
+  {
+    "id": "arts",
+    "name": "Arts & Culture",
+    "description": "Role and use of arts and culture in fostering social change.",
+    "image": "",
+    "emoji": "🎨",
+    "super-topic": "AET"
+  },
+  {
+    "id": "ecology",
+    "name": "Ecology & Environment",
+    "description": "Issues relating to the environment, including climate change but also nature more broadly and human relationships to it.",
+    "image": "",
+    "emoji": "🌍",
+    "super-topic": "AET"
+  },
+  {
+    "id": "tech",
+    "name": "Technology & Blockchain",
+    "description": "Use of technological innovation, including blockchain, to foster social change and support new social systems.",
+    "image": "",
+    "emoji": "💻",
+    "super-topic": "AET"
   }
 ]

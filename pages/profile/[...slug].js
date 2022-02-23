@@ -4,18 +4,17 @@ import { getOrganizations } from "../../lib/db";
 import Organization from '../../components/Organization'
 import config from '../../config/siteConfig'
 
-
 export default function Page({ org }) {
-  const orgImage = org.image.cached ?? (org.logo.cached || org.logo.url);
   return (
     <>
       <NextSeo
         title={org.name + " - " + config.title}
         description={org.description.split("\n")[0].split(".")[0]}
         openGraph={{
+          type: 'website',
           images: [
             {
-              url: orgImage,
+              url: org.image.cached ?? (org.logo.cached || org.logo.url),
               width: 1200,
               height: 630,
               alt: org.name,
