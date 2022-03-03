@@ -1,16 +1,20 @@
 # Contribute
 
-## Add your organization or initiative
+## Add an organization or initiative
 
-Please fill out this [Google form](https://forms.gle/9337PCNXHtc7xQYW9).
+Please fill out this [Google form](https://forms.gle/9337PCNXHtc7xQYW9) to suggest organizations that you feel align with the approaches and core characteristics outlined in the [Overview of the Ecosystem](https://ecosystem.lifeitself.us/#outline). You don’t have to be a representative or closely related contact of the organization to do so. 
 
-We'll process your request as soon as possible.
+We'll process your suggestion as soon as possible. If you have any questions, please [get in touch &raquo;][contact].
 
 ## Amend information
 
 If you would like to amend an organization listing please fill out this [Google form](https://forms.gle/9337PCNXHtc7xQYW9).
 
 You can also [contact us directly &raquo;][contact]
+
+## Content
+
+Do you have a deep understanding of one (or more) of the ecosystem’s key traditions, movements, or philosophies? We’re looking to build up a library of content to help people understand the ideas and work of the ecosystem better. This might include material on key terms, influential ideas, major figures, history/lineage etc. If you have, or would like to write, content that you think might fit well in this library, please [get in touch &raquo;][contact].
 
 ## Get Involved
 

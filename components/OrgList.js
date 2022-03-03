@@ -1,4 +1,3 @@
-
 export default function OrgList({ orgs }) {
   return (
     <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
@@ -6,7 +5,7 @@ export default function OrgList({ orgs }) {
         <div key={org.id} className="group relative">
           <div className="w-full min-h-80 bg-beige aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
             <img
-              src={org.image.cached ? org.image.cached : org.image.url}
+              src={(org.logo.cached || org.logo.url) ?? (org.image.cached || org.image.url)}
               alt={org.name}
               className="w-full h-full object-center object-cover lg:w-full lg:h-full"
             />
