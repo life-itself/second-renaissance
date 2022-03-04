@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react";
 import { drawChart } from "lib/d3";
 
 export default function TernaryPlot({ orgs }) {
-  const svg = useRef(null);
+  let svg = useRef(null);
 
   useEffect(() => {
     drawChart(svg, orgs);
