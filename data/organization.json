@@ -2671,8 +2671,8 @@
     "phone": "",
     "have_email": "N",
     "logo": {
-      "url": "https://scontent.fbhx4-2.fna.fbcdn.net/v/t1.6435-9/45313983_1971423326285748_6480964366714798080_n.png?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=EBNSkrmsC1YAX9mARcs&tn=PMPrASd_p44HyxQ6&_nc_ht=scontent.fbhx4-2.fna&oh=ff43ef1d42159643ea36f36c5fc7bbbc&oe=618578A3",
-      "cached": "https://pathretreats.com/wp-content/uploads/2018/03/path-logo-1.png"
+      "url": "https://pathretreats.com/wp-content/uploads/2018/03/path-logo-1.png",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393505/Ecosystem%20Mapping/path%20retreats%20logo.png"
     },
     "image": {
       "url": "https://pathretreats.com/wp-content/uploads/2021/05/testa-327x497.png",
@@ -6240,7 +6240,7 @@
   {
     "name": "Mindfulness and Social Change Network",
     "id": "mindfulness-and-social-change-network",
-    "rd_1_focus": "N",
+    "rd_1_focus": "?",
     "url": "https://mindfulnessandsocialchange.org/",
     "email": "team@mindfulnessandsocialchange.org",
     "email2": "",
@@ -6261,7 +6261,7 @@
     "locations": [],
     "started": "",
     "ended": "",
-    "active": "",
+    "active": "?",
     "people": [],
     "notes_data_entry": "",
     "facebook": "",
@@ -6285,7 +6285,7 @@
     "name": "Coexistence Awarness based Intrinsically motivated Association",
     "id": "coexistence-awarness-based-intrinsically-motivated-association",
     "rd_1_focus": "Y",
-    "url": "www.caia.global",
+    "url": "https://caia.global/en/",
     "email": "jannes@caia.global",
     "email2": "",
     "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021483/Ecosystem%20Mapping/CAIA_no_BG_hlznhu.png",
@@ -6293,7 +6293,7 @@
       "url": ""
     },
     "images_extra": "",
-    "description": "We develop concepts for sustainable design and evaluate the research applied. This knowledge is then available to everyone as a blueprint. Through exchange and collaboration together with like-minded initiatives and projects, we bring extensive practical knowledge to sustainable practices.\n\nNot only does ECO CiVi offer perspectives for the development of functioning local circulation systems working at the intersection of consciousness, science and culture, it also offers a laboratory that supports economic, ecological, social and cultural change.",
+    "description": "We develop concepts for sustainable design and evaluate the research applied. This knowledge is then available to everyone as a blueprint. Through exchange and collaboration together with like-minded initiatives and projects, we bring extensive practical knowledge to sustainable practices.\n\nHow do we want to live in the future? How will we feed ourselves, interact with each other, and educate ourselves? How and where will we consume? How will we communicate and get around? What impact will these things have on our existence, our society and our planet? How will we manage to survive as a human race in the long term?\n\nThe ECO City Village offers solutions to the pressing challenges of our time, a concept that combines the advantages of rural and urban life. In the village of Steyerberg, we are creating new perspectives for a vital and future-oriented coexistence.\nIt is up to each of us, as humans, to bring a new perspective of sustainability to life on Earth.\n\nNot only does ECO CiVi offer perspectives for the development of functioning local circulation systems working at the intersection of consciousness, science and culture, it also offers a laboratory that supports economic, ecological, social and cultural change.",
     "tagline": "An ECO City Village (ECO CiVi), a real-world laboratory for the village of the future, is being built in the village of Steyerberg, near Hanover.",
     "inner": "",
     "cultural": "",
@@ -6309,15 +6309,13 @@
     ],
     "regions": "",
     "locations": [
-      "Steyerberg, Germany"
+      "Steyerberg, DE"
     ],
     "started": "",
     "ended": "",
-    "active": "",
-    "people": [
-      "CAIA eG"
-    ],
-    "notes_data_entry": "How do we want to live in the future? How will we feed ourselves, interact with each other, and educate ourselves? How and where will we consume? How will we communicate and get around? What impact will these things have on our existence, our society and our planet? How will we manage to survive as a human race in the long term?\n\nThe ECO City Village offers solutions to the pressing challenges of our time, a concept that combines the advantages of rural and urban life. In the village of Steyerberg, we are creating new perspectives for a vital and future-oriented coexistence.\nIt is up to each of us, as humans, to bring a new perspective of sustainability to life on Earth.",
+    "active": "Y",
+    "people": [],
+    "notes_data_entry": "",
     "facebook": "",
     "twitter": "",
     "instagram": "",
@@ -6328,7 +6326,7 @@
     "have_email": "",
     "logo": {
       "url": "https://caia.global/wp-content/uploads/2020/12/CAIA_Logo_rgb_72ppi.jpg",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393826/Ecosystem%20Mapping/CAIA_Logo_rgb_72ppi_mwyryq.jpg"
     },
     "image": {
       "url": "https://caia.global/wp-content/uploads/2021/02/CAIA-IngaLankenau-Bildung-III.jpg",
@@ -6413,16 +6411,14 @@
       "arts",
       "ecology"
     ],
-    "regions": "",
+    "regions": "Sweden",
     "locations": [
-      "Sweden"
+      "SE"
     ],
     "started": "",
     "ended": "",
     "active": "",
-    "people": [
-      "The Nongrowth Society"
-    ],
+    "people": [],
     "notes_data_entry": "",
     "facebook": "",
     "twitter": "",
@@ -6433,8 +6429,8 @@
     "phone": "",
     "have_email": "",
     "logo": {
-      "url": "https://media.thenongrowthsociety.com/2021/03/the-Nongrowth-Society-logo.png",
-      "cached": ""
+      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t39.30808-6/274376563_260591686242506_7272205117279422671_n.png?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_ohc=PrlOmG0y3sAAX_vwObK&_nc_ht=scontent-lcy1-1.xx&oh=00_AT-GGyTwRA2dyd58VrkiIWsMNBqbR9PoQYK0lRVWmS1Oew&oe=6226E257",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646394251/Ecosystem%20Mapping/nongrowth%20society.png"
     },
     "image": {
       "url": "http://media.thenongrowthsociety.com/2021/03/webpage-icon.png",
@@ -6499,7 +6495,7 @@
     "id": "fathom-trust",
     "rd_1_focus": "Y",
     "url": "https://fathomtrust.com/",
-    "email": "djslife@gmail.com",
+    "email": "hello@fathomtrust.com",
     "email2": "",
     "transparent logo": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645021822/Ecosystem%20Mapping/TFT_no_BG_ctxwtc.png",
     "image_homepage": {
@@ -6507,7 +6503,7 @@
     },
     "images_extra": "",
     "description": "We are building a network of educational and therapeutic communities to help people suffering with stress, fatigue, and physical and psychological conditions to learn to live well and create social, economic, and spiritual renewal.\n\nOur hubs bring together a network of craftspeople by providing workshops, materials, teaching and marketing opportunities. Our approach creates opportunities for the older generation to contribute their skills and time whilst experiencing the solidarity that comes from seeing young people thrive in community.",
-    "tagline": "(Note: This is not my organization) Making Well",
+    "tagline": "Making Well",
     "inner": "",
     "cultural": "",
     "systems": "",
@@ -6521,14 +6517,12 @@
     ],
     "regions": "",
     "locations": [
-      "United Kingdom"
+      "GB"
     ],
     "started": "",
     "ended": "",
     "active": "",
-    "people": [
-      "Dan Slife"
-    ],
+    "people": [],
     "notes_data_entry": "",
     "facebook": "",
     "twitter": "",
@@ -6539,8 +6533,8 @@
     "phone": "",
     "have_email": "",
     "logo": {
-      "url": "https://fathomtrust.com/wp-content/themes/fathom-trust/images/logo-icon.svg",
-      "cached": ""
+      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/185672834_100432912236962_3269700171973514384_n.png?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=hQ3PDMenwCAAX9DjxtP&_nc_ht=scontent-lcy1-1.xx&oh=00_AT_KRRMYbGAdx_1Rxxdqy6V8AxAla7AzEoUJJwDOKD3iig&oe=6245E357",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646394145/Ecosystem%20Mapping/185672834_100432912236962_3269700171973514384_n.png_rsrdwc.png"
     },
     "image": {
       "url": "https://fathomtrust.com/wp-content/uploads/2021/05/DSC01065-400x600.jpg",
@@ -6595,11 +6589,11 @@
     "have_email": "",
     "logo": {
       "url": "https://images.squarespace-cdn.com/content/v1/59bbcb42a803bbbf83d66412/1507885551474-UGWWD90OBB15LPQSMAHT/OP_Logotype1_RGB_Blue.jpg?format=1500w",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393757/Ecosystem%20Mapping/OP_Logotype1_RGB_Blue_xtstym.jpg"
     },
     "image": {
       "url": "https://images.squarespace-cdn.com/content/v1/59bbcb42a803bbbf83d66412/1507885551474-UGWWD90OBB15LPQSMAHT/OP_Logotype1_RGB_Blue.jpg?format=1500w",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393757/Ecosystem%20Mapping/OP_Logotype1_RGB_Blue_xtstym.jpg"
     }
   },
   {
@@ -6649,11 +6643,11 @@
     "have_email": "",
     "logo": {
       "url": "http://flourishingdiversity.com/wp-content/uploads/2020/10/fdslogo-copy.png",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393746/Ecosystem%20Mapping/fdslogo-copy_ielch3.png"
     },
     "image": {
       "url": "http://flourishingdiversity.com/wp-content/uploads/2020/10/fdslogo-copy.png",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393746/Ecosystem%20Mapping/fdslogo-copy_ielch3.png"
     }
   },
   {
@@ -6724,7 +6718,7 @@
       "url": ""
     },
     "images_extra": "",
-    "description": "About Context Institute\n\nThis page describes the mission, history, approach, and values of Context Institute. It is also the start of the Foundation Stones’ Main Thread.\n\nContext Institute is an independent non-profit (501(c)(3)) organization, founded in 1979 by Robert and Diane Gilman, devoted to helping all of us create the best possible 21st century we can — for each of us, for our communities, and for all of life. We are one of a handful of organizations that have focused on sustainability as a central theme for more than 35 years, and we are internationally recognized as an authority in this area.\n\nHistory\n\nWe began as a local living-lightly organization, with a mission “to develop, disseminate, and facilitate techniques and skills for low cash-flow, low environmental-impact lifestyles that make efficient use of personal, social, and planetary resources.” We are still pursuing that same mission, but over the years our understanding of that mission has grown deeper and more systemic. Today we describe it as “catalyzing a graceful transition to the Planetary Era.”\n\nIn 1983, we broadened our focus out to the planet as a whole and began our quarterly journal IN CONTEXT. In the succeeding years, Institute staff have published, spoken, and consulted in such diverse areas as community development, cultural history and cultural change, systems thinking, education, ecological living, sustainable economics, and the built environment.\n\nFor many years we were best known for our journal, IN CONTEXT: A Quarterly of Humane Sustainable Culture. in print from 1983 to 1995 and now available on this site. We have also been involved in a variety of other publishing and collaboration & consulting programs. Please see Context Institute’s History for a more complete description of these varied activities.\n\nNow our focus is on the Bright Future Now adventure tour to the future and the worldwide Bright Future Network made up of a graduates from Bright Future Now.\n\nCentral to our approach is our sense that the world is now going through a process of cultural change that is as profound as the shift, over 5000 years ago, out of hunting and gathering and into agriculture and cities. We refer to that previous shift as going from the Tribal Era to the Empire Era. We see ourselves as now in the transition between the Empire Era and the Planetary Era. (For more detail on this perspective, see “What Time Is It?”.)\n\nWe recognize the great dangers of our times, yet, because the underlying momentum of change is so great, we also see these as times of great opportunity to develop humane and sustainable cultures for the Planetary Era, cultures that could provide a quality of life for all that would make today’s societies look like the dark ages. It is this positive vision of the possible, together with a keen awareness that time is of the essence, that motivates our work.\n\nWhile we address some of the same issues as those addressed by environmental, political, social-action, and personal-growth organizations, our approach is different. As much as possible, we approach these issues from the context of the emerging Planetary Era, rather than within the context of the waning Empire Era. This leads us to focus on yes rather than no, on voluntary human-scale innovation, and to integrate the full gamut of human concerns — environmental, social, economic and personal — into a long-term, whole-system, constructive perspective.\n\nMuch of the Institute’s work focuses on encouraging the sustainable redevelopment of the industrialized world. We focus here because we feel that most of the world’s unsustainable practices have their roots in these globally dominant societies. Any real solutions must address, and help to transform, this cultural core. Indeed, we feel that such sustainable redevelopment, with all the profound cultural change that will entail, is the central challenge and task facing the industrialized world, and humanity, during the coming decades.\n\nAssisting cultural leaders\n\nThe Institute directs its work towards those who are willing and able to help move their organizations, their communities, their personal lives, and their societies in a more humane and sustainable direction. We think of these people as cultural leaders, some of whom are in positions of institutional power, and others who are simply influential through their own initiative and sensitivity. We focus on these early adopters because experience shows that the most effective way to promote lasting cultural change is to educate and empower cultural leaders who then influence the rest of society.\n\nWe assist these cultural leaders through Bright Future Now and the Bright Future Network in ways that enable them to discover:\n\n-a whole-system understanding of the new human context in the early 21st century\n-practical, experience-based approaches to the perplexing issues of our times consistent with this emerging context\n-strategies and skills for effective change\n-realistic vision, hope and empowerment\n-Core values\n\nIn addition to expertise in particular topic areas, our work is characterized by a way of thinking which we feel is important for the development of humane sustainable cultures appropriate for the Planetary Era. While there is no simple name or description for this way of thinking, it includes the following elements:\n\nSystems Thinking – We draw on our background in systems theory to ask, and help those we serve to ask: How do the pieces in the puzzle fit together? What’s going on beneath the surface? What are the significant feedback loops that tie a system together? What are its dynamics in time? At what points in a system can change most fruitfully be introduced?\n\nSolution Orientation – We start where many others leave off: with a vision of a preferred future (humane and sustainable) and a critical awareness of the problems of the present. With this as our starting point, we see our primary task as searching for those constructive, experience-based, promising solutions and approaches that could provide a path from today’s problems to that preferred future. While others provide the necessary “no” to the dysfunctions of business-as-usual, we focus on providing the necessary “yes” that provides a viable and desirable alternative.\n\nEcological Thinking – Our ability to survive as a species requires an understanding of human interdependence with each other and with all life and a recognition that we must find solutions that work for the whole. The ecological system is both the basic reality in which we need to function and a fruitful metaphor for more sustainable human systems, such as production systems in which the wastes from one process become resources for another.\n\nLong-Term Orientation – A deep sense of history, going back thousands, millions and even billions of years, helps us to more richly understand the character and possibilities of cultural evolution. A long-term commitment to many generations into the future provides the moral foundation for the basic principles of sustainability. Taken together, they enable us to focus on essentials and avoid being distracted by the fads and short-term news of the day.\n\nCompassion and Forgiveness – We are all in this together. We are all a part of, and to varying degrees collude with, the unsustainable systems in which we are embedded … and we all have something to contribute toward a positive future. Context Institute is committed to a clear-eyed understanding of the problems of today, but we are not motivated by an interest in finding individuals or groups to blame. We work instead to remind ourselves and each other of that more spacious spirit in which compassion and forgiveness are natural responses, and healing is the natural result.\n\nBy applying this way of thinking to a wide variety of social, cultural, and ecological issues, we have helped with building a vision for a sustainable future among a small but influential group of opinion leaders and innovators. We intend to continue to extend the range of people involved in exploring these issues and building this vision.",
+    "description": "Context Institute is an independent non-profit (501(c)(3)) organization, founded in 1979 by Robert and Diane Gilman, devoted to helping all of us create the best possible 21st century we can — for each of us, for our communities, and for all of life. We are one of a handful of organizations that have focused on sustainability as a central theme for more than 35 years, and we are internationally recognized as an authority in this area.\n\nWe began as a local living-lightly organization, with a mission “to develop, disseminate, and facilitate techniques and skills for low cash-flow, low environmental-impact lifestyles that make efficient use of personal, social, and planetary resources.” We are still pursuing that same mission, but over the years our understanding of that mission has grown deeper and more systemic. Today we describe it as “catalyzing a graceful transition to the Planetary Era.”\n\nCentral to our approach is our sense that the world is now going through a process of cultural change that is as profound as the shift, over 5000 years ago, out of hunting and gathering and into agriculture and cities. We refer to that previous shift as going from the Tribal Era to the Empire Era. We see ourselves as now in the transition between the Empire Era and the Planetary Era.\n\nWe recognize the great dangers of our times, yet, because the underlying momentum of change is so great, we also see these as times of great opportunity to develop humane and sustainable cultures for the Planetary Era, cultures that could provide a quality of life for all that would make today’s societies look like the dark ages. It is this positive vision of the possible, together with a keen awareness that time is of the essence, that motivates our work.\n\nWhile we address some of the same issues as those addressed by environmental, political, social-action, and personal-growth organizations, our approach is different. As much as possible, we approach these issues from the context of the emerging Planetary Era, rather than within the context of the waning Empire Era. This leads us to focus on yes rather than no, on voluntary human-scale innovation, and to integrate the full gamut of human concerns — environmental, social, economic and personal — into a long-term, whole-system, constructive perspective.\n\nMuch of the Institute’s work focuses on encouraging the sustainable redevelopment of the industrialized world. We focus here because we feel that most of the world’s unsustainable practices have their roots in these globally dominant societies. Any real solutions must address, and help to transform, this cultural core. Indeed, we feel that such sustainable redevelopment, with all the profound cultural change that will entail, is the central challenge and task facing the industrialized world, and humanity, during the coming decades.",
     "tagline": "Context Institute is an independent non-profit (501(c)(3)) organization, founded in 1979 by Robert and Diane Gilman, devoted to helping all of us create the best possible 21st century we can — for each of us, for our communities, and for all of life. We are one of a handful of organizations that have focused on sustainability as a central theme for more than 35 years, and we are internationally recognized as an authority in this area.",
     "inner": "",
     "cultural": "",
@@ -6745,9 +6739,7 @@
     "started": "1979",
     "ended": "",
     "active": "Y",
-    "people": [
-      "Timothy Bell"
-    ],
+    "people": [],
     "notes_data_entry": "",
     "facebook": "",
     "twitter": "",
@@ -6759,11 +6751,11 @@
     "have_email": "",
     "logo": {
       "url": "https://www.context.org/wp-content/themes/hybrid-ci/images/cilogoL.svg",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393728/Ecosystem%20Mapping/context%20institute%20logo.svg"
     },
     "image": {
       "url": "https://www.context.org/wp-content/themes/hybrid-ci/images/cilogoL.svg",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393728/Ecosystem%20Mapping/context%20institute%20logo.svg"
     }
   },
   {
@@ -6814,11 +6806,11 @@
     "have_email": "y",
     "logo": {
       "url": "https://images.squarespace-cdn.com/content/5eaa9a133c04b85c2ae34108/c1b83cc8-14e1-4d96-a855-7a364a6ad663/social-image.jpg?content-type=image%2Fjpeg",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393717/Ecosystem%20Mapping/social-image_juxnwn.jpg"
     },
     "image": {
       "url": "https://images.squarespace-cdn.com/content/5eaa9a133c04b85c2ae34108/c1b83cc8-14e1-4d96-a855-7a364a6ad663/social-image.jpg?content-type=image%2Fjpeg",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393717/Ecosystem%20Mapping/social-image_juxnwn.jpg"
     }
   },
   {
@@ -6867,7 +6859,7 @@
     "have_email": "Y",
     "logo": {
       "url": "https://www.intentionalsociety.org/images/is-draft-logo.jpg",
-      "cached": ""
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393706/Ecosystem%20Mapping/is-draft-logo_dabnvv.jpg"
     },
     "image": {
       "url": "https://www.intentionalsociety.org/static/deb792b4ec7671c25b95062cd5bab23a/a2b05/wave-to-internet.webp",
@@ -6955,8 +6947,8 @@
     ],
     "regions": "UK",
     "locations": [
-      "Uckfield",
-      "Liverpool"
+      "Uckfield, GB",
+      "Liverpool, GB"
     ],
     "started": "",
     "ended": "",
@@ -6978,6 +6970,169 @@
     "image": {
       "url": "https://media1-production-mightynetworks.imgix.net/asset/11568195/AFS_corelogo_SOCIAL.jpg",
       "cached": ""
+    }
+  },
+  {
+    "name": "Pacific Integral",
+    "id": "pacific-integral",
+    "rd_1_focus": "Y",
+    "url": "https://www.pacificintegral.com/",
+    "email": "info@pacificintegral.com",
+    "email2": "",
+    "transparent logo": "",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "Pacific Integral is a developer of educational and social change technologies and a global community of leaders and practitioners of transformative change. We aim to support the emergence of a sustainable, equitable and beautiful future for humanity and all of creation. We believe that humanity is in the midst of a profound period of change, and that addressing the opportunities of our time require that we embrace universal human values and ethical action, awaken to and engage in our evolutionary potential, and enact more conscious, integral forms of leadership and collective action in the world, grounded in our deepest wisdom. To this end, we endeavor to impact human development, leadership, and social change at the emergent edge of consciousness and action.",
+    "tagline": "",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "education",
+      "business"
+    ],
+    "topic": [
+      "work",
+      "development"
+    ],
+    "regions": "North America, South Pacific, Africa",
+    "locations": [
+      "Seattle, US",
+      "AU",
+      "NZ",
+      "Addis Ababa, ET"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "Y",
+    "people": [],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/45453421_10156666835126878_7410636997443715072_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wUu-WpA7HeAAX83xyvM&_nc_ht=scontent-lcy1-1.xx&oh=00_AT_N1PglmklRR-vrLqA47uJr1GI12oapBijt2yOPiZLsgg&oe=62466AB0",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393683/Ecosystem%20Mapping/45453421_10156666835126878_7410636997443715072_n.jpg_kgmxw3.jpg"
+    },
+    "image": {
+      "url": "https://scontent-lcy1-1.xx.fbcdn.net/v/t1.6435-9/45453421_10156666835126878_7410636997443715072_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=wUu-WpA7HeAAX83xyvM&_nc_ht=scontent-lcy1-1.xx&oh=00_AT_N1PglmklRR-vrLqA47uJr1GI12oapBijt2yOPiZLsgg&oe=62466AB0",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393683/Ecosystem%20Mapping/45453421_10156666835126878_7410636997443715072_n.jpg_kgmxw3.jpg"
+    }
+  },
+  {
+    "name": "Symphonics",
+    "id": "symphonics",
+    "rd_1_focus": "Y",
+    "url": "https://www.symphonics.life/",
+    "email": "spiritualphilanthropy55@gmail.com",
+    "email2": "",
+    "transparent logo": "",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "A New Era of Co-creation Beckons\nSOLUTIONS FOR AN ALL-WIN PARADIGM\n\nHumanity is on the threshold of a new all-win era of co-creation inspired by principles of co-operation, regeneration, health, harmony and living systems design.  Symphonics are leading edge co-creation specialists, providing planetary-scale innovations to support the quantum leap out of competitive silos into a unitive ecosystem of expansion and superabundance!\n\nAn Emerging Systems Philosophy for Co-creation\nINTRODUCING ORGANOMICS\n\nSymphonics has been working with partners all over the world for over eight years to develop a new ecosystem design science for co-creative organisation called 'Organomics'.  Organomics reimagines planet earth as a 'superorganism' or 'UFO' (United Fractal Organism) and humans, groups, organisations and communities as its cells, tissues and organs. Using 'Social DNA', the UFO facilitates co-creators to come together as one healthy body to support humanity’s evolution into a universally thriving experience.",
+    "tagline": "Living Systems for Co-creation",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "spaces"
+    ],
+    "topic": [
+      "development",
+      "governance"
+    ],
+    "regions": "Germany",
+    "locations": [
+      "Heidelberg, DE"
+    ],
+    "started": "",
+    "ended": "",
+    "active": "Y",
+    "people": [
+      "Brent Warshawsky",
+      "Andrea Harding"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://images.squarespace-cdn.com/content/v1/5f19985874011d5032b0bf8e/1644852455257-02LY4N53WT70ZDY9JE4S/Together.png?format=1500w",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393668/Ecosystem%20Mapping/symphonics%20logo.jpg"
+    },
+    "image": {
+      "url": "https://static.wixstatic.com/media/0b84c9_7d386db48f564751b3bd21b0c4e9cf93~mv2.png/v1/fill/w_464,h_459,al_c,q_85,usm_0.66_1.00_0.01/coherentearth.webp",
+      "cached": ""
+    }
+  },
+  {
+    "name": "Cultural Strategies Council",
+    "id": "cultural-strategies-council",
+    "rd_1_focus": "Y",
+    "url": "https://culturalstrategies.net",
+    "email": "kiley@culturalstrategies.net",
+    "email2": "hello@culturalstrategies.net",
+    "transparent logo": "",
+    "image_homepage": {
+      "url": ""
+    },
+    "images_extra": "",
+    "description": "Established in 2008, after a decade of working across civil society, the Cultural Strategies Council (CSC) is a vehicle for interdisciplinary research, strategy, and collaborative learning. The CSC has significant experience working with a diverse range of partners to conceive, develop, and implement transformative change initiatives that advance a more just and regenerative world. This work is predicated on the belief that society’s capacity to transcend existing challenges, address complex issues, and adapt to uncertainty relies on our ability to envisage, assess, and realize alternative futures cooperatively. ",
+    "tagline": "Transformational change towards regenerative justice",
+    "inner": "",
+    "cultural": "",
+    "systems": "",
+    "activity orig": "",
+    "activity": [
+      "spaces",
+      "research"
+    ],
+    "topic": [
+      "arts",
+      "community"
+    ],
+    "regions": "Sausalito, California - Coast Miwok ancestral homeland",
+    "locations": [
+      "California, US"
+    ],
+    "started": "2008",
+    "ended": "",
+    "active": "Y",
+    "people": [
+      "Kiley Arroyo"
+    ],
+    "notes_data_entry": "",
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "youtube": "",
+    "blog": "",
+    "phone": "",
+    "have_email": "",
+    "logo": {
+      "url": "https://kileyarroyo.files.wordpress.com/2021/05/network.jpg?w=651",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393350/Ecosystem%20Mapping/Cultural%20Strategies%20Council.jpg"
+    },
+    "image": {
+      "url": "https://kileyarroyo.files.wordpress.com/2021/05/network.jpg?w=651",
+      "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1646393350/Ecosystem%20Mapping/Cultural%20Strategies%20Council.jpg"
     }
   }
 ]
