@@ -41,14 +41,16 @@ export function transformOrg(org) {
   org.topic = [org.topic, org.topic_2].filter(item => item)
   org.logo = {
     url: org['logo.url'],
-    cached: org['logo.cached']
+    cached: org['logo.cached'],
+    cached_new: org['logo.cached.new']
   }
   org.image_homepage = {
     url: org.image_homepage
   }
   org.image = {
     url: org['image.url'],
-    cached: org['image.cached']
+    cached: org['image.cached'],
+    cached_new: org['image.cached.new']
   }
   org.locations = org.locations ? org.locations.split(';').map(loc => loc.trim()) : []
   org.people = org.people ? org.people.split(',').map(loc => loc.trim()) : []
@@ -64,8 +66,10 @@ export function transformOrg(org) {
     'topic_2',
     'logo.url',
     'logo.cached',
+    'logo.cached.new',
     'image.url',
     'image.cached',
+    'image.cached.new',
   ]
   toRemove.forEach(e => delete org[e]);
   return org
