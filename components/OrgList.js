@@ -1,11 +1,11 @@
 export default function OrgList({ orgs }) {
   return (
     <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-      {orgs.map((org) => (
-        <div key={org.id} className="group relative">
+      {orgs.map((org) => {
+        if (org) return (<div key={org.id} className="group relative">
           <div className="w-full min-h-80 bg-beige aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none">
             <img
-              src={(org.logo.cached || org.logo.url) ?? (org.image.cached || org.image.url)}
+              src={(org.logo.cached_new || org.logo.url) ?? (org.image.cached_new || org.image.url)}
               alt={org.name}
               className="w-full h-full object-center object-cover lg:w-full lg:h-full"
             />
@@ -23,8 +23,8 @@ export default function OrgList({ orgs }) {
               <p className="text-sm text-gray-700">{org.description.slice(0, 100) + '…'}</p>
             </div>
           </div>
-        </div>
-      ))}
+        </div>)
+      })}
     </div>
   )
 }

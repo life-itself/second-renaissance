@@ -14,7 +14,7 @@ export default function Page({ org }) {
           type: 'website',
           images: [
             {
-              url: org.image.cached ?? (org.logo.cached || org.logo.url),
+              url: org.image.cached_new ?? (org.logo.cached_new || org.logo.url),
               width: 1200,
               height: 630,
               alt: org.name,
