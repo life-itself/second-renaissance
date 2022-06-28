@@ -8,6 +8,7 @@ import { MDXRemote } from 'next-mdx-remote'
 
 import { getOrganizations } from "../lib/db.js"
 import TernaryPlot from '../components/TernaryPlot'
+import CircularVis from '../components/CircularVis'
 import Search from "../components/Search.js"
 import config from '../config/siteConfig'
 import parse from '../lib/mdx.js'
@@ -17,27 +18,30 @@ export default function Home({ orgs, outline }) {
   return (
     <>
       <NextSeo
-        title={config.title + ' - ' + config.tagline}
+        title={config.title + " - " + config.tagline}
         description={config.description}
         openGraph={{
           images: [
             {
-              url: 'https://lifeitself.us/wp-content/uploads/2021/10/state-of-sensemaking-home-launch-20211012-1-2048x1077.png',
-              alt: 'State of Sensemaking - Life Itself',
+              url: "https://lifeitself.us/wp-content/uploads/2021/10/state-of-sensemaking-home-launch-20211012-1-2048x1077.png",
+              alt: "State of Sensemaking - Life Itself",
               width: 1980,
               height: 1211,
-              type: 'image/png',
-            }
-          ]
+              type: "image/png",
+            },
+          ],
         }}
         twitter={{
-          handle: '@handle',
-          site: '@site',
-          cardType: 'summary_large_image',
+          handle: "@handle",
+          site: "@site",
+          cardType: "summary_large_image",
         }}
       />
       <div className="relative bg-gray-50 overflow-hidden">
-        <div className="hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full" aria-hidden="true">
+        <div
+          className="hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full"
+          aria-hidden="true"
+        >
           <div className="relative h-full max-w-7xl mx-auto">
             <svg
               className="absolute right-full transform translate-y-1/4 translate-x-1/4 lg:translate-x-1/2"
@@ -55,10 +59,21 @@ export default function Home({ orgs, outline }) {
                   height={20}
                   patternUnits="userSpaceOnUse"
                 >
-                  <rect x={0} y={0} width={4} height={4} className="text-gray-200" fill="currentColor" />
+                  <rect
+                    x={0}
+                    y={0}
+                    width={4}
+                    height={4}
+                    className="text-gray-200"
+                    fill="currentColor"
+                  />
                 </pattern>
               </defs>
-              <rect width={404} height={784} fill="url(#f210dbf6-a58d-4871-961e-36d5016a0f49)" />
+              <rect
+                width={404}
+                height={784}
+                fill="url(#f210dbf6-a58d-4871-961e-36d5016a0f49)"
+              />
             </svg>
             <svg
               className="absolute left-full transform -translate-y-3/4 -translate-x-1/4 md:-translate-y-1/2 lg:-translate-x-1/2"
@@ -76,10 +91,21 @@ export default function Home({ orgs, outline }) {
                   height={20}
                   patternUnits="userSpaceOnUse"
                 >
-                  <rect x={0} y={0} width={4} height={4} className="text-gray-200" fill="currentColor" />
+                  <rect
+                    x={0}
+                    y={0}
+                    width={4}
+                    height={4}
+                    className="text-gray-200"
+                    fill="currentColor"
+                  />
                 </pattern>
               </defs>
-              <rect width={404} height={784} fill="url(#5d0dd344-b041-4d26-bec4-8d33ea57ec9b)" />
+              <rect
+                width={404}
+                height={784}
+                fill="url(#5d0dd344-b041-4d26-bec4-8d33ea57ec9b)"
+              />
             </svg>
           </div>
         </div>
@@ -106,18 +132,14 @@ export default function Home({ orgs, outline }) {
                 </div>
                 <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
                   <Link href="#profiles">
-                    <a
-                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-100 hover:bg-gray-200 md:py-4 md:text-lg md:px-10"
-                      >
+                    <a className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-100 hover:bg-gray-200 md:py-4 md:text-lg md:px-10">
                       Explore
                     </a>
                   </Link>
                 </div>
                 <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
                   <Link href="/about/">
-                    <a
-                      className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10"
-                      >
+                    <a className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10">
                       About
                     </a>
                   </Link>
@@ -133,9 +155,24 @@ export default function Home({ orgs, outline }) {
         <TernaryPlot orgs={orgs} />
       </div>
 
-      <section id="outline" className="max-w-md md:max-w-3xl mx-auto px-2 sm:px-6 lg:px-8 mt-8 prose">
+      <section
+        id="outline"
+        className="max-w-md md:max-w-3xl mx-auto px-2 sm:px-6 lg:px-8 mt-8 prose"
+      >
         <MDXRemote {...outline} />
       </section>
+
+      <div className="max-w-md md:max-w-3xl mx-auto px-2 sm:px-6 lg:px-8 mt-20 space-y-4 prose">
+        <h1 className="mt-16 mb-8 text-4xl text-center max-w-md mx-auto">
+          Visualizing the Ecosystem
+        </h1>
+        <p className="mb-16">
+          This visualization maps an overview of organizations grouped together
+          by their primary topic. Click to zoom in or out. Hover over a circle
+          to see its name.
+        </p>
+        <CircularVis orgs={orgs} />
+      </div>
 
       <section id="profiles" className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
         <div className="bg-white">
@@ -148,7 +185,7 @@ export default function Home({ orgs, outline }) {
         </div>
       </section>
     </>
-  )
+  );
 }
 
 export async function getStaticProps(context) {
