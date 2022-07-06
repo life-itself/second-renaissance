@@ -1,4 +1,4 @@
-import { allPages } from "contentlayer/generated";
+import { allDocuments, allProfiles } from "contentlayer/generated";
 import { useMDXComponent } from "next-contentlayer/hooks";
 import MdxPage from "../components/MDX";
 
@@ -8,8 +8,12 @@ const testData = [
 ]
 
 export default function Page({ body, ...rest }) {
+  const filteredProfiles = allProfiles.filter(profile => 
+    !(profile.curation_status.includes('N') || profile.curation_status.includes('?'))
+  )
+
   const Component = useMDXComponent(body.code, {
-    orgs: testData
+    orgs: filteredProfiles
   });
   
   const children = {
@@ -24,13 +28,13 @@ export default function Page({ body, ...rest }) {
 export async function getStaticProps({ params }) {
   // params.slug is undefined for root index page
   const urlPath = params.slug ? params.slug.join("/") : '';
-  const page = allPages.find((p) => p.url === urlPath);
+  const page = allDocuments.find((p) => p.url_path === urlPath);
   return { props: page };
 }
 
 export async function getStaticPaths() {
-  const paths = allPages.map((page) => {
-    const parts = page.url.split("/");
+  const paths = allDocuments.map((page) => {
+    const parts = page.url_path.split("/");
     return { params: { slug: parts } };
   });
 
