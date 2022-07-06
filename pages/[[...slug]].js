@@ -2,8 +2,16 @@ import { allPages } from "contentlayer/generated";
 import { useMDXComponent } from "next-contentlayer/hooks";
 import MdxPage from "../components/MDX";
 
+const testData = [
+  {name: "First", value: 1},
+  {name: "Second", value: 2}
+]
+
 export default function Page({ body, ...rest }) {
-  const Component = useMDXComponent(body.code);
+  const Component = useMDXComponent(body.code, {
+    orgs: testData
+  });
+  
   const children = {
     Component,
     frontMatter: {
