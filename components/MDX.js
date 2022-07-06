@@ -1,7 +1,13 @@
+import { Fragment } from 'react'
 import Head from 'next/head'
+import Link from 'next/link'
+import Hero from './Hero'
 
 const components = {
   Head,
+  Hero,
+  Link,
+  svg: props => <Fragment {...props} />,
   wrapper: ({ layout, ...rest }) => {
     const Layout = require(`../layouts/${layout}`).default
     return <Layout {...rest} />
