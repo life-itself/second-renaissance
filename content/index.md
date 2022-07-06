@@ -4,6 +4,13 @@ layout: unstyled
 
 <Hero />
 
+<div className="mx-auto px-2 sm:px-6 lg:px-8">
+	<h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
+	<TernaryPlot orgs={orgs} />
+</div>
+
+<div className="max-w-4xl mx-auto">
+
 This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. [Read more about the visualization.](/vis/)
 
 # Overview of the Ecosystem
@@ -67,3 +74,24 @@ The language of the ecosystem draws heavily on concepts such as complexity, syst
 Emerging organizations and individuals are opting towards 'teal' style collaboration and community building in order to maximize resources as a generalist, lateral way of operating comes into view as a more effective way of tackling systemic problems.
 
 We have identified four major areas of activity: physical spaces, research, media/publishing and events. Nonetheless, it has been notable that many organizations have shifted to multi-channel working across a number of these e.g. producing media content as well as running retreats and events.
+
+<h1 className="mt-16 mb-8 text-4xl text-center">
+	Visualizing the Ecosystem
+</h1>
+
+This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
+
+<CircularVis orgs={orgs} />
+
+</div>
+
+<section id="profiles" className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+	<div className="bg-white">
+		<div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
+			<h1 className="text-4xl font-extrabold tracking-tight text-gray-900 md:mb-8 text-center">
+				Profiles
+			</h1>
+			<Search orgs={orgs} />
+		</div>
+	</div>
+</section>
