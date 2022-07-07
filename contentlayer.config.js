@@ -42,12 +42,20 @@ const SocialChangeFields = defineNestedType(() => ({
   }
 }))
 
+const resolveArrays = ["topic", "activity", "people", "locations"].reduce((el, key) =>
+  ({ ...el,[key]: {
+    type: "json",
+    resolve: (doc) => doc[key] == 0 ? [] : doc[key]
+  }}), {}
+)
+
 const Profile = defineDocumentType(() => ({
   name: "Profile",
   filePathPattern: "profiles/**/*.md*",
   contentType: "mdx",
   fields: {
     ...sharedFields,
+    layout: { type: "string", default: "profile" },
     id: { type: "string" },
     url: { type: "string" },
     tagline: { type: "string" },
@@ -58,7 +66,7 @@ const Profile = defineDocumentType(() => ({
     started: { type: "number" },
     ended: { type: "string" },
     active: { type: "string" },
-    people: { type: "number" },
+    people: { type: "json" },
     notes_data_entry: { type: "string" },
     facebook: { type: "string" },
     twitter: { type: "string" },
@@ -73,10 +81,7 @@ const Profile = defineDocumentType(() => ({
   },
   computedFields: {
     ...computedFields,
-    topic: {
-      type: "json",
-      resolve: (doc) => doc.topic == 0 ? [] : doc.topic
-    }
+    ...resolveArrays
   }
 }))
 
