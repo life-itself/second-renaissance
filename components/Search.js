@@ -106,12 +106,12 @@ export default function Search({ orgs }) {
         />
 
         <div className="max-w-7xl mx-auto text-sm mt-4 grid grid-cols-1 auto-rows-min md:grid-cols-none gap-y-10 md:gap-x-6">
-          {facetResults.map(facet => (
-            <fieldset key={facet.title}>
+          {facetResults.map((facet, idx) => (
+            <fieldset key={`${facet.title}-${idx}`}>
               <legend className="block font-medium">{facet.title}</legend>
               <div className="pt-2 space-y-1 md:space-y-0 md:space-x-4">
                 {facet.buckets.map((option, optionIdx) => (
-                  <div key={option.id} className="items-center text-base sm:text-sm md:inline-block">
+                  <div key={`${option.id}-${optionIdx}`} className="items-center text-base sm:text-sm md:inline-block">
                     <input
                       id={`${facet.name}-${optionIdx}`}
                       name={`${facet.name}`}
