@@ -47,7 +47,7 @@ export default function Search({ orgs }) {
   const searchIndex = new Fuse(orgs, {
     includeScore: true,
     threshold: 0.4,
-    keys: ['name'],
+    keys: ['title'],
   })
 
   const searchResults = searchIndex.search(searchQuery)
