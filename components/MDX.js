@@ -1,10 +1,12 @@
 import { Fragment } from 'react'
+import dynamic from 'next/dynamic'
 import Head from 'next/head'
 import Link from 'next/link'
 import Hero from './Hero'
-import TernaryPlot from './TernaryPlot'
-import CircularVis from './CircularVis'
 import Search from './Search'
+
+const TernaryPlot = dynamic(() => import('./TernaryPlot'))
+const CircularVis = dynamic(() => import('./CircularVis'))
 
 const components = {
   Head,
