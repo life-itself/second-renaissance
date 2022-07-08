@@ -1,20 +1,10 @@
-import { allDocuments, allProfiles } from "contentlayer/generated";
+import { allDocuments } from "contentlayer/generated";
 import { useMDXComponent } from "next-contentlayer/hooks";
 import MdxPage from "../components/MDX";
+import getProfiles from "../lib/db";
 
-const testData = [
-  {name: "First", value: 1},
-  {name: "Second", value: 2}
-]
-
-export default function Page({ body, ...rest }) {
-  const filteredProfiles = allProfiles.filter(profile => 
-    !(profile.curation_status.includes('N') || profile.curation_status.includes('?'))
-  )
-
-  const Component = useMDXComponent(body.code, {
-    orgs: filteredProfiles
-  });
+export default function Page({ page: { body, ...rest }, orgs }) {
+  const Component = useMDXComponent(body.code, { orgs });
   
   const children = {
     Component,
@@ -29,7 +19,11 @@ export async function getStaticProps({ params }) {
   // params.slug is undefined for root index page
   const urlPath = params.slug ? params.slug.join("/") : '';
   const page = allDocuments.find((p) => p.url_path === urlPath);
-  return { props: page };
+
+  //  load orgs only for pages that require them (eg. pages containing a vis).
+  const orgs = /{orgs}/.test(page.body.code) ? await getProfiles() : null
+
+  return { props: { page, orgs } };
 }
 
 export async function getStaticPaths() {
