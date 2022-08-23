@@ -18,6 +18,8 @@ We emphasize that these scores were assigned by the project team based on their 
 
 This visualization maps an overview of organizations grouped together by their primary topic. Click to zoom in or out. Hover over a circle to see its name. 
 
+<CircularVis orgs={orgs} />
+
 We have defined ten primary topics, each of which is represented by a circle within the broader circle/topic of social change. A short description of each topic follows below:
 - Arts & Culture – Role and use of arts and culture in fostering social change.
 - Community – Role of community in human life and in fostering human flourishing, and approaches to building, sustaining and governing communities.
