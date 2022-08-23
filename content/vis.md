@@ -1,10 +1,10 @@
 
-# Table of Contents
-On this page you can explore our various visualizations of the ecosystem map. Here you can view organizations mapped by:
+# Explore Visualizations of the Ecosystem Map
+On this page you can explore our various visualizations of the ecosystem map. Click below to view organizations mapped by:
 1. [Approach to Social Change](#Visualizing-the-Ecosystem-by-Approach-to-Social-Change)
 2. [Topic](#Visualizing-the-Ecosystem-by-Topic)
 
-# Visualizing the Ecosystem by Approach to Social Change
+## Visualizing the Ecosystem by Approach to Social Change
 
 This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. 
 
@@ -20,7 +20,7 @@ We emphasize that these scores were assigned by the project team based on their 
 
 [contact]: https://lifeitself.us/contact/
 
-# Visualizing the Ecosystem by Topic
+## Visualizing the Ecosystem by Topic
 
 This visualization maps an overview of organizations grouped together by their primary topic. Click to zoom in or out. Hover over a circle to see its name. 
 
