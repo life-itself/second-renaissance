@@ -1,8 +1,8 @@
 
 # Table of Contents
-This page contains our various visualizations of the ecosystem map. Here you can view organizations mapped by:
-1. [Approach to Social Change](#Visualizing the Ecosystem by Approach to Social Change)
-2. [Topic](#Visualizing the Ecosystem by Topic)
+On this page you can explore our various visualizations of the ecosystem map. Here you can view organizations mapped by:
+1. [Approach to Social Change](#Visualizing-the-Ecosystem-by-Approach-to-Social-Change)
+2. [Topic](#Visualizing-the-Ecosystem-by-Topic)
 
 # Visualizing the Ecosystem by Approach to Social Change
 
