@@ -1,3 +1,9 @@
+
+# Table of Contents
+This page contains our various visualizations of the ecosystem map. Here you can view organizations mapped by:
+1. [Approach to Social Change](#Visualizing the Ecosystem by Approach to Social Change)
+2. [Topic](#Visualizing the Ecosystem by Topic)
+
 # Visualizing the Ecosystem by Approach to Social Change
 
 This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. 
