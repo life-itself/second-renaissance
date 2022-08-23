@@ -13,3 +13,19 @@ We emphasize that these scores were assigned by the project team based on their 
 **Note: we are aware many organisations currently have the same weightings and are thus on top of one another, making it difficult to see all those listed in the directory. The next iteration of the visualization will address this.**
 
 [contact]: https://lifeitself.us/contact/
+
+# Visualizing the Ecosystem by Topic
+
+This visualization maps an overview of organizations grouped together by their primary topic. Click to zoom in or out. Hover over a circle to see its name. 
+
+We have defined ten primary topics, each of which is represented by a circle within the broader circle/topic of social change. A short description of each topic follows below:
+- Arts & Culture – Role and use of arts and culture in fostering social change.
+- Community – Role of community in human life and in fostering human flourishing, and approaches to building, sustaining and governing communities.
+- Development & Growth – Fostering personal development and growth in emotional, psychological, social and other inner capacities.
+- Ecology & Environment – Issues relating to the environment, including climate change but also nature more broadly and human relationships to it.
+- Future of Work – Innovating the world of work, including through new methods and approaches to business and organizational management.
+- Governance & Institutions – Devising new forms of governance and institutions to support alternative social paradigms.
+- Politics & Economics – Engaging with existing political and economic systems, creating policies and innovating new approaches to politics and economics.
+- Spirituality & Religion – World beyond the material and the rational.
+- Technology & Blockchain – Use of technological innovation, including blockchain, to foster social change and support new social systems.
+- Wellbeing & Health – Improving quality of life through the physical, psychological, environmental and social determinants of health and wellbeing.
