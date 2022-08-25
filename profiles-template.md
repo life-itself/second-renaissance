@@ -25,12 +25,10 @@ youtube: not-found
 blog: not-found
 logo:
   url: https://scontent-cdt1-1.xx.fbcdn.net/v/t1.18169-9/29694443_163253617723118_6014373808351466630_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7hGynqDtAqIAX9-ef2K&_nc_ht=scontent-cdt1-1.xx&oh=281ce9177e2a20b81888364b5658af60&oe=61B1ACEB
-  cached: https://res.cloudinary.com/ds7qslkd0/image/upload/v1636559410/Ecosystem%20Mapping/29694443_163253617723118_6014373808351466630_n_vdukjr.jpg
-  cached_new: /img/29694443_163253617723118_6014373808351466630_n_vdukjr.jpg
+  cached: /img/29694443_163253617723118_6014373808351466630_n_vdukjr.jpg
 image:
   url: http://alterego.network/
-  cached: https://res.cloudinary.com/ds7qslkd0/image/upload/v1645011812/Ecosystem%20Mapping/alter_ego_vvvhln.png
-  cached_new: /img/alter_ego_vvvhln.png
+  cached: /img/alter_ego_vvvhln.png
 title: Alter Ego
 curation_status: Y
 social_change:
