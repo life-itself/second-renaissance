@@ -1,8 +1,11 @@
 import { useEffect } from 'react'
 import Script from 'next/script'
 import { useRouter } from 'next/router'
+import { ThemeProvider } from 'next-themes'
 import { DefaultSeo } from 'next-seo'
 import 'tailwindcss/tailwind.css'
+import '../styles/prism.css';
+import '../styles/docsearch.css';
 
 import siteConfig from '../config/siteConfig.js'
 import Layout from '../components/Layout'
@@ -25,13 +28,8 @@ function MyApp({ Component, pageProps }) {
   // end Google Analytics
 
   return (
-    <>
-      <DefaultSeo
-        titleTemplate={'%s | ' + siteConfig.title}
-        defaultTitle={siteConfig.title}
-        description={siteConfig.description}
-        {...siteConfig.nextSeo}
-      />
+    <ThemeProvider disableTransitionOnChange attribute="class" defaultTheme={siteConfig.theme.default}>
+      <DefaultSeo defaultTitle={siteConfig.title} {...siteConfig.nextSeo} />
       {/* Global Site Tag (gtag.js) - Google Analytics */}
       {siteConfig.analytics &&
         <Script
@@ -58,7 +56,7 @@ function MyApp({ Component, pageProps }) {
       <Layout title={pageProps.title}>
         <Component {...pageProps} />
       </Layout>
-    </>
+    </ThemeProvider>
   )
 }
 

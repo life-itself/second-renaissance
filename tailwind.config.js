@@ -1,12 +1,18 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
-  content: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}', 
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx}',
+    './components/**/*.{js,ts,jsx,tsx}',
     './layouts/**/*.{js,ts,jsx,tsx}',
     './content/**/*.{md,mdx}',
   ],
+  darkMode: 'class',
   theme: {
     extend: {
+      maxWidth: {
+        '8xl': '88rem',
+      },
       colors: {
         accent:'#F0CA5E',
         secondary:'#d17846',
@@ -29,6 +35,5 @@ module.exports = {
   },
   plugins: [
     require('@tailwindcss/typography'),
-    require('@tailwindcss/forms'),
   ],
 }
