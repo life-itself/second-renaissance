@@ -4,7 +4,9 @@ From the outset, we have argued that any successful mapping effort must be colla
 
 ## Edit or add to the site via Github
 
-To make it as simple as possible to contribute, we have opened up the site, giving it a wiki-like structure, meaning people can contribute and add items directly - no coding required. So, if you know of an organization that you think should be on our map, or see something you think needs amending, go ahead and contribute to our site! We have written up a guide detailing how anyone can edit or add content to our site themselves using Github. Find our contributors' guide [here](/contributors-guide).
+We have given the site a wiki-like structure, meaning people can contribute and add items directly - no coding required. So, if you know of an organization that you think should be on our map, or see something you think needs amending, go ahead and contribute to our site! We have written up a guide detailing how anyone can edit or add content to our site themselves using Github. 
+
+Find our contributors' guide [here](/contributors-guide).
 
 Alternatively, if you would like to contribute by a more non-technical method, see below. 
 
