@@ -6,7 +6,7 @@ Please fill out this [Google form](https://forms.gle/9337PCNXHtc7xQYW9) to sugge
 
 We'll process your suggestion as soon as possible. If you have any questions, please [get in touch &raquo;][contact].
 
-Or, you can do it yourself! We have written up a guide detailing how anyone can edit or add content to our site themselves. Find our contributors' guide [here](/contributors-guide.md).
+Or, you can do it yourself! We have written up a guide detailing how anyone can edit or add content to our site themselves. Find our contributors' guide [here](/contributors-guide).
 
 ## Amend information
 
