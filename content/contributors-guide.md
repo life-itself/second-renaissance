@@ -1,5 +1,4 @@
 # Contributors’ Guide 
-
 ## *How to add or edit content on [https://ecosystem.lifeitself.us/](https://ecosystem.lifeitself.us/)*
 
 ## Contents
@@ -15,18 +14,15 @@ From the outset, we have argued that any successful mapping effort must be colla
 
 We have included information on how the site works and its technical architecture. If you’re wanting to get stuck in, feel free to skip over this section and go straight to our instructions on [how to edit and add to the site](#how-to-edit-and-add-to-the-site) - you can always refer back if you need to!
 
-
 ### How does the site work?
 
 All the content for the [Mapping Metamodern](https://ecosystem.lifeitself.us/) site is contained within the life-itself/ecosystem [Github repo](https://github.com/life-itself/ecosystem). 
 
 ![](../img/repo-homepage.png)
 
-
 #### Technical Architecture
 
 The website is written in [Markdown](#markdown). A tool called content layer converts the Markdown files into HTML (the standard computer language for displaying and formatting web pages) so that they are displayed as pages on the site. This is the case for all pages on the website except for the homepage which is written directly in HTML. 
-
 
 #### Markdown
 
@@ -36,11 +32,9 @@ In Markdown, you control the display of the document. For instance, you can form
 
 Head over to our [Markdown Guide](https://playbook.datopian.com/markdown/#why-markdown) to learn more about Markdown and how to use it.
 
-
 #### Front Matter 
 
 In the world of computer programming, front matter is metadata (data about data) at the top of a file. Front matter does two things: a) it displays key info about a page (such as its title and description) in a structured way which helps with a consistent layout throughout the site and b) is used as metadata for SEO (search engine optimization) purposes, helping our content to reach interested readers. 
-
 
 ## How to edit and add to the site
 
@@ -50,7 +44,6 @@ There are two methods for making edits to the website:
 2. Edit on your local machine (using a code editor or Obsidian)
 
 For reasons of simplicity, in this guide we have only outlined how to edit using Github. If you would like to make edits using a code editor or Obsidian, please refer to our [editors’ guide](https://docs.google.com/document/d/1RcwjaJYn0jtMw9rOR9W0Gv2fmQDd7Fjr53NM6j1-lco/edit#heading=h.vkkc3zo06um7) for our [Web3 site](https://web3.lifeitself.us/) and apply these instructions to the ecosystem repo. 
-
 
 ### Edit in Github
 
@@ -70,7 +63,6 @@ For reasons of simplicity, in this guide we have only outlined how to edit using
 * Once you’ve clicked the ‘Propose changes’ button you will be taken to a new page. Here, click the button that says ‘Create pull request’. This will notify a team member to review and confirm the edits you’ve made.
 * Once they’ve done that, your edit will appear on the site! Thanks for contributing! 
 
-
 ### Add to the website in Github
 
 * Go to the repo storing the website content: [https://github.com/life-itself/ecosystem](https://github.com/life-itself/ecosystem)
@@ -82,7 +74,6 @@ For reasons of simplicity, in this guide we have only outlined how to edit using
 
 * We now recommend that you do all the following steps in the same pull request. That way, you can request all the additions to the site you want to make in one request. But we’re getting ahead of ourselves, let’s add some content!
 
-
 #### Templates
 
 To add a new profile page, please use the [profiles-template.md](https://github.com/life-itself/ecosystem/blob/main/profiles-template.md) in the ecosystem repo.
@@ -91,7 +82,6 @@ To add a new topics page, please use the [topics-template.md](https://github.com
 
 Copy the raw contents from the relevant template by clicking the icon with 2 squares overlapping. 
 
-
 #### Adding a page
 
 ##### Create the page
@@ -99,7 +89,6 @@ Copy the raw contents from the relevant template by clicking the icon with 2 squ
 * In your fork of the ecosystem repo, go to the folder “content”, then select the folder representing the type of page you want to add, eg “profiles” or “topics”. 
 * Click on the “Add file” button in the upper right corner to add a new page. Select, “create new file”.
 * On the top right, under the “Cancel changes” button is the line wrap mode box. Select “Soft wrap”.
-
 
 ##### Add the frontmatter
 
@@ -142,19 +131,13 @@ Copy the raw contents from the relevant template by clicking the icon with 2 squ
 * Now you are going to commit directly to the main branch by clicking the green button that says “Commit new file”.
 * Well done! But you’re not done yet. Remember the logo and image you downloaded to your computer? Now you need to upload them to the repo. 
 
-
 ###### Adding an image/logo
-
-
 
 * Remaining in your fork of the ecosystem repo, click “public”, then “img”. Once here, click on the “Add file” button, then select “Upload files”. Upload your two files eg organization-name-logo.png and organization-name-image.png
 * Once you’ve uploaded the images, go to the bottom of the page where you will see a box titled ‘Commit changes’. Type into the first text box below a brief description of what you are proposing, eg “adding images”. 
 * Now you are going to commit these images directly to the main branch by clicking the green button that says “Commit changes”.
 
-
 ##### Open pull request
-
-
 
 * Now that you’ve committed your new page and the relevant images, you’re ready to open the pull request. Head back to your fork of the ecosystem repo. You should see a box that looks like this: 
 
@@ -165,14 +148,10 @@ Copy the raw contents from the relevant template by clicking the icon with 2 squ
 * Now click the green “Create pull request button”. This will notify a team member to review and confirm the additions you’ve made to the site.
 * Once they’ve done that, your edit will appear on the site! Thanks for contributing! 
 
-
 ## Glossary
-
-
 
 * Repo => short for [Repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). Contains all a project’s files.
 * Working directory => The folder you are currently working in.
-
 
 ## Contact
 
