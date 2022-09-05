@@ -14,8 +14,12 @@
     "@silvenon/remark-smartypants": "^1.0.0",
     "@tailwindcss/typography": "^0.5.2",
     "contentlayer": "^0.2.6",
+    "d3": "^7.6.1",
+    "d3-ternary": "^2.0.14",
+    "fuse.js": "^6.6.2",
     "gray-matter": "^4.0.3",
     "hastscript": "^7.0.2",
+    "itemsjs": "^2.1.15",
     "mdx-mermaid": "^2.0.0-rc1",
     "mermaid": "^9.1.4",
     "next": "^12.1.0",
@@ -32,16 +36,13 @@
     "remark-gfm": "^3.0.0",
     "remark-math": "^5.1.1",
     "remark-toc": "^8.0.1",
-    "remark-wiki-link-plus": "^1.0.2",
-    "d3": "^7.6.1",
-    "d3-ternary": "^2.0.14",
-    "fuse.js": "^6.6.2",
-    "itemsjs": "^2.1.15"
+    "remark-wiki-link-plus": "^1.0.2"
   },
   "devDependencies": {
     "@playwright/test": "^1.22.2",
+    "@tailwindcss/forms": "^0.5.2",
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
-    "tailwindcss": "^3.0.23"
+    "tailwindcss": "^3.1.8"
   }
 }

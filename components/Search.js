@@ -1,141 +1,94 @@
-import React, { useState } from 'react'
-import Fuse from 'fuse.js'
-import ItemsJS from 'itemsjs'
+import { useCallback, useEffect, useState } from 'react'
+import { createPortal } from 'react-dom'
+import Link from 'next/link'
+import Router from 'next/router'
+import { DocSearchModal, useDocSearchKeyboardEvents } from '@docsearch/react'
 
-import OrgList from '../components/OrgList.js'
+const docSearchConfig = {
+  appId: process.env.NEXT_PUBLIC_DOCSEARCH_APP_ID,
+  apiKey: process.env.NEXT_PUBLIC_DOCSEARCH_API_KEY,
+  indexName: process.env.NEXT_PUBLIC_DOCSEARCH_INDEX_NAME,
+}
 
-/** JS search component
-  Use 2 search systems:
-  1. Fuse: for general text search
-  2. ItemJS: for faceting etc. We disable its native search and use Fuse for that as better
-  **/
-export default function Search({ orgs }) {
-  const facets = [
-    {
-      id: 'topic',
-      name: 'Topic'
-    },
-    {
-      id: 'activity',
-      name: 'Activity'
-    }
-  ]
-  const defaultFilterState = {}
-  facets.forEach(f => {
-    defaultFilterState[f.id] = []
-  })
+function Hit({ hit, children }) {
+  return <Link href={hit.url}>{children}</Link>
+}
 
-  const [searchQuery, setSearchQuery] = useState('')
-  // filterState = { topic: ['Value1', 'Value2'], activity: ['ValueX', 'ValueY'] }
-  const [filterState, setFilterState] = useState(defaultFilterState)
-
-  const handleSearch = (searchQuery) => {
-    setSearchQuery(searchQuery)
-  }
-
-  const handleFilter = (info) => {
-    let [facet, item] = info
-    let newFilterState = Object.assign({}, filterState)
-    if(newFilterState[facet].includes(item)) {
-      newFilterState[facet] = newFilterState[facet].filter(x => x != item)
-    } else {
-      newFilterState[facet].push(item)
-    }
-    setFilterState(newFilterState)
-  }
-
-  const searchIndex = new Fuse(orgs, {
-    includeScore: true,
-    threshold: 0.4,
-    keys: ['title'],
-  })
-
-  const searchResults = searchIndex.search(searchQuery)
-
-  // configuration for itemsjs faceted search
-  const aggregations = {}
-  for(const f of facets) {
-    aggregations[f.id] = {
-      title: f.name,
-      size: 20, // set to 20 to be bigger than max size of a facet atm
-      conjunction: true  // not sure why
-    }
-  }
-  const itemsjs = ItemsJS(orgs, {
-    native_search_enabled: false,
-    aggregations: aggregations,
-  })
-
-  const sortedSearchResults = searchResults.sort((resultA, resultB) => {
-    return resultA.score - resultB.score;
-  });
-  // orgs from search result
-  // search result is { item: org, refIndex: 1, score: ... }
-  // return all orgs if empty search query
-  var sortedOrgs = orgs
-  if (searchQuery) {
-    sortedOrgs = sortedSearchResults.map((result) => result.item)
-  }
-
-  const searchResults2 = itemsjs.search({
-    per_page: 20000, // set to a number larger than any possible total so we have all
-    ids: sortedOrgs.map(v => v.id),
-    filters: filterState,
-  })
-
-  const facetResults = Object.entries(searchResults2.data.aggregations).map(item => {
-    return item[1]
-  })
-
-  sortedOrgs = searchResults2.data.items
-
+function SearchIcon(props) {
   return (
-    <>
-      <section className="max-w-2xl mx-auto lg:max-w-7xl">
-        <p className="">
-          Profiles found: {sortedOrgs.length}
-        </p>
-
-        <input
-          type="search"
-          name="search"
-          placeholder="Search ..."
-          className="mt-4 w-full md:w-1/2"
-          value={searchQuery}
-          onChange={(event) => handleSearch(event.target.value)}
-        />
-
-        <div className="max-w-7xl mx-auto text-sm mt-4 grid grid-cols-1 auto-rows-min md:grid-cols-none gap-y-10 md:gap-x-6">
-          {facetResults.map((facet, idx) => (
-            <fieldset key={`${facet.title}-${idx}`}>
-              <legend className="block font-medium">{facet.title}</legend>
-              <div className="pt-2 space-y-1 md:space-y-0 md:space-x-4">
-                {facet.buckets.map((option, optionIdx) => (
-                  <div key={`${option.id}-${optionIdx}`} className="items-center text-base sm:text-sm md:inline-block">
-                    <input
-                      id={`${facet.name}-${optionIdx}`}
-                      name={`${facet.name}`}
-                      defaultValue={option.key}
-                      type="checkbox"
-                      className="flex-shrink-0 h-4 w-4 border-gray-300 rounded text-yellow-600 focus:ring-yellow-500"
-                      checked={filterState[facet.name].includes(option.key)}
-                      onChange={() => handleFilter([facet.name, option.key])}
-                    />
-                    <label htmlFor={`${facet.name}-${optionIdx}`} className="ml-4 md:ml-1 min-w-0 text-gray-600">
-                      {option.key} ({option.doc_count})
-                    </label>
-                  </div>
-                ))}
-              </div>
-            </fieldset>
-          ))}
-        </div>
-
-        <OrgList orgs={sortedOrgs} />
-      </section>
-    </>
+    <svg aria-hidden="true" viewBox="0 0 20 20" {...props}>
+      <path d="M16.293 17.707a1 1 0 0 0 1.414-1.414l-1.414 1.414ZM9 14a5 5 0 0 1-5-5H2a7 7 0 0 0 7 7v-2ZM4 9a5 5 0 0 1 5-5V2a7 7 0 0 0-7 7h2Zm5-5a5 5 0 0 1 5 5h2a7 7 0 0 0-7-7v2Zm8.707 12.293-3.757-3.757-1.414 1.414 3.757 3.757 1.414-1.414ZM14 9a4.98 4.98 0 0 1-1.464 3.536l1.414 1.414A6.98 6.98 0 0 0 16 9h-2Zm-1.464 3.536A4.98 4.98 0 0 1 9 14v2a6.98 6.98 0 0 0 4.95-2.05l-1.414-1.414Z" />
+    </svg>
   )
 }
 
-Search.propTypes = {}
+export function Search(props) {
+  let [isOpen, setIsOpen] = useState(false)
+  let [modifierKey, setModifierKey] = useState()
 
+  const onOpen = useCallback(() => {
+    setIsOpen(true)
+  }, [setIsOpen])
+
+  const onClose = useCallback(() => {
+    setIsOpen(false)
+  }, [setIsOpen])
+
+  useDocSearchKeyboardEvents({ isOpen, onOpen, onClose })
+
+  useEffect(() => {
+    setModifierKey(
+      /(Mac|iPhone|iPod|iPad)/i.test(navigator.platform) ? '⌘' : 'Ctrl '
+    )
+  }, [])
+
+  return (
+    <>
+      <button
+        type="button"
+        className={`
+          group flex h-6 w-6 items-center justify-center 
+          ${props.nav ? "sm:hidden justify-start min-w-full flex-none rounded-lg px-4 py-5 my-6 text-sm ring-1 ring-slate-200 dark:bg-slate-800/75 dark:ring-inset dark:ring-white/5"
+            : "hidden sm:flex sm:justify-start md:h-auto md:w-auto xl:w-full max-w-[380px] shrink xl:rounded-lg xl:py-2.5 xl:pl-4 xl:pr-3.5 md:text-sm xl:ring-1 xl:ring-slate-200 xl:hover:ring-slate-300 dark:xl:bg-slate-800/75 dark:xl:ring-inset dark:xl:ring-white/5 dark:xl:hover:bg-slate-700/40 dark:xl:hover:ring-slate-500"
+          }
+        `}
+        onClick={onOpen}
+      >
+        <SearchIcon className="h-5 w-5 flex-none fill-slate-400 group-hover:fill-slate-500 dark:fill-slate-500 md:group-hover:fill-slate-400" />
+        <span className={`
+            text-slate-500 dark:text-slate-400
+            ${props.nav ? "w-full not-sr-only text-left ml-2"
+              : "hidden xl:block sr-only md:not-sr-only md:ml-2"
+            }
+          `}>
+          Search docs
+        </span>
+        {modifierKey && (
+          <kbd className={`
+              ${props.nav ? "hidden"
+                : "ml-auto font-medium text-slate-400 dark:text-slate-500 hidden xl:block"
+              }
+            `}>
+            <kbd className="font-sans">{modifierKey}</kbd>
+            <kbd className="font-sans">K</kbd>
+          </kbd>
+        )}
+      </button>
+      {isOpen &&
+        createPortal(
+          <DocSearchModal
+            {...docSearchConfig}
+            initialScrollY={window.scrollY}
+            onClose={onClose}
+            hitComponent={Hit}
+            navigator={{
+              navigate({ itemUrl }) {
+                Router.push(itemUrl)
+              },
+            }}
+          />,
+          document.body
+        )}
+    </>
+  )
+}
