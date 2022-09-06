@@ -6,10 +6,10 @@ layout: unstyled
 
 <div className="mx-auto px-2 sm:px-6 lg:px-8">
 	<h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
-	<TernaryPlot orgs={orgs} />
+	<TernaryPlot />
 </div>
 
-<div className="max-w-4xl mx-auto">
+<div className="prose max-w-4xl mx-auto">
 
 This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. [Read more about the visualization.](/vis/)
 
@@ -81,7 +81,7 @@ We have identified four major areas of activity: physical spaces, research, medi
 
 This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
 
-<CircularVis orgs={orgs} />
+<CircularVis />
 
 </div>
 
@@ -91,7 +91,7 @@ This visualization maps organizations based on their primary topic. Click to zoo
 			<h1 className="text-4xl font-extrabold tracking-tight text-gray-900 md:mb-8 text-center">
 				Profiles
 			</h1>
-			<Search orgs={orgs} />
+			<ProfileSearch />
 		</div>
 	</div>
 </section>
