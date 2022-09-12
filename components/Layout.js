@@ -1,10 +1,9 @@
-import Head from 'next/head'
-import Link from 'next/link'
-import { NextSeo } from 'next-seo'
-import siteConfig from '../config/siteConfig'
-import Header from './Nav'
+import Head from 'next/head';
+import Link from 'next/link';
+import siteConfig from '../config/siteConfig';
+import Header from './Nav';
 
-export default function Layout({ children, title='' }) {
+export default function Layout({ children }) {
   return (
     <>
       <Head>
@@ -33,21 +32,32 @@ export default function Layout({ children, title='' }) {
             ))}
           </div>
           <p className="flex items-center justify-center">
-            Made with
+            Created by
             <a
               href={siteConfig.authorUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center no-underline"
             >
-              {siteConfig.authorLogo &&
-                 <img src={siteConfig.authorLogo} alt={siteConfig.author} className="my-0 h-6 block" />
-              }
+              {siteConfig.authorLogo
+                 && <img src={siteConfig.authorLogo} alt={siteConfig.author} className="my-0 h-6 block" />}
               {siteConfig.author}
             </a>
-          </p> 
+          </p>
+          <p className="flex items-center justify-center">
+            Made with
+            <a
+              href="https://flowershow.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center no-underline"
+            >
+              <img src="https://flowershow.app/assets/images/logo.svg" alt="Flowershow" className="my-0 h-6 block" />
+              Flowershow
+            </a>
+          </p>
         </footer>
       </div>
     </>
-  )
+  );
 }
