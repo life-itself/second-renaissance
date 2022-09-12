@@ -14,6 +14,9 @@ const userConfig = {
     { href: 'https://lifeitself.us/contact', name: 'Contact' },
     { href: 'https://lifeitself.us/ecosystem/', name: 'A Project of Life Itself & Collaborators' },
   ],
+  theme: {
+    default: ''
+  }
 }
 
 export default userConfig
