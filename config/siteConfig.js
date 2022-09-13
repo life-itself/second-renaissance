@@ -1,13 +1,7 @@
 import userConfig from '../content/config.js';
 
 const defaultConfig = {
-  navbarTitle: {
-    text: 'Flowershow',
-    logo: '/_flowershow/logo.svg',
-    url: 'https://flowershow.app/',
-    // site version displayed in the NavBar next to logo
-    version: 'Alpha',
-  },
+  title: 'flowershow',
   description: 'Publish your digital garden',
   author: 'Flowershow',
   // logo image
@@ -21,6 +15,8 @@ const defaultConfig = {
   // if you have your notes in another (external) directory,
   // /content dir should be a symlink to that directory
   content: 'content',
+  // site version displayed in the NavBar next to logo
+  version: 'Alpha',
   // Theme
   theme: {
     default: 'dark',

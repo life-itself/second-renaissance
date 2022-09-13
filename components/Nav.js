@@ -15,8 +15,15 @@ function GitHubIcon(props) {
 }
 
 function NavbarTitle() {
-  const title = siteConfig.title ? siteConfig.title : siteConfig.navbarTitle.text
-  const logo = siteConfig.title ? siteConfig.authorLogo : siteConfig.navbarTitle.logo
+  const title = siteConfig.navbarTitle?.text || siteConfig.title
+  /**
+   * Navbar logo will not show if:
+   *  - the authorLogo is not defined, or
+   *  - explicitly set to false in config's navbarTitle logo property.
+   * In all other cases the logo is shown by default.
+   */
+  const logo = (siteConfig.navbarTitle?.logo === false ? false : siteConfig.authorLogo) && siteConfig.authorLogo
+
   return (
     <>
       <Link href="/" aria-label="Home page">
@@ -25,10 +32,10 @@ function NavbarTitle() {
           {title}
         </a>
       </Link>
-      {!siteConfig.title && siteConfig.navbarTitle.version &&
+      {siteConfig.navbarTitle?.version &&
         (
           <div className="mx-4 rounded-full border border-slate-500 py-1 px-3 text-xs text-slate-500">
-            {siteConfig.navbarTitle.version}
+            {siteConfig.version}
           </div>
         )
       }
