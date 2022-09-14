@@ -27,10 +27,10 @@ const components = {
 export default function MdxPage({ children, ...rest }) {
   const { Component, frontMatter } = children;
   const websiteUrl = siteConfig.authorUrl.replace(/\/+$/, '');
-  const frontMatterImage = frontMatter.image && (frontMatter.image || frontMatter.image.url)
+  const frontMatterImage = frontMatter.image && (frontMatter.image?.url ?? frontMatter.image)
   const seoImageUrl = frontMatterImage?.startsWith('http')
-    ? frontMatter.image
-    : websiteUrl + frontMatter.image;
+    ? frontMatterImage
+    : websiteUrl + frontMatterImage;
 
   return (
     <>
