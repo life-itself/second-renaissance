@@ -10,12 +10,14 @@ import remarkMath from 'remark-math';
 import remarkToc from 'remark-toc';
 import wikiLinkPlugin from 'remark-wiki-link-plus';
 import siteConfig from './config/siteConfig';
+import smartypants from 'remark-smartypants';
 
 const sharedFields = {
   title: { type: 'string' },
   description: { type: 'string' },
   image: { type: 'string' },
   layout: { type: 'string', default: 'docs' },
+  editLink: { type: 'boolean' },
 };
 
 const computedFields = {
@@ -138,6 +140,7 @@ export default makeSource({
   mdx: {
     remarkPlugins: [
       remarkGfm,
+      [smartypants, {quotes: false, dashes: 'oldschool'}],
       remarkMath,
       [wikiLinkPlugin, { markdownFolder: siteConfig.content }],
       /** Using the code extra plugin from https://github.com/s0/remark-code-extra
