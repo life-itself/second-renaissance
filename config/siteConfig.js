@@ -1,43 +1,40 @@
+import userConfig from '../content/config.js';
+
 const defaultConfig = {
   title: 'Flowershow',
-  description: 'Publish your digital garden', 
-  author: 'Flowershow',
-  // logo image
+  description: '',
+  repoRoot: '',
+  repoEditPath: '',
+  editLinkShow: false,
+  author: '',
   authorLogo: '',
-  // url to author
-  authorUrl: 'https://flowershow.app/',
+  authorUrl: '',
   // Google analytics key e.g. G-XXXX
   analytics: '',
   // content source directory for markdown files
-  content: process.env.FLOWERSHOW_CONTENT || 'content',
+  // DO NOT CHANGE THIS VALUE
+  // if you have your notes in another (external) directory,
+  // /content dir should be a symlink to that directory
+  content: 'content',
   // Theme
+  theme: {
+    default: 'dark',
+    toggleIcon: '/_flowershow/theme-button.svg',
+  },
   navLinks: [
-    { href: '/about', name: 'About' },
-    { href: '/contribute', name: 'Contribute' },
-    { href: '/glossary/', name: 'Glossary' },
-    { href: 'https://lifeitself.us/ecosystem/snapshot-2020/', name: '2020 Report' },
-    { href: 'https://lifeitself.us/contact', name: 'Contact' },
-    { href: 'https://lifeitself.us/ecosystem/', name: 'A Project of Life Itself & Collaborators' },
+    // { href: '/about', name: 'About' },
   ],
-  // optional additional nextSeo content set on each page
-  // see https://github.com/garmeeh/next-seo
-//  nextSeo: {
-//    openGraph: {
-//      images: [
-//        {
-//          url: 'https://image.url/...',
-//          alt: '',
-//          width: 1200,
-//          height: 627,
-//          type: 'image/png',
-//        }
-//      ]
-//    }
-//  }
-}
+};
 
-import userConfig from '../content/userConfig.js'
+const siteConfig = {
+  ...defaultConfig,
+  ...userConfig,
+  // prevent theme object overrides for
+  // values not provided in userConfig
+  theme: {
+    ...defaultConfig.theme,
+    ...userConfig.theme,
+  }
+};
 
-const siteConfig = Object.assign({}, defaultConfig, userConfig)
-
-module.exports = siteConfig
+module.exports = siteConfig;

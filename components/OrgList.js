@@ -17,7 +17,7 @@ export default function OrgList({ orgs }) {
             <a className="extra-small exception font-medium tracking-wide text-accent uppercase">{org.category}</a>
             <h3 className="text-base font-medium hover:underline text-semiblack">
               <Link href={org._raw.flattenedPath}>
-                <a>
+                <a className="!visible">
                   <span aria-hidden="true" className="absolute inset-0" />
                   {org.title}
                 </a>

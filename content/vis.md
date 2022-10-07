@@ -8,7 +8,7 @@ On this page you can explore our various visualizations of the ecosystem map. Cl
 
 This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. 
 
-<TernaryPlot orgs={orgs} />
+<TernaryPlot />
 
 Systems approaches focus on changing institutions and systems., Organisations focused on this area are particularly interested in areas such as governance, economics and technology. Cultural approaches focus on changing the broader collective culture, targeting aspects such as norms, values and collective narratives. Inner approaches focus  on the inner transformation of individuals as a way of transforming society at large, both through personal development and shifting  perspectives of how they relate to themselves, others, and the planet. 
 
@@ -24,7 +24,7 @@ We emphasize that these scores were assigned by the project team based on their 
 
 This visualization maps an overview of organizations grouped together by their primary topic. Click to zoom in or out. Hover over a circle to see its name. 
 
-<CircularVis orgs={orgs} />
+<CircularVis />
 
 We have defined ten primary topics, each of which is represented by a circle within the broader circle/topic of social change. A short description of each topic follows below:
 - Arts & Culture – Role and use of arts and culture in fostering social change.
