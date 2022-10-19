@@ -25,10 +25,10 @@ youtube: https://vimeo.com/demoshelsinki?embedded=true&source=owner_name&owner=3
 blog: https://demoshelsinki.fi/blog/
 logo:
   url: https://www.facebook.com/DemosHelsinki/photos/a.272127232983136/1526806030848577/
-  cached: /img/demos_helsinki.png
+  cached_new: /img/demos_helsinki.png
 image:
   url: https://www.facebook.com/DemosHelsinki/photos/a.272132896315903/457840911078433
-  cached: /img/demos_helsinki_image.jpeg
+  cached_new: /img/demos_helsinki_image.jpeg
 title: Demos Helsinki
 curation_status: YY
 social_change:
