@@ -30,7 +30,7 @@ image:
   url: https://www.facebook.com/DemosHelsinki/photos/a.272132896315903/457840911078433
   cached: /img/demos_helsinki_image.jpeg
 title: Demos Helsinki
-curation_status: Y
+curation_status: YY
 social_change:
   inner: 0.0
   cultural: 0.1
