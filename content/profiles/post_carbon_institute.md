@@ -14,7 +14,7 @@ started: 2003
 ended: ""
 active: "Y"
 people:
-  - Richard Heinberg
+  - 
 notes_data_entry: ""
 facebook: http://www.facebook.com/postcarbon
 twitter: http://www.twitter.com/postcarbon
