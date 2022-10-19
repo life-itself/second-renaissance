@@ -133,7 +133,7 @@ Copy the raw contents from the relevant template by clicking the icon with 2 squ
 
 ###### Adding an image/logo
 
-* Remaining in your fork of the ecosystem repo, click “public”, then “img”. Once here, click on the “Add file” button, then select “Upload files”. Upload your two files eg organization-name-logo.png and organization-name-image.png
+* Remaining in your fork of the ecosystem repo, click “content”, then “assets”, then "img". Once here, click on the “Add file” button, then select “Upload files”. Once here, click on the “Add file” button, then select “Upload files”. Upload your two files eg organization-name-logo.png and organization-name-image.png
 * Once you’ve uploaded the images, go to the bottom of the page where you will see a box titled ‘Commit changes’. Type into the first text box below a brief description of what you are proposing, eg “adding images”. 
 * Now you are going to commit these images directly to the main branch by clicking the green button that says “Commit changes”.
 
