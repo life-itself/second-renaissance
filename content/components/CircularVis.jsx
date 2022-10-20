@@ -1,8 +1,8 @@
 import { useEffect, useRef } from "react"
 import { clone } from "itemsjs/lib/helpers"
-import { circularPack, getTreeData } from "lib/d3"
+import { circularPack, getTreeData } from "../../lib/d3"
 import { allTopics } from "contentlayer/generated"
-import getProfiles from "../lib/db"
+import getProfiles from "../../lib/db"
 
 export default function CircularVis({ size = 700 }) {
     const svg = useRef(null)

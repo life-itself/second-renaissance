@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import { default as config } from '../config/siteConfig';
+// import Link from 'next/link';
+import { siteConfig as config } from '../../config/siteConfig';
 
 export default function Hero() {
 	return (
@@ -97,18 +97,18 @@ export default function Hero() {
 								</a>
 							</div>
 							<div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
-								<Link href="#profiles">
-									<a className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-100 hover:bg-gray-200 md:py-4 md:text-lg md:px-10">
+								{/* <Link href="#profiles"> */}
+									<a href="#profiles" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-100 hover:bg-gray-200 md:py-4 md:text-lg md:px-10">
 										Explore
 									</a>
-								</Link>
+								{/* </Link> */}
 							</div>
 							<div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
-								<Link href="/about/">
-									<a className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10">
+								{/* <Link href="/about/"> */}
+									<a href="/about/" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10">
 										About
 									</a>
-								</Link>
+								{/* </Link> */}
 							</div>
 						</div>
 					</div>

@@ -2,6 +2,10 @@
 layout: unstyled
 ---
 
+import Hero from "components/ecosystem/Hero.jsx"
+import TernaryPlot from "components/ecosystem/TernaryPlot.jsx"
+
+
 <Hero />
 
 <div className="mx-auto px-2 sm:px-6 lg:px-8">
@@ -81,7 +85,7 @@ We have identified four major areas of activity: physical spaces, research, medi
 
 This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
 
-<CircularVis />
+
 
 </div>
 
@@ -91,7 +95,7 @@ This visualization maps organizations based on their primary topic. Click to zoo
 			<h1 className="text-4xl font-extrabold tracking-tight text-gray-900 md:mb-8 text-center">
 				Profiles
 			</h1>
-			<ProfileSearch />
+			
 		</div>
 	</div>
 </section>

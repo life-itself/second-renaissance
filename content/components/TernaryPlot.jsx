@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
-import { drawChart } from "lib/d3";
-import getProfiles from "../lib/db";
+import { drawChart } from "../../lib/d3";
+import getProfiles from "../../lib/db";
 
 export default function TernaryPlot() {
   let svg = useRef(null);

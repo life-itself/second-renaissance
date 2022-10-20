@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react'
 import Fuse from 'fuse.js'
 import ItemsJS from 'itemsjs'
 
-import OrgList from './OrgList.js'
-import getProfiles from '../lib/db.js'
+import OrgList from './OrgList.jsx'
+import getProfiles from '../../lib/db.js'
 
 /** JS search component
   Use 2 search systems:
