@@ -29,7 +29,7 @@ logo:
 image:
   url: https://pbs.twimg.com/profile_banners/958043434568134656/1580381974/1500x500
   cached_new: /img/weall_image.jpeg
-title: Demos Helsinki
+title: Wellbeing Economy Alliance
 curation_status: YY
 social_change:
   inner: 0.0
