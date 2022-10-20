@@ -1,6 +1,5 @@
 import { NextSeo } from "next-seo";
 import Head from "next/head";
-import { Fragment } from "react";
 
 import { siteConfig } from "../config/siteConfig";
 import { CustomLink } from "./Link";
@@ -19,9 +18,10 @@ const components = {
 export function MdxPage({ mdxComponent, frontMatter, ...rest }) {
   const Component = mdxComponent;
   const websiteUrl = siteConfig.authorUrl.replace(/\/+$/, "");
-  const seoImageUrl = frontMatter?.image?.startsWith("http")
-    ? frontMatter.image
-    : websiteUrl + frontMatter.image;
+  const frontMatterImage = frontMatter.image && (frontMatter.image?.url ?? frontMatter.image)
+  const seoImageUrl = frontMatterImage?.startsWith('http')
+    ? frontMatterImage
+    : websiteUrl + frontMatterImage;
 
   return (
     <>
