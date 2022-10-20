@@ -1,27 +1,25 @@
-import { useEffect, useRef } from "react";
-import { drawChart } from "../../lib/d3";
-import getProfiles from "../../lib/db";
+import { drawChart } from '../../lib/d3';
+import getProfiles from '../../lib/db.js';
+import { useEffect, useRef } from 'react';
 
 export default function TernaryPlot() {
   let svg = useRef(null);
 
   useEffect(async () => {
-    const orgs = await getProfiles()
+    const orgs = await getProfiles();
     drawChart(svg, orgs);
   }, [svg]);
 
   return (
-    <div
-      id="chart"
-      className="relative fixed left-1/2 -translate-x-1/2 mb-8 lg:w-[80vw] max-w-5xl">
+    <div id="chart" className="relative fixed left-1/2 -translate-x-1/2 mb-8 lg:w-[80vw] max-w-5xl">
       <svg ref={(el) => (svg = el)} />
       <div
         id="tooltip"
-        className="absolute flex flex-col w-[fit-content] max-w-[200px] font-bold p-2.5 opacity-0 rounded hidden text-sm" />
+        className="absolute flex flex-col w-[fit-content] max-w-[200px] font-bold p-2.5 opacity-0 rounded hidden text-sm"
+      />
       <div
         id="legend-container"
-        className="grid gap-4 pt-8 pb-0 lg:pb-4 text-xs font-bold mx-auto max-w-2xl sm:px-6 lg:px-0"
-      >
+        className="grid gap-4 pt-8 pb-0 lg:pb-4 text-xs font-bold mx-auto max-w-2xl sm:px-6 lg:px-0">
         <div className="grid gap-2 lg:grid-flow-col lg:auto-cols-max">
           <span className="min-w-[100px]">Labels:</span>
           <label className="flex items-center text-[12px]">

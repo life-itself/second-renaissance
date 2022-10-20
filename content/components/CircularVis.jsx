@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react"
 import { clone } from "itemsjs/lib/helpers"
 import { circularPack, getTreeData } from "../../lib/d3"
-import { allTopics } from "contentlayer/generated"
+import { allTopics } from "../../.contentlayer/generated/index.mjs"
 import getProfiles from "../../lib/db"
 
 export default function CircularVis({ size = 700 }) {
