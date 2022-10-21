@@ -1,9 +1,9 @@
-import React, { useState, useEffect } from 'react'
-import Fuse from 'fuse.js'
-import ItemsJS from 'itemsjs'
+import Fuse from "fuse.js";
+import ItemsJS from "itemsjs";
+import React, { useEffect, useState } from "react";
 
-import OrgList from './OrgList.jsx'
-import getProfiles from '../../lib/db.js'
+import getProfiles from "../../lib/db.js";
+import OrgList from "./OrgList.jsx";
 
 /** JS search component
   Use 2 search systems:
@@ -11,67 +11,67 @@ import getProfiles from '../../lib/db.js'
   2. ItemJS: for faceting etc. We disable its native search and use Fuse for that as better
   **/
 export default function ProfileSearch() {
-  const [orgs, setOrgs] = useState([])
+  const [orgs, setOrgs] = useState([]);
   useEffect(async () => {
-    const profiles = await getProfiles()
-    setOrgs(profiles)
-  },[])
+    const profiles = await getProfiles();
+    setOrgs(profiles);
+  }, []);
 
   const facets = [
     {
-      id: 'topic',
-      name: 'Topic'
+      id: "topic",
+      name: "Topic",
     },
     {
-      id: 'activity',
-      name: 'Activity'
-    }
-  ]
-  const defaultFilterState = {}
-  facets.forEach(f => {
-    defaultFilterState[f.id] = []
-  })
+      id: "activity",
+      name: "Activity",
+    },
+  ];
+  const defaultFilterState = {};
+  facets.forEach((f) => {
+    defaultFilterState[f.id] = [];
+  });
 
-  const [searchQuery, setSearchQuery] = useState('')
+  const [searchQuery, setSearchQuery] = useState("");
   // filterState = { topic: ['Value1', 'Value2'], activity: ['ValueX', 'ValueY'] }
-  const [filterState, setFilterState] = useState(defaultFilterState)
+  const [filterState, setFilterState] = useState(defaultFilterState);
 
   const handleSearch = (searchQuery) => {
-    setSearchQuery(searchQuery)
-  }
+    setSearchQuery(searchQuery);
+  };
 
   const handleFilter = (info) => {
-    let [facet, item] = info
-    let newFilterState = Object.assign({}, filterState)
-    if(newFilterState[facet].includes(item)) {
-      newFilterState[facet] = newFilterState[facet].filter(x => x != item)
+    let [facet, item] = info;
+    let newFilterState = Object.assign({}, filterState);
+    if (newFilterState[facet].includes(item)) {
+      newFilterState[facet] = newFilterState[facet].filter((x) => x != item);
     } else {
-      newFilterState[facet].push(item)
+      newFilterState[facet].push(item);
     }
-    setFilterState(newFilterState)
-  }
+    setFilterState(newFilterState);
+  };
 
   const searchIndex = new Fuse(orgs, {
     includeScore: true,
     threshold: 0.4,
-    keys: ['title'],
-  })
+    keys: ["title"],
+  });
 
-  const searchResults = searchIndex.search(searchQuery)
+  const searchResults = searchIndex.search(searchQuery);
 
   // configuration for itemsjs faceted search
-  const aggregations = {}
-  for(const f of facets) {
+  const aggregations = {};
+  for (const f of facets) {
     aggregations[f.id] = {
       title: f.name,
       size: 20, // set to 20 to be bigger than max size of a facet atm
-      conjunction: true  // not sure why
-    }
+      conjunction: true, // not sure why
+    };
   }
   const itemsjs = ItemsJS(orgs, {
     native_search_enabled: false,
     aggregations: aggregations,
-  })
+  });
 
   const sortedSearchResults = searchResults.sort((resultA, resultB) => {
     return resultA.score - resultB.score;
@@ -79,29 +79,29 @@ export default function ProfileSearch() {
   // orgs from search result
   // search result is { item: org, refIndex: 1, score: ... }
   // return all orgs if empty search query
-  var sortedOrgs = orgs
+  var sortedOrgs = orgs;
   if (searchQuery) {
-    sortedOrgs = sortedSearchResults.map((result) => result.item)
+    sortedOrgs = sortedSearchResults.map((result) => result.item);
   }
 
   const searchResults2 = itemsjs.search({
     per_page: 20000, // set to a number larger than any possible total so we have all
-    ids: sortedOrgs.map(v => v.id),
+    ids: sortedOrgs.map((v) => v.id),
     filters: filterState,
-  })
+  });
 
-  const facetResults = Object.entries(searchResults2.data.aggregations).map(item => {
-    return item[1]
-  })
+  const facetResults = Object.entries(searchResults2.data.aggregations).map(
+    (item) => {
+      return item[1];
+    }
+  );
 
-  sortedOrgs = searchResults2.data.items
+  sortedOrgs = searchResults2.data.items;
 
   return (
     <>
       <section className="max-w-2xl mx-auto lg:max-w-7xl">
-        <p className="">
-          Profiles found: {sortedOrgs.length}
-        </p>
+        <p className="">Profiles found: {sortedOrgs.length}</p>
 
         <input
           type="search"
@@ -118,7 +118,9 @@ export default function ProfileSearch() {
               <legend className="block font-medium">{facet.title}</legend>
               <div className="pt-2 space-y-1 md:space-y-0 md:space-x-4">
                 {facet.buckets.map((option, optionIdx) => (
-                  <div key={`${option.id}-${optionIdx}`} className="items-center text-base sm:text-sm md:inline-block">
+                  <div
+                    key={`${option.id}-${optionIdx}`}
+                    className="items-center text-base sm:text-sm md:inline-block">
                     <input
                       id={`${facet.name}-${optionIdx}`}
                       name={`${facet.name}`}
@@ -128,7 +130,9 @@ export default function ProfileSearch() {
                       checked={filterState[facet.name].includes(option.key)}
                       onChange={() => handleFilter([facet.name, option.key])}
                     />
-                    <label htmlFor={`${facet.name}-${optionIdx}`} className="ml-4 md:ml-1 min-w-0 text-gray-600">
+                    <label
+                      htmlFor={`${facet.name}-${optionIdx}`}
+                      className="ml-4 md:ml-1 min-w-0 text-gray-600">
                       {option.key} ({option.doc_count})
                     </label>
                   </div>
@@ -141,8 +145,7 @@ export default function ProfileSearch() {
         <OrgList orgs={sortedOrgs} />
       </section>
     </>
-  )
+  );
 }
 
-ProfileSearch.propTypes = {}
-
+ProfileSearch.propTypes = {};

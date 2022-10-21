@@ -18,8 +18,9 @@ const components = {
 export function MdxPage({ mdxComponent, frontMatter, ...rest }) {
   const Component = mdxComponent;
   const websiteUrl = siteConfig.authorUrl.replace(/\/+$/, "");
-  const frontMatterImage = frontMatter.image && (frontMatter.image?.url ?? frontMatter.image)
-  const seoImageUrl = frontMatterImage?.startsWith('http')
+  const frontMatterImage =
+    frontMatter.image && (frontMatter.image?.url ?? frontMatter.image);
+  const seoImageUrl = frontMatterImage?.startsWith("http")
     ? frontMatterImage
     : websiteUrl + frontMatterImage;
 

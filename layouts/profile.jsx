@@ -1,10 +1,10 @@
 import {
+  BriefcaseIcon,
   GlobeAltIcon,
+  HashtagIcon,
   LocationMarkerIcon,
   UserCircleIcon,
-  BriefcaseIcon,
-  HashtagIcon
-} from '@heroicons/react/solid';
+} from "@heroicons/react/solid";
 
 export default function Profile({ children, frontMatter }) {
   const { title, url, locations, people, topic, activity, image } = frontMatter;
@@ -50,7 +50,7 @@ export default function Profile({ children, frontMatter }) {
                   {people.map((value, index) => {
                     return (
                       <li key={index} className="inline-block mr-2">
-                        {value + (index === people.length - 1 ? '' : ',')}
+                        {value + (index === people.length - 1 ? "" : ",")}
                       </li>
                     );
                   })}
@@ -64,7 +64,7 @@ export default function Profile({ children, frontMatter }) {
                   {activity.map((value, index) => {
                     return (
                       <li key={index} className="inline-block mr-2">
-                        {value + (index === activity.length - 1 ? '' : ',')}
+                        {value + (index === activity.length - 1 ? "" : ",")}
                       </li>
                     );
                   })}
@@ -78,7 +78,7 @@ export default function Profile({ children, frontMatter }) {
                   {topic.map((value, index) => {
                     return (
                       <li key={index} className="inline-block mr-2">
-                        {value + (index === topic.length - 1 ? '' : ',')}
+                        {value + (index === topic.length - 1 ? "" : ",")}
                       </li>
                     );
                   })}
@@ -90,7 +90,9 @@ export default function Profile({ children, frontMatter }) {
             <h2 id="information-heading" className="sr-only">
               Organization information
             </h2>
-            <div className="mt-6 space-y-6 text-base text-gray-500">{children}</div>
+            <div className="mt-6 space-y-6 text-base text-gray-500">
+              {children}
+            </div>
           </section>
         </div>
         {/* image */}

@@ -1,6 +1,7 @@
-import { drawChart } from '../../lib/d3';
-import getProfiles from '../../lib/db.js';
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef } from "react";
+
+import { drawChart } from "../../lib/d3";
+import getProfiles from "../../lib/db.js";
 
 export default function TernaryPlot() {
   let svg = useRef(null);
@@ -11,7 +12,9 @@ export default function TernaryPlot() {
   }, [svg]);
 
   return (
-    <div id="chart" className="relative fixed left-1/2 -translate-x-1/2 mb-8 lg:w-[80vw] max-w-5xl">
+    <div
+      id="chart"
+      className="relative fixed left-1/2 -translate-x-1/2 mb-8 lg:w-[80vw] max-w-5xl">
       <svg ref={(el) => (svg = el)} />
       <div
         id="tooltip"
