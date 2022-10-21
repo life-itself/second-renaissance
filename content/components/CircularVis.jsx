@@ -13,7 +13,7 @@ export default function CircularVis({ size = 700 }) {
     // clone the orgs array to avoid conflicts
     const primaryTopic = clone(orgs);
     // Show orgs based on primary topic
-    primaryTopic.filter((el) => el.topic.pop() && el.topic !== []);
+    primaryTopic.filter((el) => el.topic.pop() && el.topic.length > 0);
     // generate the data for the visualization
     const treeData = getTreeData(primaryTopic, allTopics);
 
