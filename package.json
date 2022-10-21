@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next build && next export",
-    "lint": "eslint --fix ",
+    "lint": "eslint --fix \"**/*.{js,jsx}\"",
     "format": "prettier --write \"**/*.{js,jsx}\"",
     "contentlayer": "contentlayer build",
     "test:e2e": "./testsetup.sh && playwright test && ./testteardown.sh",
