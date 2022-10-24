@@ -21,7 +21,8 @@ const sharedFields = {
   image: { type: 'string' },
   layout: { type: 'string', default: 'docs' },
   editLink: { type: 'boolean' },
-  isDraft: { type: 'boolean' }
+  isDraft: { type: 'boolean' },
+  data: { type: 'list', of: { type: 'string' }, default: [] }
 };
 
 const computedFields = {

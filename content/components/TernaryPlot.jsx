@@ -1,13 +1,11 @@
-import { drawChart } from '../../lib/d3';
-import getProfiles from '../../lib/db.js';
 import { useEffect, useRef } from 'react';
+import { drawChart } from './d3';
 
-export default function TernaryPlot() {
+export default function TernaryPlot({ profiles }) {
   let svg = useRef(null);
 
   useEffect(async () => {
-    const orgs = await getProfiles();
-    drawChart(svg, orgs);
+    drawChart(svg, profiles);
   }, [svg]);
 
   return (

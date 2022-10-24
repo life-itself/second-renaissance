@@ -1,5 +1,8 @@
 ---
 layout: unstyled
+data:
+  - profiles
+  - topics
 ---
 
 import Hero from "components/ecosystem/Hero.jsx"
@@ -10,8 +13,8 @@ import ProfileSearch from "components/ecosystem/ProfileSearch.jsx"
 <Hero />
 
 <div className="mx-auto px-2 sm:px-6 lg:px-8">
-	<h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
-	<TernaryPlot />
+  <h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
+  <TernaryPlot profiles={profiles} />
 </div>
 
 <div className="prose max-w-4xl mx-auto">
@@ -86,7 +89,7 @@ We have identified four major areas of activity: physical spaces, research, medi
 
 This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
 
-<CircularVis />
+<CircularVis profiles={profiles} topics={topics} />
 
 </div>
 
@@ -96,7 +99,7 @@ This visualization maps organizations based on their primary topic. Click to zoo
 			<h1 className="text-4xl font-extrabold tracking-tight text-gray-900 md:mb-8 text-center">
 				Profiles
 			</h1>
-      <ProfileSearch />
+      <ProfileSearch profiles={profiles} />
 		</div>
 	</div>
 </section>
