@@ -1,12 +1,20 @@
 ---
 layout: unstyled
+data:
+  - profiles
+  - topics
 ---
+
+import Hero from "components/ecosystem/Hero.jsx"
+import TernaryPlot from "components/ecosystem/TernaryPlot.jsx"
+import CircularVis from "components/ecosystem/CircularVis.jsx"
+import ProfileSearch from "components/ecosystem/ProfileSearch.jsx"
 
 <Hero />
 
 <div className="mx-auto px-2 sm:px-6 lg:px-8">
-	<h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
-	<TernaryPlot />
+  <h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
+  <TernaryPlot profiles={profiles} />
 </div>
 
 <div className="prose max-w-4xl mx-auto">
@@ -21,17 +29,17 @@ The ecosystem we explore is still emerging and ill-defined. Reflecting this, the
 
 As mapped it is quite broad – even disparate. Nevertheless, there are commonalities.
 
-Most importantly, this ecosystem has a ***novel*** **approach to social change**. Specifically, an approach that is simultaneously **paradigmatic**, **integrated**, and **engaged**.
+Most importantly, this ecosystem has a **_novel_** **approach to social change**. Specifically, an approach that is simultaneously **paradigmatic**, **integrated**, and **engaged**.
 
 Secondly, there are a variety of commonalities in outlook and approach. The most noteworthy identified so far we have termed: post-individualism, (w)holism and culture-making (in the form of new norms and narratives).
 
-There is also a focus on complexity, systems and emergence, on developmental models, spirituality and practice, and on sensemaking, different forms of knowledge and global-local activism. Other commonalities include an interest in decentralized governance, new narratives, alternative social imaginaries and regenerative culture. 
+There is also a focus on complexity, systems and emergence, on developmental models, spirituality and practice, and on sensemaking, different forms of knowledge and global-local activism. Other commonalities include an interest in decentralized governance, new narratives, alternative social imaginaries and regenerative culture.
 
 Nonetheless, the boundaries, relationships and patterns of influences in the ecosystem remain blurry, with our present awareness feeling like it only touches the tip of the iceberg. Questions that remain unclear include who exactly comprises the ecosystem, how activities and visions relate to one another, where the coherences and tensions lie and how it might evolve.
 
 ## What is Novel in the Approach to Social Change?
 
-The defining feature of this ecosystem is its ***novel*** **approach to social change**. Specifically, the combination of being paradigmatic, integrated, and engaged. We emphasize that it is the combination of all three that is important and distinctive.
+The defining feature of this ecosystem is its **_novel_** **approach to social change**. Specifically, the combination of being paradigmatic, integrated, and engaged. We emphasize that it is the combination of all three that is important and distinctive.
 
 ### Paradigmatic
 
@@ -43,11 +51,11 @@ It identifies the need to incorporate methods and routes to change spanning a va
 
 ### Engaged
 
-Participants are actively engaging with wider society for the purposes of social transformation. This sets it apart from groups which may be doing large amount of inner work but without connecting this directly and explicitly to broader social change, for example certain parts of the spiritual, developmental and psychedelic communities. 
+Participants are actively engaging with wider society for the purposes of social transformation. This sets it apart from groups which may be doing large amount of inner work but without connecting this directly and explicitly to broader social change, for example certain parts of the spiritual, developmental and psychedelic communities.
 
 ## What are Some of its Core Characteristics?
 
-Beyond the three pillars listed above, we also identify three high-level commonalities in outlook and approach: post-individualism, (w)holism and counterculturalism. 
+Beyond the three pillars listed above, we also identify three high-level commonalities in outlook and approach: post-individualism, (w)holism and counterculturalism.
 
 ### Post-individualism
 
@@ -67,7 +75,7 @@ To use the Wilberian terminology, there is a desire to move beyond the 'green' d
 
 ## Language and Buzzwords
 
-The language of the ecosystem draws heavily on concepts such as complexity, systems and emergence, developmental models, spirituality and practice, and on sensemaking, different forms of knowledge and ‘cosmo-local’ activism. Other commonalities include an interest in decentralised governance, new narratives, alternative social imaginaries and regenerative culture. 
+The language of the ecosystem draws heavily on concepts such as complexity, systems and emergence, developmental models, spirituality and practice, and on sensemaking, different forms of knowledge and ‘cosmo-local’ activism. Other commonalities include an interest in decentralised governance, new narratives, alternative social imaginaries and regenerative culture.
 
 ## Activities
 
@@ -81,7 +89,7 @@ We have identified four major areas of activity: physical spaces, research, medi
 
 This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
 
-<CircularVis />
+<CircularVis profiles={profiles} topics={topics} />
 
 </div>
 
@@ -91,7 +99,7 @@ This visualization maps organizations based on their primary topic. Click to zoo
 			<h1 className="text-4xl font-extrabold tracking-tight text-gray-900 md:mb-8 text-center">
 				Profiles
 			</h1>
-			<ProfileSearch />
+      <ProfileSearch profiles={profiles} />
 		</div>
 	</div>
 </section>
