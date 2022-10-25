@@ -29,7 +29,7 @@ The ecosystem we explore is still emerging and ill-defined. There is no one name
 
 As mapped it is quite broad – even disparate. Nevertheless, there are commonalities.
 
-Most importantly, this ecosystem has a **_novel_** **approach to social change**. Specifically, an approach that is simultaneously **paradigmatic**, **integrated**, and **engaged**.
+Most importantly, this ecosystem has a **_novel_** **approach to social change**. Specifically, an approach that is simultaneously **paradigmatic**, **integrated**, and **pragmatic**.
 
 Secondly, there are a variety of commonalities in outlook and approach. The most noteworthy identified so far we have termed: post-individualism, (w)holism and culture-making (in the form of new norms and narratives).
 
@@ -39,7 +39,7 @@ Nonetheless, the boundaries, relationships and patterns of influences in the eco
 
 ## What is Novel in the Approach to Social Change?
 
-The defining feature of this ecosystem is its **_novel_** **approach to social change**. Specifically, the combination of being paradigmatic, integrated, and engaged. We emphasize that it is the combination of all three that is important and distinctive.
+The defining feature of this ecosystem is its **_novel_** **approach to social change**. Specifically, the combination of being paradigmatic, integrated, and pragmatic. We emphasize that it is the combination of all three that is important and distinctive.
 
 ### Paradigmatic
 
@@ -49,7 +49,7 @@ There is the belief that the change required is **paradigmatic**. That is to say
 
 It identifies the need to incorporate methods and routes to change spanning a variety of fields and "locations" (e.g. personal, cultural, institutional etc). One central and basic example common to most (though not all) actors is the belief that inner and outer transformation have to go hand in hand. In Integral terms it is "all-quadrant" and in particular, prioritises the neglected "inner" quadrants.
 
-### Engaged
+### Pragmatic
 
 Participants are actively engaging with wider society for the purposes of social transformation. This sets it apart from groups which may be doing large amount of inner work but without connecting this directly and explicitly to broader social change, for example certain parts of the spiritual, developmental and psychedelic communities.
 
