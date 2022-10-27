@@ -16,7 +16,7 @@ We have included information on how the site works and its technical architectur
 
 ### How does the site work?
 
-All the content for the [Mapping Metamodern](https://ecosystem.lifeitself.us/) site is contained within the life-itself/ecosystem [Github repo](https://github.com/life-itself/ecosystem). 
+All the content for the [Polycrisis Action Mapping](https://ecosystem.lifeitself.us/) site is contained within the life-itself/ecosystem [Github repo](https://github.com/life-itself/ecosystem). 
 
 ![](../img/repo-homepage.png)
 
