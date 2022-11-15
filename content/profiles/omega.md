@@ -28,7 +28,7 @@ logo:
   cached_new: /img/omega.png
 image:
   url: https://media-exp1.licdn.com/dms/image/D563DAQFsv4x3oEtgJg/image-scale_191_1128/0/1665696028706?e=1669118400&v=beta&t=E-ClgUTb8Sweie6CuTcEBCx6tJl1qLqxmuFLvwVLm2g
-  cached_new: /img/omega_image.jpeg
+  cached_new: /img/omega_image_2.jpeg
 title: OMEGA
 curation_status: YY
 social_change:
