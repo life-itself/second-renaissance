@@ -1,43 +1,44 @@
 ---
 id: omega
-url: https://www.eomega.org/
+url: https://omega.ngo/ 
 tagline: 
 activity:
-  - spaces
-  - education
+  - network
+  - research
+  - funding
 topic:
-  - community
-  - spirituality
-  - wellbeing
+  - development
 regions: 
 locations:
-  - Rhinebeck, New York
-started: 1977
+  - 
+started: 2016
 ended: ""
 active: "Y"
 people:
   - 
 notes_data_entry: ""
-facebook: https://www.facebook.com/eOmega.org
-twitter: https://twitter.com/Omega_Institute
-instagram: https://www.instagram.com/OmegaInstitute
-linkedin: https://www.linkedin.com/company/omega-institute-cp
-youtube: https://www.youtube.com/TheOmegaInstitute
-blog: https://www.eomega.org/read-watch-listen/articles-videos-more
+facebook: 
+twitter: 
+instagram: 
+linkedin: https://www.linkedin.com/company/commonweal-omega-ngo/
+youtube: 
+blog: 
 logo:
-  url: https://www.facebook.com/photo/?fbid=327686466071428&set=a.327686439404764
-  cached_new: /img/omega_logo.jpeg
+  url: https://omega.ngo/wp-content/uploads/2022/05/Omega-Logo-Dark-Small-400.png
+  cached_new: /img/omega.png
 image:
-  url: https://www.facebook.com/photo/?fbid=327686462738095&set=a.327686436071431
+  url: https://media-exp1.licdn.com/dms/image/D563DAQFsv4x3oEtgJg/image-scale_191_1128/0/1665696028706?e=1669118400&v=beta&t=E-ClgUTb8Sweie6CuTcEBCx6tJl1qLqxmuFLvwVLm2g
   cached_new: /img/omega_image.jpeg
 title: OMEGA
 curation_status: YY
 social_change:
-  inner: 0.8
-  cultural: 0.2
-  systems: 0.0
+  inner: 0.0
+  cultural: 0.3
+  systems: 0.7
 ---
 
-Omega is a nonprofit, donor-supported, educational organization at the forefront of holistic studies. It is a hub for lifelong learning, spiritual exploration, and for building a global community of learners, thinkers, and doers.
+Omega incubates strategic initiatives for life in the polycrisis. Omega is a [Commonweal](https://www.commonweal.org/) initiative.
 
-Omega offers a wide variety of workshops, retreats, conferences, and professional trainings, in-person and online.
+Omega is a learning community. They welcome friends. They collaborate with like-minded people and communities around the world. They listen deeply. They practice civility & kindness. They welcome diverse views.
+
+They believe in social, racial & gender equity, democracy, and human rights. They envision a livable and thriving community of life on earth. 
