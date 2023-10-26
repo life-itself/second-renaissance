@@ -5,6 +5,7 @@ founded:
 locations: 
 target-participants: 17-25
 DDS: true
+image:
 ---
 
 {include or edit the following sections as appropriate/relevant}
