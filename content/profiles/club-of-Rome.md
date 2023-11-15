@@ -43,5 +43,5 @@ within a more resilient biosphere."
 
 ## Connections 
 
-
+Similar to Eutopia, they seem to be a particular kind of change agent that has a special capacity for systems change. In this case, it is the expertise of economists, scientists, and policy makers who are able to create meaningful and necessary policy for deep systems change at a societal level.
 
