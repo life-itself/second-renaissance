@@ -5,17 +5,19 @@ Date created: 2023-11-13
 Name: Reos Partners
 URL: https://capitalinstitute.org/
 Main City: 
-Main Country: 
-Operating Region: 
+Main Country: Switzerland
+Operating Region: Online Network Europe
 Sectors: Economics and business
 Activities: Business
 Date Founded: 
-Team size: "3"
+Team size: ""
 ---
 
 # About 
 
 According to their website, "We’re a global team of adaptive innovators, creative problem solvers, and facilitators of societal transformation, striving to make the world more peaceful, just, and sustainable through enhanced multi-stakeholder collaboration". Some of their projects range from 'transforming food systems in Brazil' to 'urban water resilience in Africa'.
+
+They are involved with 'systems change projects' at a number of different levels, and take a consulting role in order to provide solutions. They are involved in a number of different 'sectors', 
 
 ![[Reospartners 1.jpg]]
 
@@ -25,13 +27,13 @@ According to their website, "We’re a global team of adaptive innovators, creat
 
 ## Theory of Change 
 
-Reos Partners makes 'systems change' central to their strategy and efforts, and they aim to do it in a few different ways. First, on large and small scales; they believe systems change requires efforts on both levels. Next, they believe that transforming existing structures, as well as building new structures is an important focus of systems change. 
+Reos Partners makes 'systems change' central to their strategy and efforts, and they aim to do it in a few different ways. First, on large and small scales; they believe systems change requires efforts on both levels, and take on projects which are country wide as well as more local ones. Next, they believe that transforming existing structures, as well as building new structures is an important focus of systems change. Their 'solutions' try to find a balance between these two dimensions.
 ![[reospartnersvalues.jpg]]
 ## Key educational Resources 
 
-
+https://reospartners.com/resource-library
 
 ## Connections 
 
-
+They appear to have a large network and be extremely interested in 'systems change'. They have practical experience in what systems change looks like at different levels and how it occurs (or doesn't occur).
 
