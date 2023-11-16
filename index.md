@@ -5,12 +5,9 @@ data:
   - topics
 ---
 
-import Hero from "components/ecosystem/Hero.jsx"
 import TernaryPlot from "components/ecosystem/TernaryPlot.jsx"
 import CircularVis from "components/ecosystem/CircularVis.jsx"
 import ProfileSearch from "components/ecosystem/ProfileSearch.jsx"
-
-<Hero />
 
 <div className="mx-auto px-2 sm:px-6 lg:px-8">
   <h1 className="mt-16 mb-8 text-4xl text-center">Mapping the Space</h1>
@@ -25,7 +22,7 @@ This visualization maps organizations based on their approach to social change. 
 
 We sense that a new ecosystem, or ecosystem of ecosystems, is emerging. A growing number of people, organizations and initiatives are taking alternative approaches to social change, which diverge from and go beyond the more established spaces in civil society and the social economy.
 
-The ecosystem we explore is still emerging and ill-defined. There is no one name for this ecosystem, with different organizations favouring different terms. However, there is a defining feature of this ecosystem, the shared problem being tackled by all organizations within it: the polycrisis. 
+The ecosystem we explore is still emerging and ill-defined. There is no one name for this ecosystem, with different organizations favouring different terms. However, there is a defining feature of this ecosystem, the shared problem being tackled by all organizations within it: the polycrisis.
 
 As mapped it is quite broad – even disparate. Nevertheless, there are commonalities.
 
