@@ -31,3 +31,6 @@ The process work institute's theory of change revolves around exploring three fu
 https://ctr4process.org/resources/new-books/
 ## Connections 
 
+Affiliated organizations can be found here: https://ctr4process.org/about/affiliated-organizations/
+
+They can be contacted here: https://ctr4process.org/contact/

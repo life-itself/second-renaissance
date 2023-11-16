@@ -2,8 +2,8 @@
 Date last modified: 
 Contributors: Matthew McCarthy
 Date created: 2023-11-16
-Name: Spirituality in Education Alliance
-URL: https://www.sieallianceuk.org/about.html
+Name: Education4peace
+URL: http://www.education4peace.org/
 Main City: 
 Main Country: Switzerland
 Operating Region: Europe Global Network
@@ -32,3 +32,4 @@ Peace and non violence are becoming priorities in education. Knowledge, and know
 http://www.education4peace.org/en/e4p-projects/
 ## Connections 
 
+They can be contacted here: http://www.education4peace.org/en/contact/
