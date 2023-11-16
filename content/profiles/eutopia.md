@@ -26,11 +26,13 @@ for the joint activities, the co-construction processes and all our deliverables
 
 ### Key people 
 
-## Theory of Change 
+https://eutopia-university.eu/english-version/about-us/strategic-board
 
+## Theory of Change 
 
 Eutopia aims to increase collaboration with other universities in Europe so as to collaborate on particular problems- like, for example, climate change. If anything has become abundantly clear in the past few years, it is that certain challenges, like climate change, cannot be approached  in silos, but instead requires careful and meaningful coordination. 
 
+Their key principles can be found here: https://eutopia-university.eu/english-version/about-us/mission-and-vision
 ## Key educational Resources 
 
 https://eutopia-university.eu/english-version/partner-news

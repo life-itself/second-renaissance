@@ -20,6 +20,8 @@ The Si Network is an online platform connecting people around the world to learn
 
 The organization provides different 'hubs', which are themes to connect certain sectors. One example is the 'cities hub' which shares information on systems change for cities, and there is roughly two posts a week, mostly from moderators, 
 on content about cities and systems innovation. 
+
+They seem to be an organization that is able to provide a number of actors, resources, and potential projects in one platform. The platform, too, is quite nice and clean, and seems to work well and have a good amount of involvement. 
 ### Key people 
 
 - 
@@ -36,5 +38,5 @@ https://www.systemsinnovation.network/spaces/12419668/page
 
 ## Connections 
 
-They seem to be an organization that is able to provide a number of actors, resources, and potential projects in one platform. The platform, too, is quite nice and clean, and seems to work well and have a good amount of involvement. 
+
 

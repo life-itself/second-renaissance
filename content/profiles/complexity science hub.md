@@ -1,6 +1,6 @@
 ---
 Date last modified: 
-Contributors: 
+Contributors: Matthew McCarthy
 Date created: 2023-11-15
 Name: Complexity Science Hub
 URL: https://www.csh.ac.at/
@@ -24,7 +24,7 @@ The Hub operates within an international network of complexity institutions, inc
 
 ### Key people 
 
-- 
+- https://www.csh.ac.at/administration-team/
 ## Theory of Change 
 
 One of their themes is considering the potential of 'societal collapse', and the breakdown of complex systems. How exactly do complex systems endure? How do they adapt? Some of these questions are addressed in this article:  https://www.sciencealert.com/chinas-qing-dynasty-collapsed-for-reasons-that-feel-eerily-familiar
