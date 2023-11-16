@@ -11,6 +11,7 @@ Sectors: Economics and business
 Activities: Business
 Date Founded: 
 Team size: "3"
+Project: Cohere+
 ---
 
 # About 
