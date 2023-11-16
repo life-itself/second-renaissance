@@ -10,7 +10,7 @@ Operating Region: Europe Global Network
 Sectors: Education and Learning
 Activities: Research
 Date Founded: 
-Team size: 
+Team size: "12"
 project: cohere+
 ---
 
