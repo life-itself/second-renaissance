@@ -5,7 +5,7 @@ import clientPromise from "@/lib/mddb.mjs";
 
 import Hero from "@/components/custom/Hero"
 import TernaryPlot from "@/components/custom/TernaryPlot"
-/* import CircularVis from "components/custom/CircularVis" */
+import CircularVis from "components/custom/CircularVis"
 /* import ProfileSearch from "components/ecosystem/ProfileSearch.jsx" */
 import type { CustomAppProps } from "./_app";
 
@@ -30,7 +30,7 @@ const HomePage: React.FC<Props> = ({ profiles, topics }) => {
                     Visualizing the Ecosystem
                 </h1>
                 This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
-                {/* <CircularVis profiles={profiles} topics={topics} /> */}
+                <CircularVis profiles={profiles} topics={topics} />
 
             </div>
 
@@ -65,6 +65,11 @@ export const getStaticProps: GetStaticProps = async (): Promise<
         return acc;
     }, []);
 
+    const topicFiles = await mddb.getFiles({ folder: "topics" });
+    const topics = topicFiles.map((file) => file.metadata);
+
+    console.log("topics", topics);
+
 
     return {
         props: {
@@ -75,7 +80,8 @@ export const getStaticProps: GetStaticProps = async (): Promise<
                 showSidebar: false,
                 showComments: false,
             },
-            profiles
+            profiles,
+            topics,
         },
     };
 };

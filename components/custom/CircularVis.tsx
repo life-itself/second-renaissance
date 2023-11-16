@@ -1,5 +1,5 @@
 import { circularPack, getTreeData } from './d3';
-import { clone } from 'itemsjs';
+/* import { clone } from "itemsjs" */
 import { useEffect, useRef } from 'react';
 
 export default function CircularVis({ profiles, topics, size = 700 }) {
@@ -7,8 +7,9 @@ export default function CircularVis({ profiles, topics, size = 700 }) {
 
     useEffect(async () => {
         // TODO refactor this code
-        // clone the orgs array to avoid conflicts
-        const primaryTopic = clone(profiles);
+        // clone the orgs array to avoid conflicts ???
+        /* const primaryTopic = clone(profiles); */
+        const primaryTopic = [...profiles];
         // Show orgs based on primary topic
         primaryTopic.filter((el) => el.topic.pop() && el.topic.length);
         // generate the data for the visualization
