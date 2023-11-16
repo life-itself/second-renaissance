@@ -5,8 +5,8 @@ import clientPromise from "@/lib/mddb.mjs";
 
 import Hero from "@/components/custom/Hero"
 import TernaryPlot from "@/components/custom/TernaryPlot"
-import CircularVis from "components/custom/CircularVis"
-/* import ProfileSearch from "components/ecosystem/ProfileSearch.jsx" */
+import CircularVis from "@/components/custom/CircularVis"
+import ProfileSearch from "@/components/custom/ProfileSearch"
 import type { CustomAppProps } from "./_app";
 
 
@@ -40,7 +40,7 @@ const HomePage: React.FC<Props> = ({ profiles, topics }) => {
                         <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 md:mb-8 text-center">
                             Profiles
                         </h1>
-                        {/* <ProfileSearch profiles={profiles} /> */}
+                        <ProfileSearch profiles={profiles} />
                     </div>
                 </div>
             </section>
@@ -56,20 +56,27 @@ export const getStaticProps: GetStaticProps = async (): Promise<
 
     const profileFiles = await mddb.getFiles({ folder: "profiles" });
     const profiles = profileFiles.reduce((acc, file) => {
-        const metadata = file.metadata;
-        if (!metadata.curation_status) return acc;
-        if (metadata.curation_status.includes('N') || metadata.curation_status.includes('?')) {
+        // TODO temporary hack - some of the profiles (created by Matthew) have incorrect metadata
+        if (!file.metadata.curation_status) return acc;
+        if (file.metadata.curation_status.includes('N') || file.metadata.curation_status.includes('?')) {
             return acc;
         }
-        acc.push(metadata);
+        acc.push({
+            ...file.metadata,
+            urlPath: file.url_path,
+        });
         return acc;
     }, []);
 
+    console.log(profiles)
+
     const topicFiles = await mddb.getFiles({ folder: "topics" });
-    const topics = topicFiles.map((file) => file.metadata);
-
-    console.log("topics", topics);
-
+    const topics = topicFiles.map((file) => {
+        return {
+            ...file.metadata,
+            urlPath: file.url_path,
+        };
+    });
 
     return {
         props: {

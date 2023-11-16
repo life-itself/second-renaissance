@@ -24,6 +24,7 @@
     "crypto-js": "^4.2.0",
     "d3-ternary": "^2.0.14",
     "date-fns": "^2.29.3",
+    "fuse.js": "^7.0.0",
     "gray-matter": "^4.0.3",
     "hastscript": "^7.2.0",
     "itemsjs": "^2.1.24",

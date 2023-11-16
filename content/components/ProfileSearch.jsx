@@ -1,4 +1,4 @@
-import OrgList from './OrgList.jsx';
+import OrgList from './OrgList';
 import Fuse from 'fuse.js';
 import ItemsJS from 'itemsjs';
 import React, { useState, useEffect } from 'react';

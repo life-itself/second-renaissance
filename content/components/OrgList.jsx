@@ -14,17 +14,17 @@ export default function OrgList({ orgs }) {
           </div>
           <div className="mt-2 flex justify-between">
             <div>
-            <a className="extra-small exception font-medium tracking-wide text-accent uppercase">{org.category}</a>
-            <h3 className="text-base font-medium hover:underline text-semiblack">
-              {/* <Link href={org._raw.flattenedPath}> */}
-                <a href={org._raw.flattenedPath} className="!visible">
+              <a className="extra-small exception font-medium tracking-wide text-accent uppercase">{org.category}</a>
+              <h3 className="text-base font-medium hover:underline text-semiblack">
+                {/* <Link href={org.urlPath}> */}
+                <a href={org.urlPath} className="!visible">
                   <span aria-hidden="true" className="absolute inset-0" />
                   {org.title}
                 </a>
-              {/* </Link> */}
-            </h3>
-            <p className="mt-1 text-sm text-darkgray pb-1">{org.url}</p>
-            <p className="text-sm text-gray-700">{org.body.raw.slice(0, 100) + '…'}</p>
+                {/* </Link> */}
+              </h3>
+              <p className="mt-1 text-sm text-darkgray pb-1">{org.url}</p>
+              <p className="text-sm text-gray-700">{org.body.raw.slice(0, 100) + '…'}</p>
             </div>
           </div>
         </div>)
