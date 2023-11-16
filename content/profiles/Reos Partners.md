@@ -10,7 +10,7 @@ Operating Region: Online Network Europe
 Sectors: Economics and business
 Activities: Business
 Date Founded: 
-Team size: ""
+
 ---
 
 # About 

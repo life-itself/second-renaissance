@@ -30,9 +30,8 @@ The universal patterns and principles nature uses to build stable, healthy, and 
 ![[capitalinstituteregenerativevitality.jpg]]
 ## Key educational Resources 
 
-
+https://capitalinstitute.org/thought-pieces/
 
 ## Connections 
 
-
-
+They seem to be an interesting organization, concerned, like the club of rome, with transforming the financial institutions of our time. 

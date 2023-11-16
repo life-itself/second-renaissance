@@ -19,8 +19,6 @@ Pathways To Peace (PTP) is an International Peacebuilding, Educational and Consu
 
 They have both specific project that they work on, like a girls shelter in Guinea, to global education on peace, and they are quite involved with the UN. 
 
-
-
 ### Key people 
 
  https://www.clubofrome.org/members/
