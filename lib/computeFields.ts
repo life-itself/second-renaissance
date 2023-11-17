@@ -56,6 +56,7 @@ const computeFields = async ({
 
   return {
     ...frontMatter,
+    image: frontMatter.image?.url ?? frontMatter.image ?? null,
     authors,
     title,
     description,

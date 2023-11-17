@@ -10,7 +10,8 @@ import React, { useState, useEffect } from 'react';
   * */
 export default function ProfileSearch({ profiles }) {
     const [orgs, setOrgs] = useState([]);
-    useEffect(async () => {
+
+    useEffect(() => {
         setOrgs(profiles);
     }, []);
 
@@ -94,7 +95,7 @@ export default function ProfileSearch({ profiles }) {
     sortedOrgs = searchResults2.data.items;
 
     return (
-        <section className="max-w-2xl mx-auto lg:max-w-7xl">
+        <>
             <p className="">Profiles found: {sortedOrgs.length}</p>
 
             <input
@@ -107,7 +108,8 @@ export default function ProfileSearch({ profiles }) {
             />
 
             <div className="max-w-7xl mx-auto text-sm mt-4 grid grid-cols-1 auto-rows-min md:grid-cols-none gap-y-10 md:gap-x-6">
-                {facetResults.map((facet, idx) => (
+                {/* TODO type */}
+                {facetResults.map((facet: any, idx) => (
                     <fieldset key={`${facet.title}-${idx}`}>
                         <legend className="block font-medium">{facet.title}</legend>
                         <div className="pt-2 space-y-1 md:space-y-0 md:space-x-4">
@@ -137,7 +139,7 @@ export default function ProfileSearch({ profiles }) {
             </div>
 
             <OrgList orgs={sortedOrgs} />
-        </section>
+        </>
     );
 }
 
