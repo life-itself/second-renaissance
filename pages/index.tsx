@@ -25,8 +25,10 @@ const HomePage: React.FC<Props> = ({ profiles, topics }) => {
 
             <section id="mapping-the-space" className="mt-12 sm:mt-24 prose mx-auto">
                 <h1 className="text-center">Mapping the Space</h1>
-                <div className="px-2 sm:px-6 lg:px-8">
-                    <TernaryPlot profiles={profiles} />
+                <div className="my-6 sm:my-8 lg:my-12">
+                    <div className="px-2 sm:px-6 md:px-12">
+                        <TernaryPlot profiles={profiles} />
+                    </div>
                 </div>
                 <MdxComponent>
                     This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. [Read more about the visualization.](/vis)
@@ -108,7 +110,9 @@ const HomePage: React.FC<Props> = ({ profiles, topics }) => {
                 <MdxComponent>
                     This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
                 </MdxComponent>
-                <CircularVis profiles={profiles} topics={topics} />
+                <div className="my-6 sm:my-8 lg:my-12">
+                    <CircularVis profiles={profiles} topics={topics} />
+                </div>
             </section>
 
             <section id="profiles" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto px-2 sm:px-6 lg:px-8">
