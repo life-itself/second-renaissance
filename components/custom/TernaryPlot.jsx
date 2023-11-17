@@ -9,7 +9,7 @@ export default function TernaryPlot({ profiles }) {
   }, [svg]);
 
   return (
-    <div id="chart" className="relative fixed left-1/2 -translate-x-1/2 mb-8 lg:w-[80vw] max-w-5xl">
+    <div id="chart" className="relative">
       <svg ref={(el) => (svg = el)} />
       <div
         id="tooltip"

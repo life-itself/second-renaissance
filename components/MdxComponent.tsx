@@ -34,7 +34,7 @@ export default function MdxComponent({ children }) {
     }, [children])
 
     return (
-        <div className="prose max-w-none mx-auto">
+        <div className="prose max-w-none">
             {mdxSource && <MDXRemote {...mdxSource} components={components} />}
         </div>
     );

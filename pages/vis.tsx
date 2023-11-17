@@ -18,7 +18,7 @@ interface Props extends CustomAppProps {
 
 const HomePage: React.FC<Props> = ({ profiles, topics }) => {
     return (
-        <main>
+        <main className="prose mx-auto">
             <MdxComponent>
                 {`
 # Explore Visualizations of the Ecosystem Map
@@ -35,9 +35,7 @@ This visualization maps organizations based on their approach to social change. 
             </MdxComponent>
 
             <div className="my-6 sm:my-8 lg:my-12">
-                <div className="px-2 sm:px-6 md:px-12">
-                    <TernaryPlot profiles={profiles} />
-                </div>
+                <TernaryPlot profiles={profiles} />
             </div>
 
             <MdxComponent>

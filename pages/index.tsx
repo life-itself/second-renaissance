@@ -20,24 +20,23 @@ interface Props extends CustomAppProps {
 
 const HomePage: React.FC<Props> = ({ profiles, topics }) => {
     return (
-        <main>
+        <>
             <Hero />
+            <main className="prose mx-auto px-2 sm:px-6 lg:px-8">
 
-            <section id="mapping-the-space" className="mt-12 sm:mt-24 prose mx-auto">
-                <h1 className="text-center">Mapping the Space</h1>
-                <div className="my-6 sm:my-8 lg:my-12">
-                    <div className="px-2 sm:px-6 md:px-12">
+                <section id="mapping-the-space" className="mt-12 sm:mt-24">
+                    <h1 className="text-center">Mapping the Space</h1>
+                    <div className="my-6 sm:my-8 lg:my-12">
                         <TernaryPlot profiles={profiles} />
                     </div>
-                </div>
-                <MdxComponent>
-                    This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. [Read more about the visualization.](/vis)
-                </MdxComponent>
-            </section>
+                    <MdxComponent>
+                        This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. [Read more about the visualization.](/vis)
+                    </MdxComponent>
+                </section>
 
-            <section id="overview" className="mt-12 sm:mt-24 prose mx-auto">
-                <MdxComponent>
-                    {`
+                <section id="overview" className="mt-12 sm:mt-24">
+                    <MdxComponent>
+                        {`
 # Overview of the Ecosystem
 
 We sense that a new ecosystem, or ecosystem of ecosystems, is emerging. A growing number of people, organizations and initiatives are taking alternative approaches to social change, which diverge from and go beyond the more established spaces in civil society and the social economy.
@@ -100,28 +99,30 @@ Emerging organizations and individuals are opting towards 'teal' style collabora
 
 We have identified four major areas of activity: physical spaces, research, media/publishing and events. Nonetheless, it has been notable that many organizations have shifted to multi-channel working across a number of these e.g. producing media content as well as running retreats and events.
                     `}
-                </MdxComponent>
-            </section>
+                    </MdxComponent>
+                </section>
 
-            <section id="visualizing-ecosystem" className="mt-12 sm:mt-24 prose mx-auto">
-                <h1 className="text-center">
-                    Visualizing the Ecosystem
-                </h1>
-                <MdxComponent>
-                    This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
-                </MdxComponent>
-                <div className="my-6 sm:my-8 lg:my-12">
-                    <CircularVis profiles={profiles} topics={topics} />
-                </div>
-            </section>
+                <section id="visualizing-ecosystem" className="mt-12 sm:mt-24">
+                    <h1 className="text-center">
+                        Visualizing the Ecosystem
+                    </h1>
+                    <MdxComponent>
+                        This visualization maps organizations based on their primary topic. Click to zoom in or out. Hover over a circle to see its name. [Read more about the visualization and the topics here](/vis#visualizing-the-ecosystem-by-topic)
+                    </MdxComponent>
+                    <div className="my-6 sm:my-8 lg:my-12">
+                        <CircularVis profiles={profiles} topics={topics} />
+                    </div>
+                </section>
 
-            <section id="profiles" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto px-2 sm:px-6 lg:px-8">
+            </main>
+
+            <div id="profiles" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
                 <h1 className="text-center">
                     Profiles
                 </h1>
                 <ProfileSearch profiles={profiles} />
-            </section>
-        </main>
+            </div>
+        </>
     );
 }
 
