@@ -22,7 +22,7 @@ const HomePage: React.FC<Props> = ({ profiles, topics }) => {
     return (
         <>
             <Hero />
-            <main className="prose mx-auto px-2 sm:px-6 lg:px-8">
+            <main className="prose dark:prose-invert mx-auto px-2 sm:px-6 lg:px-8">
 
                 <section id="mapping-the-space" className="mt-12 sm:mt-24">
                     <h1 className="text-center">Mapping the Space</h1>

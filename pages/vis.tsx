@@ -18,7 +18,7 @@ interface Props extends CustomAppProps {
 
 const HomePage: React.FC<Props> = ({ profiles, topics }) => {
     return (
-        <main className="prose mx-auto">
+        <main className="prose dark:prose-invert mx-auto px-2 sm:px-6 lg:px-8">
             <MdxComponent>
                 {`
 # Explore Visualizations of the Ecosystem Map
