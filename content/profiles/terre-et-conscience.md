@@ -1,34 +1,27 @@
 ---
-data-entry-notes: cohere-profiles-v1 template was created 2023-11-17. Please do not edit the structure of this template. For future iterations of template, please create a new template (e.g. cohere-profiles-v2)
-last-modified: 2023-11-17
-last-modified-by:
+data-entry-notes: 
+Last-modified: 2023-11-17
+Last-modified-by:
   - Catherine Tran
-contributors:
+Contributors:
   - Catherine Tran
-date-created: 2023-11-17
-name: 
-url: 
-main-city: 
-main-country: 
-operating-region:
+Date-created: 2023-11-17
+Name: Terre et Conscience
+URL: https://www.terreetconscience.be/
+Main-city: Braine l’Alleud
+Main-country: Belgium
+Operating-region:
   - Europe
-  - North America
-  - Latin America
-  - Africa
-  - Asia
-  - Global/Online
-  - Oceania
-sectors: 
-activities: 
-date-founded: 
-team-size: 
+Sectors: 
+Activities: 
+Date-founded: 2009
+Team-size: 1-10
 publish: false
 project:
   - cohere+
 ---
 {Fill in or delete the following sections as appropriate. DELETE all guidance in {brackets}}.
 
-# Properties (above)
 {  
 Guidelines for filling in Properties (above):
 - Sectors = What areas of activity is the actor skilled or specialised in?
@@ -38,10 +31,7 @@ Guidelines for filling in Properties (above):
 
 # About
 
-{Who are they? What do they do? What is unique, special, or distinctive about them?}
-
-{Include screenshots}
-
+![[terre-et-conscience.png]]
 ## Key People
 
 - {Name, Role}
@@ -61,9 +51,11 @@ e.g.: key questions that guide their work or that their work explores; transform
 
 # Connections
 
-{e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...}
-{e.g. 
-- Funded by [[learning-for-wellbeing-foundation]]
-- }
+These are some of the organisations listed as current or past partners on their website:
+- [[francophone-association-of-ecopsychology]]
+- L'Arbre qui Pousse
+- [[festival-maintenant]]
+- [[les-fougères]]
 
 
+https://www.terreetconscience.be/terre-conscience/le-reseau
