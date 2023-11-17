@@ -122,7 +122,7 @@ export const Layout: React.FC<Props> = ({
                     )}
                     {/* MAIN CONTENT & FOOTER */}
                     <div className={clsx(
-                        urlPath !== "/" && "mx-auto lg:px-[16rem] pt-8",
+                        "mx-auto lg:px-[16rem] pt-8",
                         !showToc && !showSidebar && "lg:px-0",
                     )}>
                         {children}

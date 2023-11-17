@@ -1,8 +1,10 @@
 import config from '@/config/siteConfig';
 
+/* max - w - 8xl */
+
 export default function Hero() {
 	return (
-		<div className="relative bg-gray-50 overflow-hidden">
+		<div className="-mx-[max(calc(50vw-44rem+4rem),4rem)] md:-mx-[max(calc(50vw-44rem+8rem),8rem)] lg:-mx-[max(calc(50vw-44rem+18rem),18rem)] -mt-8 relative bg-gray-50 overflow-hidden">
 			<div
 				className="hidden sm:block sm:absolute sm:inset-y-0 sm:h-full sm:w-full"
 				aria-hidden="true"
