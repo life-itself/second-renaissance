@@ -1,10 +1,6 @@
 const userConfig = {
-  navbarTitle: {
-    text: 'Polycrisis Response Mapping',
-  },
-	title: 'Polycrisis Response Mapping',
-  tagline: 'Charting an emerging ecosystem by Life Itself, Emerge and collaborators',
-  description: 'This project maps an emerging ecosystem centred on a radical, alternative approach to social change – one that is simultaneously paradigmatic, integrated and engaged. Discover key features and ideas of this growing space. Explore associated organizations, individuals and initiatives. See how it relates to other established and emerging movements.',
+	title: 'Mapping an Emerging Ecosystem',
+  description: 'An emerging ecosystem is seeking a radical, alternative approach to social change. One that is simultaneous paradigmatic, integrated and engaged (PIE). The project provides a map includes an overview of key features, ideas, organizations and initiatives.',
   author: 'Life Itself',
   authorLogo: '/life-itself-logo.svg',
   authorUrl: 'https://lifeitself.us/',

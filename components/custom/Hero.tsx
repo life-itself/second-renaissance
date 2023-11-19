@@ -1,8 +1,33 @@
 import config from '@/config/siteConfig';
-
-/* max - w - 8xl */
+import { useEffect, useRef } from "react";
+import Typed from "typed.js";
 
 export default function Hero() {
+  const el = useRef(null)
+
+  useEffect(() => {
+    const typed = new Typed(el.current, {
+      strings: [
+        "Second Renaissance",
+        "Metamodern Ecosystem",
+        "Polycrisis Ecosystem",
+        "Metacrisis Ecosystem",
+        "Great Transition Ecosystem",
+        "Liminal Ecosystem"
+      ],
+      typeSpeed: 45,
+      backDelay: 1650,
+      showCursor: false,
+      fadeOut: true,
+      fadeOutDelay: 350,
+      loop: true,
+      bindInputFocusEvents: true,
+    });
+    return () => {
+      typed.destroy();
+    };
+  },[])
+  
 	return (
 		<div className="-mx-[max(calc(50vw-44rem+4rem),4rem)] md:-mx-[max(calc(50vw-44rem+8rem),8rem)] lg:-mx-[max(calc(50vw-44rem+18rem),18rem)] -mt-8 relative bg-gray-50 overflow-hidden">
 			<div
@@ -79,11 +104,12 @@ export default function Hero() {
 			<div className="relative pt-6 pb-16 sm:pb-24">
 				<main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
 					<div className="text-center">
-						<h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-							<span className="block xl:inline">{config.title}</span>
+						<h1 className="flex flex-col gap-y-2 h-48 min-[391px]:h-32 sm:h-48 lg:h-32 text-4xl tracking-tight font-extrabold text-primary sm:text-5xl md:text-6xl">
+							<span>Mapping an Emerging</span>
+              <span ref={el} className="mx-auto w-fit sm:w-auto flex sm:inline" />
 						</h1>
 						<h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-							{config.tagline}
+              By Life Itself, Emerge, Cohere+ and collaborators
 						</h2>
 						<p className="mt-3 max-w-md mx-auto text-gray-500 sm:text-lg md:mt-5 med:text-xl md:max-w-3xl">
 							{config.description}
@@ -91,7 +117,7 @@ export default function Hero() {
 						<div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
 							<div className="rounded-md shadow">
 								<a
-									href="#outline"
+									href="#overview"
 									className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md bg-yellow-300 hover:bg-yellow-400 md:py-4 md:text-lg md:px-10"
 								>
 									Discover

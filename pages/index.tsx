@@ -26,12 +26,12 @@ const HomePage: React.FC<Props> = ({ profiles, topics }) => {
 
                 <section id="mapping-the-space" className="mt-12 sm:mt-24">
                     <h1 className="text-center">Mapping the Space</h1>
-                    <div className="my-6 sm:my-8 lg:my-12">
-                        <TernaryPlot profiles={profiles} />
-                    </div>
                     <MdxComponent>
                         This visualization maps organizations based on their approach to social change. There are three broad categories of approach: inner, cultural and systems oriented. [Read more about the visualization.](/vis)
                     </MdxComponent>
+                    <div className="my-6 sm:my-8 lg:my-12">
+                        <TernaryPlot profiles={profiles} />
+                    </div>
                 </section>
 
                 <section id="overview" className="mt-12 sm:mt-24">
