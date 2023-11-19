@@ -9,7 +9,10 @@ import {
 
 export default function Profile({ children, ...frontMatter }) {
     console.log(frontMatter);
-    const { title, url, locations, people, topic, activity, image } = frontMatter;
+    // const { title, url, locations, people, topic, activity, image } = frontMatter;
+    const { title, url, locations, people, topic, activity } = frontMatter;
+    const image = frontMatter.logo.cached_new;
+
     return (
         <div className="max-w-2xl mx-auto pb-16 pt-10 px-4 sm:pb-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <div className="mt-4">
@@ -20,7 +23,7 @@ export default function Profile({ children, ...frontMatter }) {
             <div className="lg:grid lg:grid-cols-2 lg:gap-x-8">
                 {/* details */}
                 <div className="lg:max-w-lg lg:self-end text-gray-500">
-                    <div className="flex flex-col mt-6 gap-y-3">
+                    <div className="flex flex-col mt-6 gap-y-3 not-prose">
                         {url && (
                             <div className="flex flex-row">
                                 <GlobeAltIcon className="h-5 w-5" />
