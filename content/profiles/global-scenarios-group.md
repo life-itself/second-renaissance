@@ -9,8 +9,8 @@ Main Country:
 Operating Region: Europe Global Network
 Sectors: Education and Learning
 Activities: Research
-Date Founded: 
-Team size: "20"
+Date Founded: "1995"
+Team size: 
 project: cohere+
 ---
 
@@ -22,16 +22,20 @@ The GSG is a group of researchers dedicated to outlining different 'possible fut
 
 ### Key people 
 
-- 
+- [About the GSG - gsg.org](https://gsg.org/about-the-gsg.html)
 ## Theory of Change 
 
 As outlined in the picture above, they imagine 6 different possible futures, each with their own kind of culture and way of being. 'Conventional worlds' outline a world which emerges out of some of the standard 'change' messages we hear about today, and great transitions outline a world which goes beyond these conventional kinds of transformation. 
 
+They have a lot of data on possible worlds: this one diagram below shows how the data is visualized, and what different kinds of data points mean in different worlds. Here is one example of what it looks like, for 'water use per capita' in 'western europe.' They are also closely connected to the Tellus Institute. 
+
+
 ![[gsgpicture.jpg]]
 ## Key educational Resources 
 
-{e.g. key books, articles, courses, etc. with brief description if possible}
-
+https://gsg.org/index.html
 ## Connections 
 
-They have a lot of data on possible worlds: this one diagram below shows how the data is visualized, and what different kinds of data points mean in different worlds. Here is one example of what it looks like, for 'water use per capita' in 'western europe.' They are also closely connected to the Tellus Institute. 
+The Tellus Institute and the Stockholm Environment Institute
+
+They can also be contacted here: **[info@tellus.org](mailto:info@tellus.org)**

@@ -2,14 +2,14 @@
 Date last modified: 
 Contributors: Matthew McCarthy
 Date created: 2023-11-16
-Name: Spirituality in Education Alliance
-URL: https://www.sieallianceuk.org/about.html
-Main City: 
-Main Country: Switzerland
-Operating Region: Europe Global Network
-Sectors: Education and Learning
+Name: U-school-lab
+URL: 
+Main City: Boston
+Main Country: United States
+Operating Region: Global Network
+Sectors: 
 Activities: Consulting and Advisory
-Date Founded: "2007"
+Date Founded: 
 Team size: 
 project: cohere+
 ---
@@ -20,7 +20,6 @@ project: cohere+
 
 ### Key people 
 
-http://www.education4peace.org/en/who-we-are-2/
 ## Theory of Change 
   
 The **u-school for transformation** builds on the **Presencing Institute’s** 15+ years of capacity building, action labs and research based on [Theory U](https://www.u-school.org/theory-u), a framework for catalyzing transformative personal and systems change.

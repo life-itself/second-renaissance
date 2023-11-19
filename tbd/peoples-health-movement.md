@@ -24,10 +24,14 @@ The PHM is a global network bringing together grassroots health activists, civil
 
 ## Theory of Change 
   
-
+As a network organization, it provides communication channels and opportunities that link the very diverse elements of the larger movement. PHM Global also supports ad hoc policy work and campaigning on various issues and topics on the global policy agenda.
 
 ## Key educational Resources 
 
-https://www.u-school.org/theory-u
+
+https://phmovement.org/global-health-watch
 ## Connections 
 
+They can be contacted here: https://phmovement.org/contact
+
+You can get involved here: https://phmovement.org/get-involved
