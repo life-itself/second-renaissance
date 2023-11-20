@@ -53,7 +53,7 @@ e.g.: key questions that guide their work or that their work explores; transform
 
 These are some of the organisations listed as current or past partners on their website:
 - [[francophone-association-of-ecopsychology]]
-- L'Arbre qui Pousse
+- [[l'arbre-qui-pousse]]
 - [[festival-maintenant]]
 - [[les-fougères]]
 

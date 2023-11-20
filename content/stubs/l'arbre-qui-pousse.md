@@ -1,6 +1,5 @@
 ---
 status: stub
-url: 
-type: person, organisation or idea/framework
+url:
 ---
 This is a stub template, e.g. for creating a new note for a linked organisation. 
