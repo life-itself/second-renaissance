@@ -1,44 +1,49 @@
 ---
 Date last modified: 
-Contributors: 
-Date created: 
-Name: 
-URL: 
+Contributors: Matthew McCarthy
+Date created: 2023-11-21
+Name: Brand Earth
+URL: https://brand.earth/
 Main City: 
 Main Country: 
-Operating Region: 
-Sectors: 
-Activities: 
+Operating Region: " Global Network"
+Sectors: Economics and business
+Activities: Consulting and Advisory
 Date Founded: 
 Team size: 
-project:
+project: cohere+
 ---
-{Fill in or delete the following sections as appropriate. DELETE all guidance in {brackets}}.
 
-{Guidelines for filling in Properties (above):
-- Sectors = What areas of activity is the actor skilled or specialised in?
-- Activities = What are the main activities/interventions they do to bring about change?
-- Team-size = paid staff members, doesn't include e.g. board members or trustees
 # About 
 
-{Who are they? What do they do? What is unique, special, or distinctive about them?}
-{Include screenshots}
+Transform commerce to fund a just transition to a regenerative earth. 
 
+This shift involves reimagining the relationship between corporations, consumers, advertisers, and nature. Corporations and consumers are seen as potential partners in business with nature.
+
+This includes rethinking brands so that they can preserve Earth’s diverse natural wealth.
+
+
+![[brand-earth.jpg]]
+
+They focus on sustainable business models, ethical supply chains, impact investing, socially responsible consumption, collaboration and partnerships, and resource and stewardship council. 
 ### Key people 
 
-- {Name, Role}
+- [[Deepak Chopra]]
+- [[Bill Mckibben]]
 
 ## Theory of Change 
 
-{What change do they want to make in the world? How do they seem to understand the process of change? How are they taking PARADIGMATIC and WHOLE-SYSTEMS/INTEGRATED approaches to change?}
-{e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on}
+They have a model called the 'dandelion economy' which is a metaphorical way to describe a localized, regenerative economic model, wherein wealth is used to rejuvenate and sustain Indigenous and local communities much like a dandelion spreading its seeds to give new life.
 
+In this model, wealth is primarily invested locally, instead of being concentrated in large corporations or distant markets. 
 
+![[brand-earth-dandelion.jpg]]
+
+Brand Earth will introduce the “Earth Pass”, a sustainable funding mechanism that supports regenerative initiatives and leverages a combination of public, private funding, and innovative financial instruments. This is aimed at redirecting resources from environmentally damaging practices.
 ## Key educational Resources 
 
-{e.g. key books, articles, courses, etc. with brief description if possible}
 
 ## Connections 
 
-{e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...}
+
 

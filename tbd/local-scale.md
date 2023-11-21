@@ -1,44 +1,40 @@
 ---
 Date last modified: 
-Contributors: 
-Date created: 
-Name: 
-URL: 
-Main City: 
-Main Country: 
-Operating Region: 
-Sectors: 
-Activities: 
+Contributors: Matthew McCarthy
+Date created: 2023-11-20
+Name: Brand Earth
+URL: https://localscale.org/
+Main City: San Fransisco
+Main Country: United States
+Operating Region: " Global Network"
+Sectors: Economics and business
+Activities: Design, Development, and Innovation
 Date Founded: 
 Team size: 
-project:
+project: cohere+
 ---
-{Fill in or delete the following sections as appropriate. DELETE all guidance in {brackets}}.
 
-{Guidelines for filling in Properties (above):
-- Sectors = What areas of activity is the actor skilled or specialised in?
-- Activities = What are the main activities/interventions they do to bring about change?
-- Team-size = paid staff members, doesn't include e.g. board members or trustees
 # About 
 
-{Who are they? What do they do? What is unique, special, or distinctive about them?}
-{Include screenshots}
+LocalScale is a public benefit organization focusing on the development of resilient and sustainable local economies through the use of technology, science and regenerative activities.
+
+They have a giant network; just about 600k followers on twitter, for example. LocalScale is designed for the sole purpose of helping regenerate local ecosystems and communities through financing, rewarding and incentivizing impact-positive initiatives.
+
+![[localscale.jpg]]
 
 ### Key people 
 
-- {Name, Role}
+
 
 ## Theory of Change 
 
-{What change do they want to make in the world? How do they seem to understand the process of change? How are they taking PARADIGMATIC and WHOLE-SYSTEMS/INTEGRATED approaches to change?}
-{e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on}
+Gather the global actors of the regenerative economy to implement measurable and efficient solution locally that respect and improve natural and human ecosystems
 
-
+Help local governments and organisations support and participate in regenerative projects
 ## Key educational Resources 
 
-{e.g. key books, articles, courses, etc. with brief description if possible}
+
 
 ## Connections 
 
-{e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...}
 
