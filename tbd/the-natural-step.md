@@ -2,43 +2,47 @@
 Date last modified: 
 Contributors: 
 Date created: 
-Name: 
-URL: 
+Name: The Natural Step
+URL: https://thenaturalstep.org/
 Main City: 
-Main Country: 
-Operating Region: 
-Sectors: 
-Activities: 
-Date Founded: 
-Team size: 
-project:
+Main Country: The Netherlands
+Operating Region: " Global Network"
+Sectors: Governance and Community
+Activities: Consulting and Advisory
+Date Founded: "1989"
+Team size: 12 offices
+project: cohere+
 ---
-{Fill in or delete the following sections as appropriate. DELETE all guidance in {brackets}}.
 
-{Guidelines for filling in Properties (above):
-- Sectors = What areas of activity is the actor skilled or specialised in?
-- Activities = What are the main activities/interventions they do to bring about change?
-- Team-size = paid staff members, doesn't include e.g. board members or trustees
 # About 
 
-{Who are they? What do they do? What is unique, special, or distinctive about them?}
-{Include screenshots}
+The Natural Step is an organization dedicated towards . They were founded in 1989, and since then, "have worked with thousands of corporations, municipalities, academic institutions and not-for-profit organizations that have proven that moving strategically toward sustainability leads to new opportunities, reduced costs and dramatically reduced ecological and social impacts."
+
+In short, it seems like they mostly work with organizations to 'become sustainability leaders'. They're pretty global, and have '12 offices with associates and strategic partners in 54 countries.''
+
+Here is an example of their strategy/website:
+
+![[naturalstep.jpg]]
 
 ### Key people 
 
-- {Name, Role}
+
 
 ## Theory of Change 
 
-{What change do they want to make in the world? How do they seem to understand the process of change? How are they taking PARADIGMATIC and WHOLE-SYSTEMS/INTEGRATED approaches to change?}
-{e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on}
+They have '4 principles of sustainability', which are described in the diagram below. As they point out, this constitutes a 'definition of sustainability' which they aim to implement and attain. 
 
+![[nautral-step.jpg]]
 
+Additionally, they have an integral approach, and aim to have positive impact across three different dimensions: 
+
+- (a)  Empowering individuals – empowering interested people to become effective change agents for sustainability;
+- (b)  Organisations – creating future-fit organisations and role models for sustainable business and communities;
+- (c)  Facilitating systems change towards future-fitness – delivering break-through results that make whole systems more sustainable.
 ## Key educational Resources 
 
-{e.g. key books, articles, courses, etc. with brief description if possible}
+https://thenaturalstep.org/
 
 ## Connections 
 
-{e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...}
 
