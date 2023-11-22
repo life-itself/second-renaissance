@@ -1,18 +1,18 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-13
-Name: The Capital Institute
-URL: https://capitalinstitute.org/
-Main City: Greenwich
-Main Country: United States
-Operating Region: " Global Network"
-Sectors: Economics and business
-Activities: Business
-Date Founded: "2010"
-Team size: "3"
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-13
+name: The Capital Institute
+url: https://capitalinstitute.org/
+city: Greenwich
+country: United States
+operating-region: " Global Network"
+sectors: Economics and business
+activities: Business
+date-founded: "2010"
+team-size: "3"
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

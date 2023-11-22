@@ -1,19 +1,19 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-16
-Name: Dolphin Embassy
-URL: https://www.dolphinembassy.org/
-Main City: 
-Main Country: 
-Operating Region: Global Network
-Sectors: Relations and Peace
-Activities: Advocacy and Activism
-Date Founded: 
-Team size: 
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-16
+name: Dolphin Embassy
+url: https://www.dolphinembassy.org/
+city: 
+country: 
+operating-region: Global Network
+sectors: Relations and Peace
+activities: Advocacy and Activism
+date-founded: 
+team-size: 
 project: cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

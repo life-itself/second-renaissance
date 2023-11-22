@@ -1,19 +1,19 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-16
-Name: Education4peace
-URL: http://www.education4peace.org/
-Main City: 
-Main Country: Switzerland
-Operating Region: Europe Global Network
-Sectors: Education and Learning
-Activities: Consulting and Advisory
-Date Founded: "2007"
-Team size: 
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-16
+name: Education4peace
+url: http://www.education4peace.org/
+city: 
+country: Switzerland
+operating-region: Europe Global Network
+sectors: Education and Learning
+activities: Consulting and Advisory
+date-founded: "2007"
+team-size: 
 project: cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

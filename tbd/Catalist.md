@@ -1,19 +1,20 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-15
-Name: Catalist
-URL: https://www.catalist.network/
-Main City: 
-Main Country: 
-Operating Region: Global Network
-Sectors: Governance and Community
-Activities: Convening and coordination
-Date Founded: 
-Team size: 
+data-entry-notes: 
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-15
+name: Catalist
+url: https://www.catalist.network/
+main-city: 
+main-country: 
+operating-region: Global Network
+sectors: Governance and Community
+activities: Convening and coordination
+date-founded: 
+team-size: 
 project: cohere+
 publish: false
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

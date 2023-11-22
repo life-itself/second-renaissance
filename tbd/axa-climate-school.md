@@ -7,8 +7,8 @@ contributors: Matthew McCarthy
 date-created: 2023-11-21
 name: AXA Climate School
 url: https://axaclimateschool.com/
-main-city: 
-main-country: France
+city: 
+country: France
 operating-region:
   - Global/Online
 sectors: Environment, Food, and Water

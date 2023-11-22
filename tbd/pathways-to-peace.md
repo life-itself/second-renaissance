@@ -1,18 +1,18 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-13
-Name: Pathways to Peace
-URL: https://pathwaystopeace.org/
-Main City: St. Paul
-Main Country: United States
-Operating Region: " Global Network"
-Sectors: Relations and Peace
-Activities: Consulting and Advisory
-Date Founded: "1978"
-Team size: "12"
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-13
+name: Pathways to Peace
+url: https://pathwaystopeace.org/
+city: St. Paul
+country: United States
+operating-region: " Global Network"
+sectors: Relations and Peace
+activities: Consulting and Advisory
+date-founded: "1978"
+team-size: "12"
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

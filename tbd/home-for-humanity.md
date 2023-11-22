@@ -1,19 +1,19 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-16
-Name: Home for Humanity
-URL: 
-Main City: 
-Main Country: 
-Operating Region: France
-Sectors: Relations and Peace
-Activities: Advocacy and Activism
-Date Founded: 
-Team size: 
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-16
+name: Home for Humanity
+url: 
+main-city: 
+main-country: 
+operating-region: France
+sectors: Relations and Peace
+activities: Advocacy and Activism
+date-founded: 
+team-size: 
 project: cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

@@ -1,19 +1,19 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-15
-Name: Systems Innovation network
-URL: https://www.systemsinnovation.network/spaces/12561475/page
-Main City: London
-Main Country: Europe Global Network
-Operating Region: 
-Sectors: Education and Learning
-Activities: Design, Development, and Innovation
-Date Founded: 
-Team size: 
-Project: Cohere+
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-15
+name: Systems Innovation network
+url: https://www.systemsinnovation.network/spaces/12561475/page
+city: London
+country: Europe Global Network
+operating-region: 
+sectors: Education and Learning
+activities: Design, Development, and Innovation
+date-founded: 
+team-size: 
+project: Cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

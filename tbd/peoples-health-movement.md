@@ -1,19 +1,19 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-16
-Name: peoples health movement
-URL: https://phmovement.org/
-Main City: 
-Main Country: 
-Operating Region: " Global Network"
-Sectors: Health and wellbeing
-Activities: Advocacy and Activism
-Date Founded: 
-Team size: 
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-16
+name: peoples health movement
+url: https://phmovement.org/
+city: 
+main-country: 
+operating-region: " Global Network"
+sectors: Health and wellbeing
+activities: Advocacy and Activism
+date-founded: 
+team-size: 
 project: cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

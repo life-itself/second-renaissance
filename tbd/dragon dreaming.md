@@ -1,19 +1,19 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-16
-Name: Dragon Dreaming
-URL: https://dragondreaming.org/
-Main City: 
-Main Country: 
-Operating Region: Global Network
-Sectors: Health and wellbeing
-Activities: Education and Training
-Date Founded: 
-Team size: 
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-16
+name: Dragon Dreaming
+url: https://dragondreaming.org/
+main-city: 
+main-country: 
+operating-region: Global Network
+sectors: Health and wellbeing
+activities: Education and Training
+date-founded: 
+team-size: 
 project: cohere+
 publish: false
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 
