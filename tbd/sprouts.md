@@ -12,9 +12,11 @@ Main-city: Havelange
 Main-country: Belgium
 Operating-region:
   - Europe
-Sectors: Education and Learning; Environment, Food and Water
-Activities: Education and Training
-Date-founded: "2018"
+Sectors:
+  - Education and Learning; Environment, Food and Water
+Activities:
+  - Education and Training
+Date-founded: 2018
 Team-size: 1-10
 publish: false
 ---

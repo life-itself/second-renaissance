@@ -30,13 +30,13 @@ Nonetheless it includes a lot of useful information and frameworks (sets)
 https://www.catalist.network/about
 ## Theory of Change 
 
-Catlist puts it the following way on their website: 
+Catalist puts it the following way on their website: 
 
 The Problem: Technology isn't designed to maximize collective intelligence, collaboration, and coordinated action towards what matters most.  
 
 The Solution: Creating a value-driven ecosystem of tools designed to educate and unite the change-makers of the world, liberate us from our screens, and empower the action needed to preserve life on planet earth. 
 
-Catlist points out that 'we must change every aspect of society: our economic, social and technical systems.' 
+Catalist points out that 'we must change every aspect of society: our economic, social and technical systems.' 
 
 The following quote from Buckminster Fuller appears on their website: 
 
