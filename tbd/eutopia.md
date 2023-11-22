@@ -12,6 +12,8 @@ Activities: Education and Training
 Date Founded: 
 Team size: 
 project: cohere+
+publish: 
+Last-modified-by:
 ---
 
 # About 

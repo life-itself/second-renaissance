@@ -12,6 +12,8 @@ Activities: Convening and coordination
 Date Founded: 
 Team size: 
 project: cohere+
+publish: false
+Last-modified-by:
 ---
 
 # About 

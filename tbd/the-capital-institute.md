@@ -11,6 +11,8 @@ Sectors: Economics and business
 Activities: Business
 Date Founded: "2010"
 Team size: "3"
+publish: 
+Last-modified-by:
 ---
 
 # About 

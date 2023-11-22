@@ -25,7 +25,6 @@ project:
 
 Our mission is to apply science-based solutions and use evidence-based best practices to solve today’s most pressing social issues to improve quality of life.
 
-Our vision is to apply research, knowledge and expertise in order to elevate quality of life, advance social justice and human equality, and add value to issues affecting humanity for the benefit all people.
 
 They have a number of different projects, which are outlined in their report. One of them is 'evaluating quality of life', which they have been working on for over 10 years. 
 
@@ -33,7 +32,7 @@ They have a number of different projects, which are outlined in their report. On
 
 # Theory of Change
 
-
+Our vision is to apply research, knowledge and expertise in order to elevate quality of life, advance social justice and human equality, and add value to issues affecting humanity for the benefit all people.
 # Key Educational Resources
 
 

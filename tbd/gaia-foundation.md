@@ -12,6 +12,8 @@ Activities: Design, Development, and Innovation
 Date Founded: "1988"
 Team size: 
 project: cohere+
+publish: 
+Last-modified-by:
 ---
 
 # About 

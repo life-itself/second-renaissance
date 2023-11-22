@@ -12,6 +12,8 @@ Activities: Consulting and Advisory
 Date Founded: "1989"
 Team size: 12 offices
 project: cohere+
+publish: 
+Last-modified-by:
 ---
 
 # About 
