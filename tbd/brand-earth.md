@@ -1,8 +1,9 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-21
-Name: Brand Earth
+date last modified: 
+Last-modified-by: 
+contributors: Matthew McCarthy
+date created: 2023-11-21
+name: Brand Earth
 URL: https://brand.earth/
 Main City: 
 Main Country: 
@@ -11,6 +12,7 @@ Sectors: Economics and business
 Activities: Consulting and Advisory
 Date Founded: 
 Team size: 
+publish: false
 project: cohere+
 ---
 

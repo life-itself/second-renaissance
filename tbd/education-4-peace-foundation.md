@@ -12,6 +12,8 @@ Activities: Consulting and Advisory
 Date Founded: "2007"
 Team size: 
 project: cohere+
+publish: 
+Last-modified-by:
 ---
 
 # About 

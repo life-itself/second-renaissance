@@ -12,6 +12,8 @@ Activities: Research
 Date Founded: 
 Team size: "12"
 project: cohere+
+publish: 
+Last-modified-by:
 ---
 
 # About 

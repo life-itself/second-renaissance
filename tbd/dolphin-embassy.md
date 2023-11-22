@@ -12,6 +12,8 @@ Activities: Advocacy and Activism
 Date Founded: 
 Team size: 
 project: cohere+
+publish: 
+Last-modified-by:
 ---
 
 # About 

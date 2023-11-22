@@ -9,7 +9,10 @@ Main Country: Switzerland
 Operating Region: Online Network Europe
 Sectors: Governance and Community
 Activities: Consulting and Advisory
-Date Founded:
+Date Founded: 
+publish: 
+Last-modified-by: 
+project: cohere+
 ---
 
 # About 
