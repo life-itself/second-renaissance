@@ -1,16 +1,17 @@
 ---
-data-entry-notes: cohere-profiles-v1 template was created 2023-11-17. Please do not edit the structure of this template. For future iterations of template, please create a new template (e.g. cohere-profiles-v2)
-last-modified: 2023-11-17
-last-modified-by:
+notes_data_entry: cohere-profiles-v1 template was created 2023-11-17. Please do not edit the structure of this template. For future iterations of template, please create a new template (e.g. cohere-profiles-v2)
+last_modified: 2023-11-17
+last_modified_by:
   - Catherine Tran
 contributors:
   - Catherine Tran
-date-created: 2023-11-17
-name: 
+date_created: 2023-11-17
+title: 
 url: 
-main-city: 
-main-country: 
-operating-region:
+description: 
+city: 
+country: 
+operating_region:
   - Europe
   - North America
   - Latin America
@@ -20,11 +21,12 @@ operating-region:
   - Oceania
 sectors: 
 activities: 
-date-founded: 
-team-size: 
+year_founded: 
+team_size: 
 publish: false
 project:
   - cohere+
+image:
 ---
 {Fill in or delete the following sections as appropriate. DELETE all guidance in {brackets}}.
 
@@ -33,7 +35,7 @@ project:
 Guidelines for filling in Properties (above):
 - Sectors = What areas of activity is the actor skilled or specialised in?
 - Activities = What are the main activities/interventions they do to bring about change?
-- Team-size = paid staff members, doesn't include e.g. board members or trustees. Fill in range not exact number.
+- Team_size = paid staff members, doesn't include e.g. board members or trustees. Fill in range not exact number.
 }
 
 # About
