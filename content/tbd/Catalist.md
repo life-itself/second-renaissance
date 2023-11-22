@@ -1,19 +1,17 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-15
-Name: Catalist
-URL: https://www.catalist.network/
-Main City: 
-Main Country: 
-Operating Region: Global Network
-Sectors: Governance and Community
-Activities: Convening and coordination
-Date Founded: 
-Team size: 
-project: cohere+
-publish: false
-Last-modified-by:
+contributors: Matthew McCarthy
+created: 2023-11-15
+title: Catalist
+url: https://www.catalist.network/
+city: 
+country: 
+region: Global Network
+sectors: Governance and Community
+activities: Convening and coordination
+start: 
+end:
+size: 
+cohere: y
 ---
 
 # About 
@@ -25,11 +23,12 @@ It is organized into different 'spaces', 'objects' 'sets' and 'attributes'. At t
 
 Nonetheless it includes a lot of useful information and frameworks (sets)
 
-![[catalist.jpg]]
+![[../assets/catalist.jpg]]
 
 ### Key people 
 
 https://www.catalist.network/about
+
 ## Theory of Change 
 
 Catlist puts it the following way on their website: 
