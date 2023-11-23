@@ -1,21 +1,17 @@
 ---
-date-last-modified: 
-last-modified-by: 
 contributors: Matthew McCarthy
-date-created: 2023-11-21
-name: Brand Earth
+created: 2023-11-21
+title: Brand Earth
 url: https://brand.earth/
 city: 
 country: 
-operating-region:
-  - " Global Network"
+operating_region:
+  - "Global Network"
 sectors: Economics and business
 activities: Consulting and Advisory
-date-founded: 
-team-size: 
+team_size: 
 publish: false
-project:
-  - cohere+
+cohere: y
 ---
 
 # About 
@@ -27,7 +23,7 @@ This shift involves reimagining the relationship between corporations, consumers
 This includes rethinking brands so that they can preserve Earth’s diverse natural wealth.
 
 
-![[brand-earth.jpg]]
+![[../assets/brand-earth.jpg]]
 
 They focus on sustainable business models, ethical supply chains, impact investing, socially responsible consumption, collaboration and partnerships, and resource and stewardship council. 
 ### Key people 
@@ -44,10 +40,5 @@ In this model, wealth is primarily invested locally, instead of being concentrat
 ![[brand-earth-dandelion.jpg]]
 
 Brand Earth will introduce the “Earth Pass”, a sustainable funding mechanism that supports regenerative initiatives and leverages a combination of public, private funding, and innovative financial instruments. This is aimed at redirecting resources from environmentally damaging practices.
-## Key educational Resources 
-
-
-## Connections 
-
 
 

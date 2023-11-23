@@ -44,10 +44,6 @@ They have offerings in English, French, and Dutch.
 
 "Inspired by [Schumacher College](https://www.schumachercollege.org.uk/), we offer a range of courses for personal and professional development in a transforming world. The courses are centered around a Trinity we deem essential for our time: **Soil**, **Soul**, **Society**."
 
-
-{What change do they want to make in the world? How do they seem to understand the process of change? How are they taking PARADIGMATIC and WHOLE-SYSTEMS/INTEGRATED approaches to change?}
-{e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on}
-
 # Key Educational Resources
 
 - To learn more about the ideas and principles that inspire Sprouts, see books by Satish Kumar, co-founder of Schumacher College, for 
