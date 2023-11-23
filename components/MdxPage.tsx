@@ -18,7 +18,6 @@ const components = {
 };
 
 export default function MdxPage({ source, frontMatter }) {
-    console.log({ frontMatter })
     const Layout = ({ children }) => {
         if (frontMatter.layout) {
             const LayoutComponent = layouts[frontMatter.layout];

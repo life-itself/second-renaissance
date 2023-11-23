@@ -8,7 +8,6 @@ import {
 } from '@heroicons/react/solid';
 
 export default function Profile({ children, ...frontMatter }) {
-    console.log(frontMatter);
     // const { title, url, locations, people, topic, activity, image } = frontMatter;
     const { title, url, locations, people, topic, activity } = frontMatter;
     const image = frontMatter.logo.cached_new;

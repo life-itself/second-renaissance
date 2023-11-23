@@ -21,7 +21,6 @@ export default function MdxComponent({ children }) {
     const [mdxSource, setMdxSource] = useState(null);
 
     useEffect(() => {
-        console.log(children);
         async function loadMdx() {
             const mdx = await serialize(children, {
                 mdxOptions: {
