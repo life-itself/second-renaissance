@@ -4,7 +4,7 @@ last-modified-by:
 contributors: Matthew McCarthy
 date-created: 2023-11-21
 name: Brand Earth
-URL: https://brand.earth/
+url: https://brand.earth/
 city: 
 country: 
 operating-region:
