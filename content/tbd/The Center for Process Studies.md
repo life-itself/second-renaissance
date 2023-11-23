@@ -1,19 +1,21 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-16
-Name: The center for process studies
-URL: https://ctr4process.org/
-Main City: Portland
-Main Country: United States
-Operating Region: Global Network
-Sectors: Education and Learning
-Activities: Research
-Date Founded: "2000"
-Team size: 
-project: cohere+
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-16
+name: The center for process studies
+url: https://ctr4process.org/
+city: Portland
+country: United States
+operating-region:
+  - Global Network
+sectors: Education and Learning
+activities: Research
+date-founded: "2000"
+team-size: 
+project:
+  - cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

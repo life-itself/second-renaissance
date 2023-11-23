@@ -5,7 +5,6 @@ founded: "2007"
 locations:
   - Järna, Sweden
 target-participants: 18-28; speak English; don't need visa to be in Sweden
-DDS: true
 image:
 ---
 

@@ -1,19 +1,21 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-15
-Name: Complexity Science Hub
-URL: https://www.csh.ac.at/
-Main City: Vienna
-Main Country: Austria
-Operating Region: Europe Global Network
-Sectors: Education and Learning
-Activities: Research
-Date Founded: 
-Team size: "12"
-project: cohere+
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-15
+name: Complexity Science Hub
+url: https://www.csh.ac.at/
+city: Vienna
+country: Austria
+operating-region:
+  - Europe Global Network
+sectors: Education and Learning
+activities: Research
+date-founded: 
+team-size: "12"
+project:
+  - cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 
