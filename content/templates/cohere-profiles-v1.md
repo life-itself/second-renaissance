@@ -19,15 +19,16 @@ team_size:
 cohere: 
 metadata_version: "1"
 ---
+
 Fill in or delete the following sections as appropriate. 
 
 # Properties (above)
 
 Guidelines for filling in Properties (above):
+
 - Sectors = What areas of activity is the actor skilled or specialised in?
 - Activities = What are the main activities/interventions they do to bring about change?
 - Team-size = paid staff members, doesn't include e.g. board members or trustees. Fill in range not exact number.
-
 
 # About
 
