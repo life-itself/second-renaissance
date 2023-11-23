@@ -1,21 +1,21 @@
 ---
 data-entry-notes: 
-Last-modified: 2023-11-17
-Last-modified-by:
+last-modified: 2023-11-17
+last-modified-by:
   - Catherine Tran
-Contributors:
+contributors:
   - Catherine Tran
-Date-created: 2023-11-17
-Name: Terre et Conscience
-URL: https://www.terreetconscience.be/
-Main-city: Braine l’Alleud
-Main-country: Belgium
-Operating-region:
+date-created: 2023-11-17
+name: Terre et Conscience
+url: https://www.terreetconscience.be/
+main-city: Braine l’Alleud
+main-country: Belgium
+operating-region:
   - Europe
-Sectors: 
-Activities: 
-Date-founded: 2009
-Team-size: 1-10
+sectors: 
+activities: 
+date-founded: 2009
+team-size: 1-10
 publish: false
 project:
   - cohere+

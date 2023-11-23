@@ -1,19 +1,21 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-16
-Name: The Laszlo Institte
-URL: https://thelaszloinstitute.com/
-Main City: 
-Main Country: 
-Operating Region: Global Network
-Sectors: Education and Learning
-Activities: Research
-Date Founded: 
-Team size: 
-project: cohere+
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-16
+name: The Laszlo Institte
+url: https://thelaszloinstitute.com/
+city: 
+country: 
+operating-region:
+  - Global Network
+sectors: Education and Learning
+activities: Research
+date-founded: 
+team-size: 
+project:
+  - cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

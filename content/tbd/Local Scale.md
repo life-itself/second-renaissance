@@ -1,19 +1,21 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-20
-Name: Brand Earth
-URL: https://localscale.org/
-Main City: San Fransisco
-Main Country: United States
-Operating Region: " Global Network"
-Sectors: Economics and business
-Activities: Design, Development, and Innovation
-Date Founded: 
-Team size: 
-project: cohere+
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-20
+name: Brand Earth
+url: https://localscale.org/
+city: San Fransisco
+country: United States
+operating-region:
+  - " Global Network"
+sectors: Economics and business
+activities: Design, Development, and Innovation
+date-founded: 
+team-size: 
+project:
+  - cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 

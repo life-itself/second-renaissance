@@ -1,19 +1,21 @@
 ---
-Date last modified: 
-Contributors: Matthew McCarthy
-Date created: 2023-11-20
-Name: SDG Thought Leaders Circle
-URL: https://sdgthoughtleaderscircle.org/
-Main City: 
-Main Country: 
-Operating Region: " Global Network"
-Sectors: Governance and Community
-Activities: Consulting and Advisory
-Date Founded: 
-Team size: "12"
-project: cohere+
+date-last-modified: 
+contributors: Matthew McCarthy
+date-created: 2023-11-20
+name: SDG Thought Leaders Circle
+url: https://sdgthoughtleaderscircle.org/
+city: 
+country: 
+operating-region:
+  - " Global Network"
+sectors: Governance and Community
+activities: Consulting and Advisory
+date-founded: 
+team-size: "12"
+project:
+  - cohere+
 publish: 
-Last-modified-by:
+last-modified-by:
 ---
 
 # About 
