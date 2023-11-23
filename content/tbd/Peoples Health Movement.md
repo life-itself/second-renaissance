@@ -3,7 +3,7 @@ date-last-modified:
 contributors: Matthew McCarthy
 date-created: 2023-11-16
 name: peoples health movement
-URL: https://phmovement.org/
+url: https://phmovement.org/
 city: 
 country: 
 operating-region:
