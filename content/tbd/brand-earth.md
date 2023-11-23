@@ -1,19 +1,20 @@
 ---
 date last modified: 
-Last-modified-by: 
+last-modified-by: 
 contributors: Matthew McCarthy
 date created: 2023-11-21
 name: Brand Earth
-URL: https://brand.earth/
-Main City: 
-Main Country: 
-Operating Region: " Global Network"
-Sectors: Economics and business
-Activities: Consulting and Advisory
-Date Founded: 
-Team size: 
+url: https://brand.earth/
+main City: 
+main Country: 
+operating Region: " Global Network"
+sectors: Economics and business
+activities: Consulting and Advisory
+date Founded: 
+team size: 
 publish: false
-project: cohere+
+project:
+  - cohere+
 ---
 
 # About 
