@@ -8,7 +8,7 @@ country: United States
 sectors: Education and Learning
 activities: Research
 start: "2000"
-team-size: 
+size: 
 project:
   - cohere+
 publish:

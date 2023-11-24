@@ -1,7 +1,7 @@
 ---
 contributors:
   - Catherine Tran
-date-created: 2023-11-16
+created: 2023-11-16
 name: Sprouts
 url: https://www.thesprouts.co/home
 city: Havelange
@@ -11,7 +11,7 @@ region:
 sectors: Education and Learning; Environment, Food and Water
 activities: Education and Training
 start: "2018"
-team-size: 1-10
+size: 1-10
 publish: false
 ---
 

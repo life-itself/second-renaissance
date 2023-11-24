@@ -7,7 +7,7 @@ city:
 country: France
 sectors: Environment, Food, and Water
 activities: Education and Training
-date-founded: "2018"
+start: "2018"
 size: "30"
 publish: false
 project:

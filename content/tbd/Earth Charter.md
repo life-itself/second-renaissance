@@ -10,8 +10,7 @@ start: "2000"
 size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

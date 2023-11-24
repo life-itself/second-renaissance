@@ -1,6 +1,5 @@
 ---
-last-modified: 2023-11-17
-date-created: 2023-11-17
+created: 2023-11-17
 name: Terre et Conscience
 url: https://www.terreetconscience.be/
 city: Braine l’Alleud

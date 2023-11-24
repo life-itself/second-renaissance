@@ -1,6 +1,6 @@
 ---
 contributors: Matthew McCarthy
-date-created: 2023-11-21
+created: 2023-11-21
 name: Kite Insights
 url: https://kiteinsights.com/
 city: London
