@@ -24,7 +24,7 @@ LocalScale is a public benefit organization focusing on the development of resil
 
 They have a giant network; just about 600k followers on twitter, for example. LocalScale is designed for the sole purpose of helping regenerate local ecosystems and communities through financing, rewarding and incentivizing impact-positive initiatives.
 
-![[localscale.jpg]]
+![[../assets/localscale.jpg]]
 
 ### Key people 
 

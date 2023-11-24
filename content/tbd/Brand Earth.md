@@ -41,7 +41,7 @@ They have a model called the 'dandelion economy' which is a metaphorical way to 
 
 In this model, wealth is primarily invested locally, instead of being concentrated in large corporations or distant markets. 
 
-![[brand-earth-dandelion.jpg]]
+![[../assets/brand-earth-dandelion.jpg]]
 
 Brand Earth will introduce the “Earth Pass”, a sustainable funding mechanism that supports regenerative initiatives and leverages a combination of public, private funding, and innovative financial instruments. This is aimed at redirecting resources from environmentally damaging practices.
 ## Key educational Resources 

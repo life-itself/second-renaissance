@@ -9,7 +9,7 @@ name: A Larger US
 url: https://larger.us/
 main-city: 
 main-country: UK
-operating-region:
+operating_region:
   - Global/Online
   - Europe
 sectors: Relations and Peace
@@ -40,7 +40,7 @@ Larger US is interested in people and organizations who:  recognize the humanity
 
 Becoming a larger us "involves both inner and outer work". As cliche as it sometimes sounds, they believe that this is the time to foster connections opposed to division. This diagram comes from the 5 key questions for change makers report, which also goes into further detail about their theory of change. Ultimately, there is a focus on the individual and how we relate to one another; and fostering the emotional and relational capacities to create a more collaborative future. 
 
-![[breakthrough-loop.jpg]]
+![[../assets/breakthrough-loop.jpg]]
 # Key Educational Resources
 
 Five key questions for change makers: https://www.larger.us/wp-content/uploads/2022/09/Building-a-Larger-Us.pdf

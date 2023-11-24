@@ -24,7 +24,7 @@ Education 4 Peace (E4P) is a Swiss non-profit foundation dedicated to advocating
 
 E4P has a background connected with the provision of free emotional support [hotlines](http://www.ifotes.org/), through which thousands of volunteers have been trained worldwide in listening skills and empathy over the past 50 years. At the heart of this work is an approach known as Active Listening, pioneered in the 1950s by the psychologist [Carl Rogers](http://en.wikipedia.org/wiki/Carl_Rogers). E4P began by promoting listening skills in various environments through trainings, conferences, congresses and publications.
 
-![[e4p.jpg]]
+![[../assets/e4p.jpg]]
 ### Key people 
 
 http://www.education4peace.org/en/who-we-are-2/

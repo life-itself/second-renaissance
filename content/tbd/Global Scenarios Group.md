@@ -22,7 +22,7 @@ last-modified-by:
 
 The GSG is a group of researchers dedicated to outlining different 'possible futures', and getting a sense for which future we are going towards. 
 
-![[gsg.jpg]]
+![[../assets/gsg.jpg]]
 
 ### Key people 
 
@@ -34,7 +34,7 @@ As outlined in the picture above, they imagine 6 different possible futures, eac
 They have a lot of data on possible worlds: this one diagram below shows how the data is visualized, and what different kinds of data points mean in different worlds. Here is one example of what it looks like, for 'water use per capita' in 'western europe.' They are also closely connected to the Tellus Institute. 
 
 
-![[gsgpicture.jpg]]
+![[../assets/gsgpicture.jpg]]
 ## Key educational Resources 
 
 https://gsg.org/index.html

@@ -32,7 +32,7 @@ Today’s greatest challenge is to address the root cause of our systemic crises
 
 The universal patterns and principles nature uses to build stable, healthy, and sustainable systems throughout the real world can and must be used as a model for a new design of our economic system and the financial system that fuels it.
 
-![[capitalinstituteregenerativevitality.jpg]]
+![[../assets/capitalinstituteregenerativevitality.jpg]]
 ## Key educational Resources 
 
 https://capitalinstitute.org/thought-pieces/

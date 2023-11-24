@@ -16,6 +16,8 @@ project:
 publish: false
 last-modified-by:
 ---
+![[../assets/club of rome .jpg]] 
+
 
 # About 
 
@@ -29,7 +31,7 @@ and international dialogues.
 
 Generally speaking, their expertise and output is noteworthy and impressive. They produce a number of reports and publications which aim to transform our current global financial system and respond to planetary crisis. 
 
-![[club of rome .jpg]]
+
 
 ### Key people 
 

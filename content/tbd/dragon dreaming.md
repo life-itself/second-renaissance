@@ -24,7 +24,7 @@ Dragon Dream is "an open-source interactive networking phenomenon which provides
 
 It appears to be more than wishful thinking here, as they provide an integrated method for how to do this. They have a presence in Europe as well as other continents, like South and North America. It seems like, for the most part, they provide educational materials and host events. 
 
-![[dragon-dreaming.png]]
+![[../assets/dragon-dreaming.png]]
 
 ### Key people 
 
@@ -33,7 +33,7 @@ It appears to be more than wishful thinking here, as they provide an integrated 
 
 Like many orgs we have seen, they see 'two possible futures'- one which is business as usual, the other which requires deep transformational change. They believe that by 'dreaming' and putting these dreams into action through this method, we can create meaningful change. 
 
-![[dragon-wheel.jpg]]
+![[../assets/dragon-wheel.jpg]]
 
 ## Key educational Resources 
 

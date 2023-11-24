@@ -25,7 +25,7 @@ project:
 
 Roland Berger is technically a consulting firm, which is involved in a number of different industries, as outlined in this diagram below. 
 
-![[roland-berger-industries.jpg]]
+![[../assets/roland-berger-industries.jpg]]
 
 Despite looking like a 'conventional' consulting firm based, or at least one concerned primarily with a  profit motive, they appear to be concerned with systems change. As they put it on their website, "We are convinced that the world needs a new sustainable paradigm that takes the entire value cycle into account."
 
@@ -34,7 +34,7 @@ They thus help business and organizations in a number of different sectors work 
 They also publish a lot of material, from articles. They have four different topics: mobility, manufacturing, robust organizations, and sustainability and climate action. 
 
 
-![[roland-berger.jpg]]
+![[../assets/roland-berger.jpg]]
 
 It is worth emphasizing that this organization is somewhat on the fringe. For example, they aim to improve robustness of certain organizations. Thus, they may not be working towards deep systems change; but instead are concerned with slightly transforming the current system, not changing it but making it more palatable to certain pressures. They thus are an interesting organization, and are included because they at least appear to be concerned with some degree of systems change.
 ## Key People

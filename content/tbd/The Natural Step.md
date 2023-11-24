@@ -26,7 +26,7 @@ In short, it seems like they mostly work with organizations to 'become sustainab
 
 Here is an example of their strategy/website:
 
-![[naturalstep.jpg]]
+![[../assets/naturalstep.jpg]]
 
 ### Key people 
 
@@ -36,7 +36,7 @@ Here is an example of their strategy/website:
 
 They have '4 principles of sustainability', which are described in the diagram below. As they point out, this constitutes a 'definition of sustainability' which they aim to implement and attain. 
 
-![[nautral-step.jpg]]
+![[../assets/nautral-step.jpg]]
 
 Additionally, they have an integral approach, and aim to have positive impact across three different dimensions: 
 
