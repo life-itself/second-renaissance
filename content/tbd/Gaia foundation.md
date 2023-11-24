@@ -8,8 +8,7 @@ sectors: Justice and Restoration
 activities: Design, Development, and Innovation
 start: "1988"
 size: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 

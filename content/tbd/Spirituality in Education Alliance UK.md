@@ -9,8 +9,7 @@ sectors: Education and Learning
 activities: Research
 start: "2000"
 size: 
-project:
-  - cohere+
+project: []
 publish:
 ---
 

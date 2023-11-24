@@ -9,8 +9,7 @@ sectors:
 activities: Consulting and Advisory
 start: 
 size: 
-project:
-  - cohere+
+project: []
 publish:
 ---
 

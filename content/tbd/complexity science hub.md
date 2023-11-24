@@ -8,8 +8,7 @@ sectors: Education and Learning
 activities: Research
 start: 
 size: "12"
-project:
-  - cohere+
+project: []
 cohere: y
 ---
 

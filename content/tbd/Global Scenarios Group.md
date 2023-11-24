@@ -8,8 +8,7 @@ sectors: Education and Learning
 activities: Research
 start: "1995"
 size: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 

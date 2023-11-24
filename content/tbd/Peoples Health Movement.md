@@ -9,8 +9,7 @@ sectors: Health and wellbeing
 activities: Advocacy and Activism
 start: 
 size: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 

@@ -9,8 +9,7 @@ sectors: Relations and Peace
 activities: Advocacy and Activism
 start: 
 size: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 

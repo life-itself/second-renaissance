@@ -8,8 +8,7 @@ sectors: Education and Learning
 activities: Consulting and Advisory
 start: "2007"
 size: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 

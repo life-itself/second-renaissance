@@ -8,8 +8,7 @@ country: Switzerland
 sectors: Governance and Community
 activities: Consulting and Advisory
 start: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 
