@@ -1,8 +1,4 @@
 ---
-data-entry-notes: 
-last-modified: 2023-11-16
-last-modified-by:
-  - Catherine Tran
 contributors:
   - Catherine Tran
 date-created: 2023-11-16
@@ -10,11 +6,11 @@ name: Sprouts
 url: https://www.thesprouts.co/home
 city: Havelange
 country: Belgium
-operating-region:
+region:
   - Europe
 sectors: Education and Learning; Environment, Food and Water
 activities: Education and Training
-date-founded: "2018"
+start: "2018"
 team-size: 1-10
 publish: false
 ---

@@ -1,18 +1,14 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
-date-created: 2023-11-13
+created: 2023-11-13
 name: Reos Partners
 url: https://reospartners.com/?__hstc=190680628.6437f46388467b04f31202152da3ffac.1699631479885.1700071231873.1700142101720.7&__hssc=190680628.2.1700142101720&__hsfp=3513193844
-main-city: 
-main-country: Switzerland
-operating-region:
-  - Online Network Europe
+city: 
+country: Switzerland
 sectors: Governance and Community
 activities: Consulting and Advisory
-date-founded: 
+start: 
 publish: 
-last-modified-by: 
 project:
   - cohere+
 ---

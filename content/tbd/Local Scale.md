@@ -1,21 +1,17 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
 date-created: 2023-11-20
 name: Brand Earth
 url: https://localscale.org/
 city: San Fransisco
 country: United States
-operating-region:
-  - " Global Network"
 sectors: Economics and business
 activities: Design, Development, and Innovation
-date-founded: 
-team-size: 
+start: 
+size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

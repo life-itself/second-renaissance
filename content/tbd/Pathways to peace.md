@@ -1,19 +1,15 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
 date-created: 2023-11-13
 name: Pathways to Peace
 url: https://pathwaystopeace.org/
 city: St. Paul
 country: United States
-operating-region:
-  - " Global Network"
 sectors: Relations and Peace
 activities: Consulting and Advisory
 date-founded: "1978"
-team-size: "12"
-publish: 
-last-modified-by:
+size: "12"
+publish:
 ---
 
 # About 

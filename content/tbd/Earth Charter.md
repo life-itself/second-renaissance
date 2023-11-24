@@ -1,17 +1,13 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
-date-created: 2023-11-16
 name: Earth charter
 url: https://earthcharter.org/
 city: San Jose
 country: Costa Rica
-operating-region:
-  - Global Network
 sectors: Education and Learning
 activities: Research
-date-founded: "2000"
-team-size: 
+start: "2000"
+size: 
 project:
   - cohere+
 publish: 

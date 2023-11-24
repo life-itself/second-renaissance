@@ -1,21 +1,17 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
 date-created: 2023-11-16
 name: U-school-lab
 url: 
 city: Boston
 country: United States
-operating-region:
-  - Global Network
 sectors: 
 activities: Consulting and Advisory
-date-founded: 
-team-size: 
+start: 
+size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

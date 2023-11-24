@@ -1,20 +1,14 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
-date-created: 2023-11-13
 name: Club of Rome
 url: https://www.clubofrome.org/
 city: 
 country: Europe
-operating-region: 
 sectors: Economics and business
 activities: Government and policy making
-date-founded: "1968"
-team-size: "12"
-project:
-  - Cohere+
-publish: false
-last-modified-by:
+start: "1968"
+size: "12"
+coherey: y
 ---
 
 # About 

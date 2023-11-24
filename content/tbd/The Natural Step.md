@@ -1,21 +1,16 @@
 ---
-date-last-modified: 
-contributors: 
-date-created: 
+created: 
 name: The Natural Step
 url: https://thenaturalstep.org/
 city: 
 country: The Netherlands
-operating-region:
-  - " Global Network"
 sectors: Governance and Community
 activities: Consulting and Advisory
-date-founded: "1989"
-team-size: 12 offices
+start: "1989"
+size: 12 offices
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

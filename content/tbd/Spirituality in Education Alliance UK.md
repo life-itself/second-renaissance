@@ -1,21 +1,17 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
-date-created: 2023-11-16
+created: 2023-11-16
 name: Spirituality in Education Alliance
 url: https://www.sieallianceuk.org/about.html
 city: 
 country: UK
-operating-region:
-  - Global Network
 sectors: Education and Learning
 activities: Research
-date-founded: "2000"
-team-size: 
+start: "2000"
+size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

@@ -5,12 +5,10 @@ title: Brand Earth
 url: https://brand.earth/
 city: 
 country: 
-operating_region:
-  - "Global Network"
 sectors: Economics and business
 activities: Consulting and Advisory
-team_size: 
-publish: false
+start: 
+size: 
 cohere: y
 ---
 
