@@ -8,8 +8,7 @@ sectors: Education and Learning
 activities: Education and Training
 start: 
 size: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 

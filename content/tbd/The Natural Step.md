@@ -8,8 +8,7 @@ sectors: Governance and Community
 activities: Consulting and Advisory
 start: "1989"
 size: 12 offices
-project:
-  - cohere+
+project: []
 publish:
 ---
 

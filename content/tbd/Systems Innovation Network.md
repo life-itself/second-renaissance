@@ -9,8 +9,7 @@ sectors: Education and Learning
 activities: Design, Development, and Innovation
 start: 
 size: 
-project:
-  - Cohere+
+project: []
 publish:
 ---
 

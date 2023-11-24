@@ -9,8 +9,7 @@ sectors: Governance and Community
 activities: Consulting and Advisory
 start: 
 size: "12"
-project:
-  - cohere+
+project: []
 publish:
 ---
 

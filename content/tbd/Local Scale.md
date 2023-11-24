@@ -9,8 +9,7 @@ sectors: Economics and business
 activities: Design, Development, and Innovation
 start: 
 size: 
-project:
-  - cohere+
+project: []
 ---
 
 # About 

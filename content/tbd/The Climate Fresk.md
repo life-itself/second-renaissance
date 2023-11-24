@@ -10,8 +10,7 @@ activities: Education and Training
 start: "2018"
 size: "30"
 publish: false
-project:
-  - cohere+
+project: []
 ---
 
 # About
