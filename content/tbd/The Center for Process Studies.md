@@ -29,7 +29,7 @@ last-modified-by:
 
 The process work institute's theory of change revolves around exploring three fundamental questions:
 
-![[processwi.jpg]]
+![[../assets/processwi.jpg]]
 ## Key educational Resources 
 
 https://ctr4process.org/resources/new-books/

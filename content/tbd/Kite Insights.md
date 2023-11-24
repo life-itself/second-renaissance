@@ -25,7 +25,7 @@ project:
 
 Kite Insights is an organization concerned with raising awareness about and providing solutions for the climate crisis. They mostly do so by providing reports and putting together events. They "work at the intersection of human and planetary issues" and have three main branches: 'content', 'curation', and 'coalition'. A summary of the content branch is posted here: 
 
-![[kite-insights.jpg]]
+![[../assets/kite-insights.jpg]]
 
 
 

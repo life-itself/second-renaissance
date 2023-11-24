@@ -31,7 +31,7 @@ They have both specific project that they work on, like a girls shelter in Guine
 
 Like many organizations, they believe that following the SDG's are a meaningful way to achieve systemic change. They have also developed their own model of 'pathways to peace' called the 'peace wheel', which focused on eight different dimensions, as outlined below. 
 
-![[peacewheel.jpg]]
+![[../assets/peacewheel.jpg]]
 ## Key educational Resources 
 
 

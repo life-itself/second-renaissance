@@ -25,7 +25,7 @@ project:
 
 Roland Berger is technically a consulting firm, which is involved in a number of different industries, as outlined in this diagram below. 
 
-![[roland-berger-industries.jpg]]
+![[../assets/roland-berger-industries.jpg]]
 
 Despite looking like a 'conventional' consulting firm based, or at least one concerned primarily with a  profit motive, they appear to be concerned with systems change. As they put it on their website, "We are convinced that the world needs a new sustainable paradigm that takes the entire value cycle into account."
 

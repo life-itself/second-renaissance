@@ -25,7 +25,7 @@ The Laszlo Institute of New Paradigm Research is an ETS. The Laszlo Institute of
 The Institute seeks to become a leading-edge, internationally recognized center of research, promoting the new paradigm emerging in science and society, and exploring and disseminating its implications and applications in regard to human wellbeing and social and ecological sustainability.
 
 
-![[laszlo-institute.jpg]]
+![[../assets/laszlo-institute.jpg]]
 ### Key people 
 
 https://thelaszloinstitute.com/about/the-executive-committee/

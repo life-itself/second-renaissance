@@ -28,7 +28,7 @@ The Earth charter is technically a document with sixteen principles for systems 
 
 The Earth Charter, like many organizations, believes that systems change needs to occur at a fast pace. They have outlined four 'pillars' for transforming the current 'global situation'.
 
-![[earthcharter.jpg]]
+![[../assets/earthcharter.jpg]]
 
 ## Key educational Resources 
 

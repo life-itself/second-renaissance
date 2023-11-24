@@ -26,7 +26,7 @@ They are involved with 'systems change projects' at a number of different levels
 
 They have a branch called 'social labs' which aims to "bring together people from across the system to seek the root causes behind their problems and then collaborate on devising and testing solutions aimed at key leverage points. This change work continues in the “lab” of the real world – over time and in context."
 
-![[Reospartners 1.jpg]]
+![[../assets/Reospartners 1.jpg]]
 
 ### Key people 
 

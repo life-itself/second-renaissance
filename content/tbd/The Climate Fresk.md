@@ -29,7 +29,7 @@ They have a large team and a presence in over 130 countries, and their workshops
 "Through a shared understanding of the mechanisms at work, Climate Fresk enables both individuals and organizations to have an open and positive conversation about climate solutions."
 
 
-![[climate-fresk.jpg]]
+![[../assets/climate-fresk.jpg]]
 
 
 
