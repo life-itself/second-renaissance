@@ -7,7 +7,7 @@ city: St. Paul
 country: United States
 sectors: Relations and Peace
 activities: Consulting and Advisory
-date-founded: "1978"
+start: "1978"
 size: "12"
 ---
 
