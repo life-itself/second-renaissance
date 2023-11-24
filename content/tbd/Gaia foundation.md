@@ -39,7 +39,7 @@ Restoring a respectful relationship with, and a holistic understanding of, our o
 
 Celebrating and re-weaving the web of Life, which sustains us all."
 
-![[gaiaf.jpg]]
+![[../assets/gaiaf.jpg]]
 
 ### Key people 
 

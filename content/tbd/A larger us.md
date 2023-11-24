@@ -30,7 +30,7 @@ Initially, the organization formed in response to Brexit. Over the years, they c
 Larger US is interested in people and organizations who:  recognize the humanity in ‘the other side’, and what motivates them to act as they do; are willing to listen and reach out beyond their usual support base; understand and acts on the inner change needed to do this emotionally demanding kind of work.
 
 
-![[larger-us.jpg]]
+![[../assets/larger-us.jpg]]
 
 
 

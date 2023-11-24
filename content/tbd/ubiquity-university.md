@@ -24,7 +24,7 @@ Ubiquity University offers "transformational higher education for people ready t
  
 The Wisdom School has a deep dedication to in-person and online holistic learning that emphasizes the heart as much as the head, artistic expression as much as intellectual rigor, the body as much as the soul. Our courses seek to bring balance through diversity, harmony through dialogue, community through caring.
 
-![[ubiquity-university.jpg]]
+![[../assets/ubiquity-university.jpg]]
 ### Key people 
 
 https://www.ubiquityuniversity.org/team/

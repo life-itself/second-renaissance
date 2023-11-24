@@ -26,7 +26,7 @@ In short, it seems like they mostly work with organizations to 'become sustainab
 
 Here is an example of their strategy/website:
 
-![[naturalstep.jpg]]
+![[../assets/naturalstep.jpg]]
 
 ### Key people 
 

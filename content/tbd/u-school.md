@@ -28,7 +28,7 @@ last-modified-by:
   
 The **u-school for transformation** builds on the **Presencing Institute’s** 15+ years of capacity building, action labs and research based on [Theory U](https://www.u-school.org/theory-u), a framework for catalyzing transformative personal and systems change.
 
-![[presensing-institute.jpg]]
+![[../assets/presensing-institute.jpg]]
 ## Key educational Resources 
 
 https://www.u-school.org/theory-u
