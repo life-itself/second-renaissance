@@ -6,7 +6,7 @@ city: Braine l’Alleud
 country: Belgium
 sectors: 
 activities: 
-team-size: 1-10
+size: 1-10
 cohere: y
 ---
 

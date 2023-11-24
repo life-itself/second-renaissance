@@ -10,7 +10,6 @@ start:
 size: "12"
 cohere:
   - y
-publish:
 ---
 
 # About 

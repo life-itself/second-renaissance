@@ -9,7 +9,6 @@ sectors: Relations and Peace
 activities: Consulting and Advisory
 date-founded: "1978"
 size: "12"
-publish:
 ---
 
 # About 

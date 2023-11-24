@@ -10,7 +10,6 @@ start: "1995"
 size: 
 project:
   - cohere+
-publish:
 ---
 
 # About 

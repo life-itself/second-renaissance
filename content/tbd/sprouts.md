@@ -6,8 +6,6 @@ name: Sprouts
 url: https://www.thesprouts.co/home
 city: Havelange
 country: Belgium
-region:
-  - Europe
 sectors: Education and Learning; Environment, Food and Water
 activities: Education and Training
 start: "2018"

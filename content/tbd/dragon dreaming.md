@@ -9,7 +9,6 @@ activities: Education and Training
 start: 
 size: 
 cohere: y
-publish: false
 ---
 
 # About 

@@ -10,7 +10,6 @@ start:
 size: 
 project:
   - cohere+
-publish:
 ---
 
 # About 
