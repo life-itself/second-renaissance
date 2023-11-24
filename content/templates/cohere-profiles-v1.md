@@ -4,18 +4,10 @@ title:
 url: 
 city: 
 country: 
-regions:
-  - Europe
-  - North America
-  - Latin America
-  - Africa
-  - Asia
-  - Global/Online
-  - Oceania
 sectors: 
 activities: 
 started: 
-team_size: 
+size: 
 cohere: 
 metadata_version: "1"
 ---
