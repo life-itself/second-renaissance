@@ -9,7 +9,6 @@ sectors: Environment, Food, and Water
 activities: Consulting and Advisory
 start: "2021"
 size: 100+
-publish: false
 project:
   - cohere+
 ---
