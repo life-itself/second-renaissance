@@ -1,6 +1,6 @@
 ---
 contributors: Matthew McCarthy
-date-created: 2023-11-16
+created: 2023-11-16
 name: Ubiquity University
 url: ubiquity university
 city: 
