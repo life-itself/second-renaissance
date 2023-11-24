@@ -1,21 +1,14 @@
 ---
-data-entry-notes: 
-last-modified: 2023-11-21
-last-modified-by:
-  - Matthew McCarthy
 contributors: Matthew McCarthy
 date-created: 2023-11-21
 name: Kite Insights
 url: https://kiteinsights.com/
-main-city: London
-main-country: UK
-operating-region:
-  - Global/Online
-  - Europe
+city: London
+country: UK
 sectors: Environment, Food, and Water
 activities: Consulting and Advisory
-date-founded: "2021"
-team-size: "24"
+start: "2021"
+size: "24"
 publish: false
 project:
   - cohere+

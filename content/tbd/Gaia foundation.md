@@ -1,21 +1,16 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
-date-created: 2023-11-20
 name: Gaia Foundation
 url: https://gaiafoundation.org/
 city: 
 country: UK
-operating-region:
-  - Europe Global Network
 sectors: Justice and Restoration
 activities: Design, Development, and Innovation
-date-founded: "1988"
-team-size: 
+start: "1988"
+size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

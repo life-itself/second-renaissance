@@ -1,24 +1,15 @@
 ---
-data-entry-notes: 
-last-modified: 2023-11-20
-last-modified-by:
-  - Matthew McCarthy
 contributors: Matthew McCarthy
-date-created: 2023-11-20
-name: A Larger US
+created: 2023-11-20
+title: A Larger US
 url: https://larger.us/
-main-city: 
-main-country: UK
-operating-region:
-  - Global/Online
-  - Europe
+city: 
+country: UK
 sectors: Relations and Peace
 activities: Education and Training
-date-founded: "2018"
-team-size: "30"
-publish: false
-project:
-  - cohere+
+start: "2018"
+size: "30"
+cohere: y
 ---
 
 # About

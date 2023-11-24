@@ -1,21 +1,14 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
-date-created: 2023-11-16
 name: Dolphin Embassy
 url: https://www.dolphinembassy.org/
 city: 
 country: 
-operating-region:
-  - Global Network
 sectors: Relations and Peace
 activities: Advocacy and Activism
-date-founded: 
-team-size: 
-project:
-  - cohere+
-publish: 
-last-modified-by:
+start: 
+size: 
+cohere: y
 ---
 
 # About 

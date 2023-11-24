@@ -1,23 +1,15 @@
 ---
-data-entry-notes: 
-last-modified: 2023-11-21
-last-modified-by:
-  - Matthew McCarthy
 contributors: Matthew McCarthy
-date-created: 2023-11-21
-name: AXA Climate School
+created: 2023-11-21
+title: AXA Climate School
 url: https://axaclimateschool.com/
-main-city: 
-main-country: France
-operating-region:
-  - Global/Online
+city: 
+country: France
 sectors: Environment, Food, and Water
 activities: Education and Training
-date-founded: "2021"
-team-size: "8"
-publish: false
-project:
-  - cohere+
+start: "2021"
+size: "8"
+cohere: y
 ---
 
 # About

@@ -1,20 +1,14 @@
 ---
-data-entry-notes: 
-last-modified: 2023-11-17
-last-modified-by:
-  - Matthew McCarthy
 contributors: Matthew McCarthy
-date-created: 2023-11-17
+created: 2023-11-17
 name: The Climate Fresk
 url: https://climatefresk.org/
-main-city: 
-main-country: France
-operating-region:
-  - Global/Online
+city: 
+country: France
 sectors: Environment, Food, and Water
 activities: Education and Training
 date-founded: "2018"
-team-size: "30"
+size: "30"
 publish: false
 project:
   - cohere+

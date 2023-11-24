@@ -5,11 +5,9 @@ title: Catalist
 url: https://www.catalist.network/
 city: 
 country: 
-region: Global Network
 sectors: Governance and Community
 activities: Convening and coordination
 start: 
-end:
 size: 
 cohere: y
 ---

@@ -1,21 +1,16 @@
 ---
-date-last-modified: 
 contributors: 
-date-created: 2023-11-15
 name: Eutopia
 url: https://eutopia-university.eu/
 city: 
 country: 
-operating-region:
-  - Europe Global Network
 sectors: Education and Learning
 activities: Education and Training
-date-founded: 
-team-size: 
+start: 
+size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

@@ -1,21 +1,17 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
 date-created: 2023-11-16
 name: Ubiquity University
 url: ubiquity university
 city: 
 country: 
-operating-region:
-  - Global Network
 sectors: Education and Learning
 activities: Education and Training
-date-founded: 
-team-size: 
+start: 
+size: 
 project:
   - cohere+
 publish: false
-last-modified-by:
 ---
 
 # About 

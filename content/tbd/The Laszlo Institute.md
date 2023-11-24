@@ -1,21 +1,17 @@
 ---
-date-last-modified: 
 contributors: Matthew McCarthy
-date-created: 2023-11-16
+created: 2023-11-16
 name: The Laszlo Institte
 url: https://thelaszloinstitute.com/
 city: 
 country: 
-operating-region:
-  - Global Network
 sectors: Education and Learning
 activities: Research
-date-founded: 
-team-size: 
+start: 
+size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 

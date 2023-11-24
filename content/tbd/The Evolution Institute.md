@@ -1,21 +1,14 @@
 ---
-data-entry-notes: 
-last-modified: 2023-11-21
-last-modified-by:
-  - Matthew McCarthy
 contributors: Matthew McCarthy
-date-created: 2023-11-21
+created: 2023-11-21
 name: The Evolution Institute
 url: https://evolution-institute.org/
-main-city: Warsaw
-main-country: 
-operating-region:
-  - Global/Online
-  - Europe
+city: Warsaw
+country: 
 sectors: Environment, Food, and Water
 activities: Consulting and Advisory
-date-founded: "2021"
-team-size: 100+
+start: "2021"
+size: 100+
 publish: false
 project:
   - cohere+

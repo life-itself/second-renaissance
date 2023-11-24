@@ -1,21 +1,16 @@
 ---
-date-last-modified: 
 contributors: 
-date-created: 2023-11-15
 name: Earth4all
 url: https://earth4all.life/
 city: 
 country: 
-operating-region:
-  - Europe Global Network
 sectors: Education and Learning
 activities: Research
-date-founded: 
-team-size: "12"
-project:
-  - cohere+
-publish: 
-last-modified-by:
+start: 
+size: "12"
+cohere:
+  - y
+publish:
 ---
 
 # About 

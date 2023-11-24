@@ -1,21 +1,16 @@
 ---
-date last modified: 
 contributors: 
-date created: 2023-11-15
 name: Global scenarios Group
 url: https://gsg.org/index.html
 city: 
 country: 
-operating-region:
-  - Europe Global Network
 sectors: Education and Learning
 activities: Research
-date-founded: "1995"
-team-size: 
+start: "1995"
+size: 
 project:
   - cohere+
-publish: 
-last-modified-by:
+publish:
 ---
 
 # About 
