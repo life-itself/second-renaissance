@@ -8,7 +8,7 @@ country: United States
 sectors: Economics and business
 activities: Business
 date-founded: "2010"
-team-size: "3"
+size: "3"
 publish:
 ---
 

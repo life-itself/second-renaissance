@@ -1,6 +1,6 @@
 ---
 contributors: Matthew McCarthy
-date-created: 2023-11-13
+created: 2023-11-13
 name: Pathways to Peace
 url: https://pathwaystopeace.org/
 city: St. Paul
