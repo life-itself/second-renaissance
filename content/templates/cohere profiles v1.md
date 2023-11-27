@@ -8,7 +8,7 @@ sectors:
 activities: 
 started: 
 size: 
-cohere: 
+cohere: true
 metadata_version: "1"
 ---
 
