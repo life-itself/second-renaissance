@@ -4,12 +4,13 @@ name: Earth4all
 url: https://earth4all.life/
 city: 
 country: 
-sectors: Education and Learning
-activities: Research
+sectors:
+  - Education and Learning
+activities:
+  - Research
 start: 
 size: "12"
-cohere:
-  - y
+cohere: true
 ---
 
 # About 
