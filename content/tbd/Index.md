@@ -1,4 +1,8 @@
 
+```dataview
+table country, cohere, sectors, activities, started, size
+from "content/tbd"
+```
 
 ## Cohere + project 
 
