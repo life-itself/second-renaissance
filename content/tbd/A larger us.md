@@ -18,7 +18,7 @@ Larger Us is an organization dedicated to overcoming some of the psychological a
 
 Initially, the organization formed in response to Brexit. Over the years, they changed from just publishing research to becoming "a co-created space for learning, sharing ideas, and asking the biggest questions about how we become a larger us rather than a them-and-us at a moment when everything depends on our ability to come together at all levels from neighborhoods to nations."
 
-Larger US is interested in people and organizations who:  recognize the humanity in ‘the other side’, and what motivates them to act as they do; are willing to listen and reach out beyond their usual support base; understand and acts on the inner change needed to do this emotionally demanding kind of work.
+Larger US is interested in people and organizations who recognize the humanity in ‘the other side’, and what motivates them to act as they do; are willing to listen and reach out beyond their usual support base; understand and acts on the inner change needed to do this emotionally demanding kind of work.
 
 
 ![[../assets/larger-us.jpg]]

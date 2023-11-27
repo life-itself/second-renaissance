@@ -21,15 +21,17 @@ The organization provides different 'hubs', which are themes to connect certain 
 on content about cities and systems innovation. 
 
 They seem to be an organization that is able to provide a number of actors, resources, and potential projects in one platform. The platform, too, is quite nice and clean, and seems to work well and have a good amount of involvement. 
+
+![[si-network-.png]]
 ### Key people 
 
 - 
 
 ## Theory of Change 
 
-We are building an ecosystem of individuals and organizations co-learning and co-creating systems innovation across geographies and sectors. This ecosystem is enabled by our online platform which provides educational content, toolkits, organizes events and projects as well as provides various support services for organizations. 
+As mentioned above, they believe that transformation occurs when it is systemic; or at least more meaningful kinds of transformation. Thus, they aim to innovate 'solutions' which can transform how systems operate. 
 
-As mentioned above, they believe that transformation occurs when it is systemic; or atleast more meaningful kinds of transformation. Thus, they aim to innovate 'solutions' which can transform how systems operate. 
+Additionally, they focus on building "an ecosystem of individuals and organizations co-learning and co-creating systems innovation across geographies and sectors", which is "enabled by our online platform which provides educational content, toolkits, organizes events and projects as well as provides various support services for organizations."
 
 ## Key educational Resources 
 
