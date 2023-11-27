@@ -13,7 +13,7 @@ cohere: y
 
 # About 
 
-The Club of Rome is a group of international economists and researchers  who are concerned with transforming the global financial world system. Here is what they have put on their website: 
+The Club of Rome is a group of international economists and researchers  who are concerned with transforming the global financial world system. 
 
 According to their website, "The Club of Rome was created to address the multiple crises facing humanity and the planet. Drawing on the unique, collective know-how of our 100 members – notable scientists, economists, business leaders and former politicians – we seek to define comprehensive solutions to the complex, 
 interconnected challenges of our world."
@@ -42,5 +42,5 @@ within a more resilient biosphere."
 
 ## Connections 
 
-Similar to Eutopia, they seem to be a particular kind of change agent that has a special capacity for systems change. In this case, it is the expertise of economists, scientists, and policy makers who are able to create meaningful and necessary policy for deep systems change at a societal level.
+[Earth4all] 
 

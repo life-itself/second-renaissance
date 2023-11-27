@@ -14,10 +14,9 @@ cohere: y
 
 # About 
 
-Catalist is a website that is particularly project driven, and allows people and organizations to get more easily involved in. In this sense, it is more 
-action oriented than meta resource. In a way, they are also interested in 'cohering' the field of change agents. 
+Catalist is a website that is particularly project driven, and allows people and organizations to get more easily involved in the kinds of sectors that they work in. In this sense, it is more action oriented than meta resource. In a way, they are also interested in 'cohering' the field of change agents. 
 
-It is organized into different 'spaces', 'objects' 'sets' and 'attributes'. At times, it can feel a little unclear why this exact organization is chosen, and whether it really works for organizing the different 'change agents' and material out there. Perhaps it can be a useful method; although at this point it seems a little confusing. 'Objects', for example, are anything that is created on catalist, although theya re categorized by 'type'- why not attribute? 
+It is organized into different 'spaces', 'objects' 'sets' and 'attributes'. At times, it can feel a little unclear why this exact organization is chosen, and whether it really works for organizing the different 'change agents' and material out there. Perhaps it can be a useful method; although at this point it seems a little confusing. 'Objects', for example, are anything that is created on catalist, although they  are categorized by 'type'- why not attribute? 
 
 Nonetheless it includes a lot of useful information and frameworks (sets)
 
