@@ -49,7 +49,7 @@ Cache of this data here: https://drive.google.com/drive/folders/1Arb63uGCD0bDHPR
 Mentioned in this thread: https://twitter.com/rufuspollock/status/1501160815277318146
 
 Started in 2021/2022
-### To process
+## To Process
 
 - [Gaianet](https://www.gaianet.earth)
 - https://www.localfutures.org/action-resources/maps-of-alternatives/
@@ -70,13 +70,13 @@ Started in 2021/2022
 - https://www.transformationscommunity.org/systems-education-catalog (From BG)
 - http://www.communityloversguide.org/ - examples of innovative local community projects
 
-**From PW, 2023-08-18**
+### From PW, 2023-08-18
 
 - https://www.fito.network/tools (if we need to find additional (orgs that offer) coherence building tools)
 - https://lookerstudio.google.com/u/0/reporting/d834b3dc-21cd-464a-a23a-495544ab17b0/page/hwh9B
 - [illuminatesystems.org/visualisingthefield](http://illuminatesystems.org/visualisingthefield)
 - [greaterthanthesum.com/social-system-maps/](http://greaterthanthesum.com/social-system-maps/)
 
-**From the SINE newtork**
+### From the SINE network
 
-<img width="569" alt="sine-network1" src="https://github.com/life-itself/ecosystem/assets/131390186/c67732d2-4a93-42d0-aaed-5d3b108eb6fe">
+![](https://github.com/life-itself/ecosystem/assets/131390186/c67732d2-4a93-42d0-aaed-5d3b108eb6fe)
