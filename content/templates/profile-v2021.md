@@ -67,5 +67,5 @@ This is documentation of the metadata profile we used for the 2021 release of th
 | id  | title  | description |
 |---|---|---|
 |inner|Inner Change|Spirituality, mindfulness, personal development|
-|cultural|Cultural Change|[Community and cultural change], Community building  <br>Conscious collectives ??|
+|cultural|Cultural Change|[Community and cultural change], Community building Conscious collectives ??|
 |systems|Systems Change|Systems change esp governance|
