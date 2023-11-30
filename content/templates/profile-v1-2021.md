@@ -1,11 +1,10 @@
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |name|subattributes|title|description|examples|source_method|type|format|factual (y/n)|priority|priority_notes|shown_on_website|How often filled|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |name||Full name or title||Life Itself||string|||||Y|140|
 |id||A short web-useable url||life-itself||||||||249|
 |rd_1_focus||Current focus|Says whether we should focus on this organisation (or not yet?)|Y = priority  <br>YY = top priority  <br>? = maybe/not sure  <br>N = not current priority||||||||138|
 |url||Homepage URL||[https://lifeitself.us](https://lifeitself.us)||string|url|||||140|
-|description||Long textual description|Long textual description from the organization in their own words (likely copied from their home page and about page)|We are pragmatic utopians, committed to practical action for a radically wiser, weller world.  <br>  <br>We create coliving hubs, start businesses, do research and engage in activism to pioneer a wiser culture. We are ordinary people who choose an extra-ordinary path, treading the middle way between Plum Village and Silicon Valley.  <br>  <br>Despite our wealth and technologies, we are struggling at both a personal and collective levels. Personally, we are are not truly happy, satisfied and at peace; collectively we are failing to act powerfully on issues ranging from climate change to health. We believe the roots of both of these lie in our culture – which is grounded in materialism, technology and individualism – and thus a breakthrough requires a transformation in culture: the views, values, beliefs, practices that underlie our collective way of being.  <br>  <br>Real change requires us to work, and even live, together – hence creating co-living spaces and businesses; and to share ideas through writing and events, ultimately engaging in politics and social change.  <br>  <br>We balance the spiritual and the rational. We like meditation as much as we like getting things done. We want meaningful work and a meaningful life. We value the environment and technology, art and science. We take action, both personal and political. We’re the middle way between the suit and the hippy, between the billionaire and the monk.|manual|string||||||133|
+|description||Long textual description|Long textual description from the organization in their own words (likely copied from their home page and about page)||manual|string||||||133|
 |description_extracted||Description from website|The description that is auto-extracted from their website||automated/microlink||||||||
 |inner|||||||||||||
 |cultural|||||||||||||
@@ -47,10 +46,10 @@
 |started||Start date (year)||2015||||||||97|
 |ended||End date (year)||2020||||||||0|
 |active||Active (Y/N)||Y||||||||114|
-|people||List of people|Comma separated list of associated people. A person has the format `Name [<email>]` where [ ] indicates it is optional ...|Indy Johar <indy@darkmatterlabs.org>||array[Person]||||||72|
-|notes_data_entry||Notes on data entry|comments on the current content of any cell in this line|I've only wrote down a few of the people - Charlotte||||||||25|
-||||||||||||||
-|Maybe|||||||||||||
+|people||List of people|Comma separated list of associated people. A person has the format `Name [<email>]` where [ ] indicates it is optional ...|Joe Bloggs <joe@bloggsbettersociety.org>||array[Person]||||||72|
+
+### Maybe
+
 |tagline|||||||||||||
 |type||Organization or Individual|||||||||||
 |Prep metadata|||||||||||||
