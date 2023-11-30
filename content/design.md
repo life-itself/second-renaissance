@@ -15,6 +15,14 @@ This is optional background on the purpose and history of the project.
 
 It's fine to skip this and go straight to the more design oriented sections below.
 
+### Purpose of the project
+
+From  [[why|Why]]
+
+> Short answer: mapping is a first step in building an emerging field/movement and we want to build a field/movement for inner-led paradigmatic change -- for a second renaissance and awakening societies!
+>
+> More near-term: Establishing a field brings credibility. It means having a name, having an area with well defined participants etc. Right now, we don't even have a common agreed name or key principles for what defines this emerging movement. That makes it hard to "find the others", to get resources, to be seen from outside the area etc.
+
 ### Timeline
 
 - 2019-2020: start looking at ecosystem mapping systematically
@@ -24,11 +32,9 @@ It's fine to skip this and go straight to the more design oriented sections belo
 - **Sep 2021**: 🔥 publish major update with over one hundred organizations, a dedicated website in time for Emerge gathering
   - Oct-Nov 2021: Add visualizations
 - **Dec 2021**: 🔥 Publish "[Mapping for Emergence](https://lifeitself.org/blog/2021/12/09/mapping-for-emergence)" piece outlining the purpose and idea
-- **H1 2022**: write pages about key ideas and movements in the ecosystem TODO: link
-- Q1 2022: collaborate on an Erasmus proposal that becomes Cohere+
-- 2023: start working on Cohere+
-
-
+- **2022 H1**: write pages about key ideas and movements in the ecosystem TODO: link
+- 2022 Q1: collaborate on an Erasmus proposal that becomes Cohere+
+- **2023 Jan**: 🚀 Erasmus funded Cohere+ launches - https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce
 
 ## Job Stories
 
