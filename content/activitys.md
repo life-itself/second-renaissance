@@ -2,13 +2,13 @@
 title: Activities list
 ---
 
-- [[Advocacy]]
-- [[Business]]
-- [[Education]]
-- [[Events]]
-- [[Funding]]
-- [[Media]]
-- [[Network]]
-- [[Research]]
-- [[Spaces]]
+- [[advocacy]]
+- [[business]]
+- [[education]]
+- [[events]]
+- [[funding]]
+- [[media]]
+- [[network]]
+- [[research]]
+- [[spaces]]
 

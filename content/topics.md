@@ -2,14 +2,14 @@
 title: Topic list
 ---
 
-- [[Arts]]
-- [[Community]]
-- [[Development]]
-- [[Ecology]]
-- [[Governance]]
-- [[Politics]]
-- [[Spirituality]]
-- [[Tech]]
-- [[Wellbeing]]
-- [[Work]]
+- [[arts]]
+- [[community]]
+- [[development]]
+- [[ecology]]
+- [[governance]]
+- [[politics]]
+- [[spirituality]]
+- [[tech]]
+- [[wellbeing]]
+- [[work]]
 
