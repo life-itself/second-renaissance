@@ -17,7 +17,7 @@
 |twitter||Twitter|Their twitter page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|not-found|||||3|||77|
 |instagram||Instagram|Their Instagram page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|[](https://www.instagram.com/brave_earth_/)[https://www.instagram.com/brave_earth_/](https://www.instagram.com/brave_earth_/)|||||2|||78|
 |linkedin||Linkedin|Their linkedin page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|not-found|||||2|||72|
-
+|facebook||Facebook|Their facebook page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|[](https://www.facebook.com/braveearth)[https://www.facebook.com/braveearth](https://www.facebook.com/braveearth)||||||||78|
 |phone||Phone||||||||||0|
 |logo|url|URL to Logo image||[https://lifeitself.us/wp-content/uploads/2020/12/life-itself-logo.svg](https://lifeitself.us/wp-content/uploads/2020/12/life-itself-logo.svg)||string|url|||||109|
 ||cached|URL of logo (cached in cloudinary)||[https://res.cloudinary.com/ds7qslkd0/image/upload/v1633363990/Ecosystem%20Mapping/life-itself-logo_syl7ai.svg](https://res.cloudinary.com/ds7qslkd0/image/upload/v1633363990/Ecosystem%20Mapping/life-itself-logo_syl7ai.svg)||||||||74|
