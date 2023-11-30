@@ -2,7 +2,6 @@
 title: activitys-list
 ---
 
-
 - [advocacy]
 - [business]
 - [education]
