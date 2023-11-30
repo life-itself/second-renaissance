@@ -18,9 +18,9 @@ Fill in or delete the following sections as appropriate.
 
 # Properties (above)
 ## created 
-date  that file was created
+- date that file was created
 ## contributors 
-names of contributors
+- names of contributors
 ## locations
 - where they have an active and ongoing presence
 - format = [city], country, e.g. London, UK (can list multiple locations)
@@ -33,7 +33,7 @@ names of contributors
 - format = select one of the following ranges: 1-3; 3-10; 10-20; 20-50; 50-100; 100+
 ## image
 - representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
-- format = filepath (save image in assets
+- format = filepath (save image in assets/img)
 ## sectors 
 - what areas of activity is the actor skilled or specialised in?
 ## activities 
