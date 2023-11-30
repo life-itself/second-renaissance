@@ -2,7 +2,7 @@
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |name||Full name or title||Life Itself||string|||||Y|140|
 |id||A short web-useable url||life-itself||||||||249|
-|rd_1_focus||Current focus|Says whether we should focus on this organisation (or not yet?)|Y = priority  <br>YY = top priority  <br>? = maybe/not sure  <br>N = not current priority||||||||138|
+|rd_1_focus||Current focus|Says whether we should focus on this organisation (or not yet?)|Y = priority  <br />YY = top priority  <br />? = maybe/not sure  <br />N = not current priority||||||||138|
 |url||Homepage URL||[https://lifeitself.us](https://lifeitself.us)||string|url|||||140|
 |description||Long textual description|Long textual description from the organization in their own words (likely copied from their home page and about page)||manual|string||||||133|
 |description_extracted||Description from website|The description that is auto-extracted from their website||automated/microlink||||||||
@@ -46,7 +46,7 @@
 |started||Start date (year)||2015||||||||97|
 |ended||End date (year)||2020||||||||0|
 |active||Active (Y/N)||Y||||||||114|
-|people||List of people|Comma separated list of associated people. A person has the format `Name [<email>]` where [ ] indicates it is optional ...|Joe Bloggs <joe@bloggsbettersociety.org>||array[Person]||||||72|
+|people||List of people|Comma separated list of associated people. A person has the format `Name [<email>]` where [ ] indicates it is optional ...|`Joe Bloggs <joe@bloggsbettersociety.org>`||array[Person]||||||72|
 
 ### Maybe
 
