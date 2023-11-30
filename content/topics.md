@@ -1,0 +1,12 @@
+- Arts and Culture
+- Economics and Business
+- Education and Learning 
+- Environment, Food, and Water
+- Governance and Community 
+- Health and Wellbeing 
+- Infrastructure and Resource
+- Justice and Restoration 
+- Media and Communications 
+- Relations and Peace 
+- Science and Technology 
+- Spirituality and Religion 
