@@ -1,13 +1,15 @@
 ---
-created: 2023-11-17
-title: 
+created: "{{DATE}}"
+contributors: 
+title: title of the wiki entry, e.g. name of organisation, person, or concept
 url: 
-city: 
-country: 
+locations: 
+start: 
+end: 
+size: 1-3 | 4-10 | 11-20 | 21-50 | 51-100 | 101+
+image: 
 sectors: 
 activities: 
-started: 
-size: 
 cohere: true
 metadata_version: "1"
 ---
@@ -15,12 +17,27 @@ metadata_version: "1"
 Fill in or delete the following sections as appropriate. 
 
 # Properties (above)
-
-Guidelines for filling in Properties (above):
-
-- Sectors = What areas of activity is the actor skilled or specialised in?
-- Activities = What are the main activities/interventions they do to bring about change?
-- Team-size = paid staff members, doesn't include e.g. board members or trustees. Fill in range not exact number.
+## created 
+date  that file was created
+## contributors 
+names of contributors
+## locations
+- where they have an active and ongoing presence
+- format = [city], country, e.g. London, UK (can list multiple locations)
+## start 
+- year founded 
+## end
+-  year ended 
+## size
+- team size (no. of paid team members, e.g. doesn't include board members or trustees)
+- format = select one of the following ranges: 1-3; 3-10; 10-20; 20-50; 50-100; 100+
+## image
+- representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
+- format = filepath (save image in assets
+## sectors 
+- what areas of activity is the actor skilled or specialised in?
+## activities 
+- what are the main activities/interventions they do to bring about change?
 
 # About
 
@@ -51,6 +68,6 @@ e.g. organisations they seem similar to; organisations they are partnered with; 
 
 e.g. 
 - Funded by [[learning-for-wellbeing-foundation]]
-- 
+
 
 
