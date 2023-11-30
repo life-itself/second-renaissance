@@ -1,6 +1,6 @@
 const userConfig = {
 	title: 'Mapping an Emerging Ecosystem',
-  description: 'An emerging ecosystem is seeking a radical, alternative approach to social change. One that is simultaneous paradigmatic, integrated and engaged (PIE). The project provides a map includes an overview of key features, ideas, organizations and initiatives.',
+  description: 'An emerging ecosystem is seeking a radical, alternative approach to social change. One that is simultaneous paradigmatic, integrated and engaged (PIE). The project provides a map including key features, ideas, organizations and initiatives.',
   author: 'Life Itself',
   authorLogo: '/life-itself-logo.svg',
   authorUrl: 'https://lifeitself.us/',
