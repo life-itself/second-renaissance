@@ -50,7 +50,14 @@
 
 ### Maybe
 
-|tagline|||||||||||||
-|type||Organization or Individual|||||||||||
-|Prep metadata|||||||||||||
-|Rd 1 focus|||||||||||||
+- tagline
+- type: Organization or Individual
+- Prep metadata
+
+### `social_change`
+
+| id  | title  | description |
+|---|---|---|
+|inner|Inner Change|Spirituality, mindfulness, personal development|
+|cultural|Cultural Change|[Community and cultural change], Community building  <br>Conscious collectives ??|
+|systems|Systems Change|Systems change esp governance|
