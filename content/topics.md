@@ -1,15 +1,15 @@
 ---
-title: topic-list
+title: Topic list
 ---
 
-- [[arts]]
-- [[community]]
-- [[development]]
-- [[ecology]]
-- [[governance]]
-- [[politics]]
-- [[spirituality]]
-- [[tech]]
-- [[wellbeing]]
-- [[work]]
--
+- [[Arts]]
+- [[Community]]
+- [[Development]]
+- [[Ecology]]
+- [[Governance]]
+- [[Politics]]
+- [[Spirituality]]
+- [[Tech]]
+- [[Wellbeing]]
+- [[Work]]
+
