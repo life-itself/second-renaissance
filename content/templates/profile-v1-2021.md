@@ -1,5 +1,4 @@
-
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |   |   |   |
 |name|subattributes|title|description|examples|source_method|type|format|factual (y/n)|priority|priority_notes|shown_on_website|How often filled|
 |name||Full name or title||Life Itself||string|||||Y|140|
 |id||A short web-useable url||life-itself||||||||249|
