@@ -1,4 +1,4 @@
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
+
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |name|subattributes|title|description|examples|source_method|type|format|factual (y/n)|priority|priority_notes|shown_on_website|How often filled|
 |name||Full name or title||Life Itself||string|||||Y|140|
@@ -10,7 +10,7 @@
 |inner|||||||||||||
 |cultural|||||||||||||
 |systems|||||||||||||
-|email||Contact email|A contact email for the organization. Usually from website (sometimes from their facebook page).|hello@lifeitself.us|||||5|We need this for contacting them etc||90|
+|email||Contact email|A contact email for the organization. Usually from website (sometimes from their facebook page).|joe@blogs.com|||||5|We need this for contacting them etc||90|
 |email2||Second contact email|when there was a second (and different) email address e.g. for press/media specifically or from facebook page|||||||||10|
 |have_email||Does the organisation have a contact email?|Y if email of if we have a contact detail of one of the main people, N if no email at all|||||||||76|
 |blog||Blog|Their blog e.g. their medium or wordpress page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|not-found|||||3|||70|
@@ -18,7 +18,7 @@
 |twitter||Twitter|Their twitter page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|not-found|||||3|||77|
 |instagram||Instagram|Their Instagram page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|[](https://www.instagram.com/brave_earth_/)[https://www.instagram.com/brave_earth_/](https://www.instagram.com/brave_earth_/)|||||2|||78|
 |linkedin||Linkedin|Their linkedin page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|not-found|||||2|||72|
-|facebook||Facebook|Their facebook page. The link can usually be found on their website. If no link/page has been found the cell will say 'not-found'.|[](https://www.facebook.com/braveearth)[https://www.facebook.com/braveearth](https://www.facebook.com/braveearth)||||||||78|
+
 |phone||Phone||||||||||0|
 |logo|url|URL to Logo image||[https://lifeitself.us/wp-content/uploads/2020/12/life-itself-logo.svg](https://lifeitself.us/wp-content/uploads/2020/12/life-itself-logo.svg)||string|url|||||109|
 ||cached|URL of logo (cached in cloudinary)||[https://res.cloudinary.com/ds7qslkd0/image/upload/v1633363990/Ecosystem%20Mapping/life-itself-logo_syl7ai.svg](https://res.cloudinary.com/ds7qslkd0/image/upload/v1633363990/Ecosystem%20Mapping/life-itself-logo_syl7ai.svg)||||||||74|
