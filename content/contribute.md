@@ -7,7 +7,7 @@ From the outset, we have argued that any successful mapping effort must be colla
 
 We have given the site a wiki-like structure, meaning people can contribute and add items directly - no coding required. So, if you know of an organization that you think should be on our map, or see something you think needs amending, go ahead and contribute to our site! We have written up a guide detailing how anyone can edit or add content to our site themselves using Github. 
 
-Find our contributors' guide [here](/contributors-guide).
+Find our contributors' guide below.
 
 Alternatively, if you would like to contribute by a more non-technical method, see below. 
 
@@ -34,9 +34,6 @@ We'd love help in every area of this project from research and writing to visual
 
 We would welcome the sharing of any opportunities for resourcing, or offers of direct support! We are currently undertaking the project using only our own internal resources, which limits the scope and speed of our activities. Additional resources could make a big difference to sustaining and expanding this work. [Get in touch &raquo;][contact].
 
-
-[contact]: https://lifeitself.us/contact/
-
 # Contributors’ Guide 
 ## *How to add or edit content on [https://ecosystem.lifeitself.us/](https://ecosystem.lifeitself.us/)*
 
@@ -46,12 +43,6 @@ We would welcome the sharing of any opportunities for resourcing, or offers of d
 2. [How to edit and add to the site](#how-to-edit-and-add-to-the-site)
 3. [Glossary](#glossary)
 4. [Contact](#contact)
-
-## Introduction
-
-From the outset, we have argued that any successful mapping effort must be collaborative and participatory. To make it as simple as possible to contribute, we have opened up the site, giving it a wiki-like structure, meaning people can contribute and add items directly - no coding required. We hope this can support the ongoing growth of our contributor community, and empower users to continue in collective efforts to make the map ever more useful and informative. 
-
-We have included information on how the site works and its technical architecture. If you’re wanting to get stuck in, feel free to skip over this section and go straight to our instructions on [how to edit and add to the site](#how-to-edit-and-add-to-the-site) - you can always refer back if you need to!
 
 ### How does the site work?
 
