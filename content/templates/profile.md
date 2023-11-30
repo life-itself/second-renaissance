@@ -1,0 +1,71 @@
+---
+created: 2023-11-30
+contributors: 
+title: title of the wiki entry, e.g. name of organisation, person, or concept
+url: 
+locations: 
+started: 
+size:
+  - 1-3
+  - 3-10
+  - 10-20
+  - 20-50
+  - 50-100
+  - 100+
+image: 
+sectors: 
+activities: 
+cohere: true
+metadata_version: "1"
+---
+
+Fill in or delete the following sections as appropriate. 
+
+# Properties (above)
+
+- created = date  that file was created
+- contributors = names of contributors
+- locations = where they have an active and ongoing presence
+	- format = {city1}, country1; {city2}, country2, e.g. Paris, France; London, UK
+- started = year founded
+- ended = year ended
+- size = team size (no. of paid team members, e.g. doesn't include board members or trustees)
+	- format = select one of the following ranges: 1-3; 3-10; 10-20; 20-50; 50-100; 100+
+- image = representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
+	- format = filepath (save image in assets/img)
+- sectors = What areas of activity is the actor skilled or specialised in?
+- activities = What are the main activities/interventions they do to bring about change?
+
+
+# About
+
+Who are they? What do they do? What is unique, special, or distinctive about them?
+
+Include screenshots
+
+## Key People
+
+- Name, Role
+
+# Theory of Change
+
+What kinds of change are they trying to make in the world? How do they seem to understand the process and principles of change?
+
+- How exactly are they working for *paradigmatic* change?
+- How exactly are they taking *integrative* or *whole-systems* approaches?
+
+e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on 
+
+# Key Educational Resources
+
+e.g. key books, articles, courses, etc. with brief description if possible
+
+# Connections
+
+e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...
+
+e.g. 
+- Funded by [[learning-for-wellbeing-foundation]]
+
+
+
