@@ -45,10 +45,6 @@ Who are they? What do they do? What is unique, special, or distinctive about the
 
 Include screenshots
 
-## Key People
-
-- Name, Role
-
 # Theory of Change
 
 What kinds of change are they trying to make in the world? How do they seem to understand the process and principles of change?
@@ -69,5 +65,6 @@ e.g. organisations they seem similar to; organisations they are partnered with; 
 e.g. 
 - Funded by [[learning-for-wellbeing-foundation]]
 
+# Key People
 
-
+- Name, Role

@@ -5,49 +5,41 @@ contributors:
 title: 1000 Landscapes for 1 Billion People
 url: https://landscapes.global/
 locations:
-  - International network
+  - not-applicable
 start: 2018
 end: 
 size: 4-10
-image: assets/img/1000-landscapes-for-1-billion-people-homepage.png
+image: "[[1000-landscapes-for-1-billion-people-homepage.png]]"
 sectors: 
 activities: 
 cohere: true
 metadata_version: "1"
 ---
+![[../assets/1000-landscapes-for-1-billion-people-homepage.png]]
 
-# About
+"1000 Landscapes for 1 Billion People (1000L) is a radical collaboration of change agents working together to accelerate landscape efforts to sustain and restore ecosystems, build rural prosperity and confront climate change.
 
-Who are they? What do they do? What is unique, special, or distinctive about them?
+1000L is convened by EcoAgriculture Partners and co-led with Rainforest Alliance, Commonland, Conservation International, the United Nations Development Programme, and information technology leader Tech Matters. Another 20+ partners are sharing technical and financial expertise, and 12+ Landscape Partnerships are co-designing the initiative. Together, these organizations already engage with over 250 Landscape Partnerships worldwide and are positioned to provide a strategic bridge with international and national programs championing Landscape Partnerships."
+(https://landscapes.global/who-we-are/)
 
-Include screenshots
+"Our Goal: By 2030, Landscape Partnerships are delivering sustainable landscape solutions across 1000 landscapes for 1 billion people–contributing powerfully to Sustainable Development Goals and aligning actions to meet global targets for addressing food and water insecurity, biodiversity loss, land degradation and climate change."
+(https://landscapes.global/)
 
-## Key People
-
-- Name, Role
 
 # Theory of Change
 
-What kinds of change are they trying to make in the world? How do they seem to understand the process and principles of change?
-
-- How exactly are they working for *paradigmatic* change?
-- How exactly are they taking *integrative* or *whole-systems* approaches?
-
-e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on 
 
 # Key Educational Resources
 
-e.g. key books, articles, courses, etc. with brief description if possible
 
 # Connections
 
 - Convened by [[EcoAgriculture Partners]]
 - Co-led with the following Core Partners:
-	- [[ Rainforest Alliance]]
-	- [[Commonland]]
-	- [[Conservation International]]
-	- [[United Nations Development Programme]]
-	- [[Tech Matters]]
+  - [[ Rainforest Alliance]]
+  - [[Commonland]]
+  - [[Conservation International]]
+  - [[United Nations Development Programme]]
+  - [[Tech Matters]]
 
-
-
+# Key People
