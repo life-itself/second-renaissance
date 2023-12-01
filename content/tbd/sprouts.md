@@ -48,7 +48,7 @@ The following organisations are listed as "Partners" on their website:
 - [[Lunt Foundation]]
 - Schumacher College
 - Terre et Conscience
-- Ashoka
+- [[Ashoka]]
 - Ferme de Froidefontaine
 - Spes Forum
 
