@@ -46,10 +46,9 @@ On their homepage they list some of the following as organisations that their Ad
 - [[../profiles/wellbeing-economy-alliance|wellbeing-economy-alliance]]
 - [[Catalyst 2030]]
 - [[Capital Institute]]
-- Economy for the Common Good
-- Rockefeller 
-- Regenerative Communities Network
-- Costa Rica Regenerativa
+- [[Economy for the Common Good ]]
+- [[Regenerative Communities Network]]
+- [[University for International Cooperation]]
 
 # Key People
 
