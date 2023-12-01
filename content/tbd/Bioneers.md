@@ -28,7 +28,13 @@ Our dynamic programs and initiatives focus on game-changing initiatives related 
 
 # Key Educational Resources
 
+## Indigeneity Curriculum
 
+"The Bioneers Indigeneity Program is the go-to source for accurate and contemporary information about Indigenous science, media, and curriculum for social change.
+
+To support the use of Bioneers’ original content in the classroom, we’ve developed thematic discussion guides and curriculum bundles aligned with national standards for grades 9-12+. Each bundle includes teacher instructions, activities, assessment, and additional materials for a week of instruction around a set of themes."
+
+Link: https://bioneers.org/indigeneity-curriculum/?utm_source=homepageslider&utm_medium=homepageslider&utm_campaign=homepageslider
 # Connections
 
 
@@ -37,4 +43,8 @@ Our dynamic programs and initiatives focus on game-changing initiatives related 
 - Kenny Ausubel, CEO & Co-founder
 - Nina Simons, Co-founder & Chief Relationship Strategist
 - Teo Grossman, President
+
+# Tags
+
+#indigeneity #decolonisation #biomimicry #rights-of-nature #regenerative-agriculture #psychedelics
 
