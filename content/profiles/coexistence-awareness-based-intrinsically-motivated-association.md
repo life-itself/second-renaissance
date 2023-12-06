@@ -1,8 +1,7 @@
 ---
-id: coexistence-awarness-based-intrinsically-motivated-association
+id: coexistence-awareness-based-intrinsically-motivated-association
 url: https://caia.global/en/
-tagline: An ECO City Village (ECO CiVi), a real-world laboratory for the village
-  of the future, is being built in the village of Steyerberg, near Hanover.
+tagline: An ECO City Village (ECO CiVi), a real-world laboratory for the village of the future, is being built in the village of Steyerberg, near Hanover.
 activity:
   - research
   - spaces
@@ -31,7 +30,7 @@ image:
   url: https://caia.global/wp-content/uploads/2021/02/CAIA-IngaLankenau-Bildung-III.jpg
   cached: https://res.cloudinary.com/ds7qslkd0/image/upload/v1645022983/Ecosystem%20Mapping/CAIA_image_gxp0bt.jpg
   cached_new: /img/CAIA_image_gxp0bt.jpg
-title: Coexistence Awarness based Intrinsically motivated Association
+title: Coexistence Awareness based Intrinsically motivated Association
 curation_status: Y
 social_change:
   inner: 0
