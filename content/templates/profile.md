@@ -45,7 +45,18 @@ Who are they? What do they do? What is unique, special, or distinctive about the
 
 Include screenshots
 
-## Key People
+# Key Educational Resources
+
+e.g. key books, articles, courses, etc. with brief description if possible
+
+# Connections
+
+e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...
+
+e.g. 
+- Funded by [[learning-for-wellbeing-foundation]]
+
+# Key People
 
 - Name, Role
 
@@ -58,16 +69,7 @@ What kinds of change are they trying to make in the world? How do they seem to u
 
 e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on 
 
-# Key Educational Resources
 
-e.g. key books, articles, courses, etc. with brief description if possible
-
-# Connections
-
-e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...
-
-e.g. 
-- Funded by [[learning-for-wellbeing-foundation]]
 
 
 
