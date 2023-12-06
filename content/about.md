@@ -24,7 +24,7 @@ But that is more or less all we know about this newly emergent space, and, as su
 
 Finally, there is purpose beyond simply exploration: understanding can lead to self-awareness and self-understanding making the ecosystem more known, interconnected, resourced and effective. You can access our 2020 report below. 
 
-![[For Publication_ Ecosystem Summary - Social Change Networks 2020 P2023.pdf]]
+![[assets/For Publication_ Ecosystem Summary - Social Change Networks 2020 P2023.pdf]]
 
 ### What
 
