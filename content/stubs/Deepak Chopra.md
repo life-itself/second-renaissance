@@ -1,4 +1,3 @@
 ---
-status: stub
 url:
 ---

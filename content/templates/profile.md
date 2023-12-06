@@ -13,11 +13,14 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
+
 # About
 
+Who are they? What do they do? What is unique, special, or distinctive about them?
 
-# Key Educational Resources
+Include screenshots
 
+# Theory of Change
 
 # Connections
 
@@ -28,6 +31,8 @@ metadata_version: "1"
 # Theory of Change
 
 
+# Key People
 
+- Name, Role
 
-
+# Key Educational Resources
