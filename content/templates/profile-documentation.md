@@ -5,7 +5,8 @@
 - names of contributors
 ## locations
 - where they have an active and ongoing presence
-- format = [city], country, e.g. London, UK (can list multiple locations)
+- format = [city], country, e.g. Paris, France (can list multiple locations)
+- write out the country, e.g. Spain, Netherlands, except for "UK" and "US".
 ## start 
 - year founded 
 ## end
