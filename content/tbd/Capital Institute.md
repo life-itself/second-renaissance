@@ -1,8 +1,9 @@
 ---
 created: 2023-12-01
-contributors: 
-title: title of the wiki entry, e.g. name of organisation, person, or concept
-url: 
+contributors:
+  - Catherine Tran
+title: Capital Institute
+url: https://capitalinstitute.org/
 locations: 
 start: 
 end: 

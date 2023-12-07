@@ -13,26 +13,17 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
+Please refer to [[profile-documentation]] for guidance on how to fill in this page.
 
 # About
 
-Who are they? What do they do? What is unique, special, or distinctive about them?
-
-Include screenshots
-
-# Theory of Change
+# Key Educational Resources
 
 # Connections
 
-
-# Key People
-
-
 # Theory of Change
 
-
 # Key People
 
-- Name, Role
 
-# Key Educational Resources
+

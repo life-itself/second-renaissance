@@ -40,10 +40,6 @@ e.g. organisations they seem similar to; organisations they are partnered with; 
 e.g. 
 - Funded by [[learning-for-wellbeing-foundation]]
 
-## Key People
-
-- Name, Role
-
 ## Theory of Change
 
 What kinds of change are they trying to make in the world? How do they seem to understand the process and principles of change?
@@ -52,3 +48,7 @@ What kinds of change are they trying to make in the world? How do they seem to u
 - How exactly are they taking *integrative* or *whole-systems* approaches?
 
 e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on 
+
+## Key People
+
+- Name, Role
