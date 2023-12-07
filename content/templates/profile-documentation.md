@@ -23,7 +23,7 @@
 
 # Free text sections
 
-## About
+## About 
 
 Who are they? What do they do? What is unique, special, or distinctive about them?
 

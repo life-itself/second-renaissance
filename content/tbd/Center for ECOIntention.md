@@ -31,8 +31,7 @@ metadata_version: "1"
 
 # Connections
 
-Inspired by:
-- [[Albert Einstein]]
+- [[Albert Einstein]] is quoted on their website
 
 # Theory of Change
 
