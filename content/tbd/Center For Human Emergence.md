@@ -7,7 +7,7 @@ locations:
   - Germany
 start: "2008"
 end: 
-size: 4-10 |
+size: 4-10
 image: 
 sectors: 
 activities: 
@@ -42,4 +42,4 @@ The Center For Human Emergence believes that we are in the process of a "fundame
 
 - Claudine Villemot-Kienzle, team member
 
--  Bettina Geiken, collaborator 
+- Bettina Geiken, collaborator 
