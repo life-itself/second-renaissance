@@ -4,7 +4,7 @@ contributors: Matthew McCarthy
 title: STRP
 url: https://strp.nl/
 locations:
-  - Eindhoven, NL
+  - Eindhoven, Netherlands 
 start: "2006"
 end: 
 size: " 4-10"
@@ -17,13 +17,15 @@ metadata_version: "1"
 
 # About
 
-STRP explores the relationship between art, technology, and major societal issues with the general public, artists, designers, media makers, and thinkers. The Eindhoven-based organisation starts dialogue about speculative future scenarios with various events throughout the year and an annual festival in the spring.
+STRP is an organization that puts together events, educational resources, and dialogues around the intersection of art, technology, and the emerging future. They do this with "the general public, artists, designers, media makers, and thinkers". 
+
+"Since 2006, STRP has been offering new scenarios for the future, dialogue sessions, a festival, an international exhibition, workshops, tours, an extensive educational program, music and performances. Every year they co-produce several new works of art in collaboration with emerging artists."
 
 ![[assets/strp.jpg]]
 
 # Theory of Change
 
-STRP believes that systems change begins with dialogue, artistic expression. and building community. Since 2006, STRP has been offering new scenarios for the future, dialogue sessions, a festival, an international exhibition, workshops, tours, an extensive educational program, music and performances. Every year they co-produce several new works of art in collaboration with emerging artists.
+STRP believes that systems change begins with dialogue, artistic expression. and building community. They have a paradigmatic focus in this regard because they explore different future scenarios, including ones which might be radically transformative. The educational programs as well focus on the intersection of individual artistic expression and larger societal trends. 
 
 # Key Educational Resources
 
