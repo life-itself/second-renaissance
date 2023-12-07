@@ -9,8 +9,8 @@ start: "2008"
 end: 
 size: 4-10
 image: 
-sectors: 
-activities: 
+sectors: Education and Learning
+activities: Research
 cohere: true
 metadata_version: "1"
 ---
