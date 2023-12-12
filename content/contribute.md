@@ -106,9 +106,7 @@ For reasons of simplicity, in this guide we have only outlined how to edit using
 
 #### Templates
 
-To add a new profile page, please use the [profiles-template.md](https://github.com/life-itself/ecosystem/blob/main/profiles-template.md) in the ecosystem repo.
-
-To add a new topics page, please use the [topics-template.md](https://github.com/life-itself/ecosystem/blob/main/topics-template.md) in the ecosystem repo.
+To add a new profile page, please use the [profiles-template.md](https://github.com/life-itself/ecosystem/blob/main/content/templates/profile.md) in the ecosystem repo.
 
 Copy the raw contents from the relevant template by clicking the icon with 2 squares overlapping. 
 

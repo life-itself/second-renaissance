@@ -22,7 +22,9 @@ A newly emerging ecosystem of individuals, organizations and initiatives around 
 
 But that is more or less all we know about this newly emergent space, and, as such, it calls for exploration. What are its defining characteristics? How do organizations differ, and how are they similar? What *is* this space? What are the other ecosystems to which it is interconnected? And how will it evolve? These are some of the things we are hoping to find out.
 
-Finally, there is purpose beyond simply exploration: understanding can lead to self-awareness and self-understanding making the ecosystem more known, interconnected, resourced and effective.
+Finally, there is purpose beyond simply exploration: understanding can lead to self-awareness and self-understanding making the ecosystem more known, interconnected, resourced and effective. You can access our 2020 report below. 
+
+![[For Publication_ Ecosystem Summary - Social Change Networks 2020 P2023_.pdf]]
 
 ### What
 
