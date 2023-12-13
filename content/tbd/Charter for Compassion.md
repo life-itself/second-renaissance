@@ -18,7 +18,7 @@ metadata_version: "1"
 
 The Charter for Compassion is an organized dedicated to a global compassion movement. As a "network of networks, they provide educational resources, organizing tools, and avenues of communication for sharing lessons, stories, and inspiration. CFC supports conferences, events, collaboration conversations, and initiatives to create and connect compassionate people and communities to each other across the globe." (https://charterforcompassion.org/what-we-do/)
 
-![[charterforcompassion.jpg]]
+![[assets/charterforcompassion.jpg]]
 
 ## Key Educational Resources
 
