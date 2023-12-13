@@ -12,7 +12,6 @@ project: []
 publish:
 ---
 
-# About 
 
 The Natural Step is an organization dedicated towards . They were founded in 1989, and since then, "have worked with thousands of corporations, municipalities, academic institutions and not-for-profit organizations that have proven that moving strategically toward sustainability leads to new opportunities, reduced costs and dramatically reduced ecological and social impacts."
 

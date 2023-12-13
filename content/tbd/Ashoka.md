@@ -25,18 +25,18 @@ Together, amidst the exponential growth of a new inequality in changemaking at 
 Ashoka's global headquarters are in the US. They have country and regional offices in the following locations: Argentina, Austria, Bangladesh, Belgium, Brazil, Canada, Chile, Czech Republic, East Africa, Egypt, France, Germany, Greece, Hungary, India, Indonesia, Israel, Italy, Japan, Mexico, Netherlands, Nigeria, Nordic, Philippines, Poland, Portugal, Romania, Senegal, Singapore, South Africa, South Korea, Spain, Switzerland, Thailand, Turkey, United Kindom, United States, Venezuela. They also have activities in more than 50 other countries.
 (https://www.ashoka.org/en-us/our-locations)
 
-# Theory of Change
+## Theory of Change
 
 https://www.ashoka.org/en-us/story/new-reality
 
-# Key Educational Resources
+## Key Educational Resources
 
 - 'More than Simply Doing "Good": The Definition of a Changemaker', https://issuu.com/ashokachangemakers/docs/more_than_simply_doing_good_definin 
 
-# Connections
+## Connections
 
 
-# Key People
+## Key People
 
 - Bill Drayton, Founder
 

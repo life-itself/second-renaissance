@@ -34,13 +34,13 @@ These six activities are:
 ('What We Do', https://www.bouncebeyond.global/values/mission)
 
  ![[../assets/bounce-beyond-activities.png]]
-# Theory of Change
+## Theory of Change
 
 ![[../assets/bounce-beyond-1.png]]
 
 - "Three Stages and Six Activities for Accelerating Economic Transformation" ([link](https://cdn.website-editor.net/s/f8133679ace0447ca7961cad7f6df6db/files/uploaded/What%2520BB%2520does%2520-%2520brief%2520six%25206%2520activities%252022-04-08.pdf?Expires=1703867591&Signature=ZMgR4PxqAG9ibIDyr7UwTELKhsQuXKmVOgc-KXZAOwSB5s0OI~2ZnUOZtHpZL8AjLF8TFSak8GbCv0eZMY~2Eml6wwr~f4bG4SyI02IYATpxzmPg1rNMsWEr4vFZc9IDT2ctPtvihPtTKzwahX5Lp9gHaZAAVvqe-n1FiTQhdX9h9fxNFDgZQcrUPFxUuv68KCzeq9Svig7BagCxmtpYj1P1VAXS7sYHePAJk7dGmHBsfxLE~u9tghzRaynGPdliW6b1VssRxa7mcLRYRqCvdcPuZcivX1FPmBDjBA96m8DaSyD9nhu0FezsIESeZmOhGA63pk~SFozFiB8BiDXtQg__&Key-Pair-Id=K2NXBXLF010TJW))
 
-# Connections
+## Connections
 
 On their homepage they list some of the following as organisations that their Advisors are associated with:
 - [[../profiles/wellbeing-economy-alliance|wellbeing-economy-alliance]]
@@ -50,7 +50,7 @@ On their homepage they list some of the following as organisations that their Ad
 - [[Regenerative Communities Network]]
 - [[University for International Cooperation]]
 
-# Key People
+## Key People
 
 - Steve Waddell, Co-Lead Steward
 - Lesley Southwick-Trask, Co-Lead Steward

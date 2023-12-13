@@ -11,8 +11,7 @@ start:
 size: 
 cohere: y
 ---
-
-# About 
+ 
 
 Catalist is a website that is particularly project driven, and allows people and organizations to get more easily involved in the kinds of sectors that they work in. In this sense, it is more action oriented than meta resource. In a way, they are also interested in 'cohering' the field of change agents. 
 

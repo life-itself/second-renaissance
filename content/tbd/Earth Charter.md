@@ -10,8 +10,7 @@ start: "2000"
 size: 
 project: []
 ---
-
-# About 
+ 
 
 The Earth charter is technically a document with sixteen principles for systems change, which can be [found here](https://earthcharter.org/read-the-earth-charter/). However, the organization 'Earth Charter' that has been set up, serves as a place to help educate others about the 'EC' and systems change. The education center is located in Costa Rica, which helps people grow as 'sustainable leaders'.
 ### Key people 

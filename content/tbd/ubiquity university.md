@@ -12,7 +12,6 @@ size:
 publish: false
 ---
 
-# About 
 
 Ubiquity University offers "transformational higher education for people ready to make a positive contribution towards solving current global challenges." It is an accredited university and offers degrees in areas like 'wisdom studies.' The plan of study is personalized and can be taken at any pace, and emphasizes the 
  

@@ -12,8 +12,7 @@ start:
 size: "12"
 cohere: true
 ---
-
-# About 
+ 
 
 Earth4all is an organization dedicated to transforming our current global economic system. Founded and led by a number of scientists, economists, and activists involved with the club of rome and the stockholm resilience center, they put together reports and other media to help guide this transition.  
 ### Key people 

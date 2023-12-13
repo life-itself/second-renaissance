@@ -13,7 +13,6 @@ project: []
 publish:
 ---
 
-# About 
 
  SIEUK is a group of leaders and organisations in the UK who have come together to incorporate spirituality into education. They aim to develop and integrate  educational models that better respond to the growing global call for systems that better nurture human wellbeing and potential within the context of a sustainable world.
 

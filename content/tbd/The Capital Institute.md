@@ -12,7 +12,6 @@ size: "3"
 publish:
 ---
 
-# About 
 
 The capital institute is a small team of economists interested in transforming the current 'global economic system.' Since they have quite a small team, they don't have that many projects, although they do release a lot of meaningful information on economic systems change, and appear to have a lot of expertise in this area. They don't just want to transform the 'economic system' to be more efficient in resource distribution; they also view this as fundamental to improving peoples lives. 
 

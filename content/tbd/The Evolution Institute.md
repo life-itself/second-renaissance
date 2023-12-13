@@ -13,7 +13,6 @@ publish: false
 project: []
 ---
 
-# About
 
 Our mission is to apply science-based solutions and use evidence-based best practices to solve today’s most pressing social issues to improve quality of life.
 
@@ -22,13 +21,13 @@ They have a number of different projects, which are outlined in their report. On
 
 ## Key People
 
-# Theory of Change
+## Theory of Change
 
 Our vision is to apply research, knowledge and expertise in order to elevate quality of life, advance social justice and human equality, and add value to issues affecting humanity for the benefit all people.
-# Key Educational Resources
+## Key Educational Resources
 
 
-# Connections
+## Connections
 
 
 

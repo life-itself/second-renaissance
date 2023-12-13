@@ -10,11 +10,11 @@ size: 1-10
 cohere: y
 ---
 
-# About
+
 
 ![[terre-et-conscience.png]]
 
-# Connections
+## Connections
 
 These are some of the organisations listed as current or past partners on their website:
 - [[francophone-association-of-ecopsychology]]

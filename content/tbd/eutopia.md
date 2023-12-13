@@ -11,7 +11,6 @@ size:
 project: []
 ---
 
-# About 
 
 Eutopia is an alliance of 10 European universities. Together, they are a network which aims to increase collaboration across different geographies, work together on wicked problems, and transform the university system. 
 

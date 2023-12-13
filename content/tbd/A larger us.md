@@ -12,7 +12,6 @@ size: "30"
 cohere: y
 ---
 
-# About
 
 Larger Us is an organization dedicated to overcoming some of the psychological and emotional hurdles that exist in our current world, and they aim to make a more common sense of 'oneness'. As they put it on their website, they are 'a community of change-makers who share the aim of bridging divides rather than deepening them, who want to transform relationships rather than defeat enemies, and who recognize that achieving these things is about psychology as much as politics.''
 
@@ -27,18 +26,18 @@ Larger US is interested in people and organizations who recognize the humanity i
 
 ## Key People
 
-# Theory of Change
+## Theory of Change
 
 Becoming a larger us "involves both inner and outer work". As cliche as it sometimes sounds, they believe that this is the time to foster connections opposed to division. This diagram comes from the 5 key questions for change makers report, which also goes into further detail about their theory of change. Ultimately, there is a focus on the individual and how we relate to one another; and fostering the emotional and relational capacities to create a more collaborative future. 
 
 ![[breakthrough-loop.jpg]]
-# Key Educational Resources
+## Key Educational Resources
 
 Five key questions for change makers: https://www.larger.us/wp-content/uploads/2022/09/Building-a-Larger-Us.pdf
 
 More articles and resources are available here: https://larger.us/resources/
 
-# Connections
+## Connections
 
 
 

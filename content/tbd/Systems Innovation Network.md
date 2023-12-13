@@ -13,7 +13,6 @@ project: []
 publish:
 ---
 
-# About 
 
 The Si Network is an online platform connecting people around the world to learn and apply the ideas and methods of systems innovation towards addressing complex challenges. According to their website "Systems innovation is a new approach to innovation that tries to tackle complex social and environmental challenges through the use of more holistic & innovation driven approaches. It is a kind of innovation that aims to change  the underlying structure of a system, thus potentially enabling a more transformational kind of change".
 
@@ -22,10 +21,9 @@ on content about cities and systems innovation.
 
 They seem to be an organization that is able to provide a number of actors, resources, and potential projects in one platform. The platform, too, is quite nice and clean, and seems to work well and have a good amount of involvement. 
 
-![[si-network-.png]]
+![[assets/si-network-.png]]
 ### Key people 
 
-- 
 
 ## Theory of Change 
 

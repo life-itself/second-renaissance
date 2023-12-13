@@ -23,10 +23,10 @@ Bioneers is an innovative nonprofit organization that highlights breakthrough so
 
 Our dynamic programs and initiatives focus on game-changing initiatives related to Restorative Food Systems, Biomimicry, Rights of Nature, Indigeneity, Women’s Leadership and Youth Leadership."
 
-# Theory of Change
+## Theory of Change
 
 
-# Key Educational Resources
+## Key Educational Resources
 
 ## Indigeneity Curriculum
 
@@ -35,16 +35,16 @@ Our dynamic programs and initiatives focus on game-changing initiatives related 
 To support the use of Bioneers’ original content in the classroom, we’ve developed thematic discussion guides and curriculum bundles aligned with national standards for grades 9-12+. Each bundle includes teacher instructions, activities, assessment, and additional materials for a week of instruction around a set of themes."
 
 Link: https://bioneers.org/indigeneity-curriculum/?utm_source=homepageslider&utm_medium=homepageslider&utm_campaign=homepageslider
-# Connections
+## Connections
 
 
-# Key People
+## Key People
 
 - Kenny Ausubel, CEO & Co-founder
 - Nina Simons, Co-founder & Chief Relationship Strategist
 - Teo Grossman, President
 
-# Tags
+## Tags
 
 #indigeneity #decolonisation #biomimicry #rights-of-nature #regenerative-agriculture #psychedelics
 

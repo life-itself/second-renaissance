@@ -11,7 +11,7 @@ start:
 project: []
 ---
 
-# About 
+
 
 According to their website, "We’re a global team of adaptive innovators, creative problem solvers, and facilitators of societal transformation, striving to make the world more peaceful, just, and sustainable through enhanced multi-stakeholder collaboration". Some of their projects range from 'transforming food systems in Brazil' to 'urban water resilience in Africa'.
 

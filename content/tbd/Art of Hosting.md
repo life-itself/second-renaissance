@@ -26,13 +26,13 @@ metadata_version: "1"
 The Art of Hosting network has no formal, legal structure, no appointed leader, no accreditation program and no controlling body.  It is based on a practitioner network, with local communities of practice; it is committed to learning and generous with its sharing and support."
 (https://artofhosting.org/what-is-aoh/)
 
-# Theory of Change
+## Theory of Change
 
 
-# Key Educational Resources
+## Key Educational Resources
 
 
-# Connections
+## Connections
 
 Some of the networks that gave rise to the Art of Hosting include: 
 - [[Berkana Institute]]
@@ -42,6 +42,6 @@ Some of the networks that gave rise to the Art of Hosting include:
 - [[Shambhala Institute]]
 (Source: 'The Art of Hosting Story', downloaded from: 'History and Governance of Art of Hosting', https://artofhosting.ning.com/u)
 
-# Key People
+## Key People
 
 

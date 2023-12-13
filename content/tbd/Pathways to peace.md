@@ -10,8 +10,7 @@ activities: Consulting and Advisory
 start: "1978"
 size: "12"
 ---
-
-# About 
+ 
 
 Pathways To Peace (PTP) is an International Peacebuilding, Educational and Consulting organization dedicated to making Peace a practical reality through both local and global projects. They offer both a framework for a 'pathway to peace' and they also have some institutional presence. They work locally and globally to promote Peacebuilding, Education and to collaborate with other organizations in initiatives that help further their Culture of Peace Initiative (CPI).
 

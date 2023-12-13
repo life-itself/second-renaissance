@@ -11,7 +11,6 @@ size:
 project: []
 ---
 
-# About 
 
 Education 4 Peace (E4P) is a Swiss non-profit foundation dedicated to advocating and supporting Emotional Health (EH) programs in schools and sports.
 

@@ -13,7 +13,6 @@ size: 1-10
 publish: false
 ---
 
-# About
 
 Sprouts is a learning community inspired by Schumacher College based at Froidefontaine Farm, an agroecological farm in Belgium.
 
@@ -32,17 +31,17 @@ They have offerings in English, French, and Dutch.
 
 ![[Screenshot 2023-11-16 at 16.06.59.png]]
 
-# Theory of Change
+## Theory of Change
 
 - Sprouts was founded by a group of Schumacher College graduates. Their activities and offerings are deeply inspired by Schumacher College principles and teachings. 
 
 "Inspired by [Schumacher College](https://www.schumachercollege.org.uk/), we offer a range of courses for personal and professional development in a transforming world. The courses are centered around a Trinity we deem essential for our time: **Soil**, **Soul**, **Society**."
 
-# Key Educational Resources
+## Key Educational Resources
 
 - To learn more about the ideas and principles that inspire Sprouts, see books by Satish Kumar, co-founder of Schumacher College, for 
 
-# Connections
+## Connections
 
 The following organisations are listed as "Partners" on their website:
 - [[Lunt Foundation]]

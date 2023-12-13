@@ -13,7 +13,6 @@ publish: false
 project: []
 ---
 
-# About
 
 The Climate Fresk is an organization dedicated to teaching others about the climate crisis, and how they can adjust their own practices so as to be a meaningful part of the solution. "It is accessible to anyone and can be scaled quickly within an organization or community."
 
@@ -28,18 +27,18 @@ They have a large team and a presence in over 130 countries, and their workshops
 
 ## Key People
 
-# Theory of Change
+## Theory of Change
 
 One of the things that is often emphasized on their website is 'scale'; namely, that their services can be applied to individuals, and to small or large organizations. 
 
 Their approach is one where informing people and organisations about the climate crisis leads to more informed individuals and to better and more sustainable practices. 
 
 "The Climate Fresk methodology doesn’t involve an expert presenting information to the group ; instead, it requires all participants to take an active role in the building-up of the Fresk, becoming participative learners."
-# Key Educational Resources
+## Key Educational Resources
 
 They use the IPCC reports on climate change to guide their teaching: https://www.ipcc.ch/reports/
 
-# Connections
+## Connections
 
 [[the-shift-project]]
 
