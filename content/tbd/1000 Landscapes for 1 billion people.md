@@ -26,13 +26,13 @@ metadata_version: "1"
 (https://landscapes.global/)
 
 
-# Theory of Change
+## Theory of Change
 
 
-# Key Educational Resources
+## Key Educational Resources
 
 
-# Connections
+## Connections
 
 - Convened by [[EcoAgriculture Partners]]
 - Co-led with the following Core Partners:
@@ -42,4 +42,4 @@ metadata_version: "1"
   - [[United Nations Development Programme]]
   - [[Tech Matters]]
 
-# Key People
+## Key People

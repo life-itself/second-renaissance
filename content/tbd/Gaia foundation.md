@@ -10,8 +10,7 @@ start: "1988"
 size: 
 project: []
 ---
-
-# About 
+ 
 
 The Gaia Foundation is an organization that works on four core projects: seed sovereignty, earth jurisprudence, beyond extractivism, and sacred land and waters. 
 They produce reports, raise awareness, connect stakeholders, and work towards creating networks and communities for a just transition. 

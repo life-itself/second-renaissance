@@ -11,8 +11,7 @@ start:
 size: 
 cohere: y
 ---
-
-# About 
+ 
 
 Transform commerce to fund a just transition to a regenerative earth. 
 

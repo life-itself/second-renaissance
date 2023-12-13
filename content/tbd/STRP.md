@@ -15,7 +15,6 @@ cohere: true
 metadata_version: "1"
 ---
 
-# About
 
 STRP is an organization that puts together events, educational resources, and dialogues around the intersection of art, technology, and the emerging future. They do this with "the general public, artists, designers, media makers, and thinkers". 
 
@@ -23,18 +22,18 @@ STRP is an organization that puts together events, educational resources, and di
 
 ![[assets/strp.jpg]]
 
-# Theory of Change
+## Theory of Change
 
 STRP believes that systems change begins with dialogue, artistic expression. and building community. They have a paradigmatic focus in this regard because they explore different future scenarios, including ones which might be radically transformative. The educational programs as well focus on the intersection of individual artistic expression and larger societal trends. 
 
-# Key Educational Resources
+## Key Educational Resources
 
 Here are some of the ongoing educational events and workshops happening at STRP: [Activities - STRP Education](https://onderwijs.strp.nl/en/activities)
 
-# Connections
+## Connections
 
 
-# Key People
+## Key People
 
 - Joanne van der Woude, Director
 

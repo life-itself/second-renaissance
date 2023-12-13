@@ -12,7 +12,7 @@ project: []
 cohere: y
 ---
 
-# About 
+## About 
 
 The objective of the Hub is to host, educate, and inspire complex systems scientists, who are dedicated to make sense of Big Data in ways that are valuable for science and society. The Hub catalyzes research in a network of established scientists and the most creative, talented, and open-minded next-generation academics.
   

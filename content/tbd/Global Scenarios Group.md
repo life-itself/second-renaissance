@@ -10,8 +10,7 @@ start: "1995"
 size: 
 project: []
 ---
-
-# About 
+ 
 
 The GSG is a group of researchers dedicated to outlining different 'possible futures', and getting a sense for which future we are going towards. 
 

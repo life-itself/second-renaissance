@@ -12,8 +12,6 @@ size: 100+
 project: []
 ---
 
-# About
-
 Roland Berger is technically a consulting firm, which is involved in a number of different industries, as outlined in this diagram below. 
 
 ![[../assets/roland-berger-industries.jpg]]
@@ -31,13 +29,13 @@ It is worth emphasizing that this organization is somewhat on the fringe. For ex
 ## Key People
 
 
-# Theory of Change
+## Theory of Change
 
 As mentioned, they appear to do a lot of different things, but do seem to be genuinely involved in systems change. They have a unique capacity to potentially transform a lot of the wicked sectors and have a close connection to a lot of actors responsible for many of the problems we currently have. They are a consulting firm, so their theory of change is to guide some of these organizations, and perhaps others which are much more progressive and less extractive, towards a new paradigm. 
-# Key Educational Resources
+## Key Educational Resources
 
 https://www.rolandberger.com/en/Insights/Global-Topics/Robust-Organisation/Publications/
-# Connections
+## Connections
 
 
 

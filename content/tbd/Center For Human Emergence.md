@@ -16,7 +16,6 @@ metadata_version: "1"
 ---
 
 
-
 The German-speaking Center for Human Emergence is a training and research institute as well as a synergy center that "supports and fosters integral and evolutionary thinking and acting... They primarily focus on "developing evolutionary future competences and innovative models of thinking and awareness, on researching and training."  (https://humanemergence.de/en/)
 
 ![[assets/centerforhumanemergence.jpg]]

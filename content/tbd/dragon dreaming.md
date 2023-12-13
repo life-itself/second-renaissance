@@ -11,7 +11,7 @@ size:
 cohere: y
 ---
 
-# About 
+## About 
 
 Dragon Dream is "an open-source interactive networking phenomenon which provides technology and philosophy that assists Activists, informal community projects, NGOs, Government and Business Enterprises". They emphasize that this process, which has four steps- dreaming, planning, doing, celebrating- is about realizing "ones dreams and making them a reality."
 

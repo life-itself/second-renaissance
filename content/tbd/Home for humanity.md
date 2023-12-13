@@ -12,7 +12,6 @@ size:
 project: []
 ---
 
-# About 
 
 
 ### Key people 

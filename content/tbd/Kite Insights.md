@@ -12,7 +12,6 @@ size: "24"
 project: []
 ---
 
-# About
 
 Kite Insights is an organization concerned with raising awareness about and providing solutions for the climate crisis. They mostly do so by providing reports and putting together events. They "work at the intersection of human and planetary issues" and have three main branches: 'content', 'curation', and 'coalition'. A summary of the content branch is posted here: 
 
@@ -25,13 +24,13 @@ They tailor their services to each organization, and even if they are somewhat r
 ## Key People
 
 
-# Theory of Change
+## Theory of Change
 
 As they put it on their website, "We believe that global challenges require urgent and thoughtful action, and that systems transformation should leave no one behind. Kite Insights provide cutting-edge content, learning and education programmes, event curation and coalitions, and prepare organisations and their people for the green economy."
-# Key Educational Resources
+## Key Educational Resources
 
 Every job is a climate job: https://kiteinsights.com/wp-content/uploads/2022/06/Every-Job-Is-A-Climate-Job-Kite-Insights.pdf
-# Connections
+## Connections
 
 
 

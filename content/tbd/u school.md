@@ -13,9 +13,8 @@ project: []
 publish:
 ---
 
-# About 
 
- U-school is a global capacity-building and action research platform that offers programs, certifications, space holding and innovation labs using Theory U and Social Arts to activate a shift in individuals and collectives from ego- to eco-system consciousness, for the healing and regeneration of self, society and planet.
+U-school is a global capacity-building and action research platform that offers programs, certifications, space holding and innovation labs using Theory U and Social Arts to activate a shift in individuals and collectives from ego- to eco-system consciousness, for the healing and regeneration of self, society and planet.
 
 ### Key people 
 

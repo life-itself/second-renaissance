@@ -13,7 +13,6 @@ project: []
 publish:
 ---
 
-# About 
 
 The SDG Thought Leader Club seems to be a group of experts who hold conversations on and aim to develop a better global understanding of how the SDG's can be implemented in a short amount of time. This is their strategy:
 

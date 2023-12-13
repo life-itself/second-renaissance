@@ -12,7 +12,6 @@ size:
 project: []
 ---
 
-# About 
 
 LocalScale is a public benefit organization focusing on the development of resilient and sustainable local economies through the use of technology, science and regenerative activities.
 

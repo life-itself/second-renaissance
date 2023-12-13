@@ -13,7 +13,6 @@ project: []
 publish:
 ---
 
-# About 
 
 The Laszlo Institute of New Paradigm Research is an ETS. The Laszlo Institute offers Educational Programs, Publications, and Consulting Services. The Laszlo Institute is also pioneering transdisciplinary New Paradigm research which acts at a causal level systemically addressing the key challenges our world is facing today. Currently our key areas of New Paradigm Research are in Education, Healthcare and ‘Systemic Impact & Leadership’ (SIL).
 
