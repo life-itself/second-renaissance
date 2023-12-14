@@ -8,13 +8,15 @@ locations:
   - Benfeita, Portugal
 start: 2007
 end: 
-size: 1-3 | 4-10 | 11-20 | 21-50 | 51-100 | 101+
+size: 
 image: 
 sectors: 
 activities: 
 cohere: true
 metadata_version: "1"
 ---
+Notes: As of December 2023, it seems as though the Awakened Life Project has been archived and evolved to become known as 'The Fire of the Heart'.
+
 "The Awakened Life Project is a bold, contemporary experiment in authentic spiritual awakening and the evolution of consciousness and culture. The visionary seed was planted at the abandoned mountain farm of Quinta da Mizarela in Central Portugal by co-founders Peter Bampton and Cynthia Lea Rose in 2007. Since then the Project has since flowered into a growing network of co-creators and communities dedicated to an evolving vision of manifesting the spiritual truth of unity in this world."
 
 "We are a non-profit Association that offers retreats and volunteer programs to support the evolution of consciousness and culture."
@@ -47,7 +49,7 @@ Free to take the shape of all experience and yet independent of all experience, 
   
 To help to facilitate this emergence we are committed to a regular practice of meditation and ongoing group inquiry in the form of men's, women's and mixed groups, both in person and online. These groups provide a forum for the exploration and integration of the Awakening Process in all areas of life and are under the guidance of co-founders and teachers Cynthia Lea Rose and Peter Bampton. Through commited practice we ground ourselves ever more deeply in the liberating discovery of our essential prior unity and freedom."
 
-# Activities and Offerings
+## Activities and Offerings
 
 - [Retreats](https://awakenedlifeproject.org/retreats)
 - [Webinars](https://awakenedlifeproject.org/webinars)
@@ -55,19 +57,19 @@ To help to facilitate this emergence we are committed to a regular practice of m
 - [Podcasts](https://awakenedlifeproject.org/podcasts)
 - Ashram
 	- "Quinta da Mizarela is a non-traditional Ashram that is the heart of this daring experiment called the Awakened Life Project. It is not primarily an ecovillage nor a permaculture farm but a unique container dedicated to nurturing the delicate process of Awakening. Located in Central Portugal, the Ashram is a small eden surrounded by hills and crossed by a small river and its waterfalls. Here, life unfolds in a simple way and in harmony with the ecological web of life."
-# Key Resources
+## Key Resources
 
 - Guided meditations: https://awakenedlifeproject.org/guidedmeditations
 - Teachings of the philosophies behind the project: https://awakenedlifeproject.org/teachings
-# Key people
+## Key people
 
 - Cynthia Lea Rose, Co-founder
 - Peter Bampton, Co-founder
-# Inspirations
+## Inspirations
 
 - Lao Tzu
 
-# Connections
+## Connections
 
 The following organisations are listed under the 'Our Network' tab of the ALP website:
 - Evolusa - https://evolusa.pt/
