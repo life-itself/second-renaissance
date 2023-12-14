@@ -8,8 +8,8 @@ locations:
   - Frome, UK
 start: 2015
 end: 
-size: 1-3 | 4-10 | 11-20 | 21-50 | 51-100 | 101+
-image: 
+size: not-found
+image: "[[../assets/42-acres-homepage.png]]"
 sectors:
   - Education and Learning
   - Health and wellbeing
@@ -21,24 +21,24 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
+![[../assets/42-acres-homepage.png]]
 
-![[Screen Shot 2023-10-03 at 14.59.13.png]]
+"We use our deepest intuition, ancient tools and shared knowledge to establish [[regenerative]] spaces, curate transformational experiences, and foster opportunities to learn, heal and grow."
+(https://www.42acres.com/)
 
-"We use our deepest intuition, ancient tools and shared knowledge to establish regenerative spaces, curate transformational experiences, and foster opportunities to learn, heal and grow."
-https://www.42acres.com/
-
-"42 Acres was first conceived in 2015 by siblings Lara and Seth Tabatznik as a home for personal, social and environmental change after having been deeply inspired number of powerful personal retreats and workshops in their own lives. Including processes such as the Hoffman Process, Satori, Non-Violent communication workshops as well as working with plant medicines. Both Seth and Lara are strong advocates that outer change in the world starts with the self, or to quote Gandhi; “Be the change that you wish to see in the world”.‍  
+"42 Acres was first conceived in 2015 by siblings Lara and Seth Tabatznik as a home for personal, social and environmental change after having been deeply inspired number of powerful personal retreats and workshops in their own lives. Including processes such as the Hoffman Process, Satori, Non-Violent communication workshops as well as working with plant medicines. Both Seth and Lara are strong advocates that outer change in the world starts with the self, or to quote [[Gandhi]]; “Be the change that you wish to see in the world”.‍  
   
-At its core, 42 Acres continues to invite people to reconnect with nature, self and others but has now grown to offer so much more including a range of wellbeing and nature based experiences and events, a biodynamic farm and an abundant nature reserve."
-https://www.42acres.com/our-story/about-42-acres
+At its core, 42 Acres continues to invite people to reconnect with nature, self and others but has now grown to offer so much more including a range of [[wellbeing]] and [[nature]] based experiences and events, a biodynamic farm and an abundant nature reserve."
+(https://www.42acres.com/our-story/about-42-acres)
 
 ## Key People
 
 - Seth Tabatznik, Co-founder
 - Lara Tabatznik, Co-founder
-# Theory of Change
 
-Beyond sustainability into regeneration
+## Theory of Change
+
+Beyond sustainability into regeneration:
 - Their definition of regenerative: "Being regenerative means being carbon negative and biodiversity positive. Put simply, we aim to leave the earth in better shape than when we found it–not only for us but for generations to come." [2][2]
 - They take a regenerative approach to farming, using principles from: agriwilding, organic farming, biodynamic farming, and permaculture. [1][1]
 
@@ -54,24 +54,26 @@ The  focus on local is because "local means less packaging, less footprint, more
 ## Transformational tools and practices
 
 Transformational tools and practices they use or are inspired by include:
-- Hoffman Process
-- Satori 
-- Nonviolent Communication
-- Plant medicines
-- Agriwilding ("A way of farming which promotes and restores the biodiversity of the land") [1][1]
-- Organic farming
-- Biodynamic farming
-- Permaculture
-
-# How might it be relevant/useful to Cohere+ project? 
+- [[Hoffman Process]]
+- [[../stubs/Satori]] 
+- [[../stubs/Nonviolent Communication]]
+- [[Plant medicines]]
+- [[Agriwilding]] ("A way of farming which promotes and restores the biodiversity of the land") [1][1]
+- [[Organic farming]]
+- [[Biodynamic farming]]
+- [[Permaculture]]
 
 ## Resources
 
-- Retreat venue and event space for hire
-- Educational offerings (retreats and workshops)  in topics like:
+- Retreat venue and event space for [hire](https://www.42acres.com/hire-our-spaces/information) (https://www.42acres.com/hire-our-spaces/information)
+- [Educational offerings](https://www.42acres.com/experiences) (retreats and workshops) in topics like:
 	- Permaculture and regenerative gardening
 	- Wild medicine
+	- Radical Love with [[Satish Kumar]]
 
-# Links
-[1]: https://www.42acres.com/our-story/food-and-farm
+## Links
+[1]: https://www.42acres.com/our-story/food-and-farm 
 [2]: https://www.42acres.com/our-story/regenerative-promise
+
+1: https://www.42acres.com/our-story/food-and-farm 
+2: https://www.42acres.com/our-story/regenerative-promise
