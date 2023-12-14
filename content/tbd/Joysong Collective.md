@@ -80,9 +80,6 @@ They seek to practise their values in their own financial and organisational mod
 - Offering programs, services and space on a "dana" basis, meaning no upfront payment requested
 - "Invit[ing] people into exploration of reciprocity, via donations and new tools for shared ownership and mutual benefit"
 
-### Organisational structure and roles
-
-![[../assets/joysong-structure.png]]
 ## Key people
 
 - Matt Jorgensen, Co-founder and General Coordinator
