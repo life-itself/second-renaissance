@@ -33,7 +33,7 @@ Inspirations:
 
 ## Theory of Change
 
-The Center For Human Emergence believes that we are in the process of a "fundamental transition", and that we "will need new approaches to master this transition from modern and postmodern society to the integral age, to create sustainable answers for the future of our cultures and communities" (https://humanemergence.de/en/). Their approach to change is multifaceted, as they focusing on developing the capacities for changemakers and researchers, and also develop courses for people to better understand and navigate this transition. The image below outlines some of their practices in more detail. 
+The Center For Human Emergence believes that we are in the process of a "fundamental transition", and that we "will need new approaches to master this transition from modern and postmodern society to the integral age, to create sustainable answers for the future of our cultures and communities" (https://humanemergence.de/en/). Their approach to change is multifaceted: they focus on developing the capacities for changemakers and researchers, and also develop courses for people to better understand and navigate this transition. The image below outlines some of their practices in more detail. 
 
 ![[assets/research-center-for-human-emergence.jpg]]
 
