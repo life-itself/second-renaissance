@@ -6,9 +6,11 @@ created: 2021-10-03
 Here we list some related efforts we have come across.
 
 Related efforts come in two flavors. First, those which are about mapping *different (but related) fields*. Second, those that are mapping a similar field but in a *different way*. Any given effort is related by some combination of these.
+
 ### A Mindset for the Anthropocene (2016-2021?)
 
-https://www.ama-project.org
+🔗 https://www.ama-project.org
+📆 2016-2021?
 
 > Welcome to the AMA Project, a platform for catalyzing synergies between inner transformation and sustainability!
 >
@@ -45,10 +47,10 @@ Cache of this data here: https://drive.google.com/drive/folders/1Arb63uGCD0bDHPR
 ### metacrisis.org (2022-)
 
 🔗 https://metacrisis.org/
+📆  Started in 2021/2022
 
 Mentioned in this thread: https://twitter.com/rufuspollock/status/1501160815277318146
 
-Started in 2021/2022
 ## To Process
 
 - [Gaianet](https://www.gaianet.earth)
@@ -80,3 +82,10 @@ Started in 2021/2022
 ### From the SINE network
 
 ![](https://github.com/life-itself/ecosystem/assets/131390186/c67732d2-4a93-42d0-aaed-5d3b108eb6fe)
+
+### 2023-12-01
+
+- Memetic tribes - https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit#gid=0
+- Nadia Asparouhova - https://nadia.xyz/mapping-digital-worlds More of a conceptual writing format of sense-making, less visual
+  - https://nadia.xyz/climate-tribes
+- https://ich.unesco.org/dive/constellation/
