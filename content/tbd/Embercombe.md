@@ -8,8 +8,8 @@ locations:
   - Exeter, UK
 start: 2001
 end: 
-size: 
-image: 
+size: 4-10
+image: "[[../assets/embercombe-homepage.png]]"
 sectors:
   - Education and Learning
   - Environment, Food, and Water
@@ -21,24 +21,23 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
+![[../assets/embercombe-homepage.png]]
 
-![[Screen Shot 2023-10-04 at 10.41.47.png]]
-
-"Embercombe is a beautiful 50 acre rewilding estate on the edge of Dartmoor. It is a place to find a deep connection with nature – wild nature around us and wild nature within us.
-
-We run various programmes, courses and events each year to help you connect to yourself, to nature, and to community. It is a place to breathe, to reconsider, to regenerate and to relearn. It is a place to find the gifts that we have to offer right now in the beauty and peace of Nature."
-https://embercombe.org/who-we-are/
+> Embercombe is a beautiful 50 acre [[rewilding]] estate on the edge of Dartmoor. It is a place to find a deep connection with nature – wild nature around us and wild nature within us.
+>
+> We run various programmes, courses and events each year to help you connect to yourself, to nature, and to community. It is a place to breathe, to reconsider, to regenerate and to relearn. It is a place to find the gifts that we have to offer right now in the beauty and peace of Nature.
+(https://embercombe.org/who-we-are/)
 
 ## Founding Principles
 
 - The Children's Fire pledge: "No law, no decision, no action of any kind shall be taken that will harm the children, now or ever."
 - 'The twin trail of inner growth and outer action'
-https://embercombe.org/who-we-are/
+(https://embercombe.org/who-we-are/)
 
 ## Key People
 
 - Mac Macartney, Founder
-# Theory of Change
+## Theory of Change
 
 The 'Twin Trail of inner healing and outer action'
 - "By exploring our inner landscape we find out what it is that we truly _love_. When we know what we love we know what we stand by. We know what we stand _for_. We begin to understand our unique gifts, our responsibilities, and what we can offer to the world. We reconnect to our earth, we find our songs, we find our old stories, we find each other, we find ourselves."
@@ -57,7 +56,6 @@ Transformational tools and practices they use or are inspired by include:
 - Deep Time Walk
 - Breathwork
 - Fasting
-# How might it be relevant/useful to Cohere+ project? 
 
 ## Resources
 
