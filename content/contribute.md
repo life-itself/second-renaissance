@@ -140,4 +140,4 @@ Copy the raw contents from the relevant template by clicking the icon with 2 squ
 
 ## Contact
 
-If you run into any issues while following this guide, please [let us know](https://lifeitself.us/contact/) so we can improve this guide to help future contributors.
+If you have any issues while following this guide, please [let us know](https://lifeitself.us/contact/) so we can improve this guide to help future contributors.
