@@ -1,38 +1,22 @@
 
 # Contribute
 
-This guide walks curators and editors through how to update the wiki and add profilies.
+This guide walks curators and editors through how to update the wiki and add profiles.
 
 > [!note]
 >
 > If you want to propose an organization for inclusion please just open an issue in the issue tracker with its details. TODO: more detailed instructions.
 
-## Table of Contents
+## Glossary
+
+* Repo => short for [Repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). Contains all a project’s files.
+* Working directory => The folder you are currently working in.
 
 ## Edit or add to the site via Github
 
 We have given the site a wiki-like structure, meaning people can contribute and add items directly.
 
-Alternatively, if you would like to contribute by a more non-technical method, see below. 
-
-### How does the site work?
-
 All the content for this site is contained within the Github repo: https://github.com/life-itself/ecosystem
-
-For details TODO: link to relevant section of design.
-
-## How to edit and add to the site
-
-There are two methods for making edits to the website:
-
-1. Edit directly in Github
-2. Edit on your local machine (using a code editor or Obsidian)
-
-### Edit in Github
-
-TODO: most of this should be on "usemarkdown.org" or whatever we call it ...
-
-We just want any special points for this project.
 
 #### Setup
 
@@ -133,10 +117,6 @@ Copy the raw contents from the relevant template by clicking the icon with 2 squ
 * Now click the green “Create pull request button”. This will notify a team member to review and confirm the additions you’ve made to the site.
 * Once they’ve done that, your edit will appear on the site! Thanks for contributing! 
 
-## Glossary
-
-* Repo => short for [Repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). Contains all a project’s files.
-* Working directory => The folder you are currently working in.
 
 ## Contact
 
