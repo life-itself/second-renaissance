@@ -62,7 +62,9 @@ E.g.:
 
 - Identifying "centers", or communities, within a field may serve as scaffolding to support sensemaking of the broader landscape
 
+# Contact Us
 
+If you have any questions or comments, we will be glad to hear them. We welcome you to [get in touch](https://lifeitself.org/contact). 
 
 
 
