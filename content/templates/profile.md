@@ -15,8 +15,6 @@ metadata_version: "1"
 ---
 Please refer to [[profile-documentation]] for guidance on how to fill in this page.
 
-# About
-
 # Key Educational Resources
 
 # Connections
