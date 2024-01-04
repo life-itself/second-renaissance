@@ -3,7 +3,7 @@ title: Sensemaking
 ---
 ## The current focus of our mapping is ***sensemaking***. 
 
-Rather than, for example, catalysing connections in the field.
+Rather than, for example, catalysing connections in the field. (This can come later through complementary activities.)
 
 The current intention of this phase of ecosystem mapping is to: provide more/better ways to understand this ecosystem and its relation to broader social change ecosystem. 
 
@@ -45,6 +45,10 @@ See [[related-efforts]] for examples of related mapping efforts.
 
 - 2020: "State of Sensemaking" Ecosystem Summary report: https://docs.google.com/document/d/1ryeEOcmxaMzlZRZ-ZFXNMp6VUoML4IofETkEYwdkQBo/edit#heading=h.ttxb831vocov
 
+### "Literature Review" -- *in progress*
+
+See https://github.com/life-itself/ecosystem/issues/208
+
 ### Visualization brainstorms
 
 - Nov 2023 https://app.excalidraw.com/l/9u8crB2ZmUo/At9xepR5sQS
@@ -83,6 +87,4 @@ E.g.:
 ## Contact Us
 
 If you have any questions or comments, we will be glad to hear them. We welcome you to [get in touch](https://lifeitself.org/contact). 
-
-
 
