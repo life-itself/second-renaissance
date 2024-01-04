@@ -43,15 +43,17 @@ See [[related-efforts]] for examples of related mapping efforts.
 
 ## Our work
 
+### Reports
+
 - 2020: "State of Sensemaking" Ecosystem Summary report: https://docs.google.com/document/d/1ryeEOcmxaMzlZRZ-ZFXNMp6VUoML4IofETkEYwdkQBo/edit#heading=h.ttxb831vocov
 
 ### "Literature Review" -- *in progress*
 
-See https://github.com/life-itself/ecosystem/issues/208
+- See https://github.com/life-itself/ecosystem/issues/208
 
 ### Visualization brainstorms
 
-- Nov 2023 https://app.excalidraw.com/l/9u8crB2ZmUo/At9xepR5sQS
+- Nov 2023: https://app.excalidraw.com/l/9u8crB2ZmUo/At9xepR5sQS
 - 8 Dec 2023: https://link.excalidraw.com/l/9u8crB2ZmUo/9aEPCn1DhfJ
 
 ## Current Questions 
