@@ -28,6 +28,10 @@ The next step will then be to engage in reflection and discussion to clarify key
 - e.g. what tribes are emerging
 - what other features do we care about? ...
 
+### Meta-goal: share early and often
+
+We will share our work early and often. We want to attract attention, stimulate conversation, and encourage feedback and engagement -- all this is part of collective sensemaking. 
+
 ## What is a map?
 
 - A broad visual of the landscape of what you're focusing on, and the ability to navigate around it, e.g. https://twitter.com/exgenesis/status/1562059107233894402/photo/1
