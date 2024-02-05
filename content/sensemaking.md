@@ -55,6 +55,7 @@ See [[related-efforts]] for examples of related mapping efforts.
 
 - Nov 2023: https://app.excalidraw.com/l/9u8crB2ZmUo/At9xepR5sQS
 - 8 Dec 2023: https://link.excalidraw.com/l/9u8crB2ZmUo/9aEPCn1DhfJ
+- Next steps: Focus on sketching a few maps of more narrow scope, instead of trying to put everything on one big map. See https://github.com/life-itself/ecosystem/issues/213.
 
 ## Current Questions 
 
@@ -85,6 +86,10 @@ E.g.:
 #### Of an emerging field?
 
 - Identifying "centers", or communities, within a field may serve as scaffolding to support sensemaking of the broader landscape
+
+### What do we mean by 'sensemaking'?
+
+Sensemaking is broad. Can we define our focus/intention further? 
 
 ## Contact Us
 
