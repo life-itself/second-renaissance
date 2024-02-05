@@ -51,7 +51,7 @@ Cache of this data here: https://drive.google.com/drive/folders/1Arb63uGCD0bDHPR
 
 Mentioned in this thread: https://twitter.com/rufuspollock/status/1501160815277318146
 
-## To Process
+## Inbox
 
 - [Gaianet](https://www.gaianet.earth)
 - https://www.localfutures.org/action-resources/maps-of-alternatives/
@@ -89,3 +89,7 @@ Mentioned in this thread: https://twitter.com/rufuspollock/status/15011608152773
 - Nadia Asparouhova - https://nadia.xyz/mapping-digital-worlds More of a conceptual writing format of sense-making, less visual
   - https://nadia.xyz/climate-tribes
 - https://ich.unesco.org/dive/constellation/
+
+### Misc - 2024
+
+- Jonathan Rowson, ['Now that you have found the others...'](https://www.whatisemerging.com/opinions/now-that-you-ve-found-the-others-what-are-you-going-to-do)
