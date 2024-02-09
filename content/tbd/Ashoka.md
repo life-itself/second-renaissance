@@ -8,10 +8,16 @@ locations:
   - Arlington, US
 start: 1980
 end: 
-size: not-found
+size: 101+
 image: "[[../assets/ashoka-homepage.png]]"
-sectors: 
-activities: 
+sectors:
+  - Relations & Peace
+  - Justice & Restoration
+  - Governance & Community
+activities:
+  - Funding
+  - Convening & Coordination
+  - Education & Training
 cohere: true
 metadata_version: "1"
 ---

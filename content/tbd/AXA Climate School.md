@@ -1,40 +1,59 @@
 ---
-contributors: Matthew McCarthy
 created: 2023-11-21
+contributors:
+  - Matthew McCarthy
+  - Catherine Tran
 title: AXA Climate School
 url: https://axaclimateschool.com/
-city: 
-country: France
-sectors: Environment, Food, and Water
-activities: Education and Training
-start: "2021"
-size: "8"
-cohere: y
+locations:
+  - Paris, France
+start: 2021
+end: 
+size: 51-100
+image: "[[../assets/AXA-homepage.png]]"
+sectors:
+  - Environment, Food & Water
+  - Economics & Business
+activities:
+  - Education & Training
+cohere: true
+metadata_version: "1"
 ---
+![[../assets/AXA-homepage.png]]
 
+>We provide resources to educate and inform organisations about environmental sustainability.
 
-AXA climate school is an organization dedicated to teaching others about the climate crisis, although it's more specific and more tailored than The Climate Frisk. Instead of one general course, their workshops and courses seem to be much longer and more extensive. They are thus classified in the kinds of orgs concerned with 'education and consulting' other existing orgs about the climate crisis and how to be more sustainable, although they do it in a more extensive way than a single workshop or single awareness course. They appear to offer unique and contextual solutions and recommendations about sustainable solutions, depending on  the organization. 
+>**A new approach to sustainable transition training**
+>At AXA Climate, we have over 50 employees worldwide dedicated to training employees on environmental issues and transforming their jobs. Our aim: to give your employees the desire and the means to become involved in the sustainable transformation of your business.
+https://axaclimateschool.com/who-we-are/
 
-![[../assets/climate-school-.jpg]]
+>In 2021, we realized that there was a lack of tools to broadly engage employees on environmental issues in companies and public institutions. To remedy this issue, we launched the Climate School, which aims to explain the impacts of sustainable transformation for companies, businesses and employees alike.
+>
+>Since then, we have created new formats to meet the needs of our clients seeking more sector-specific knowledge or to engage their employees with more varied content. Today, we enable HR Departments to support the skills development of their employees worldwide, and ESG Managers to involve all their staff in their sustainable transition approach.
+https://axaclimateschool.com/what-we-do/
+
 ## Key People
 
 ## Theory of Change
 
-Below here is their 'Manifesto'
+Their 'Manifesto':
 
-**We** see planetary boundaries as a framework within which human activities, especially business activities, must be observed for long-term global sustainability.
+>**We** see planetary boundaries as a framework within which human activities, especially business activities, must be observed for long-term global sustainability.
+>
+>**We** are convinced that organisations must transition to a sustainable business models.
+>
+>**We** believe that organisations need to train their employees and stakeholders in order to succeed in that transition.
+>
+>**We** contribute to this need for training by offering science based accessible content to your entire workforce.
+>
+>**We** know that training alone will not transform companies and the society. There is a growing ecosystem trying to shift we [sic] approach things. We are their allies.
 
-**We** are convinced that organisations must transition to a sustainable business models.
-
-**We** believe that organisations need to train their employees and stakeholders in order to succeed in that transition.
-
-**We** contribute to this need for training by offering science based accessible content to your entire workforce.
-
-**We** know that training alone will not transform companies and the society. There is a growing ecosystem trying to shift we approach things. We are their allies.
+Source: https://axaclimateschool.com/who-we-are/
 
 ## Key Educational Resources
 
 https://axaclimateschool.com/news-insights/
+
 ## Connections
 
 

@@ -9,9 +9,11 @@ locations:
 start: 2005
 end: 
 size: not-found
-image: "[[art-of-hosting-homepage.png]]"
-sectors: 
-activities: 
+image: "[[../assets/art-of-hosting-homepage.png]]"
+sectors:
+  - Relations & Peace
+activities:
+  - Education & Training
 cohere: true
 metadata_version: "1"
 ---
@@ -31,7 +33,7 @@ The Art of Hosting network has no formal, legal structure, no appointed leader, 
 
 ## Key Educational Resources
 
-
+- Reading list: https://artofhosting.org/resources-2/reading-list/
 ## Connections
 
 Some of the networks that gave rise to the Art of Hosting include: 
