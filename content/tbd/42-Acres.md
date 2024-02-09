@@ -11,12 +11,11 @@ end:
 size: not-found
 image: "[[../assets/42-acres-homepage.png]]"
 sectors:
-  - Education and Learning
-  - Health and wellbeing
-  - Environment, Food, and Water
+  - Health & Wellbeing
+  - Environment, Food & Water
 activities:
   - Community Spaces
-  - Events and Retreats
+  - Events & Retreats
   - Education & Training
 cohere: true
 metadata_version: "1"
