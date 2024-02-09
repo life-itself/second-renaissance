@@ -10,8 +10,12 @@ start: 2018
 end: 
 size: 4-10
 image: "[[1000-landscapes-for-1-billion-people-homepage.png]]"
-sectors: 
-activities: 
+sectors:
+  - Environment, Food & Water
+activities:
+  - Convening & Coordination
+  - Education & Training
+  - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
 ---
@@ -25,10 +29,13 @@ metadata_version: "1"
 "Our Goal: By 2030, Landscape Partnerships are delivering sustainable landscape solutions across 1000 landscapes for 1 billion people–contributing powerfully to Sustainable Development Goals and aligning actions to meet global targets for addressing food and water insecurity, biodiversity loss, land degradation and climate change."
 (https://landscapes.global/)
 
-
 ## Theory of Change
 
+See 'Theory of Change', pages 7-12 in *1000 Landscapes for 1 Billion People: Strategy for Scaling Sustainable Landscape Solutions for People and Planet* (2021).
 
+Downloaded from: https://landscapes.global/strategy/
+
+![[../assets/1000L-strategy-for-scaling-sustainable-landscape-solutions-for-people-and-planet.pdf]]
 ## Key Educational Resources
 
 
@@ -36,7 +43,7 @@ metadata_version: "1"
 
 - Convened by [[EcoAgriculture Partners]]
 - Co-led with the following Core Partners:
-  - [[ Rainforest Alliance]]
+  - [[Rainforest Alliance]]
   - [[Commonland]]
   - [[Conservation International]]
   - [[United Nations Development Programme]]

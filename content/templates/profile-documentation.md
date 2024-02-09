@@ -19,37 +19,33 @@
 - format = filepath (save image in assets/img)
 ## sectors 
 - what areas of activity is the actor skilled or specialised in?
-	- Arts and Culture
-	- Economics and Business
-	- Education and Learning
-	- Environment, Food, and Water
-	- Governance and Community
-	- Health and Wellbeing
-	- Infrastructure and Resource
-	- Justice and Restoration
-	- Media and Communications 
-	- Relations and Peace 
-	- Science and Technology 
-	- Spirituality and Religion 
+	- Arts & Culture
+	- Economics & Business
+	- Education & Learning
+	- Environment, Food & Water
+	- Governance & Community
+	- Health & Wellbeing
+	- Infrastructure & Resources
+	- Justice & Restoration
+	- Media & Communications 
+	- Relations & Peace 
+	- Science & Technology 
+	- Spirituality & Religion 
 ## activities 
 - what are the main activities/interventions they do to bring about change?
-	- Advocacy and Activism
-	- Art Production and Curation
-	- Business
+	- Advocacy & Activism 
+	- Art Production & Curation 
 	- Community Spaces 
-	- Consulting and Advisory
-	- Convening and Coordination 
-	- Design, Development, and Innovation
-	- Education and Training
-	- Events and Retreats
+	- Consulting & Advisory
+	- Convening & Coordination 
+	- Design, Development & Innovation
+	- Education & Training
+	- Events & Retreats
 	- Funding
-	- Government and Policymaking
+	- Government & Policymaking
 	- Legal
-	- Media and Publishing
-	- Networks and Forums 
+	- Media & Publishing
 	- Research 
-
-
 
 # Free text sections
 
