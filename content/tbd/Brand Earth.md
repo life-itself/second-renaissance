@@ -1,32 +1,43 @@
 ---
-contributors: Matthew McCarthy
 created: 2023-11-21
+contributors:
+  - Matthew McCarthy
+  - Catherine Tran
 title: Brand Earth
 url: https://brand.earth/
-city: 
-country: 
-sectors: Economics and business
-activities: Consulting and Advisory
+locations:
+  - not-found
 start: 
-size: 
-cohere: y
+end: 
+size: " 4-10"
+image: "[[../assets/brand-earth-homepage.png]]"
+sectors:
+  - Economics & Business
+activities:
+  - Consulting & Advisory
+cohere: true
+metadata_version: "1"
 ---
- 
+![[../assets/brand-earth-homepage.png]]
 
-Transform commerce to fund a just transition to a regenerative earth. 
+>**Vision**
+>Transform commerce to fund a just transition to a regenerative earth. 
+>
+>This shift involves reimagining the relationship between corporations, consumers, advertisers, and nature. Corporations and consumers are seen as potential partners in business with nature.
+>
+>This includes rethinking brands so that they can preserve Earth’s diverse natural wealth.
 
-This shift involves reimagining the relationship between corporations, consumers, advertisers, and nature. Corporations and consumers are seen as potential partners in business with nature.
+>**Mission**
+>Brand Earth unites people, redefines brands, and prioritizes nature. Brand Earth channels funds into projects that integrate Indigenous wisdom and nature-based solutions into economic development initiatives. It seeks to restore wealth to local communities and renew diverse exchanges, drawing inspiration from the behavior of the dandelion in nature, termed as the “Dandelion Economy.” [...]
+>
+>By emphasizing global collaboration, mindset shift, ecological preservation, empowerment, sustainable development, and a just transition, Brand Earth encourages a collective effort to unify the human family and ensure the health and well-being of our only home, Earth.
+https://brand.earth/
 
-This includes rethinking brands so that they can preserve Earth’s diverse natural wealth.
+They focus on: sustainable business models, ethical supply chains, impact investing, socially responsible consumption, collaboration and partnerships, and resource and stewardship council. 
 
-
-![[../assets/brand-earth.jpg]]
-
-They focus on sustainable business models, ethical supply chains, impact investing, socially responsible consumption, collaboration and partnerships, and resource and stewardship council. 
 ### Key people 
 
-- [[Deepak Chopra]]
-- [[Bill Mckibben]]
+- Harry Uvegi, Founder
 
 ## Theory of Change 
 
@@ -36,6 +47,6 @@ In this model, wealth is primarily invested locally, instead of being concentrat
 
 ![[../assets/brand-earth-dandelion.jpg]]
 
-Brand Earth will introduce the “Earth Pass”, a sustainable funding mechanism that supports regenerative initiatives and leverages a combination of public, private funding, and innovative financial instruments. This is aimed at redirecting resources from environmentally damaging practices.
-
+>Brand Earth will introduce the “Earth Pass”, a sustainable funding mechanism that supports regenerative initiatives and leverages a combination of public, private funding, and innovative financial instruments. This is aimed at redirecting resources from environmentally damaging practices.
+https://brand.earth/
 
