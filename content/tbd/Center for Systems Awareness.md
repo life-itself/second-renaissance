@@ -5,13 +5,13 @@ contributors:
 title: Center for Systems Awareness
 url: https://systemsawareness.org/
 locations:
-  - North Andover, USA
+  - North Andover, Massachusetts, USA
 start: 1997
 end: 
 size: 11-20
 image: "[[../assets/systems-awareness-homepage.png]]"
 sectors:
-  - Education and Learning
+  - Education & Learning
 activities:
   - Education & Training
   - Networks & Forums
@@ -23,7 +23,8 @@ metadata_version: "1"
 > The Center for Systems Awareness honors the mind-heart-body system of the learner, the social reality of relationships, family and community that is the context for all learning, and responds to the need to engage learners of all ages in fostering systemic well-being at all levels, from the individual to the larger systems of institutions, society, economy and ecology.
 > 
 > We support and connect local communities in diverse settings developing a 'compassionate systems' approach to education that connects capacity building and community building to research and practice. This larger budding global community of compassionate systems practitioners, in turn, is part of a wider effort to come to a deeper understanding of the subtle aspects of systems awareness needed for sustaining deep change over time.
-('About', https://systemsawareness.org/about/)
+> 
+'About', https://systemsawareness.org/about/
 
 ![[../assets/systems-awareness-homepage.png]]
 
@@ -32,12 +33,14 @@ metadata_version: "1"
 > Around the world a renaissance is unfolding in education, driven by a combination of bold new ideas and increasing awareness of the necessity for societal change – and the radical idea that young people could be key leaders in these changes and education a key vehicle.
 > 
 > The Center for Systems Awareness exists to advance this renaissance based on _profound inter-connectedness_ as the integrating idea – that 'self,' 'other,' society and the larger natural world all arise as entwined systems of relationships – and that recovering our sense of connectedness and caring at each level can shape our future.
-(https://systemsawareness.org/)
+> 
+https://systemsawareness.org/
 
 ## History
 
 > The Center for Systems Awareness grew out of the former Society for Organizational Learning (SoL), an independent non-profit organization founded in 1997, which itself grew out of the MIT Center for Organizational Learning originally founded in 1990.
-('Our History', https://systemsawareness.org/about/#mandala-for-systems-change)
+
+'Our History', https://systemsawareness.org/about/#mandala-for-systems-change
 
 ### What they do
 
@@ -45,6 +48,7 @@ metadata_version: "1"
 - They run workshops and courses, e.g. introductions to their [[Compassionate Systems Framework]] and Advanced workshops for deeper systems awareness and systems change skills
 - They do research into systems awareness work in multiple settings, e.g. investigating the implementation of the [[Compassionate Systems Framework]] in schools
 - They run a number of projects which put their capacity-building frameworks into practice
+
 Read more: https://systemsawareness.org/what-we-do/
 
 ## Key Educational Resources
