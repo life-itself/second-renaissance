@@ -1,46 +1,50 @@
 ---
-contributors: Matthew McCarthy
 created: 2023-11-15
+contributors:
+  - Matthew McCarthy
+  - Catherine Tran
 title: Catalist
 url: https://www.catalist.network/
-city: 
-country: 
-sectors: Governance and Community
-activities: Convening and coordination
+locations:
+  - not-found
 start: 
-size: 
-cohere: y
+end: 
+size: " 4-10"
+image: "[[../assets/catalist-homepage.png]]"
+sectors:
+  - Media & Communications
+  - Education & Learning
+activities:
+  - Research
+  - Media & Publishing
+  - Convening & Coordination
+cohere: true
+metadata_version: "1"
 ---
+ >Catalist is a social impact network and digital library where you can discover projects, events, and opportunities to change the world.
  
+ >Catalist leverages curation across communities to create crowdsourced directories of knowledge from around the globe.
+ 
+ https://www.catalist.network/
 
-Catalist is a website that is particularly project driven, and allows people and organizations to get more easily involved in the kinds of sectors that they work in. In this sense, it is more action oriented than meta resource. In a way, they are also interested in 'cohering' the field of change agents. 
-
-It is organized into different 'spaces', 'objects' 'sets' and 'attributes'. At times, it can feel a little unclear why this exact organization is chosen, and whether it really works for organizing the different 'change agents' and material out there. Perhaps it can be a useful method; although at this point it seems a little confusing. 'Objects', for example, are anything that is created on catalist, although they  are categorized by 'type'- why not attribute? 
-
-Nonetheless it includes a lot of useful information and frameworks (sets)
-
-![[../assets/catalist.jpg]]
+![[../assets/catalist-homepage.png]]
 
 ### Key people 
 
-https://www.catalist.network/about
+- Vincent Arena, Founder
 
 ## Theory of Change 
 
-Catlist puts it the following way on their website: 
+>The Problem: Technology isn't designed to maximize collective intelligence, collaboration, and coordinated action towards what matters most.  
+>
+>The Solution: Creating a value-driven ecosystem of tools designed to educate and unite the change-makers of the world, liberate us from our screens, and empower the action needed to preserve life on planet earth. Trove is one tool that is part of the Catalist platform cooperative. Trove combines crowd-sourced community directory and social bookmarking tools, to create intention-based connections, foster collaboration, and catalyze coordinated action.
+https://www.catalist.network/about?tab=vision
 
-The Problem: Technology isn't designed to maximize collective intelligence, collaboration, and coordinated action towards what matters most.  
+For more detail, see 'Catalist White Paper' (2020), written by Vincent Arena: https://www.catalist.network/object/1696626326753x492504716598312960
 
-The Solution: Creating a value-driven ecosystem of tools designed to educate and unite the change-makers of the world, liberate us from our screens, and empower the action needed to preserve life on planet earth. 
+## Key Educational Resources 
 
-Catlist points out that 'we must change every aspect of society: our economic, social and technical systems.' 
+Their main offering is a curated public directory of resources of various kinds.
 
-The following quote from Buckminster Fuller appears on their website: 
-
-_“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.”_― Buckminster Fuller
-
-## Key educational Resources 
-
-https://www.catalist.network/about
 ## Connections 
 
