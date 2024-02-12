@@ -1,73 +1,48 @@
 ---
 created: 2023-12-01
-contributors: 
-title: title of the wiki entry, e.g. name of organisation, person, or concept
-url: 
-locations: 
-start: 
+contributors:
+  - Catherine Tran
+title: Catalyst 2030
+url: https://catalyst2030.net/
+locations:
+  - Amsterdam, Netherlands
+start: 2019
 end: 
-size: 1-3 | 4-10 | 11-20 | 21-50 | 51-100 | 101+
-image: 
-sectors: 
-activities: 
+size: 
+image: "[[../assets/catalyst-2030-homepage.png]]"
+sectors:
+  - Governance & Community
+activities:
+  - Convening & Coordination
+  - Education & Training
+  - Advocacy & Activism
 cohere: true
 metadata_version: "1"
 ---
 
-Fill in or delete the following sections as appropriate. 
+![[../assets/catalyst-2030-homepage.png]]
 
-# Properties (above)
-## created 
-- date that file was created
-## contributors 
-- names of contributors
-## locations
-- where they have an active and ongoing presence
-- format = [city], country, e.g. London, UK (can list multiple locations)
-## start 
-- year founded 
-## end
--  year ended 
-## size
-- team size (no. of paid team members, e.g. doesn't include board members or trustees)
-- format = select one of the following ranges: 1-3; 3-10; 10-20; 20-50; 50-100; 100+
-## image
-- representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
-- format = filepath (save image in assets/img)
-## sectors 
-- what areas of activity is the actor skilled or specialised in?
-## activities 
-- what are the main activities/interventions they do to bring about change?
+>Catalyst 2030 is a global movement of social change innovators. It comprises NGOs, social entrepreneurs, intermediaries, funders and other social change innovators, collaborating in this urgent moment to achieve the United Nations Sustainable Development Goals (SDGs).
 
-# About
+>Catalyst 2030 was started in July 2019 by leading social entrepreneurs from [[Ashoka]], Echoing Green, Schwab Foundation for Social Entrepreneurship, Skoll Foundation and other other global networks of social entrepreneurs and social innovators. The movement was officially launched at the World Economic Forum in Davos in January 2020. A month later more than 80 co-founders held the inaugural meeting of Catalyst 2030 at the Althorp Estate in Northampton (UK) to craft a collective roadmap for the years ahead. It is currently being incubated by the One Family Foundation in Amsterdam (NL).
+https://catalyst2030.net/catalyst-2030-faqs/
 
-Who are they? What do they do? What is unique, special, or distinctive about them?
+### Organisation Structure
 
-Include screenshots
+>Catalyst 2030 operates as a distributed entity, without headquarters, rather than as a structured, formal organisation. This helps us to work more effectively towards collaborative systems change.
+https://catalyst2030.net/organisation/
 
 ## Key People
 
-- Name, Role
+## Theory of Change
 
-# Theory of Change
+- Mission, Vision, and Values: https://catalyst2030.net/mission-vision-and-values/
 
-What kinds of change are they trying to make in the world? How do they seem to understand the process and principles of change?
+## Key Educational Resources
 
-- How exactly are they working for *paradigmatic* change?
-- How exactly are they taking *integrative* or *whole-systems* approaches?
+## Connections
 
-e.g.: key questions that guide their work or that their work explores; transformational practices and frameworks they draw on 
 
-# Key Educational Resources
-
-e.g. key books, articles, courses, etc. with brief description if possible
-
-# Connections
-
-e.g. organisations they seem similar to; organisations they are partnered with; ideological inspirations...
-
-e.g. 
-- Funded by [[learning-for-wellbeing-foundation]]
 
 
 
