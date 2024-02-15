@@ -1,8 +1,8 @@
 
 
 ```dataview
-table country, cohere, sectors, activities, started, size
-from "content/tbd"
+table locations, cohere, sectors, activities, start, size
+from "/tbd"
 ```
 
 ## Cohere + project 
