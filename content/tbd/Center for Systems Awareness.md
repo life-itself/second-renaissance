@@ -14,9 +14,9 @@ sectors:
   - Education & Learning
 activities:
   - Education & Training
-  - Networks & Forums
   - Consulting & Advisory
   - Research
+  - Convening & Coordination
 cohere: true
 metadata_version: "1"
 ---
