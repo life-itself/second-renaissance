@@ -23,6 +23,7 @@ Ecosystem Mapping.
 
 - Ecosystem Mapping Initiatives page, https://lifeitself.org/initiatives/ecosystem-mapping **🔥 See resources listed under Key Resources at the bottom of this page, especially preliminary research interviews**
 - Related Efforts, https://github.com/life-itself/ecosystem/blob/main/content/related-efforts.md **🔥 Inbox of related efforts, either maps or resource banks for related fields, or other maps of same/similar field**
+- **Other people's efforts to map "tribes" or "centres"**, https://github.com/orgs/life-itself/discussions/969
 
 ### Cohere+ project
 
