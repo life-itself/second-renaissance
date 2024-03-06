@@ -38,5 +38,5 @@ Ecosystem Mapping.
 
 - _Domains, Maps and Rafts: common terminology for discussions on inner development_, https://lifeitself.org/blog/domains-maps-rafts **Explaining the "domains, maps, rafts" terminology for making sense of inner development**
 - _Are We Experiencing The Second Renaissance? with Sylvie Barbier_, https://lifeitself.org/blog/2023/05/19/sylvie-barbier-second-renaissance **Video in which Sylvie shares about her upcoming book "Second Renaissance" and its connection to Life Itself's vision for a radically, wiser, weller world.**
-- - _Results of the Inaugural Life Itself Research Hackathon 3rd June 2023
+- _Results of the Inaugural Life Itself Research Hackathon 3rd June 2023
 _, https://lifeitself.org/blog/2023/07/25/results-of-inauguaral-life-itself-research-hackathon **🔥 Contains curated reading/resource lists on: a) Sensemaking, b) Tenzo, c) individual and group practices**
