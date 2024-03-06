@@ -51,6 +51,10 @@ Cache of this data here: https://drive.google.com/drive/folders/1Arb63uGCD0bDHPR
 
 Mentioned in this thread: https://twitter.com/rufuspollock/status/1501160815277318146
 
+### From the SINE network
+
+![](https://github.com/life-itself/ecosystem/assets/131390186/c67732d2-4a93-42d0-aaed-5d3b108eb6fe)
+
 ## Inbox
 
 - [Gaianet](https://www.gaianet.earth)
@@ -71,25 +75,14 @@ Mentioned in this thread: https://twitter.com/rufuspollock/status/15011608152773
 - https://www.catalist.network/
 - https://www.transformationscommunity.org/systems-education-catalog (From BG)
 - http://www.communityloversguide.org/ - examples of innovative local community projects
-
-### From PW, 2023-08-18
-
 - https://www.fito.network/tools (if we need to find additional (orgs that offer) coherence building tools)
 - https://lookerstudio.google.com/u/0/reporting/d834b3dc-21cd-464a-a23a-495544ab17b0/page/hwh9B
 - [illuminatesystems.org/visualisingthefield](http://illuminatesystems.org/visualisingthefield)
 - [greaterthanthesum.com/social-system-maps/](http://greaterthanthesum.com/social-system-maps/)
-
-### From the SINE network
-
-![](https://github.com/life-itself/ecosystem/assets/131390186/c67732d2-4a93-42d0-aaed-5d3b108eb6fe)
-
-### 2023-12-01
-
 - Memetic tribes - https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit#gid=0
 - Nadia Asparouhova - https://nadia.xyz/mapping-digital-worlds More of a conceptual writing format of sense-making, less visual
   - https://nadia.xyz/climate-tribes
 - https://ich.unesco.org/dive/constellation/
-
-### Misc - 2024
-
 - Jonathan Rowson, ['Now that you have found the others...'](https://www.whatisemerging.com/opinions/now-that-you-ve-found-the-others-what-are-you-going-to-do)
+- Twelve Tribes of Transformation
+- Brandon Norgaard Approaches to the Metacrisis
