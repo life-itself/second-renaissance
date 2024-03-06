@@ -24,6 +24,7 @@ Ecosystem Mapping.
 - Ecosystem Mapping Initiatives page, https://lifeitself.org/initiatives/ecosystem-mapping **🔥 See resources listed under Key Resources at the bottom of this page, especially preliminary research interviews**
 - Related Efforts, https://github.com/life-itself/ecosystem/blob/main/content/related-efforts.md **🔥 Inbox of related efforts, either maps or resource banks for related fields, or other maps of same/similar field**
 - 2023-12-21 Meeting, **TODO: Link. Matt's and Catherine's discussion about tribe mapping. At ~ 1101 (probably 20m in) Catherine explains why tribe-mapping could be useful.**
+- _Other efforts to map "tribes" or "centres" of the Second Renaissance_, https://github.com/orgs/life-itself/discussions/969 **Discussion thread in LI forum**
 
 ### Cohere+ project
 
