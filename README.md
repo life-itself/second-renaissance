@@ -21,6 +21,8 @@ Ecosystem Mapping.
 
 ## 2R Ecosystem Mapping Work
 
+- Ecosystem Mapping Initiatives page, https://lifeitself.org/initiatives/ecosystem-mapping **🔥 See resources listed under Key Resources at the bottom of this page, especially interviews**
+
 ### Cohere+ project
 
 - _Cohere+: an Erasmus+ project to uplevel the collective capacity of European change agents_, https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce **Announcement of Cohere+ project**
@@ -39,3 +41,4 @@ Ecosystem Mapping.
 - _Domains, Maps and Rafts: common terminology for discussions on inner development_, https://lifeitself.org/blog/domains-maps-rafts **Explaining the "domains, maps, rafts" terminology for making sense of inner development**
 - _Are We Experiencing The Second Renaissance? with Sylvie Barbier_, https://lifeitself.org/blog/2023/05/19/sylvie-barbier-second-renaissance **Video in which Sylvie shares about her upcoming book "Second Renaissance" and its connection to Life Itself's vision for a radically, wiser, weller world.**
 - _Results of the Inaugural Life Itself Research Hackathon 3rd June 2023_, https://lifeitself.org/blog/2023/07/25/results-of-inauguaral-life-itself-research-hackathon **🔥 Contains curated reading/resource lists on: a) Sensemaking, b) Tenzo, c) individual and group practices**
+
