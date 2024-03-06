@@ -21,7 +21,7 @@ Ecosystem Mapping.
 
 ## 2R Ecosystem Mapping Work
 
-- Ecosystem Mapping Initiatives page, https://lifeitself.org/initiatives/ecosystem-mapping **🔥 See resources listed under Key Resources at the bottom of this page, especially interviews**
+- Ecosystem Mapping Initiatives page, https://lifeitself.org/initiatives/ecosystem-mapping **🔥 See resources listed under Key Resources at the bottom of this page, especially preliminary research interviews**
 
 ### Cohere+ project
 
