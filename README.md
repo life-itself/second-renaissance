@@ -21,8 +21,14 @@ Ecosystem Mapping.
 
 ## 2R Ecosystem Mapping Work
 
+### Cohere+ project
+
 - _Cohere+: an Erasmus+ project to uplevel the collective capacity of European change agents_, https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce **Announcement of Cohere+ project**
 - _Mapping Transformational Change Agents in Europe: Who do we Include?_, https://lifeitself.org/blog/2023/08/30/cohere-mapping-who-to-include **Sharing Cohere+ mapping inclusion criteria, some examples of selected organisations, and some discussion questions**
+
+### Deliberately Developmental Spaces Field-Building project
+
+- _Building the Field for Developmental Spaces: a new project in collaboration with Fetzer Institute, Commonweal & Ekskäret_, https://lifeitself.org/blog/2023/06/20/building-field-for-developmental-spaces **Announcement of DDS field-building project**
 
 ## 2R Research
 
@@ -31,3 +37,4 @@ Ecosystem Mapping.
 ## Meta/Misc
 
 - _Domains, Maps and Rafts: common terminology for discussions on inner development_, https://lifeitself.org/blog/domains-maps-rafts **Explaining the "domains, maps, rafts" terminology for making sense of inner development**
+- _Are We Experiencing The Second Renaissance? with Sylvie Barbier_, https://lifeitself.org/blog/2023/05/19/sylvie-barbier-second-renaissance **Video in which Sylvie shares about her upcoming book "Second Renaissance" and its connection to Life Itself's vision for a radically, wiser, weller world.**
