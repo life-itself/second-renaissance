@@ -8,9 +8,14 @@ Ecosystem Mapping.
 
 *Summaries: key ideas, history, actors, texts...*
 
-- [ ] **Integral** https://docs.google.com/document/d/1tXR6SaGfStFKX31yfWoZLF2XRpSscHsaoD37grESoSU/edit#heading=h.rmjpw8384nz8 **Finished**
-- [ ] **Zen** https://docs.google.com/document/d/16nUfw2aIqHLN_2VRtt0zJ-uJE5JuXz5FoO_ndJpFyHU/edit **Almost finished**
-- [ ] 
+- [ ] *Integral*, https://docs.google.com/document/d/1tXR6SaGfStFKX31yfWoZLF2XRpSscHsaoD37grESoSU/edit#heading=h.rmjpw8384nz8 **Finished**
+- [ ] *Zen*, https://docs.google.com/document/d/16nUfw2aIqHLN_2VRtt0zJ-uJE5JuXz5FoO_ndJpFyHU/edit **Almost finished - final check needed**
+- [ ] *Psychotherapy*, https://docs.google.com/document/d/1Wo-9oQf9_GT_cursgFEpY2RGxYPScTORPpgPymRFxyI/edit, **Almost finished - final check needed 
+- [ ] *Permaculture*, https://docs.google.com/document/d/1M_vbQNl8vI-p3DyZsjJVJaXPt0k-h0vV193e-1JbBGU/edit **Almost finished - final check needed 
+- [ ] *Metamodernism*, https://docs.google.com/document/d/1eg1jamn96h3xl-_2YGdQ29xfE3pdlznVLytbdq2m_Fs/edit **Almost finished - final check needed
+- [ ] *Alternative governance*, https://docs.google.com/document/d/15oFAy44S6S3yodOfX2X2ASeaQyxfv6leZI0M4i0KWFs/edit, **Almost finished - final check needed
+- [ ] *Alternative economics*, https://docs.google.com/document/d/1GII7w2P3yLtAKZejKzgkRCGch0f4iyn0zs5wL6h9dcE/edit **Almost finished - final check needed
+- [ ] *Buddhism*, https://docs.google.com/document/d/1mAg6Juy0C4RKsnOErdMyHkA450xdAFyyhdL1w0ma7t4/edit **Almost finished - final check needed
 
 ## Notes on Key Texts
 
