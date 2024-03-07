@@ -57,34 +57,33 @@ Mentioned in this thread: https://twitter.com/rufuspollock/status/15011608152773
 
 ## Inbox
 
-- [Gaianet](https://www.gaianet.earth)
-- https://www.localfutures.org/action-resources/maps-of-alternatives/
-- [Global Ecovillage Network Solution Library](https://ecovillage.org/solutions/?gen_sust_dimension=economy)
-- [Global Indigenous Wisdom Library](https://indigenouswisdomsummit.com/library/8681/library)
-- [Resources - Vikalp Sangam](https://vikalpsangam.org/resources/) 
-- [Good of the Whole](https://www.goodofthewhole.org/)
-- [One Community Global](https://www.onecommunityglobal.org/open-source/)
-- [EJAtlas - Global Atlas of Environmental Justice ](https://ejatlas.org/)
-- https://metamaps.cc/, cf [List of Orgs from YG](https://docs.google.com/document/d/1eGqDGPE2OFIOAjicIMwWuFE_cs3NWP2CaVpmTuy8Li8/edit) for contact
-- http://transformap.co/
-- https://communitymaps.org.uk/welcome
-- [The Field Guide to a Regenerative Economy](http://fieldguide.capitalinstitute.org/) - [New Shape Prize Library](https://globalchallenges.org/new-shape-library/) (Global Challenges Foundation)
-- [Regenerecao Global](https://www.regeneracaoglobal.com/encontrar-solucoes)
-- [Project Drawdown Solutions Library](https://drawdown.org/solutions/table-of-solutions)
--  [Critical Turning Points Database](http://www.transitsocialinnovation.eu/sii)
-- https://www.catalist.network/
-- https://www.transformationscommunity.org/systems-education-catalog (From BG)
-- http://www.communityloversguide.org/ - examples of innovative local community projects
-- https://www.fito.network/tools (if we need to find additional (orgs that offer) coherence building tools)
-- https://lookerstudio.google.com/u/0/reporting/d834b3dc-21cd-464a-a23a-495544ab17b0/page/hwh9B
-- [illuminatesystems.org/visualisingthefield](http://illuminatesystems.org/visualisingthefield)
-- [greaterthanthesum.com/social-system-maps/](http://greaterthanthesum.com/social-system-maps/)
-- Memetic tribes - https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit#gid=0
-- Nadia Asparouhova - https://nadia.xyz/mapping-digital-worlds More of a conceptual writing format of sense-making, less visual
-  - https://nadia.xyz/climate-tribes
-- https://ich.unesco.org/dive/constellation/
-- Jonathan Rowson, ['Now that you have found the others...'](https://www.whatisemerging.com/opinions/now-that-you-ve-found-the-others-what-are-you-going-to-do)
-- Twelve Tribes of Transformation
-- Brandon Norgaard Approaches to the Metacrisis
-- Naryan Wong's [map of maps](https://kumu.io/Naryan/the-flourishing-of-all-living-things#flourishing-of-all-living-things/mapping?focus=1)
-- Naryan Wong's [map of the ecosystem](https://kumu.io/Naryan/the-flourishing-of-all-living-things)
+- [ ] [Gaianet](https://www.gaianet.earth)
+- [ ] https://www.localfutures.org/action-resources/maps-of-alternatives/
+- [ ] [Global Ecovillage Network Solution Library](https://ecovillage.org/solutions/?gen_sust_dimension=economy)
+- [ ] [Global Indigenous Wisdom Library](https://indigenouswisdomsummit.com/library/8681/library)
+- [ ] [Resources - Vikalp Sangam](https://vikalpsangam.org/resources/) 
+- [ ] [Good of the Whole](https://www.goodofthewhole.org/)
+- [ ] [One Community Global](https://www.onecommunityglobal.org/open-source/)
+- [ ] [EJAtlas - Global Atlas of Environmental Justice ](https://ejatlas.org/)
+- [ ] https://metamaps.cc/, cf [List of Orgs from YG](https://docs.google.com/document/d/1eGqDGPE2OFIOAjicIMwWuFE_cs3NWP2CaVpmTuy8Li8/edit) for contact
+- [ ] http://transformap.co/
+- [ ] https://communitymaps.org.uk/welcome
+- [ ] [The Field Guide to a Regenerative Economy](http://fieldguide.capitalinstitute.org/) - [New Shape Prize Library](https://globalchallenges.org/new-shape-library/) (Global Challenges Foundation)
+- [ ] [Regenerecao Global](https://www.regeneracaoglobal.com/encontrar-solucoes)
+- [ ] [Project Drawdown Solutions Library](https://drawdown.org/solutions/table-of-solutions)
+- [ ] [Critical Turning Points Database](http://www.transitsocialinnovation.eu/sii)
+- [ ] https://www.catalist.network/
+- [ ] https://www.transformationscommunity.org/systems-education-catalog (From BG)
+- [ ] http://www.communityloversguide.org/ - examples of innovative local community projects
+- [ ] https://www.fito.network/tools (if we need to find additional (orgs that offer) coherence building tools)
+- [ ] https://lookerstudio.google.com/u/0/reporting/d834b3dc-21cd-464a-a23a-495544ab17b0/page/hwh9B
+- [ ] [illuminatesystems.org/visualisingthefield](http://illuminatesystems.org/visualisingthefield)
+- [ ] [greaterthanthesum.com/social-system-maps/](http://greaterthanthesum.com/social-system-maps/)
+- [ ] Memetic tribes - https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit#gid=0
+- [ ] Nadia Asparouhova - https://nadia.xyz/mapping-digital-worlds More of a conceptual writing format of sense-making, less visual; https://nadia.xyz/climate-tribes
+- [ ] https://ich.unesco.org/dive/constellation/
+- [ ] Jonathan Rowson, ['Now that you have found the others...'](https://www.whatisemerging.com/opinions/now-that-you-ve-found-the-others-what-are-you-going-to-do)
+- [ ] Twelve Tribes of Transformation
+- [ ] Brandon Norgaard Approaches to the Metacrisis
+- [ ] Naryan Wong's [map of maps](https://kumu.io/Naryan/the-flourishing-of-all-living-things#flourishing-of-all-living-things/mapping?focus=1)
+- [ ] Naryan Wong's [map of the ecosystem](https://kumu.io/Naryan/the-flourishing-of-all-living-things)
