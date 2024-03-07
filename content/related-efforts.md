@@ -86,4 +86,5 @@ Mentioned in this thread: https://twitter.com/rufuspollock/status/15011608152773
 - [ ] Twelve Tribes of Transformation
 - [ ] Brandon Norgaard Approaches to the Metacrisis
 - [ ] Naryan Wong's [map of maps](https://kumu.io/Naryan/the-flourishing-of-all-living-things#flourishing-of-all-living-things/mapping?focus=1)
-- [ ] Naryan Wong's [map of the ecosystem](https://kumu.io/Naryan/the-flourishing-of-all-living-things)
+- [x] Naryan Wong's [map of the ecosystem](https://kumu.io/Naryan/the-flourishing-of-all-living-things)
+- [ ] Map of Sensemaking Web (GameBInsights, 2020), https://twitter.com/GameBInsights/status/1275770634581270529/photo/1
