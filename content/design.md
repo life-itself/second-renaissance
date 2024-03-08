@@ -6,7 +6,7 @@ title: Design
 
 - Scan this quickly: https://ecosystem.lifeitself.org
 - Read a profile or two e.g. ...
-- Read this blog post: https://lifeitself.us/2021/12/09/mapping-for-emergence/  - covers both "why map" and "what are we mapping"
+- Read this blog post: https://lifeitself.org/blog/2021/12/09/mapping-for-emergence/  - covers both "why map" and "what are we mapping"
 - Then dive into the below
 
 ## Background
