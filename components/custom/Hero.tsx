@@ -112,7 +112,7 @@ export default function Hero() {
               By Life Itself, Emerge, Cohere+ and collaborators
 						</h2>
 						<p className="mt-3 max-w-md mx-auto text-gray-500 sm:text-lg md:mt-5 med:text-xl md:max-w-3xl">
-							{config.description}
+							An emerging ecosystem is seeking a radical, alternative approach to social change. One that is simultaneous paradigmatic, integrated and engaged (PIE). The project provides a map including key features, ideas, organizations and initiatives.
 						</p>
 						<div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
 							<div className="rounded-md shadow">
