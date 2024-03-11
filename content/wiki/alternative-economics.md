@@ -6,7 +6,7 @@ authors:
 original: https://lifeitself.org/blog/2022/04/01/mapping-metamodern-alternative-economics
 ---
 
-![](/content/assets/Doughnut_economics_shwyyy.jpg)
+![](/assets/Doughnut_economics_shwyyy.jpg)
 The Doughnut of Social and Planetary Boundaries. Credit: DoughnutEconomics
 
 ## Summary
@@ -31,7 +31,7 @@ The wellbeing economy is a broad label for the diverse movement of ideas and act
 
 Kate Rawworth’s Doughnut Model brings the twin objectives of poverty eradication and environmental sustainability into one single framework. Social foundation forms the inner boundary of the doughnut, with the hole at the center of the model depicting the proportion of people that lack access to life’s essentials. The outer boundary of the doughnut depicts an environmental ceiling, beyond which are several dimensions of environmental degradation. The doughnut-shaped area between the two boundaries represents an environmentally safe and socially just space for humanity to thrive in, where inclusive and sustainable economic development can take place.
 
-![](/content/assets/doughnut_xgqrmo.jpg)
+![](/assets/doughnut_xgqrmo.jpg)
 
 The Doughnut Model as applied to the planet as a whole. Credit: DoughnutEconomics
 

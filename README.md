@@ -8,14 +8,14 @@ Ecosystem Mapping.
 
 *Summaries: key ideas, history, actors, texts...*
 
-- [ ] 'Mapping Metamodern: Integral', https://lifeitself.org/blog/2022/05/27/mapping-metamodern-integral **A summary of Integral written by Eilidh 2022**
-- [ ] 'Mapping Metamodern: Zen', https://lifeitself.org/blog/2022/03/18/mapping-metamodern-zen **A summary of Zen written by Eilidh 2022**
-- [ ] 'Mapping Metamodern: Psychotherapy', https://lifeitself.org/blog/2022/04/22/mapping-metamodern-psychotherapy **A summary of Psychotherapy written by Eilidh 2022**
-- [ ] 'Mapping Metamodern: Permaculture', https://lifeitself.org/blog/2022/03/25/mapping-metamodern-permaculture **A summary of Permaculture written by Eilidh 2022**
-- [ ] 'Mapping Metamodern: Metamodernism', https://lifeitself.org/blog/2022/03/11/mapping-metamodern-what-is-metamodernism **A summary of Metamodernism written by Eilidh 2022**
-- [ ] 'Mapping Metamodern: Alternative Governance, https://lifeitself.org/blog/2022/04/08/mapping-metamodern-alternative-governance **A summary of Alternative Governance written by Eilidh 2022**
-- [ ] 'Mapping Metamodern: Alternative Economics', https://lifeitself.org/blog/2022/04/01/mapping-metamodern-alternative-economics **A summary of Alternative Economics written by Eilidh 2022**
-- [ ] 'Mapping Metamodern: Buddhism', https://lifeitself.org/blog/2022/04/29/mapping-metamodern-buddhism **A summary of Buddhism written by Eilidh 2022**
+- [x] 'Mapping Metamodern: Integral', https://lifeitself.org/blog/2022/05/27/mapping-metamodern-integral **A summary of Integral written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
+- [x] 'Mapping Metamodern: Zen', https://lifeitself.org/blog/2022/03/18/mapping-metamodern-zen **A summary of Zen written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
+- [x] 'Mapping Metamodern: Psychotherapy', https://lifeitself.org/blog/2022/04/22/mapping-metamodern-psychotherapy **A summary of Psychotherapy written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
+- [x] 'Mapping Metamodern: Permaculture', https://lifeitself.org/blog/2022/03/25/mapping-metamodern-permaculture **A summary of Permaculture written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
+- [x] 'Mapping Metamodern: Metamodernism', https://lifeitself.org/blog/2022/03/11/mapping-metamodern-what-is-metamodernism **A summary of Metamodernism written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
+- [x] 'Mapping Metamodern: Alternative Governance, https://lifeitself.org/blog/2022/04/08/mapping-metamodern-alternative-governance **A summary of Alternative Governance written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
+- [x] 'Mapping Metamodern: Alternative Economics', https://lifeitself.org/blog/2022/04/01/mapping-metamodern-alternative-economics **A summary of Alternative Economics written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
+- [x] 'Mapping Metamodern: Buddhism', https://lifeitself.org/blog/2022/04/29/mapping-metamodern-buddhism **A summary of Buddhism written by Eilidh 2022 :heavy_check_mark: 2024-03-11 Created page in wiki.**
 
 ## Notes on Key Texts
 
