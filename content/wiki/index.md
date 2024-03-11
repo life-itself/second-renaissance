@@ -16,6 +16,7 @@ Welcome to *Seeds of the Second Renaissance: A Primer.*
 - [[Ecovillage]]
 - [[Effective Altruism]]
 - [[Existential Risk]]
+- [[Indigenous Wisdom]]
 - [[integral|Integral]]
 - [[Intentional Community]]
 - [[metamodernism|Metamodernism]]
