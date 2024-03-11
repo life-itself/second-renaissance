@@ -32,7 +32,7 @@ Reos Partners makes 'systems change' central to their strategy and efforts, and 
 
 As mentioned in the 'social labs' information, they believe in the notion of 'leverage points' as being key to addressing systems change. 
 
-![[reospartnersvalues.jpg]]
+![[../assets/reospartnersvalues 1.jpg]]
 ## Key educational Resources 
 
 https://reospartners.com/resource-library

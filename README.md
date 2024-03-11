@@ -35,6 +35,8 @@ Ecosystem Mapping.
 - Related Efforts, https://github.com/life-itself/ecosystem/blob/main/content/related-efforts.md **🔥 Inbox of related efforts, either maps or resource banks for related fields, or other maps of same/similar field**
 - Other people's efforts to map "tribes" or "centres", https://github.com/orgs/life-itself/discussions/969
 - 'The New School at Commonweal with Rufus Pollock', https://lifeitself.org/blog/2022/08/16/the-new-school-at-commonweal-with-rufus-pollock **Podcast where Rufus discusses Mapping Metamodern ecosystem mapping project with Michael Lerner, host of The New School at Commonweal**
+- 'Mapping an Emerging Ecosystem: Partnership With The Institute for Integral Studies', https://lifeitself.org/blog/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies **Announcing partnership with IFIS**
+- 'Mapping For Emergence: Announcing a Collaboration to Chart the Emerging Metamodern Ecosystem', https://lifeitself.org/blog/2021/12/09/mapping-for-emergence **🔥🔥Why map, context etc.**
 
 ### Cohere+ project
 
@@ -55,4 +57,7 @@ Ecosystem Mapping.
 - _Are We Experiencing The Second Renaissance? with Sylvie Barbier_, https://lifeitself.org/blog/2023/05/19/sylvie-barbier-second-renaissance **Video in which Sylvie shares about her upcoming book "Second Renaissance" and its connection to Life Itself's vision for a radically, wiser, weller world.**
 - _Results of the Inaugural Life Itself Research Hackathon 3rd June 2023_, https://lifeitself.org/blog/2023/07/25/results-of-inauguaral-life-itself-research-hackathon **🔥 Contains curated reading/resource lists on: a) Sensemaking, b) Tenzo, c) individual and group practices**
 - The Second Renaissance page, https://lifeitself.org/second-renaissance **🔥Intro to Second Renaissance course**
+- 'Cultivating an Emerging Paradigm', https://lifeitself.org/blog/2022/02/01/cultivating-an-emerging-paradigm **By Rufus and Tomas Bjorkman. "This essay summarizes a jointly developed theory of change. Its central thesis is the need to transition to a new cultural and social paradigm."**
+- 'Social Paradigm Shifts: A Pre-Survey of the Literature' https://lifeitself.org/blog/2021/10/25/social-paradigm-shifts-a-pre-survey-of-the-literature **🔥 Written by Theo 2021. "a high-level overview of where relevant material might be found to support a more rigorous, future investigation into the question of social paradigm shifts." Covers Sociology, Cultural Studies, Psychology, Evolutionary Science, Social Movement Theory**
+- 'Critical Point: our reason for existence in a Nutshell', https://lifeitself.org/blog/2021/10/25/critical-point-our-reason-for-existence-in-a-nutshell **Nice, concise summary of context and challenge re need for paradigm shifts**
 

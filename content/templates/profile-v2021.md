@@ -1,7 +1,6 @@
 ---
 title: Metadata Profile 2021
 ---
-
 This is documentation of the metadata profile we used for the 2021 release of the ecosystem mapping in September 2021.
 
 ## Fields
