@@ -28,6 +28,7 @@ Welcome to *Seeds of the Second Renaissance: A Primer.*
   - [[Shadow Work]]
 - [[Regenerative]]
 - [[Somatics]]
+- [[Spiritual Ecology]]
 - [[Systems Thinking]]
 - [[Trauma Theory]]
 - [[zen|Zen]]
@@ -44,5 +45,4 @@ Welcome to *Seeds of the Second Renaissance: A Primer.*
 - [[Regenerative]]
 - [[Sensemaking]]
 
-## Featured Content
 
