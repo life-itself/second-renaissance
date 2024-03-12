@@ -4,6 +4,7 @@ Welcome to *Seeds of the Second Renaissance: A Primer.*
 ## Overviews & Maps
 
 - [[overview-ecosystem-names|Overview of Second Renaissance ecosystem names]]
+- [[overview-mapping-efforts|Overview of related ecosystem mapping efforts]]
 
 ## Key Influences
 

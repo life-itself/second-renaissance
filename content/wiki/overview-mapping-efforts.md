@@ -14,17 +14,28 @@ We gather these together with the intentions of: 
 *   learning from work that has been done already; and 
 *   discerning what to do next with our own mapping efforts so that they make a valuable contribution to the collective field. 
 
-### Contents
+We have split these mapping efforts roughly into a) those that map the Second Renaissance ecosystem or something very close to it and b) those that map something broader that includes the Second Renaissance ecosystem. Given the indistinct bounds of the Second Renaissance ecosystem, there is some fuzziness involved even in this exercise. Furthermore, the unavailability of clear inclusion criteria for most of the mapping efforts makes it harder to recognise the rough boundaries of each of these maps. 
 
+We welcome feedback and other perspectives on our work here.
+
+## Contents
+
+**Second Renaissance Ecosystem Mapping Efforts**
 1. A Mindset for the Anthropocene
 2. Meta-Crisis Meta-Resource
 3. The Liminal Web
 4. The Flourishing of All Living Things
 5. Gaianet Ecosystem Map (New Earth Ecosystem)
 6. Approaches to the Meta-Crisis
-7. Illuminate: Visualising the Field and Practice of Systems Change
+7. Mapping Metamodern/State of Sensemaking
 
-## A Mindset for the Anthropocene
+**Broader Ecosystem Mapping Efforts**
+1. Illuminate: Visualising the Field and Practice of Systems Change
+2. TODO - Meta-Tribes
+3. TODO - roote.co
+
+## Second Renaissance Ecosystem Mapping Efforts
+### A Mindset for the Anthropocene
 
 - **🔗 Link:** [https://www.ama-project.org/](https://www.ama-project.org/) 
 - ✍️ **Created by:** RIFS Potsdam
@@ -40,7 +51,7 @@ We gather these together with the intentions of: 
 ![[assets/a-mindset-for-the-anthropocene-3.png]]
 
 
-## Meta-Crisis Meta-Resource
+### Meta-Crisis Meta-Resource
 
 - **🔗 Link:** [https://metacrisis.org/](https://metacrisis.org/) 
 - ✍️ **Created by:** Kyle Kowalski (Founder of Sloww)
@@ -51,7 +62,7 @@ We gather these together with the intentions of: 
 
 ![[assets/meta-crisis-meta-resource.png]]
 
-## The Liminal Web
+### The Liminal Web
 
 - **🔗 Link:** [https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets) 
 - ✍️ **Created by:** Joe Lightfoot
@@ -61,12 +72,13 @@ We gather these together with the intentions of: 
 - ❓Inclusion criteria: \[Not found\]
 
 ![[assets/liminal-web-1.png]]
+Updated version: April 2023. 
 
 ![[assets/liminal-web-2.png]]
 
 ![[assets/liminal-web-3.png]]
 
-## The Flourishing of All Living Things
+### The Flourishing of All Living Things
 
 - 🔗 **Link:** [https://kumu.io/Naryan/the-flourishing-of-all-living-things](https://kumu.io/Naryan/the-flourishing-of-all-living-things) 
 - ✍️ **Created by:** Naryan Wong (Consultant at Cultivating Leadership; Founder of ThinkBetter)
@@ -77,7 +89,7 @@ We gather these together with the intentions of: 
 
 ![[assets/flourishing-of-all-living-things.png]]
 
-## Gaianet Ecosystem Map (New Earth Ecosystem)
+### Gaianet Ecosystem Map (New Earth Ecosystem)
 
 - **🔗 Link:** [https://www.gaianet.earth/ecosystem](https://www.gaianet.earth/ecosystem) 
 - ✍️ **Created by:** Gaianet
@@ -90,7 +102,7 @@ We gather these together with the intentions of: 
 
 ![[assets/gaianet-2.png]]
 
-## Approaches to the Meta-Crisis
+### Approaches to the Meta-Crisis
 
 - **🔗 Link:** [https://medium.com/@brandon\_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7](https://medium.com/@brandon_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7) 
 - ✍️ **Created by:** Brandon Norgaard (Founder of the Enlightened Worldview Project) and collaborators
@@ -103,7 +115,22 @@ We gather these together with the intentions of: 
 
 ![[assets/approaches-to-metacrisis-2.png]]
 
-## Illuminate: Visualising the Field and Practice of Systems Change
+### Mapping Metamodern/State of Sensemaking
+
+- **🔗 Link:** https://ecosystem.lifeitself.org/
+- ✍️ **Created by:** Life Itself and collaborators
+- **📅 Date:** 2020
+ - **📃 Description:** 
+- **🎨 Type:** 
+- ❓**Inclusion criteria:** 
+
+![[../assets/state-of-sensemaking-directory-profiles-20211012-1024x856.png]]
+
+## Broader Ecosystem Mapping Efforts
+
+We see the following mapping efforts as related but having a scope that spans broader than the Second Renaissance ecosystem. We include them below for the utility of their analysis, and for their contribution in piecing together an overview of how the Second Renaissance ecosystem is situated in relation to other movements, fields, and communities.
+
+### Illuminate: Visualising the Field and Practice of Systems Change
 
 - **🔗 Link:** [https://www.illuminatesystems.org/visualisingthefield](https://www.illuminatesystems.org/visualisingthefield) 
 - ✍️ **Created by:** School of System Change
@@ -115,3 +142,6 @@ We gather these together with the intentions of: 
     - Article: [‘Sense-making from visualising the field of systems change’](https://www.illuminatesystems.org/latest/sense-making-from-visualising-the-field-of-systems-change)
 
  ![[assets/systems-change-practitioners.png]]
+
+
+
