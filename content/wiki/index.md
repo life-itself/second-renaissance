@@ -1,6 +1,10 @@
 
 Welcome to *Seeds of the Second Renaissance: A Primer.*
 
+## Overviews & Maps
+
+- [[overview-ecosystem-names|Overview of Second Renaissance ecosystem names]]
+
 ## Key Influences
 
 - [[alternative-economics|Alternative Economics]]
