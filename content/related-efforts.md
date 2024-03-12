@@ -89,3 +89,4 @@ Mentioned in this thread: https://twitter.com/rufuspollock/status/15011608152773
 - [x] Naryan Wong's [map of the ecosystem](https://kumu.io/Naryan/the-flourishing-of-all-living-things)
 - [ ] Map of Sensemaking Web (GameBInsights, 2020), https://twitter.com/GameBInsights/status/1275770634581270529/photo/1
 - [ ] [https://dandelion.events](https://t.co/PtRDjJmTzI), a key hub for events in this space e.g. [https://dandelion.events/e/futurecraft-brave-earth…](https://t.co/aV1KatUxwA) and [https://dandelion.events/e/the-metamodern-academy](https://t.co/L02yFT7C5W)
+- [ ] Wisdom Age narrative map (by Roote), https://www.roote.co/wisdom-age
