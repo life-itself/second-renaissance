@@ -3,6 +3,7 @@ title: An Overview of Second Renaissance Ecosystem Mapping Efforts
 created: 2024-03-12
 authors:
   - catherine-tran
+  - elisalifeitself
 ---
 > We sense an emerging ecosystem that is growing. More and more people are talking about what we are calling the "Second Renaissance" ecosystem, although people are using different names, e.g. Metamodern, Integral, Regenerative, Liminal Web, Metacrisis, Game B. More and more people are also trying to map and make sense of this ecosystem, e.g. Catalist, Limicon, Gaianet. There is growing recognition between people who are aware of or part of the ecosystem around practices, thinkers, virtual or physical gathering places, analysis of “what’s wrong” and “what’s needed” – but the ecosystem’s identity is still quite vague and swirling, and may indeed never converge into a single clear identity. [1](**[https://lifeitself.org/blog/second-renaissance-mapping-and-sensemaking](https://lifeitself.org/blog/second-renaissance-mapping-and-sensemaking)**)
 
@@ -31,8 +32,8 @@ We welcome feedback and other perspectives on our work here.
 
 **Broader Ecosystem Mapping Efforts**
 1. Illuminate: Visualising the Field and Practice of Systems Change
-2. TODO - Meta-Tribes
-3. TODO - roote.co
+2. The Memetic Tribes of Culture War 2.0
+3. Building the Wisdom Age
 
 ## Second Renaissance Ecosystem Mapping Efforts
 ### A Mindset for the Anthropocene
@@ -120,11 +121,15 @@ Updated version: April 2023.
 - **🔗 Link:** https://ecosystem.lifeitself.org/
 - ✍️ **Created by:** Life Itself and collaborators
 - **📅 Date:** 2020
- - **📃 Description:** 
-- **🎨 Type:** 
-- ❓**Inclusion criteria:** 
+ - **📃 Description:** "An emerging ecosystem is seeking a radical, alternative approach to social change. One that is simultaneous paradigmatic, integrated and engaged (PIE). The project provides a map including key features, ideas, organizations and initiatives."
+- **🎨 Type:** Directory; Graph visualisations
+- ❓**Inclusion criteria:** Organisations taking approaches to social change that are "paradigmatic", "integrated" *and* "pragmatic"
 
 ![[../assets/state-of-sensemaking-directory-profiles-20211012-1024x856.png]]
+
+![[../assets/Screenshot 2024-03-12 at 11.31.50.png]]
+
+![[../assets/Screenshot 2024-03-12 at 11.31.35.png]]
 
 ## Broader Ecosystem Mapping Efforts
 
@@ -144,4 +149,29 @@ We see the following mapping efforts as related but having a scope that spans br
  ![[assets/systems-change-practitioners.png]]
 
 
+### The Memetic Tribes of Culture War 2.0
 
+- **🔗 Link:** https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit#gid=0
+- ✍️ **Created by:** Peter Limberg and Conor Barnes
+- **📅 Date:** September 2018
+- **📃 Description:** A spreadsheet identifying a number of "memetic tribes" and an accompanying essay. "We define a memetic tribe as a group of agents with a meme complex, or memeplex, that directly or indirectly seeks to impose its distinct map of reality — along with its moral imperatives — on others. These tribes are on active duty in the new culture war. They possess a multiplicity of competing claims, interests, goals, and organizations."
+- **🎨 Type:** Table; Essay
+- ❓**Inclusion criteria:** [Not found]
+- 💡**Related materials:**
+  - Accompanying essay: https://medium.com/s/world-wide-wtf/memetic-tribes-and-culture-war-2-0-14705c43f6bb
+    ![[../assets/The.Memetic.Tribes.Of.Culture.War.2.0.pdf]]
+### Building the Wisdom Age 
+
+- **🔗 Link:** https://www.roote.co/wisdom-age
+- ✍️ **Created by:** Roote
+- **📅 Date:** [Not found]
+- **📃 Description:** A "dynamic paper" seeking to respond to the research question "When we zoom out from the different movements, what does the Wisdom Age look like as a whole? What are we collectively building?"
+- **🎨 Type:** Written and visual analysis
+- ❓**Inclusion criteria:** [Not found]
+
+![[../assets/Screenshot 2024-03-12 at 13.52.31.png]]
+
+![[../assets/Screenshot 2024-03-12 at 13.52.46.png]]
+
+
+![[../assets/Screenshot 2024-03-12 at 13.52.57.png]]
