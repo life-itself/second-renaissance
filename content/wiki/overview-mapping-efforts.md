@@ -63,7 +63,7 @@ We welcome feedback and other perspectives on our work here.
 
 ![[assets/meta-crisis-meta-resource.png]]
 
-### The Liminal Web
+### [[liminal-web|The Liminal Web]]
 
 - **🔗 Link:** [https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets) 
 - ✍️ **Created by:** Joe Lightfoot
@@ -103,7 +103,7 @@ Updated version: April 2023.
 
 ![[assets/gaianet-2.png]]
 
-### Approaches to the Meta-Crisis
+### [[approaches-to-metacrisis|Approaches to the Meta-Crisis]]
 
 - **🔗 Link:** [https://medium.com/@brandon\_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7](https://medium.com/@brandon_29259/comparing-approaches-to-addressing-the-meta-crisis-9393e6ee17d7) 
 - ✍️ **Created by:** Brandon Norgaard (Founder of the Enlightened Worldview Project) and collaborators
