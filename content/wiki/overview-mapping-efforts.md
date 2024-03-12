@@ -149,7 +149,7 @@ We see the following mapping efforts as related but having a scope that spans br
  ![[assets/systems-change-practitioners.png]]
 
 
-### The Memetic Tribes of Culture War 2.0
+### [[memetic-tribes|The Memetic Tribes of Culture War 2.0]]
 
 - **🔗 Link:** https://docs.google.com/spreadsheets/d/11Ov1Y1xM-LCeYSSBYZ7yPXJah2ldgFX4oIlDtdd7-Qw/edit#gid=0
 - ✍️ **Created by:** Peter Limberg and Conor Barnes
