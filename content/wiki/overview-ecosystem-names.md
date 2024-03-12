@@ -1,8 +1,9 @@
 ---
 title: An Overview of Second Renaissance Ecosystem Names
 created: 2024-03-12
+authors:
+  - elisalifeitself
 ---
-  
 
 > We sense an emerging ecosystem that is growing. More and more people are talking about what we are calling the "Second Renaissance" ecosystem, although people are using different names, e.g. Metamodern, Integral, Regenerative, Liminal Web, Metacrisis, Game B. More and more people are also trying to map and make sense of this ecosystem, e.g. Catalist, Limicon, Gaianet. There is growing recognition between people who are aware of or part of the ecosystem around practices, thinkers, virtual or physical gathering places, analysis of “what’s wrong” and “what’s needed” – but the ecosystem’s identity is still quite vague and swirling, and may indeed never converge into a single clear identity. [1](**[https://lifeitself.org/blog/second-renaissance-mapping-and-sensemaking](https://lifeitself.org/blog/second-renaissance-mapping-and-sensemaking)**)
 
