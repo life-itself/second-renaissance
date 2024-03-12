@@ -8,6 +8,9 @@ title: The Memetic Tribes of Culture War 2.0
 - **📃 Description:** A spreadsheet identifying a number of "memetic tribes" and an accompanying essay. "We define a memetic tribe as a group of agents with a meme complex, or memeplex, that directly or indirectly seeks to impose its distinct map of reality — along with its moral imperatives — on others. These tribes are on active duty in the new culture war. They possess a multiplicity of competing claims, interests, goals, and organizations."
 - **🎨 Type:** Table; Essay
 - ❓**Inclusion criteria:** [Not found]
+
+![[../assets/The.Memetic.Tribes.Of.Culture.War.2.0.pdf]]
+
 ## Notes
 
 - 33 "Memetic Tribes" of the political landscape, e.g. Social Justice Activists; Occupy; Post-Rationalists; Establishment Right; Trumpists; Alt-Right; Incels. 
