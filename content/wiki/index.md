@@ -47,6 +47,7 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 - [[jeremy-lent|Jeremy Lent]] - Founder of Deep Transformation Network and Liology Institute
 - [[joseph-henrich|Joseph Henrich]] - Professor of Human Evolutionary Biology at Harvard University
 - [[thomas-steininger|Thomas Steininger]] - Publisher of Evolve Magazine; Co-founder/developer of Emergent Dialogue process 
+- [[Zak Stein]] - Author of *Education in a Time Between Worlds*; Co-founder of The Consilience Project; Scholar at the Ronin Institute
 
 ## Buzzwords
 

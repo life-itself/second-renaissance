@@ -31,6 +31,7 @@ Some questions:
 - Donella Meadows
 - Carl Jung
 - Alan Watts
+- Sri Aurobindo
 
 ## Key resources / texts
 
