@@ -1,5 +1,5 @@
 
-Welcome to *Seeds of the Second Renaissance: A Primer.*
+Welcome to *Seeds of the Second Renaissance: A Wiki.*
 
 ## Overviews & Maps
 
