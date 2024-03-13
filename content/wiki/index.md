@@ -40,6 +40,14 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 - [[Trauma Theory]]
 - [[zen|Zen]]
 
+## People
+
+- [[geoff-mulgan|Geoff Mulgan]] - Professor of Collective Intelligence, Public Policy and Social Innovation at University College London
+- [[hannah-close|Hannah Close]] - Curator at Advaya
+- [[jeremy-lent|Jeremy Lent]] - Founder of Deep Transformation Network and Liology Institute
+- [[joseph-henrich|Joseph Henrich]] - Professor of Human Evolutionary Biology at Harvard University
+- [[thomas-steininger|Thomas Steininger]] - Publisher of Evolve Magazine; Co-founder/developer of Emergent Dialogue process 
+
 ## Buzzwords
 
 - [[Co-create/Co-creation/Co-creators]]

@@ -1,3 +1,6 @@
+---
+title: Joseph Henrich
+---
 
 Joseph Henrich is a Professor of Human Evolutionary Biology at Harvard University. He is author of several books, most recently 'The Weirdest People in the World' and 'The Secret of Our Success'. His research focuses on evolutionary approaches to psychology, decision-making and culture, and includes topics related to cultural learning, cultural evolution, culture-gene coevolution, human sociality, prestige, leadership, large-scale cooperation, religion and the emergence of complex human institutions.
 
