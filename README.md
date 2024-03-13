@@ -16,7 +16,7 @@ Ecosystem Mapping.
 - [x] 'Mapping Metamodern: Alternative Governance, https://lifeitself.org/blog/2022/04/08/mapping-metamodern-alternative-governance **A summary of Alternative Governance written by Eilidh 2022 ✅ 2024-03-11 Created page in wiki.**
 - [x] 'Mapping Metamodern: Alternative Economics', https://lifeitself.org/blog/2022/04/01/mapping-metamodern-alternative-economics **A summary of Alternative Economics written by Eilidh 2022 ✅ 2024-03-11 Created page in wiki.**
 - [x] 'Mapping Metamodern: Buddhism', https://lifeitself.org/blog/2022/04/29/mapping-metamodern-buddhism **A summary of Buddhism written by Eilidh 2022 ✅ 2024-03-11 Created page in wiki.**
-- [ ] 'Understanding the Metacrisis: A Brief Introduction', https://docs.google.com/document/d/1fN0F-1xldGjqFZ8T4CqEExGcuXmlgnmnFG-PQw-j7BE/edit#heading=h.pzxprj8lijye **A brief explainer of what the metacrisis is**
+- [ ] 'Understanding the Metacrisis: A Brief Introduction', https://docs.google.com/document/d/1fN0F-1xldGjqFZ8T4CqEExGcuXmlgnmnFG-PQw-j7BE/edit#heading=h.pzxprj8lijye **🔥 A brief explainer of what the metacrisis is**
 
 ## Notes on Key Texts
 
