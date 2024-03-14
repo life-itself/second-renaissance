@@ -32,6 +32,8 @@ Some questions:
 - Carl Jung
 - Alan Watts
 - Sri Aurobindo
+- Robert Kegan
+- Jürgen Habermas
 
 ## Key resources / texts
 
