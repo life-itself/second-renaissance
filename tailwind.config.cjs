@@ -1,5 +1,6 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 const colors = require("tailwindcss/colors");
+const defaultConfig = require("tailwindcss/defaultConfig");
 
 module.exports = {
   content: [
@@ -23,6 +24,11 @@ module.exports = {
         mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
         headings: ["-apple-system", ...defaultTheme.fontFamily.sans],
       },
+      fontSize: {
+        ...defaultConfig.theme.fontSize,
+        homepagelarge: ["4rem", "1"],
+        homepagemedium: ["2.5rem", "1"],
+      },
       colors: {
         background: {
           DEFAULT: colors.white,
@@ -40,7 +46,5 @@ module.exports = {
     },
   },
   /* eslint global-require: off */
-  plugins: [
-    require("@tailwindcss/typography")
-  ],
+  plugins: [require("@tailwindcss/typography")],
 };

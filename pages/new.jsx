@@ -1,58 +1,120 @@
-import Hero from "@/components/custom/2RHero"
+const Hero = () => (
+  <>
+  <div
+    className="h-screen flex bg-cover bg-center"
+    style={{ backgroundImage: "url(/img/homepage/hero-bg.jpg)" }}>
+    <div className="flex items-center w-fit m-auto">
+      <div className="max-w-xl text-center flex flex-col gap-y-4">
+        <div className="text-xl">
+          We live in a moment of civilizational crisis and awakening
+        </div>
+        <h1 className="text-homepagelarge max-md:text-homepagemedium">The Second Renaissance</h1>
+        <div className="text-sm">
+          It is a time between worlds, as we witness the breakdown of the old
+          paradigm and the birth of the new – moving from modernity into what
+          comes next.
+        </div>
+        <button className="bg-slate-900 text-white w-fit px-4 py-2 m-auto font-light mt-8">
+          Subscribe For Updates
+        </button>
+      </div>
+    </div>
+  </div>
+  </>
+);
 
+const Signs = () => (
+  <div className="bg-[#B7AAC7] min-h-[60vh] flex bg-center bg-cover"
+    style={{ backgroundImage: "url(/img/homepage/illness-bg.jpg)" }}>
+    <div className="w-fit m-auto bg-white bg-opacity-80 px-8 py-6">
+      <div className="font-light max-w-xl text-center flex flex-col">
+        <div>There are</div>
+        <div className="text-homepagelarge max-md:text-homepagemedium font-semibold my-2">
+          visible signs of illness
+        </div>
+        <div>as we witness major breakdowns</div>
+        <div>ecological crisis</div>
+        <div>meaning crisis</div>
+        <div>political crisis</div>
+        <div>economic crisis</div>
+      </div>
+    </div>
+  </div>
+);
+
+const Root = () => (
+  <div className="bg-[white] h-screen flex">
+    <div className="w-fit m-auto bg-white p-4">
+      <div className="font-light max-w-xl text-center flex flex-col">
+        <div>The source of the illness</div>
+        <div className="text-homepagelarge max-md:text-homepagemedium font-semibold my-2">lies at the root</div>
+        <div>of our civilization.</div>
+        <div>In our ways of thinking and being.</div>
+        <div>Modernity is dying...</div>
+      </div>
+    </div>
+  </div>
+);
+
+const Cure = () => (
+  <div className="bg-[#56555C] h-screen flex">
+    <div className="w-fit m-auto bg-white p-4">
+      <div className="font-light max-w-xl text-center flex flex-col">
+        <div className="text-homepagelarge max-md:text-homepagemedium font-semibold my-2">
+          A cure: the Second Renaissance
+        </div>
+        <div>birth of a new cultural paradigm</div>
+      </div>
+    </div>
+  </div>
+);
+
+const Being = () => (
+  <div className="bg-[#CFDDE5] h-screen flex">
+    <div className="w-fit m-auto bg-white p-4">
+      <div className="font-light max-w-xl text-center flex flex-col">
+        <div>The paradigm would have these kinds of features...</div>
+        <div className="font-semibold my-2 text-homepagelarge max-md:text-homepagemedium">Primacy of Being</div>
+        <div>Interbeing</div>
+        <div>Wisdom</div>
+        <div>Inner growth</div>
+        <div>Integration</div>
+      </div>
+    </div>
+  </div>
+);
+
+const Ecosystem = () => (
+  <div className="bg-[#F1D791] h-screen flex bg-cover bg-center px-4"
+  style={{ backgroundImage: "url(/img/homepage/ecosystem-bg.jpg)" }}>
+    <div className="w-fit m-auto bg-[#F3DEA5] border border-[#3a3a3a44] px-12 py-16">
+      <div className="font-light max-w-xl  flex flex-col">
+        <div>We are seeing the emergence of</div>
+        <div className="text-homepagelarge max-md:text-homepagemedium font-medium my-2">
+          an ecosystem of individuals and organisations
+        </div>
+        <div>
+          Tied together by a shared recognition of this historical moment, and a
+          calling to respond to it.
+        </div>
+        <button className="bg-slate-900 text-white w-fit px-4 py-2 m-auto font-light mt-8">
+          Subscribe For Updates
+        </button>
+      </div>
+    </div>
+  </div>
+);
 const Page = () => {
   return (
     <>
       <Hero />
-		<div className="-mx-[max(calc(50vw-44rem+4rem),4rem)] md:-mx-[max(calc(50vw-44rem+8rem),8rem)] lg:-mx-[max(calc(50vw-44rem+18rem),18rem)] -mt-8 relative bg-gray-50 overflow-hidden">
-    <div className="relative isolate overflow-hidden bg-white">
-      <svg
-        className="absolute inset-0 -z-10 h-full w-full stroke-gray-200 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]"
-        aria-hidden="true"
-      >
-        <defs>
-          <pattern
-            id="0787a7c5-978c-4f66-83c7-11c213f99cb7"
-            width={200}
-            height={200}
-            x="50%"
-            y={-1}
-            patternUnits="userSpaceOnUse"
-          >
-            <path d="M.5 200V.5H200" fill="none" />
-          </pattern>
-        </defs>
-        <rect width="100%" height="100%" strokeWidth={0} fill="url(#0787a7c5-978c-4f66-83c7-11c213f99cb7)" />
-      </svg>
-      <div className="mx-auto max-w-7xl px-6 pb-24 pt-10 sm:pb-32 lg:flex lg:px-8 lg:py-40">
-        <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8">
-          <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            We are seeing the emergence of<br />an ecosystem of individuals and organisations
-          </h1>
-          <p className="mt-6 text-lg leading-8 md-2xl">
-            Tied together by a shared recognition of this historical moment, and a calling to respond to it.
-          </p>
-          <div className="mt-10 flex items-center gap-x-6">
-            <a
-              href="#"
-              className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-            >
-              Explore
-            </a>
-          </div>
-        </div>
-        <div className="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
-          <div className="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
-            <div className="-m-2 rounded-xl bg-gray-900/5 p-2 ring-1 ring-inset ring-gray-900/10 lg:-m-4 lg:rounded-2xl lg:p-4">
-              <img src="https://lifeitself.org/assets/images/image_2022-08-01_152151026.png" />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
+      <Signs />
+      <Root />
+      <Cure />
+      <Being />
+      <Ecosystem />
     </>
-  )
-}
+  );
+};
 
 export default Page;
