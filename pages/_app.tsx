@@ -37,6 +37,7 @@ const MyApp = ({ Component, pageProps }: AppProps<CustomAppProps>) => {
     const { meta, siteMap } = pageProps;
 
     const layoutProps = {
+        layout: meta?.layout,
         showToc: meta?.showToc,
         showEditLink: meta?.showEditLink,
         showSidebar: meta?.showSidebar,

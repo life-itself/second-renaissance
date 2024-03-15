@@ -117,4 +117,14 @@ const Page = () => {
   );
 };
 
+export function getStaticProps() {
+  return {
+    props: {
+      meta: {
+        layout: 'unstyled'
+      }
+    }
+  }
+}
+
 export default Page;
