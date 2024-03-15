@@ -19,10 +19,10 @@ module.exports = {
         "8xl": "88rem",
       },
       fontFamily: {
-        sans: ["ui-sans-serif", ...defaultTheme.fontFamily.sans],
-        serif: ["ui-serif", ...defaultTheme.fontFamily.serif],
+        sans: ["Roboto", ...defaultTheme.fontFamily.sans],
+        serif: ["EB Garamond", ...defaultTheme.fontFamily.serif],
         mono: ["ui-monospace", ...defaultTheme.fontFamily.mono],
-        headings: ["-apple-system", ...defaultTheme.fontFamily.sans],
+        headings: ["Roboto", ...defaultTheme.fontFamily.sans],
       },
       fontSize: {
         ...defaultConfig.theme.fontSize,

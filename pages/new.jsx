@@ -1,30 +1,40 @@
 const Hero = () => (
-  <>
-  <div
-    className="h-screen flex bg-cover bg-center"
-    style={{ backgroundImage: "url(/img/homepage/hero-bg.jpg)" }}>
-    <div className="flex items-center w-fit m-auto">
-      <div className="max-w-xl text-center flex flex-col gap-y-4">
-        <div className="text-xl">
-          We live in a moment of civilizational crisis and awakening
+  <div className="relative isolate overflow-hidden pt-14">
+    <img
+      src="/img/homepage/hero-bg.jpg"
+      alt=""
+      className="absolute inset-0 -z-10 h-full w-full object-cover"
+    />
+    <div className="mx-auto max-w-4xl py-24 sm:py-32 lg:py-40">
+      <div className="text-center">
+        <h1 className="text-2xl tracking-tight sm:text-5xl font-serif">
+          We live in a moment of<br />civilizational crisis and awakening
+        </h1>
+        <h1 className="text-4xl font-bold tracking-tight sm:text-7xl mt-8">
+          The Second Renaissance
+        </h1>
+        <p className="mt-4 text-3xl font-serif">
+          It is a time between worlds, as we witness the breakdown<br />of the old paradigm and the birth of the new<br />
+          – moving from modernity into what comes next. 
+        </p>
+        <div className="mt-10 flex items-center justify-center gap-x-6">
+          <a
+            href="#"
+            className="rounded-md bg-indigo-500 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-400"
+          >
+            Subscribe for updates
+          </a>
+          <a href="#next" className="text-sm font-semibold leading-6 text-white">
+            Learn more <span aria-hidden="true">→</span>
+          </a>
         </div>
-        <h1 className="text-homepagelarge max-md:text-homepagemedium">The Second Renaissance</h1>
-        <div className="text-sm">
-          It is a time between worlds, as we witness the breakdown of the old
-          paradigm and the birth of the new – moving from modernity into what
-          comes next.
-        </div>
-        <button className="bg-slate-900 text-white w-fit px-4 py-2 m-auto font-light mt-8">
-          Subscribe For Updates
-        </button>
       </div>
     </div>
   </div>
-  </>
 );
 
 const Signs = () => (
-  <div className="bg-[#B7AAC7] min-h-[60vh] flex bg-center bg-cover"
+  <div id="next" className="bg-[#B7AAC7] min-h-[60vh] flex bg-center bg-cover"
     style={{ backgroundImage: "url(/img/homepage/illness-bg.jpg)" }}>
     <div className="w-fit m-auto bg-white bg-opacity-80 px-8 py-6">
       <div className="font-light max-w-xl text-center flex flex-col">
