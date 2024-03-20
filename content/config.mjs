@@ -6,6 +6,10 @@ const userConfig = {
   authorUrl: 'https://lifeitself.us/',
   analytics: 'G-K5529JHP9G',
   navLinks: [
+    {
+      href: '/ecosystem',
+      name: 'Ecosystem'
+    }
   ],
   theme: {
     default: ''

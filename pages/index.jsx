@@ -55,6 +55,10 @@ const HeroFollowOn = () => (
             </h2>
             <p className="mt-6 text-xl leading-8 text-gray-600">
               However, it is also a time of crisis. There is darkness before dawn. The last renaissance was preceded by the black death, famine and war following the breakdown of the medieval world.
+              <br /><br />
+              <a href="#diagnosis" className="font-semibold leading-6">
+                Read more <span aria-hidden="true">↓</span>
+              </a>
             </p>
           </div>
         </div>
@@ -83,7 +87,7 @@ const Signs = () => (
               We are witnessing a constellation of escalating and interwoven crises ranging from ecosphere degradation to political polarization &ndash; a metacrisis. There is a real risk of civilisational collapse and large-scale destruction of life due to growing ecological, political, social crises.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
-              <a href="#" className="text-lg font-semibold leading-6 text-gray-900">
+              <a href="/intro" className="text-lg font-semibold leading-6 text-gray-900">
                 More detail <span aria-hidden="true">→</span>
               </a>
             </div>
@@ -114,7 +118,7 @@ const Root = () => (
               In our ways of thinking and being. We are experiencing this crisis because we are at the end of an cultural paradigm that we call modernity. Modernity is the water we are still swimming in ... though it is starting to decompose.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
-              <a href="#" className="text-lg font-semibold leading-6 text-gray-900">
+              <a href="/intro" className="text-lg font-semibold leading-6 text-gray-900">
                 More detail <span aria-hidden="true">→</span>
               </a>
             </div>
@@ -147,7 +151,7 @@ const Cure = () => (
               That is, we need profound shifts in our ways of being, thinking, feeling, and acting: the emergence of a major new cultural paradigm that transcends modernity.
             </p>
             <div className="mt-10 flex items-center gap-x-6">
-              <a href="#" className="text-lg font-semibold leading-6 text-gray-900">
+              <a href="/intro" className="text-lg font-semibold leading-6 text-gray-900">
                 More detail <span aria-hidden="true">→</span>
               </a>
             </div>
@@ -239,7 +243,7 @@ const Emerging = () => (
             </p>
           </div>
           <div className="mt-10 flex items-center gap-x-6">
-            <a href="/ecosystem/" className="text-lg font-semibold leading-6 text-gray-900">
+            <a href="/ecosystem" className="text-lg font-semibold leading-6 text-gray-900">
               Learn more <span aria-hidden="true">→</span>
             </a>
           </div>
@@ -375,7 +379,7 @@ const Page = () => {
     <>
       <Hero />
       <HeroFollowOn />
-      <div className="bg-slate-100 px-6 py-24 sm:py-32 lg:px-8">
+      <div id="diagnosis" className="bg-slate-100 px-6 py-24 sm:py-32 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">A Diagnosis</h2>
           <p className="mt-6 text-xl leading-8 text-gray-600">
@@ -387,6 +391,8 @@ const Page = () => {
           </p>
           <p className="mt-6 text-2xl leading-8 text-gray-600">
             The following sections lays out some key features of the second renaissance.
+            <br /><br />
+            <span aria-hidden="true">↓</span>
           </p>
         </div>
       </div>
