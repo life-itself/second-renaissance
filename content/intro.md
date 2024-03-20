@@ -109,3 +109,5 @@ This refers to a valuing of wholeness through the integration of polarities, esp
 In this essay, we have outlined the concept of a Second Renaissance to describe the time we are living in; the potential of an emerging new paradigm(s); and a movement of people who are acting to bring this about. We have set out four core premises that we believe characterise the Second Renaissance and its movement, at the moment, and three characteristics of the emerging paradigm: inner growth and wisdom, interbeing, and wholeness and integration.
 
 In writing this essay, we hope to invite conversation and grapple together with what it means to be living in this moment of great crisis and great possibility: in this turning point in history, in this “time between worlds”, at the beginning of a Second Renaissance.
+
+*Written by Catherine Tran, Rufus Pollock, Elisa Paka, Sylvie Barbier (March 2024)*
