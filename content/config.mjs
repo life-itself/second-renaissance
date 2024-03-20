@@ -7,8 +7,20 @@ const userConfig = {
   analytics: 'G-K5529JHP9G',
   navLinks: [
     {
+      href: '/intro',
+      name: 'Intro'
+    },
+    {
       href: '/ecosystem',
       name: 'Ecosystem'
+    },
+    {
+      href: '/wiki',
+      name: 'Wiki'
+    },
+    {
+      href: 'https://lifeitself.org/contact',
+      name: 'Contact'
     }
   ],
   theme: {
