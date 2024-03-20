@@ -1,5 +1,8 @@
 @import "@portaljs/remark-callouts/styles.css";
 
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 .nav-logo {
   height: 2.25rem;
 }

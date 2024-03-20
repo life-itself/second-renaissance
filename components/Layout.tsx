@@ -40,6 +40,7 @@ interface Props extends React.PropsWithChildren {
 
 export const Layout: React.FC<Props> = ({
     children,
+    layout,
     nav,
     author,
     theme,
@@ -75,6 +76,8 @@ export const Layout: React.FC<Props> = ({
             window.removeEventListener("scroll", onScroll);
         };
     }, []);
+
+    const isUnStyled = (urlPath == "/" || layout === "unstyled");
 
     return (
         <>
@@ -113,7 +116,7 @@ export const Layout: React.FC<Props> = ({
                 </div>
                 {/* wrapper for sidebar, main content and ToC */}
                 <div
-                    className="max-w-8xl mx-auto px-4 md:px-8"
+                    className={clsx(!isUnStyled && "max-w-8xl mx-auto px-4 md:px-8")}
                 >
                     {/* SIDEBAR */}
                     {showSidebar && (
@@ -123,7 +126,7 @@ export const Layout: React.FC<Props> = ({
                     )}
                     {/* MAIN CONTENT & FOOTER */}
                     <div className={clsx(
-                        urlPath !== "/" && "mx-auto lg:px-[16rem] pt-8",
+                        !(isUnStyled) && "mx-auto lg:px-[16rem] pt-8",
                         !showToc && !showSidebar && "lg:px-0",
                     )}>
                         {children}
