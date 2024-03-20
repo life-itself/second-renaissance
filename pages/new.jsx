@@ -1,39 +1,45 @@
 const Hero = () => (
+  <>
   <div className="relative isolate overflow-hidden pt-14">
     <img
       src="/img/homepage/hero-bg.jpg"
       alt=""
       className="absolute inset-0 -z-10 h-full w-full object-cover"
     />
-    <div className="mx-auto max-w-4xl py-12 sm:py-32 lg:py-20">
-      <div className="text-center">
-        <h1 className="text-2xl tracking-tight sm:text-5xl font-serif">
-          We live in a moment of<br />civilizational crisis and awakening
-        </h1>
-        <h1 className="text-4xl font-bold tracking-tight sm:text-7xl mt-8">
-          The Second Renaissance
-        </h1>
-        <p className="mt-4 text-3xl font-serif">
-          It is a time between worlds, as we witness the breakdown<br />of the old paradigm and the birth of the new<br />
-          – moving from modernity into what comes next. 
-        </p>
-        <p className="mt-4 text-3xl font-serif">
-          Learn more about the Second Renaissance and the practical ways to contribute to it through our courses, articles, blogs, books and interviews.
-        </p>
-        <div className="mt-10 flex items-center justify-center gap-x-6">
-          <a href="#next" className="text-sm font-semibold leading-6">
-            Read more
-            <br />
-            <span aria-hidden="true">↓</span>
-          </a>
-        </div>
+    <div className="mx-auto max-w-4xl py-12 sm:py-16 lg:py-20 text-center">
+      <h1 className="text-2xl tracking-tight sm:text-5xl font-serif">
+        We live in a moment of<br />civilizational crisis and awakening
+      </h1>
+      <h1 className="text-4xl font-bold tracking-tight sm:text-7xl mt-8">
+        The Second Renaissance
+      </h1>
+      <p className="mt-4 text-3xl font-serif">
+        It is a time between worlds, as we witness the breakdown<br />of the old paradigm and the birth of the new<br />
+        – moving from modernity into what comes next. 
+      </p>
+      <p className="mt-4 text-3xl font-serif">
+        Learn more about the Second Renaissance and the practical ways to contribute to it through our courses, articles, blogs, books and interviews.
+      </p>
+      <div className="mt-10 flex items-center justify-center gap-x-6">
+        <a href="#next" className="text-sm font-semibold leading-6">
+          Read more
+          <br />
+          <span aria-hidden="true">↓</span>
+        </a>
       </div>
     </div>
   </div>
+  <div className="relative isolate overflow-hidden pt-14">
+    <div className="mx-auto max-w-4xl py-12 sm:py-32 lg:py-20">
+      <div className="text-center">
+      </div>
+    </div>
+  </div>
+  </>
 );
 
 const HeroFollowOn = () => (
-  <div className="overflow-hidden bg-white py-24 sm:py-32">
+  <div id="next" className="overflow-hidden bg-white py-24 sm:py-32">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
@@ -42,7 +48,7 @@ const HeroFollowOn = () => (
               What comes next?
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              So what does come next? What will be born during this second renaissance? Our hope: a future that is radically weller and wiser.
+              So what does come next? What will be born during this second renaissance? A future that is radically weller and wiser.
             </p>
             <h2 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
               Darkness before dawn
@@ -371,15 +377,16 @@ const Page = () => {
       <HeroFollowOn />
       <div className="bg-slate-100 px-6 py-24 sm:py-32 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">A Fuller Diagnosis</h2>
+          <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">A Diagnosis</h2>
           <p className="mt-6 text-xl leading-8 text-gray-600">
-            The following sections lays out some key features of the second renaissance.
-            <br /><br />
             The Second Renaissance is both a period and a movement.
             <br /><br />
-            The most important common factors of its members are first, an awareness of the ending of a cultural paradigm, Second, the "primacy of being": the transition to what comes next must be based in the inner dimension and the evolution of our consciousness and culture.
+            The two most important common beliefs are: an awareness that we witnessing the ending of a cultural paradigm and this explains much of what we see in our socieities. Second, a belief in the "primacy of being": that the transition to what comes next must be based in the inner dimension and the conscious evolution of ourselves and our cultures.
             <br /><br />
             Most of all, the future it envisions is one that prioritizes inner rather than outer growth.
+          </p>
+          <p className="mt-6 text-2xl leading-8 text-gray-600">
+            The following sections lays out some key features of the second renaissance.
           </p>
         </div>
       </div>
