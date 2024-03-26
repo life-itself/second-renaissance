@@ -18,7 +18,7 @@ const Hero = () => (
         – moving from modernity into what comes next. 
       </p>
       <p className="mt-4 text-3xl font-serif">
-        Learn more about the Second Renaissance and the practical ways to contribute to it through our courses, articles, blogs, books and interviews.
+        Learn more and the practical ways to contribute through articles, courses and community.
       </p>
       <div className="mt-10 flex items-center justify-center gap-x-6">
         <a href="#next" className="text-sm font-semibold leading-6">
