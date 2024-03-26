@@ -29,17 +29,11 @@ const Hero = () => (
       </div>
     </div>
   </div>
-  <div className="relative isolate overflow-hidden pt-14">
-    <div className="mx-auto max-w-4xl py-12 sm:py-32 lg:py-20">
-      <div className="text-center">
-      </div>
-    </div>
-  </div>
   </>
 );
 
 const HeroFollowOn = () => (
-  <div id="next" className="overflow-hidden bg-white py-24 sm:py-32">
+  <div className="overflow-hidden bg-white py-24 sm:py-2">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
@@ -75,7 +69,7 @@ const HeroFollowOn = () => (
 );
 
 const Signs = () => (
-  <div className="overflow-hidden bg-white py-24 sm:py-32">
+  <div id="next" className="overflow-hidden bg-white pt-24 sm:pt-32">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
@@ -84,13 +78,10 @@ const Signs = () => (
               There are visible signs of illness
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              We are witnessing a constellation of escalating and interwoven crises ranging from ecosphere degradation to political polarization &ndash; a metacrisis. There is a real risk of civilisational collapse and large-scale destruction of life due to growing ecological, political, social crises.
+              We are witnessing a constellation of escalating and interwoven crises ranging from ecosphere degradation to political polarization &ndash; a metacrisis.
+              <br /><br />
+              There is a real risk of civilisational collapse and large-scale destruction of life due to growing ecological, political, social crises.
             </p>
-            <div className="mt-10 flex items-center gap-x-6">
-              <a href="/intro" className="text-lg font-semibold leading-6 text-gray-900">
-                More detail <span aria-hidden="true">→</span>
-              </a>
-            </div>
           </div>
         </div>
         <div className="flex items-start justify-end order-first">
@@ -106,7 +97,7 @@ const Signs = () => (
 );
 
 const Root = () => (
-  <div className="overflow-hidden bg-white py-24 sm:py-32">
+  <div className="overflow-hidden bg-white">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:pr-8 lg:pt-32">
@@ -115,13 +106,10 @@ const Root = () => (
               Source lies at the roots of our civilization
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              In our ways of thinking and being. We are experiencing this crisis because we are at the end of an cultural paradigm that we call modernity. Modernity is the water we are still swimming in ... though it is starting to decompose.
+              In our ways of thinking and being. We are experiencing this crisis because we are at the end of an cultural paradigm that we call modernity.
+              <br /><br />
+              Modernity is the water we are still swimming in ... though it is starting to decay.
             </p>
-            <div className="mt-10 flex items-center gap-x-6">
-              <a href="/intro" className="text-lg font-semibold leading-6 text-gray-900">
-                More detail <span aria-hidden="true">→</span>
-              </a>
-            </div>
           </div>
         </div>
         <img
@@ -148,13 +136,8 @@ const Cure = () => (
               <br /><br />
               Any solution must be radical in the true sense of the word: they must go to the the roots.
               <br /><br />
-              That is, we need profound shifts in our ways of being, thinking, feeling, and acting: the emergence of a major new cultural paradigm that transcends modernity.
+              We need profound shifts in our ways of being, thinking, feeling, and acting: the emergence of a major new cultural paradigm that transcends modernity.
             </p>
-            <div className="mt-10 flex items-center gap-x-6">
-              <a href="/intro" className="text-lg font-semibold leading-6 text-gray-900">
-                More detail <span aria-hidden="true">→</span>
-              </a>
-            </div>
           </div>
         </div>
         <div className="flex items-start justify-end order-first">
@@ -378,29 +361,26 @@ const Page = () => {
   return (
     <>
       <Hero />
-      <HeroFollowOn />
-      <div id="diagnosis" className="bg-slate-100 px-6 py-24 sm:py-32 lg:px-8">
-        <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">A Diagnosis</h2>
-          <p className="mt-6 text-xl leading-8 text-gray-600">
-            The Second Renaissance is both a period and a movement.
-            <br /><br />
-            The two most important common beliefs are: an awareness that we witnessing the ending of a cultural paradigm and this explains much of what we see in our socieities. Second, a belief in the "primacy of being": that the transition to what comes next must be based in the inner dimension and the conscious evolution of ourselves and our cultures.
-            <br /><br />
-            Most of all, the future it envisions is one that prioritizes inner rather than outer growth.
-          </p>
-          <p className="mt-6 text-2xl leading-8 text-gray-600">
-            The following sections lays out some key features of the second renaissance.
-            <br /><br />
-            <span aria-hidden="true">↓</span>
-          </p>
-        </div>
-      </div>
       <Signs />
       <Root />
       <Cure />
       <Being />
       <Emerging />
+      <HeroFollowOn />
+      <div id="diagnosis" className="bg-slate-100 px-6 py-24 sm:py-32 lg:px-8">
+        <div className="mx-auto max-w-2xl text-center">
+          <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Conclusion</h2>
+          <p className="mt-6 text-2xl leading-8 text-gray-600">
+            The Second Renaissance is both period and a movement.
+            <br /><br />
+            A "time between worlds"<br />and a growing movement of those who recognize it.
+            <br /><br />
+            The two most important common beliefs are: an awareness that we are witnessing the end of a cultural paradigm which underpins much of what we see in our socieities. Second, a belief in the "primacy of being": that the transition to what comes next must be based in the inner dimension and the conscious evolution of ourselves and our cultures.
+            <br /><br />
+            Most of all, the future it envisions is one that prioritizes inner rather than outer growth.
+          </p>
+        </div>
+      </div>
       <Course />
       {/* <Posts /> */}
     </>
