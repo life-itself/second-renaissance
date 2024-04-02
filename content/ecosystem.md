@@ -6,8 +6,8 @@ On this page we provide information about this ecosystem.
 
 ## 2021-2022 Mapping
 
-[[/ecosystem/pip-2021]]
+[[ecosystem/pip-2021|pip-2021]]
 
 ## 2020 - State of Sensemaking Report
 
-[[/ecosystem/state-of-sensemaking-2020]]
+[[ecosystem/state-of-sensemaking-2020|state-of-sensemaking-2020]]
