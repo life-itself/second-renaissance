@@ -6,11 +6,15 @@ contributors:
   - theo-cox
   - elisalifeitself
 ---
-This page documents Life Itself's 2019-2020 [[../ecosystem|ecosystem]] mapping work.
+This page documents Life Itself's 2019-2020 [[../ecosystem|ecosystem]] mapping work, including:
+- Background to the work
+- Research questions
+- 
+- 
 
 ![[../assets/Social_Change_Ecosystem-1024x626.png]]
 
-## Introduction
+## Background
 
 We know there are individuals, organisations and initiatives around the world who share the values, principles and vision of Life Itself. We know that many of them are trying to create change, often by attempting to change culture -- a form of culture-making.
 
@@ -36,7 +40,7 @@ At the individual level, this is relatively intuitive -- in order to make lastin
 
 The key point here is that the former does not guarantee the latter. Changing the external components of a system can indeed affect individual behaviour and is important, but it is much less likely to achieve the desired outcome unless people’s inner lives are appropriately aligned, especially when the system is complex and unintended consequences are difficult to predict. This is why culture is important: it regulates behaviour and makes it more predictable. It may sound obvious, but it is only in recent years that changemakers have started to take seriously the importance of inner transformation. 
 
-### Research Questions
+## Research Questions
 
 Through our exploration, we are hoping to answer the following questions:
 
@@ -74,8 +78,9 @@ Download the full report below to read our analysis, and find out more about sel
 
 ### Full report
 
-![[../assets/state-of-sensemaking-report-2020.pdf]]
+
 
 ## Links
+![[../assets/state-of-sensemaking-report-2020-compressed.pdf]]
 
 - Blog post introducing 2020 ecosystem mapping work: 'An expedition to explore the new land of “culture-making' (August 2020) https://lifeitself.org/blog/2020/08/27/ecosystem 
