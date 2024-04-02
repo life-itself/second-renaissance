@@ -132,8 +132,10 @@ export const getStaticProps: GetStaticProps = async (): Promise<
 
     const mddb = await clientPromise;
 
-    const profileFiles = await mddb.getFiles({ folder: "profiles" });
+    // TODO: this should really be a library function ...
+    const profileFiles = await mddb.getFiles({ folder: "ecosystem/pip-2021/profiles" });
     const profiles = profileFiles.reduce((acc, file) => {
+        // TODO: 2024-04-02 can probably remove now ...
         // TODO temporary hack - some of the profiles (created by Matthew) have incorrect metadata
         if (!hasRequiredProfileFields(file.metadata)) {
             return acc;
@@ -144,7 +146,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
         acc.push({
             ...file.metadata,
             image: file.metadata.image?.url ?? file.metadata.image,
-            urlPath: file.url_path,
+            urlPath: '/' + file.url_path,
         });
         return acc;
     }, []);
