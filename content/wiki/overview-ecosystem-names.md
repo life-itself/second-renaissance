@@ -71,6 +71,14 @@ In an essay titled “[Prefixing the World](https://perspecteeva.substack.com/p/
 
 The term has gained significant traction within the ecosystem, with its proponents arguing .
 
+Meta means after, beyond, more comprehensive, or transcending.
+
+According to Jonathan Rowson, “The metacrisis is the underlying crisis driving a multitude of crises”. “We have to better understand who and what we are, individually and collectively, in order to be able to fundamentally change how we act.” 
+
+More fundamental than the polycrisis; while the polycrisis is about stuff happening ‘out there’, the metacrisis points to interiority and relationality
+
+
+
 ### Further resources
 
 - [Green Pill podcast: The Metacrisis - with Daniel Schmachtenberger ](https://civilizationemerging.com/media/the-metacrisis-with-daniel-schmachtenberger-part-1/)
@@ -86,6 +94,10 @@ Integral theory is American philosopher Ken Wilber’s attempt to bring everythi
 
 Since integral theory was first introduced in 1977, a global community of meta-theorists and practitioners has evolved around it. The Second Renaissance ecosystem includes communities and organisations that make significant use of the integral framework, with the term "Integral" being sometimes used to refer to the approach or paradigm that they use or seek to foster, as well as the ecosystem itself.
 
+American philosopher Ken Wilber’s Integral Theory attempts to integrate different approaches and frameworks into a single, holistic view.
+It seeks an integration of mind, body, and spirit; an integration of material and spiritual values; and an integration of Eastern and Western philosophies and worldviews
+
+
 ### Further Resources
 
 - [Summary of Integral](https://lifeitself.org/blog/2022/05/27/mapping-metamodern-integral)
@@ -95,13 +107,15 @@ Since integral theory was first introduced in 1977, a global community of meta-t
 
 ![[../assets/polycrisis.png]]
 
-“Polycrisis” refers to “the simultaneous occurrence and interaction of multiple interconnected crises across various domains, creating a complex and intertwined web of challenges.” [4](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis)
+The "polycrisis" is defined by the World Economic Forum's 2023 Global Risks Report as "a cluster of related global risks with compounding effects, such that the overall impact exceeds the sum of each part."[10](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www3.weforum.org/docs/WEF_Global_Risks_Report_2023.pdf) Essentially, a polycrisis arises when multiple systems across various domains are in crisis simultaneously, and interact with each other to create a "complex and intertwined web of challenges.” [4](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis)
 
-The term was coined in the 1999 book Homeland Earth: A Manifesto for a New Millennium by Edgar Morin and Anne Brigitte Kern, [5](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis) and was recently popularised by historian [Adam Tooze](https://adamtooze.substack.com/p/chartbook-165-polycrisis-thinking). [6](https://perspecteeva.substack.com/p/prefixing-the-world) "Polycrisis" has become a relatively mainstream term even outside of the Second Renaissance ecosystem.
+The term was coined in the 1999 book Homeland Earth: A Manifesto for a New Millennium by Edgar Morin and Anne Brigitte Kern, [5](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis) and was recently popularised by historian [Adam Tooze](https://adamtooze.substack.com/p/chartbook-165-polycrisis-thinking). [6](https://perspecteeva.substack.com/p/prefixing-the-world) "Polycrisis" has become a relatively mainstream term, both within and outside of the Second Renaissance ecosystem. In 2022, it was chosen by the Financial Times as the word to describe that year.[7](https://www.ft.com/content/f6c4f63c-aa71-46f0-a0a7-c2a4c4a3c0f1) It is sometimes used interchangeably with the term 'metacrisis', although the two concepts are distinct.
 
 ### Further resources
 
-- 
+- [This is why 'polycrisis' is a useful way of looking at the world right now - World Economic Forum](https://www.weforum.org/agenda/2023/03/polycrisis-adam-tooze-historian-explains/)
+- [Explaining Polycrisis and Metacrisis](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis)
+- [Year in a word: Polycrisis](https://www.ft.com/content/f6c4f63c-aa71-46f0-a0a7-c2a4c4a3c0f1)
 
 # The Liminal Web
 
@@ -123,6 +137,15 @@ In 2021, Joe Lightfoot published a blog post attempting to map “an emergent su
 
 The Great Turning, coined by Joanna Macy, is a shift from the Industrial Growth Society to a life-sustaining civilisation. [10](https://www.ecoliteracy.org/article/great-turning)
 
+3 types of actions needed:
+Holding actions (limit or reduce harm)
+Structural changes (building new societal forms, new economies, etc.)
+Shift in consciousness (shifting cultural values and norms)
+
+Narrative: Great unravelling - we are on trajectory towards collapse, but we have possibility for great turning instead (something radically different)
+
+Probably one of the less commonly used terms in this space
+
 ### Further resources
 
 - [The Great Turning, Joanna Macy](https://www.ecoliteracy.org/article/great-turning)
@@ -131,7 +154,10 @@ The Great Turning, coined by Joanna Macy, is a shift from the Industrial Growth 
 # The Regenerative Movement
 
 ![[../assets/sustainble-vs-regenerative.webp]]
-Originally a movement for ecological sustainability, the term has expanded to include design of regenerative cultures for human and planetary health.
+
+The regenerative movement was originally a response to the shortcomings of the sustainability movement. While sustainability is about leaving the environment "as you found it" by seeking to neutralise negative impacts, regeneration is about replenishing, restoring, or enhancing – actively seeking to improve an ecosystem's resilience and capacity to regenerate. An example of regeneration is the restoration of Loess Plateau in China in 1994, where the Chinese government and the World Bank collaborated on restoring biodiversity and life-systems in nearly 4 million acres of over-grazed, over-harvested  lands in north-central China.[10](https://www.worldbank.org/en/news/feature/2007/03/15/restoring-chinas-loess-plateau)
+
+In recent years, a regenerative approach has been increasingly applied to the design of 'regenerative' cultures and human systems. 'Regenerative' has also been used as a term for referring to the Second Renaissance ecosystem, or parts of it.  
 
 ### Further resources
 
@@ -144,6 +170,10 @@ Originally a movement for ecological sustainability, the term has expanded to in
 ![[../assets/gameb.png]]
 
 Game B is a sense-making community espousing a need for a collective shift from “Game A” (old paradigm) to a new kind of civilisation (“Game B”) that does not reproduce the rivalrous dynamics inherent in Game A which produce existential risk. [11](https://www.gameb.wiki/index.php?title=Game_B)
+
+Game B is a sense-making community espousing a need for a collective shift from “Game A” (old paradigm) to a new kind of civilisation (“Game B”).
+
+It draws on game theory for its theoretical framework. In those terms, the idea is that Game B does not reproduce the rivalrous dynamics inherent in Game A which produce existential risk
 
 ### Further resources
 
@@ -163,7 +193,7 @@ Game B is a sense-making community espousing a need for a collective shift from 
 
 # Emergentsia
 
-
+- Coined by Brent Cooper
 ### Further resources
 
 - [The Rise of the Emergentsia: Meaning Making for the Meta-Crisis - Brent Cooper](https://medium.com/the-abs-tract-organization/the-rise-of-the-emergentsia-60c392f990a9)
