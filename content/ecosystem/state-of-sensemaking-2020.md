@@ -6,10 +6,12 @@ contributors:
   - theo-cox
   - elisalifeitself
 ---
-This page documents Life Itself's 2019-2020 [[../ecosystem|ecosystem]] mapping work, including:
-- 1. Background to the work
-- 2. Research questions
-- 3. Report and preliminary map
+This page documents the first phase (2019-2020) of Life Itself's [[../ecosystem|ecosystem]] mapping work, including:
+
+1. Background to the work
+2. Research questions
+3. Report
+4. Preliminary map
 
 
 ![[../assets/Social_Change_Ecosystem-1024x626.png]]
@@ -18,7 +20,7 @@ This page documents Life Itself's 2019-2020 [[../ecosystem|ecosystem]] mapping w
 
 We know there are individuals, organisations and initiatives around the world who share the values, principles and vision of Life Itself. We know that many of them are trying to create change, often by attempting to change culture -- a form of culture-making.
 
-**But that is more or less all we know about this newly emergent space, and, as such, it calls for exploration**. What are its defining characteristics? How do organisations differ, and how are they similar? How do people work together? What _is_ this space?
+But that is more or less all we know about this newly emergent space, and, as such, it calls for exploration. **What are its defining characteristics? How do organisations differ, and how are they similar? How do people work together? What _is_ this space?**
 
 ### Context
 
@@ -40,7 +42,7 @@ At the individual level, this is relatively intuitive -- in order to make lastin
 
 The key point here is that the former does not guarantee the latter. Changing the external components of a system can indeed affect individual behaviour and is important, but it is much less likely to achieve the desired outcome unless people’s inner lives are appropriately aligned, especially when the system is complex and unintended consequences are difficult to predict. This is why culture is important: it regulates behaviour and makes it more predictable. It may sound obvious, but it is only in recent years that changemakers have started to take seriously the importance of inner transformation. 
 
-## 2. Research Questions
+## 2. Research questions
 
 Through our exploration, we are hoping to answer the following questions:
 
@@ -75,13 +77,17 @@ Read or download the report below to read: our analysis of high-level commonalit
 >
 >There is a focus on systems, emergence, coherence, sovereignty, sensemaking as buzzwords, along with activism, governance, and regenerative culture. This is characterised by a strong lean towards spirituality (mindfulness) and the relationship between inner and outer life. At a higher level, we have identified three core thematic areas which tie together the varied groups in the space: _collectivism, (w)holism, and counterculturalism and culture-making._ 
 
-### Preliminary map
-
-The report contains our overview map, from our preliminary research, of organisations grouped based on the core activities they undertake. To explore the diagram in more detail [visit the full version on Coggle](https://coggle.it/diagram/YR_QUHIgSTQ5i8Oc/t/social-change-ecosystem).
-
 ### Full report
 
 ![[../assets/state-of-sensemaking-report-2020-compressed.pdf]]
+
+Please cite this report as:
+
+_State of Sensemaking, Life Itself (Theo Cox & Rufus Pollock), 2020_
+
+## 4.  Preliminary map
+
+The report contains our overview map, from our preliminary research, of organisations grouped based on the core activities they undertake. To explore the diagram in more detail [visit the full version on Coggle](https://coggle.it/diagram/YR_QUHIgSTQ5i8Oc/t/social-change-ecosystem).
 
 ## Links
 
