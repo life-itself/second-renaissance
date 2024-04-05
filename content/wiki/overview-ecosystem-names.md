@@ -168,13 +168,13 @@ According to Macy, there are three dimensions of the Great Turning – that is,
 - [Joanna Macy, The Great Turning - Salt Spring Lake Talk 2002](https://www.youtube.com/watch?v=ZB6YcL0vy74)
 
 
-# The Regenerative Movement
+# Regenerative
 
 ![[../assets/sustainble-vs-regenerative.webp]]
 
 The concept of regeneration – and the social movement associated with it – can be contrasted with the more widely known concept of sustainability. While sustainability is about leaving the environment "as you found it" by seeking to neutralise negative impacts, regeneration is about replenishing, restoring, or enhancing – actively seeking to improve an ecosystem's resilience and capacity to regenerate. An example of regeneration is the restoration of Loess Plateau in China in 1994, where the Chinese government and the World Bank collaborated on restoring biodiversity and life-systems in nearly 4 million acres of over-grazed, over-harvested lands in north-central China.[1](https://www.worldbank.org/en/news/feature/2007/03/15/restoring-chinas-loess-plateau)
 
-In recent years, a regenerative approach has been increasingly applied to the design of cultures and human systems. Key principles involve seeing ourselves as living in patterns of relationships, rather than as separate individuals; seeing these relationships as part of wider living systems; and seeing these patterns as constantly evolving and emerging processes.[2](https://designforsustainability.medium.com/graham-leicester-introduces-designing-regenerative-cultures-4789f3631699) Given the significant overlap in terms of values and principles with what we are calling the Second Renaissance ecosystem, 'regenerative' could be seen either as a synonymous term, or as pointing to something that is closely adjacent to it.
+In recent years, a regenerative approach has been increasingly applied to the design of cultures and human systems. Key principles involve seeing ourselves as living in patterns of relationships, rather than as separate individuals; seeing these relationships as part of wider living systems; and seeing these patterns as constantly evolving and emerging processes.[2](https://designforsustainability.medium.com/graham-leicester-introduces-designing-regenerative-cultures-4789f3631699) Given the overlap in terms of values and principles with what we are calling the Second Renaissance ecosystem, 'regenerative' may be seen as a loosely synonymous term, or as pointing to something that is closely adjacent to it.
 
 ### Further resources
 
@@ -206,7 +206,7 @@ An ecological civilisation is one that uses the designs principles of nature to 
 ### Further resources
 
 - [An Ecological Civilisation | Jeremy Lent](https://www.youtube.com/watch?v=ttR8bstifDw)
-- [How to Move Towards an Ecological Civilisation: With Jeremy Lent](# HOW TO MOVE TOWARDS AN ECOLOGICAL CIVILISATION WITH JEREMY LENT)
+- [How to Move Towards an Ecological Civilisation: With Jeremy Lent](https://www.youtube.com/watch?v=X1_NB4wGrXw)
 - [Institute for Ecological Civilisation](https://ecociv.org/)
 
 
