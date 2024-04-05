@@ -17,6 +17,7 @@ Some of this diversity is reflected in the language that tends to be used across
 
 In this post, we provide an overview of some of the most widely used names and terms. It is intended as a resource to learn more about each term, its history, and the thinkers, perspectives and communities that tend to be associated with it. As we add more information over time, we hope that it will contribute towards a deeper understanding of the areas of overlap and divergence within the Second Renaissance ecosystem. 
 
+
 # Second Renaissance
 
 ![[../assets/second-renaissance.png]]
@@ -38,15 +39,16 @@ The term “Renaissance”, meaning “rebirth”, is a reference to the 'first'
 
 - [The Second Renaissance: A Very Short Introduction](https://secondrenaissance.net/intro)
 
+
 # Metamodern
 
 ![[../assets/metamodern.jpg]]
 
-Broadly speaking, 'metamodernism' is a term used to articulate developments in contemporary culture and society, which are said to represent a move beyond modernism and postmodernism. It was originally coined in 1975 by Mas’ud Zavarzade, to describe an emerging cultural trend in American literature. [3](https://nesslabs.com/metamodernism) More recently, 'metamodernism' has been defined and tends to be used in a number of different ways, which can make it a rather confusing term. 'Metamodernism' is thus – depending on the context – a philosophy, a worldview, a cultural sensibility; as well as a political, scientific, and social movement. 
+Broadly speaking, 'metamodern' is a term used to articulate developments in contemporary culture and society, which are said to represent a move beyond modernism and postmodernism. It was originally coined in 1975 by Mas’ud Zavarzade, to describe an emerging cultural trend in American literature. [1](https://nesslabs.com/metamodernism) More recently, the related term 'metamodernism' has come into popular usage – although it has been defined and tends to be used in a number of different ways, which can make it rather confusing. Depending on the context, metamodernism is a philosophy; a worldview; a cultural sensibility; and a political, scientific, and social movement.
 
-As a cultural and artistic sensibility, metamodernism is characterised by an oscillation between typically modernist attitudes and postmodernist ones – defined by its “ironic sincerity,” “pragmatic idealism,” and “informed naiveté”. The use of the prefix 'meta' derives from Plato’s *metaxy*, describing an "in-betweeness", an oscillation between diametrically opposed poles of experience.[10](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/) This usage was first proposed by Dutch cultural theorists Timotheus Vermeulen and Robin van den Akker in their 2010 essay, “Notes on Metamodernism”.[4](https://www.tandfonline.com/doi/full/10.3402/jac.v2i0.5677)
+As a cultural and artistic sensibility, metamodernism is characterised by an oscillation between typically modernist attitudes and postmodernist ones – defined by its “ironic sincerity,” “pragmatic idealism,” and “informed naiveté”. The use of the prefix 'meta' derives from Plato’s *metaxis*, describing an "in-betweeness", an oscillation between diametrically opposed poles of experience. This usage was first proposed by Dutch cultural theorists Timotheus Vermeulen and Robin van den Akker in their 2010 essay, “Notes on Metamodernism”.[2](https://www.tandfonline.com/doi/full/10.3402/jac.v2i0.5677)
 
-In *The Listening Society* and *Nordic Ideology*, Hanzi Freinacht articulates a political vision and program that has come to be known as 'political metamodernism'. In the books, metamodernism is presented as a philosophy and view of life (or what some call a "cultural paradigm", "cultural logic" or "cultural code") that corresponds to the digitalised, post-industrial, global age. Its key characteristic is the combination of the modern faith in progress with the postmodern critique. This gives rise to a worldview in which "people are on a long, complex developmental journey towards greater complexity and existential depth."[5](https://metamoderna.org/metamodernism/)
+In *The Listening Society* and *Nordic Ideology*, Hanzi Freinacht articulate a political vision and program that has come to be known as 'political metamodernism'. In the books, metamodernism is presented as a philosophy and view of life (or what some call a "cultural paradigm", "cultural logic" or "cultural code") that corresponds to the digitalised, post-industrial, global age. Its key characteristic is the combination of the modern faith in progress with the postmodern critique. This gives rise to a worldview in which "people are on a long, complex developmental journey towards greater complexity and existential depth."[3](https://metamoderna.org/metamodernism/)
 
 ### Further resources
 
@@ -59,20 +61,21 @@ In *The Listening Society* and *Nordic Ideology*, Hanzi Freinacht articulates a 
 - [Metamodernism: Or, The Cultural Logic of Cultural Logics - Brendan Graham Dempsey](https://www.amazon.com/Metamodernism-Cultural-Logic-Logics/dp/B0CKS8MF46) 
 - [Dispatches from a Time Between Worlds: Crisis and emergence in metamodernity](https://systems-souls-society.com/insight/perspectiva-press/dispatches-from-a-time-between-worlds/)
 
+
 # Metacrisis
 
 ![[../assets/metacrisis.png]]
 
-In simple terms, the metacrisis is the underlying crisis that drives a multitude of major, interconnected global crises. [10](https://systems-souls-society.com/how-to-think-about-the-meta-crisis-without-getting-too-excited/) 'Meta' means after, beyond, more comprehensive, or transcending. The metacrisis points to the underlying "generator functions" of the various catastrophic and existential risks that we are facing as a civilisation, and in particular highlights the interiority and relationality that are inherent and often neglected aspects of our predicament. Jonathan Rowson writes that addressing the metacrisis necessitates better understanding "who and what we are, individually and collectively, in order to be able to fundamentally alter how we act."[10](https://systems-souls-society.com/how-to-think-about-the-meta-crisis-without-getting-too-excited/) In an essay titled “[Prefixing the World](https://perspecteeva.substack.com/p/prefixing-the-world)”, he characterises the metacrisis as arising from "the spiritual and material exhaustion of modernity".
+In simple terms, the metacrisis is the underlying crisis that drives a multitude of major, interconnected global crises. [1](https://systems-souls-society.com/how-to-think-about-the-meta-crisis-without-getting-too-excited/) The metacrisis points to the underlying "generator functions" of the various catastrophic and existential risks that we are facing as a civilisation, and in particular highlights the interiority and relationality that are inherent and often neglected aspects of our predicament. Jonathan Rowson writes that addressing the metacrisis necessitates better understanding "who and what we are, individually and collectively, in order to be able to fundamentally alter how we act."[2](https://systems-souls-society.com/how-to-think-about-the-meta-crisis-without-getting-too-excited/) In an essay titled “[Prefixing the World](https://perspecteeva.substack.com/p/prefixing-the-world)”, he characterises the metacrisis as arising from "the spiritual and material exhaustion of modernity".
 
-Reflecting the many meanings of the prefix 'meta', there are also many meanings, definitions and attempts to unpack the metacrisis. Zak Stein characterises the metacrisis as a "generalised educational crisis", and differentiates four aspects:[10](https://systems-souls-society.com/education-is-the-metacrisis/)
+'Meta' means after, beyond, more comprehensive, or transcending. Reflecting the many meanings of the prefix, there are also many meanings, definitions and attempts to unpack the metacrisis as a concept. Zak Stein characterises the metacrisis as a "generalised educational crisis", and differentiates four aspects:[3](https://systems-souls-society.com/education-is-the-metacrisis/)
 
 - a sense-making crisis ("what is the case?")
 - a capability crisis ("how can it be done?")
 - a legitimacy crisis ("who should do it?")
 - a meaning crisis ("why do it?")
 
-Jonathan Rowson identifies ten 'flavours', or kinds, of metacrisis –summarised into four patterns– as a way to highlight the impossibility of pinning it down to a single meaning.[10](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/) The patterns are:
+Jonathan Rowson identifies ten 'flavours', or kinds, of metacrisis –summarised into four patterns– as a way to highlight the impossibility of pinning it down to a single meaning.[4](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/) These patterns are:
 
 - The socio-emotional meta/crisis ('meta' as *with*/*within*; the crisis of 'we')
 - The educational metacrisis ('meta' as *after*/*within* and *between*; the crisis of education)
@@ -90,12 +93,13 @@ The term has gained significant traction within the Second Renaissance ecosystem
 - [Google Talk – Confronting the Meta-Crisis: Criteria for Turning the Titanic - Terry Patten](https://www.terrypatten.com/google-talk-confronting-the-meta-crisis-criteria-for-turning-the-titanic/)
 - [Education is the Metacrisis - Zak Stein](https://systems-souls-society.com/education-is-the-metacrisis/)
 
+
 # Integral
 
 
 ![[../assets/integral.jpg]]
 
-Integral theory is American philosopher Ken Wilber’s attempt integrate all the known systems and models of human growth into a single, holistic, multidimensional framework for human evolution. An integrated or 'integral' approach to studying human potential seeks an integration of mind, body, and spirit; of material and spiritual values; and of Eastern and Western philosophies and worldviews. [9](https://integrallife.com/what-is-integral-approach/),[10](https://lifeitself.org/blog/2022/05/27/mapping-metamodern-integral) The purpose of an integral approach or 'map' is to see oneself and the world in more comprehensive and effective ways. There are five essential elements of Integral Theory:[10](https://integrallife.com/what-is-integral-approach/)
+Integral theory is American philosopher Ken Wilber’s attempt integrate all the known systems and models of human growth into a single, holistic, multidimensional framework for human evolution. An integrated or 'integral' approach to studying human potential seeks an integration of mind, body, and spirit; of material and spiritual values; and of Eastern and Western philosophies and worldviews. [1](https://integrallife.com/what-is-integral-approach/),[2](https://lifeitself.org/blog/2022/05/27/mapping-metamodern-integral) The purpose of an integral approach or 'map' is to see oneself and the world in more comprehensive and effective ways. There are five essential elements of Integral Theory:[3](https://integrallife.com/what-is-integral-approach/)
 
 - **States (of consciousness)**: temporary modes or levels of awareness that individuals can experience (e.g. waking states, dreaming states, meditative states, flow states, altered states, and peak experiences).
 - **Levels (or 'stages' of consciousness development)**: permanent milestones of growth and development, representing increasingly higher levels of complexity or organisation.
@@ -113,13 +117,14 @@ Since integral theory was first introduced in 1977 with the publication of *The 
 - [Institute for Integral Studies](https://www.ifis-freiburg.de/en)
 - [California Institute of Integral Studies](https://www.ciis.edu/)
 
+
 # Polycrisis
 
 ![[../assets/polycrisis.png]]
 
-The "polycrisis" is defined by the Cascade Institute as "any combination of three or more interacting systemic risks with the potential to cause a cascading, runaway failure of Earth’s natural and social systems that irreversibly and catastrophically degrades humanity’s prospects."[10](https://cascadeinstitute.org/wp-content/uploads/2022/04/What-is-a-global-polycrisis-v2.pdf) Essentially, a polycrisis arises when multiple systems across various domains are in crisis simultaneously, and interact with each other to create a "complex and intertwined web of challenges.” [4](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis)
+The "polycrisis" is defined by the Cascade Institute as "any combination of three or more interacting systemic risks with the potential to cause a cascading, runaway failure of Earth’s natural and social systems that irreversibly and catastrophically degrades humanity’s prospects."[1](https://cascadeinstitute.org/wp-content/uploads/2022/04/What-is-a-global-polycrisis-v2.pdf) Essentially, a polycrisis arises when multiple systems across various domains are in crisis simultaneously, and interact with each other to create a "complex and intertwined web of challenges.” [2](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis)
 
-The term was coined in the 1999 book Homeland Earth: A Manifesto for a New Millennium by Edgar Morin and Anne Brigitte Kern, [5](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis) and was recently popularised by historian [Adam Tooze](https://adamtooze.substack.com/p/chartbook-165-polycrisis-thinking). [6](https://perspecteeva.substack.com/p/prefixing-the-world) "Polycrisis" has become a relatively mainstream term, both within and outside of the Second Renaissance ecosystem. In 2022, it was chosen by the Financial Times as the word to describe the year.[7](https://www.ft.com/content/f6c4f63c-aa71-46f0-a0a7-c2a4c4a3c0f1) It is sometimes used interchangeably with the term 'metacrisis', although the two concepts are distinct.
+The term was coined in the 1999 book Homeland Earth: A Manifesto for a New Millennium by Edgar Morin and Anne Brigitte Kern,[3](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis) and was recently popularised by historian [Adam Tooze](https://adamtooze.substack.com/p/chartbook-165-polycrisis-thinking).[4](https://perspecteeva.substack.com/p/prefixing-the-world) "Polycrisis" has become a relatively mainstream term, both within and outside of the Second Renaissance ecosystem. In 2022, it was chosen by the Financial Times as the word to describe the year.[5](https://www.ft.com/content/f6c4f63c-aa71-46f0-a0a7-c2a4c4a3c0f1) It is sometimes used interchangeably with the term 'metacrisis', although the two concepts are distinct.
 
 ### Further resources
 
@@ -128,6 +133,7 @@ The term was coined in the 1999 book Homeland Earth: A Manifesto for a New Mille
 - [Explaining Polycrisis and Metacrisis](https://www.realitystudies.co/p/explaining-polycrisis-and-metacrisis)
 - [Year in a word: Polycrisis](https://www.ft.com/content/f6c4f63c-aa71-46f0-a0a7-c2a4c4a3c0f1)
 
+
 # The Liminal Web
 
 
@@ -135,41 +141,40 @@ The term was coined in the 1999 book Homeland Earth: A Manifesto for a New Mille
 
 In 2021, Joe Lightfoot published a blog post attempting to map “an emergent subculture of sensemakers, meta-theorists & systems poets”, which he termed the “Liminal Web”:
 
-> ”a collection of thinkers, writers, theorists, podcasters, videographers and community builders who all share a high crossover in their collection of perspectives on the world. It not only includes creators of content but also the people and communities who resonate with the constellation of ideas such creators put forward.” [8](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)
+> ”a collection of thinkers, writers, theorists, podcasters, videographers and community builders who all share a high crossover in their collection of perspectives on the world. It not only includes creators of content but also the people and communities who resonate with the constellation of ideas such creators put forward.” [1](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)
 
-'Liminal' means ‘to occupy a position at, or on both sides of, a boundary or threshold’. The choice of this word reflects the idea that "everyone in the space is in their own unique way attempting to mid-wife a new kind of regenerative culture whilst simultaneously hospicing the old".[8](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets) 'The Liminal Web' has since become a popular term for referring to the emerging ecosystem.
+'Liminal' means ‘to occupy a position at, or on both sides of, a boundary or threshold’. The choice of this word reflects the idea that "everyone in the space is in their own unique way attempting to mid-wife a new kind of regenerative culture whilst simultaneously hospicing the old".[2](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets) 'The Liminal Web' has since become a popular term for referring to the emerging ecosystem.
 
 ### Further resources
 
 - [The Liminal Web: Mapping An Emergent Subculture Of Sensemakers, Meta-Theorists & Systems Poets - Joe Lightfoot](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)
 - [Metamodern Spirituality | The Liminal Web and Communitas (w/ Joe Lightfoot)](https://www.youtube.com/watch?v=X8pCpbmzFUE)
 
+
 # The Great Turning
 
 ![[../assets/great-turning.jpeg]]
 
-The Great Turning, coined by Joanna Macy, is a shift from the Industrial Growth Society to a life-sustaining civilisation. [10](https://www.ecoliteracy.org/article/great-turning) Macy identifies three main narratives of our times: "the Great Unraveling"
+The Great Turning, coined by Joanna Macy, is a shift from the Industrial Growth Society to a life-sustaining civilisation.[1](https://www.ecoliteracy.org/article/great-turning) Macy identifies three main narratives of our times: "Business as Usual", upholding the growth economy; "The Great Unraveling", telling the story of ongoing collapse of living structures; and "The Great Turning", which is a civilisational transition comparable to the agricultural and industrial revolutions.[2](https://www.awakin.org/v2/read/view.php?tid=2443&lang=English) Macy urges us to recognise what is happening in the world today, and to align our work with the Great Turning and the creation of a life-sustaining civilisation.
 
-According to Macy, there are three dimensions of the Great Turning – that is, three 'types' of actions that are needed for the transition to occur:
-
+According to Macy, there are three dimensions of the Great Turning – that is, three types of actions that are needed for the transition to occur:[3](https://www.ecoliteracy.org/article/great-turning)
 - Actions to slow the damage to Earth and its beings (aka "holding actions")
 - Analysis of structural causes and the creation of structural alternatives (aka "structural changes")
-- Shift in Consciousness (i.e. a profound shift in our perception of reality, including values and norms)
-
-Narrative: Great unravelling - we are on trajectory towards collapse, but we have possibility for great turning instead (something radically different)
+- Shift in consciousness (i.e. a profound shift in our perception of reality, as well as in our values and norms)
 
 ### Further resources
 
 - [The Great Turning, Joanna Macy](https://www.ecoliteracy.org/article/great-turning)
 - [Joanna Macy, The Great Turning - Salt Spring Lake Talk 2002](https://www.youtube.com/watch?v=ZB6YcL0vy74)
 
+
 # The Regenerative Movement
 
 ![[../assets/sustainble-vs-regenerative.webp]]
 
-The concept of regeneration – and the social movement associated with it – can be contrasted with the more widely known concept of sustainability. While sustainability is about leaving the environment "as you found it" by seeking to neutralise negative impacts, regeneration is about replenishing, restoring, or enhancing – actively seeking to improve an ecosystem's resilience and capacity to regenerate. An example of regeneration is the restoration of Loess Plateau in China in 1994, where the Chinese government and the World Bank collaborated on restoring biodiversity and life-systems in nearly 4 million acres of over-grazed, over-harvested lands in north-central China.[10](https://www.worldbank.org/en/news/feature/2007/03/15/restoring-chinas-loess-plateau)
+The concept of regeneration – and the social movement associated with it – can be contrasted with the more widely known concept of sustainability. While sustainability is about leaving the environment "as you found it" by seeking to neutralise negative impacts, regeneration is about replenishing, restoring, or enhancing – actively seeking to improve an ecosystem's resilience and capacity to regenerate. An example of regeneration is the restoration of Loess Plateau in China in 1994, where the Chinese government and the World Bank collaborated on restoring biodiversity and life-systems in nearly 4 million acres of over-grazed, over-harvested lands in north-central China.[1](https://www.worldbank.org/en/news/feature/2007/03/15/restoring-chinas-loess-plateau)
 
-In recent years, a regenerative approach has been increasingly applied to the design of cultures and human systems. Key principles involve seeing ourselves as living in patterns of relationships, rather than as separate individuals; seeing these relationships as part of wider living systems; and seeing these patterns as constantly evolving and emerging processes. [11](https://designforsustainability.medium.com/graham-leicester-introduces-designing-regenerative-cultures-4789f3631699) Given the significant overlap in terms of values and principles with what we are calling the Second Renaissance ecosystem, 'regenerative' could be seen either as a synonymous term, or as pointing to something that is closely adjacent to it.
+In recent years, a regenerative approach has been increasingly applied to the design of cultures and human systems. Key principles involve seeing ourselves as living in patterns of relationships, rather than as separate individuals; seeing these relationships as part of wider living systems; and seeing these patterns as constantly evolving and emerging processes.[2](https://designforsustainability.medium.com/graham-leicester-introduces-designing-regenerative-cultures-4789f3631699) Given the significant overlap in terms of values and principles with what we are calling the Second Renaissance ecosystem, 'regenerative' could be seen either as a synonymous term, or as pointing to something that is closely adjacent to it.
 
 ### Further resources
 
@@ -177,63 +182,78 @@ In recent years, a regenerative approach has been increasingly applied to the de
 - [Regenerative Cultures, with Daniel Christian Wahl](https://www.youtube.com/watch?v=d9WA1IIohq0)
 - [The Design Pathway for Regenerating Earth - Joe Brewer](https://earthregenerators.org/the-design-pathway-for-regenerating-earth/)
 
+
 # GameB
 
 ![[../assets/gameb.png]]
 
-Game B is a sense-making community espousing a need for a collective shift from “Game A” (old paradigm) to a new kind of civilisation (“Game B”) that does not reproduce the rivalrous dynamics inherent in Game A which produce existential risk. [11](https://www.gameb.wiki/index.php?title=Game_B)
-
-Game B is a sense-making community espousing a need for a collective shift from “Game A” (old paradigm) to a new kind of civilisation (“Game B”).
-
-It draws on game theory for its theoretical framework. In those terms, the idea is that Game B does not reproduce the rivalrous dynamics inherent in Game A which produce existential risk
+GameB is a sense-making community espousing a need for a collective shift from “Game A” (old paradigm) to a new kind of civilisation (“Game B”) that does not reproduce the rivalrous dynamics inherent in Game A which produce existential risk.[1](https://www.gameb.wiki/index.php?title=Game_B) It has also been described as "a transcontextual inquiry into a new social operating system for humanity"[2](https://www.game-b.org/), and tends to draw on evolutionary game theory for its theoretical framework and approach to systems change. Proponents of Game B argue that any attempt to precisely define it would suffer from the reductionist tendencies of Game A, and instead tend to list some of the key characteristics that does and does not possess.[3](https://www.gameb.wiki/index.php?title=Game_B#:~:text=A%20Game%20B%20system%20is,appeal%20and%20willful%2C%20voluntary%20participation.)
 
 ### Further resources
 
-- [GameB Home](https://www.game-b.org/)
 - [GameB wiki](https://www.gameb.wiki/index.php?title=Main_Page)
+- [GameB Home](https://www.game-b.org/)
 - [Future Thinkers podcast: What is GameB? - Jim Rutt](https://www.youtube.com/watch?v=HL5bcgpprxY)
 - [Jim Rutt Show: EP26 Jordan Hall on the GameB Emergence](https://www.youtube.com/watch?v=a2mZqs3g5ks)
 
+
 # Ecological Civilisation
 
-- Popularised by Jeremy Lent
+![[../assets/ecological-civilisation.jpg]]
+
+An ecological civilisation is one that uses the designs principles of nature to reimagine itself – to change its 'operating system' so that it leads to "life-affirming policies and practices rather than rampant extraction and devastation".[1](https://www.yesmagazine.org/issue/ecological-civilization/2021/02/16/what-does-ecological-civilization-look-like) The term has been popularised by Jeremy Lent.
 
 ### Further resources
 
 - [An Ecological Civilisation | Jeremy Lent](https://www.youtube.com/watch?v=ttR8bstifDw)
 - [How to Move Towards an Ecological Civilisation: With Jeremy Lent](# HOW TO MOVE TOWARDS AN ECOLOGICAL CIVILISATION WITH JEREMY LENT)
+- [Institute for Ecological Civilisation](https://ecociv.org/)
+
 
 # Emergentsia
 
-- Coined by Brent Cooper
+![[../assets/emergentsia.jpg]]
+
+"Emergentsia" is a term coined by Brent Cooper in 2019. It refers to "a new class of intellectuals [that] is emerging to grapple with the meta-crisis and help manage the transition".[1](https://medium.com/the-abs-tract-organization/the-rise-of-the-emergentsia-60c392f990a9)
+
+>"The Emergentsia transcend and include the characteristics of an intelligentsia, at a higher level of emergence and planetary vision-logic. They are to emergence what the intelligentsia was to intelligence. They synthesize very complex conceptual frameworks and apply them to deep existential problems and solutions. This entails grappling with long-term and big-picture ideas that often take years of intense study to penetrate, let alone to be able to distil into accessible and actionable terms. The idea of the Emergentsia arose from noticing shared characteristics among thinkers like Daniel Schmachtenberger, Jordan Hall, Jamie Wheal, Jason Silva, Zak Stein, Bonnitta Roy, Maja Göpel, Indra Adnan, and Indy Johar, who are all active in the topics of emergence and systems change."[2](https://medium.com/the-abs-tract-organization/the-rise-of-the-emergentsia-60c392f990a9)
+
 ### Further resources
 
 - [The Rise of the Emergentsia: Meaning Making for the Meta-Crisis - Brent Cooper](https://medium.com/the-abs-tract-organization/the-rise-of-the-emergentsia-60c392f990a9)
 
+
 # Sensemaking Web
 
+![[../assets/sensemaking-web.jpg]]
+
+The 'Sensemaking Web' (or 'Sensemaking Scene') is a largely synonymous term for the Liminal Web. It highlights the shared goal of those within the space to 'make sense' of the world.
 
 ### Further resources
 
 - [The Sense-Making Web - Chris Leong](https://www.lesswrong.com/posts/vKDAXqyab5KRApfvE/the-sense-making-web)
 - [A map of the sensemaking web](https://twitter.com/GameBInsights/status/1275770634581270529)
 
-# Wisdom Age
-
-
-### Further resources
-
-- [Building the Wisdom Age](https://www.roote.co/wisdom-age)
 
 # Teal
 
+![[../assets/spiral-dynamics.jpg]]
+
+'Teal' is a term that derives from Spiral Dynamics, a model of the evolutionary development of individuals, organisations, and societies developed in the 1960s and 70s by Clare Graves, Don Beck and Chris Cowan.[1](https://www.doria.fi/bitstream/handle/10024/136497/butters.pdf?sequence=2) Stages of development, or 'value systems' in the Spiral Dynamics framework are coded with colours, with 'teal' or 'turquoise' being the final of the currently known stages. Several variations of Spiral Dynamics exist that have been incorporated into, or that draw on, Ken Wilber's Integral theory.[2](https://www.doria.fi/bitstream/handle/10024/136497/butters.pdf?sequence=2) Within the Second Renaissance ecosystem, 'teal' is sometimes used as a term to refer to the emerging paradigm or approach, and often as a synonym for 'metamodern' or 'integral'.
 
 ### Further resources
 
-- 
+- [Introduction to Spiral Dynamics Integral](https://spiraldynamicsintegral.nl/en/about-sdi/)
+- [Characteristics of the Turquoise Value System](https://spiraldynamicsintegral.nl/en/turquoise/)
+
 
 # Holomovement
 
+![[../assets/holomovement (1).jpg]]
+
+The Holomovement is "a social movement that awakens us to our interconnectedness, igniting a critical mass of collaborative action serving the good of the whole."[1](https://www.holomovement.net/) 
+
+>"Guided by science and spirituality, this unifying movement is catalyzing a massive shift in human consciousness."
 
 ### Further resources
 
