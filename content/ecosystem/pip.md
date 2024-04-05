@@ -49,6 +49,17 @@ For more detailed analysis of our motivations for mapping, read our essay 'Mappi
 
 ## 3. Overview of the "PIP" ecosystem for Paradigmatic, Integrative, and Pragmatic Change
 
+We sense that a new ecosystem, or ecosystem of ecosystems, is emerging. A growing number of people, organizations and initiatives are taking alternative approaches to social change, which diverge from and go beyond the more established spaces in civil society and the social economy.
+
+The ecosystem we explore is still emerging and ill-defined. There is no one name for this ecosystem, with different organizations favouring different terms. As mapped it is quite broad – even disparate. Nevertheless, there are commonalities.
+
+Most importantly, this ecosystem has a **_novel_** **approach to social change**. Specifically, an approach that is simultaneously **paradigmatic**, **integrated**, and **pragmatic**.
+
+Secondly, there are a variety of commonalities in outlook and approach. The most noteworthy identified so far we have termed: post-individualism, (w)holism and culture-making (in the form of new norms and narratives).
+
+There is also a focus on complexity, systems and emergence, on developmental models, spirituality and practice, and on sensemaking, different forms of knowledge and global-local activism. Other commonalities include an interest in decentralized governance, new narratives, alternative social imaginaries and regenerative culture.
+
+Nonetheless, the boundaries, relationships and patterns of influences in the ecosystem remain blurry, with our present awareness feeling like it only touches the tip of the iceberg. Questions that remain unclear include who exactly comprises the ecosystem, how activities and visions relate to one another, where the coherences and tensions lie and how it might evolve.
 
 ## 2. Preliminary Research Interviews
 
