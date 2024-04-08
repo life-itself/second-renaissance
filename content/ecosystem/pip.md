@@ -13,6 +13,10 @@ This page documents the second phase (2021-2022) of Life Itself's [[ecosystem|ec
 
 This work builds on the first phase (2019-2020) of ecosystem mapping work, which you can read about [[state-of-sensemaking-2020|here]]. 
 
+![[../assets/Screenshot 2024-04-08 at 15.27.43.png]]
+
+What follows below is a written "report" on the 2021-2022 mapping work, including background and context. If you would like to discover and explore the ecosystem in a more interactive way, e.g. to get an overview of its key characteristics, and explore a directory and visualisations of organisations within it, please visit this [site](https://secondrenaissance.net/ecosystem/pip-2021). 
+
 ## 1. Background: A newly emerging ecosystem
 
 A newly emerging ecosystem of individuals, organizations and initiatives around the world has begun to form in recent years. We know that many of them are trying to create change, often by shifting how we make sense of the world and how we engage with one another — in short, by engaging in sense-making and culture-making.
