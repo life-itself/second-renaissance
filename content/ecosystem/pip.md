@@ -7,8 +7,8 @@ This page documents the second phase (2021-2022) of Life Itself's [[ecosystem|ec
 1. Background: A newly emerging ecosystem & What we know about it so far
 2. Current focus: Mapping the ecosystem so that it becomes (more) self-aware, interconnected, resourced and effective
 3. Overview of the "PIP" ecosystem for Paradigmatic, Integrative, and Pragmatic Change
-4. Visualisations
-5. Directory of organisation profiles
+4. Visual Mapping of "PIP" organisations
+5. Directory of "PIP" organisations
 6. Collaborations: Preliminary research interviews & Partnerships
 
 This work builds on the first phase (2019-2020) of ecosystem mapping work, which you can read about [[state-of-sensemaking-2020|here]]. 
@@ -107,7 +107,20 @@ Emerging organizations and individuals are opting towards 'teal' style collabora
 
 We have identified four major areas of activity: physical spaces, research, media/publishing and events. Nonetheless, it has been notable that many organizations have shifted to multi-channel working across a number of these e.g. producing media content as well as running retreats and events.
 
-## 2. Preliminary Research Interviews
+## 4. Visual mapping of "PIP" organisations
+
+We created two visual maps of "PIP" organisations, based on a) their approach to social change and b) the topic of their work.
+
+## 
+
+
+## 5. Directory of organisations
+
+The site is one output from our ongoing efforts to map an emerging ecosystem. It provides a growing directory of organizations, communities and individuals organized by theme and activity.
+
+## 6. Collaborations: Interviews & Partnerships
+
+### Preliminary Research Interviews
 
 As part of our preliminary research, we undertook some conversational interviews in order to get a better sense of what is going on within the space and how people are seeing it. You can read the interviews here: 
 
@@ -118,19 +131,12 @@ As part of our preliminary research, we undertook some conversational interviews
 - [Romy Kraemer (Guerrilla Foundation)](https://lifeitself.org/blog/2021/07/20/romy-kraemer-guerrilla-foundation)
 - [Robert Cobbold (Conscious Evolution)](https://lifeitself.org/blog/2021/06/23/conscious-evolution-robert-cobbold)
 
-## Analysis
-
-## 4. Visualisations
-
-### Approach to Social Change
-
-### Topic
+### Partnerships
 
 
 
-## Directory of organisation profiles
 
-The site is one output from our ongoing efforts to map an emerging ecosystem. It provides a growing directory of organizations, communities and individuals organized by theme and activity.
+
 
 
 
