@@ -23,7 +23,7 @@ Better understanding of the ecosystem could help it to become more known, interc
 
 ### Previous work: What we know about the ecosystem so far
 
-We have noticed and begun mapping an emerging ecosystem. Its nature, boundaries and name are not yet fully defined. In the previous, [[state-of-sensemaking-2020|first phase]] of our work, we identified **some of its key features: 
+We have noticed and begun mapping an emerging ecosystem. Its nature, boundaries and name are not yet fully defined. In the previous, [[state-of-sensemaking-2020|first phase]] of our work, we identified some of its key features: 
 
 >There is a focus on systems, emergence, coherence, sovereignty, sensemaking as buzzwords, along with activism, governance, and regenerative culture. This is characterised by a strong lean towards spirituality (mindfulness) and the relationship between inner and outer life. At a higher level, we have identified three core thematic areas which tie together the varied groups in the space: _collectivism, (w)holism, and counterculturalism and culture-making._ 
 >
@@ -109,14 +109,57 @@ We have identified four major areas of activity: physical spaces, research, medi
 
 ## 4. Visual mapping of "PIP" organisations
 
-We created two visual maps of "PIP" organisations, based on a) their approach to social change and b) the topic of their work.
+To help us to see how different organisations within the "PIP" ecosystem fit together, we created two visual maps:
 
-## 
+1. **Mapping organisations based on their approach to social change**: This shows to what extent different organisations integrate the following three dimensions of change: inner change, cultural change, and systems change. 
+2. **Mapping organisations based on the main topic of their work**: This shows the distribution of organisations across topics, and the predominance of topics, such as Ecology & Environment, Politics & Economics, Spirituality & Religion etc. within the broader ecosystem.
+
+You can see and interact with the visualisations [here](https://secondrenaissance.net/ecosystem/pip-2021). 
+
+### Visual map of approaches to social change in the "PIP" ecosystem
+
+For an interactive version of this visualisation, visit this [page](https://secondrenaissance.net/ecosystem/pip-2021). 
 
 
-## 5. Directory of organisations
+![[../assets/Screenshot 2024-04-08 at 14.36.22.png]]
 
-The site is one output from our ongoing efforts to map an emerging ecosystem. It provides a growing directory of organizations, communities and individuals organized by theme and activity.
+
+**This visualisation maps organisations in the directory based on their approach to social change.** The three broad orientations we have mapped are inner, cultural, and systems:
+
+- **Systems** approaches focus on changing **institutions and systems**. Organisations focused on this area are particularly interested in areas such as **governance, economics and technology.** 
+- **Cultural** approaches focus on changing the broader collective culture, targeting aspects such as **norms, values and collective narratives**. 
+- **Inner** approaches focus on the inner transformation of individuals as a way of transforming society at large, both through personal development and **shifting perspectives of how they relate to themselves, others, and the planet.**
+
+Each organisation was given a weighting across these three dimensions with the restriction that the overall total summed to one, reflecting the fact this was about the focus of their approach. Thus, being perfectly in the centre of this diagram would indicate that an organisation weighted each approach equally. Conversely, being at either corner would indicate the organisation totally prioritised that approach.
+
+We emphasise that these scores were assigned according to the project team's best effort assessment based on available material. If you think an organisation has been mis-weighted please [get in touch](https://lifeitself.us/contact/) to let us know.
+
+### Visual map of topics in the "PIP" ecosystem
+
+For an interactive version of this visualisation, visit this [page](https://secondrenaissance.net/ecosystem/pip-2021). 
+
+![[../assets/Screenshot 2024-04-08 at 14.41.54.png]]
+
+**This visualisation maps an overview of organisations in the directory grouped together by their primary topic.** We have defined ten primary topics, each of which is represented by a circle within the broader circle/topic of social change. A short description of each topic follows below:
+
+- Arts & Culture – Role and use of arts and culture in fostering social change.
+- Community – Role of community in human life and in fostering human flourishing, and approaches to building, sustaining and governing communities.
+- Development & Growth – Fostering personal development and growth in emotional, psychological, social and other inner capacities.
+- Ecology & Environment – Issues relating to the environment, including climate change but also nature more broadly and human relationships to it.
+- Future of Work – Innovating the world of work, including through new methods and approaches to business and organizational management.
+- Governance & Institutions – Devising new forms of governance and institutions to support alternative social paradigms.
+- Politics & Economics – Engaging with existing political and economic systems, creating policies and innovating new approaches to politics and economics.
+- Spirituality & Religion – World beyond the material and the rational.
+- Technology & Blockchain – Use of technological innovation, including blockchain, to foster social change and support new social systems.
+- Wellbeing & Health – Improving quality of life through the physical, psychological, environmental and social determinants of health and wellbeing.
+
+## 5. Directory of "PIP" organisations
+
+One output of this mapping work is a searchable directory of organisations, communities and initiatives which can be filtered by topic and activity. The directory contains profiles of over 90 organisations. 
+
+You can explore the directory [here](https://secondrenaissance.net/ecosystem/pip-2021#profiles).
+
+![[../assets/state-of-sensemaking-directory-profiles-20211012-1024x856 1.png]]
 
 ## 6. Collaborations: Interviews & Partnerships
 
@@ -133,12 +176,20 @@ As part of our preliminary research, we undertook some conversational interviews
 
 ### Partnerships
 
+We joined forces with the following partner organisations:
+#### Emerge
 
+![[../assets/emerge_logo_small.png]]
 
+[Emerge](https://www.whatisemerging.com/) is an independent, non-profit media platform and network responding to the question of what is happening within, between and beyond human beings in a civilisation that appears to be dying. Emerge connects transformative and inspirational innovators and initiatives across the globe. They spotlight the most daring pathfinders and visionaries who are using systems thinking, driving spiritual renewal or personal and cultural transformation, and who lovingly seduce cynical minds into seeing more beautiful alternative worlds.
 
+Life Itself (Rufus Pollock and Theo Cox) and Emerge (Anna Schaffner) co-authored the essay '[Mapping for Emergence](https://lifeitself.org/blog/2021/12/09/mapping-for-emergence)' (2021). 
 
+#### Institute for Integral Studies (IFIS) 
 
+![[../assets/ifis-logo.png]]
 
+[IFIS](https://www.ifis-freiburg.de/en) is an independent research institute founded in 2008 and based in Freiburg, Germany, which has well established links with universities and other research organisations across Germany and Europe, as well as further afield. The Institute's mission is "to put an integrally informed science in service of society, the planet and a healthy development of both".
 
 ## Disclaimer
 
