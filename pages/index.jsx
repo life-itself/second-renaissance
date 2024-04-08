@@ -35,7 +35,7 @@ const Hero = () => (
 );
 
 const HeroFollowOn = () => (
-  <div className="overflow-hidden bg-white py-24 sm:py-2">
+  <div id="next" className="overflow-hidden bg-white pt-12 sm:pt-24">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
@@ -52,15 +52,15 @@ const HeroFollowOn = () => (
             <p className="mt-6 text-xl leading-8 text-gray-600">
               However, it is also a time of crisis. There is darkness before dawn. The last renaissance was preceded by the black death, famine and war following the breakdown of the medieval world.
               <br /><br />
-              <a href="#diagnosis" className="font-semibold leading-6">
-                Read more <span aria-hidden="true">↓</span>
+              <a href="#signs" className="font-semibold leading-6">
+                Continue <span aria-hidden="true">↓</span>
               </a>
             </p>
           </div>
         </div>
         <div className="flex items-start justify-end order-first">
           <img
-            src="/assets/img/homepage/old-dies-new-born.png"
+            src="/assets/img/homepage/solar-eclipse-butler-1923.webp"
             alt=""
             className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 bg-yellow-200 w-full"
           />
@@ -71,7 +71,7 @@ const HeroFollowOn = () => (
 );
 
 const Signs = () => (
-  <div id="next" className="overflow-hidden bg-white pt-24 sm:pt-32">
+  <div id="signs" className="overflow-hidden bg-white pt-12 sm:pt-24">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
@@ -80,9 +80,9 @@ const Signs = () => (
               There are visible signs of illness
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              We are witnessing a constellation of escalating and interwoven crises ranging from ecosphere degradation to political polarization &ndash; a metacrisis.
+              We are witnessing  a constellation of escalating crises.
               <br /><br />
-              There is a real risk of civilisational collapse and large-scale destruction of life due to growing ecological, political, social crises.
+              There is a real risk of civilizational collapse and large-scale destruction of life due to intertwined ecological, political, social, and meaning crises.
             </p>
           </div>
         </div>
@@ -99,7 +99,7 @@ const Signs = () => (
 );
 
 const Root = () => (
-  <div className="overflow-hidden bg-white">
+  <div id="root" className="overflow-hidden bg-white">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:pr-8 lg:pt-32">
@@ -108,9 +108,13 @@ const Root = () => (
               Source lies at the roots of our civilization
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              In our ways of thinking and being. We are experiencing this crisis because we are at the end of an cultural paradigm that we call modernity.
+              In our ways of thinking and being.
               <br /><br />
-              Modernity is the water we are still swimming in ... though it is starting to decay.
+              We are experiencing this crisis because we are at the end of an cultural paradigm that we call modernity.
+              <br /><br />
+              "We cannot solve our problems with the same thinking we used to create them."
+              <br /><br />
+              Modernity is the water we are swimming in... The root cause of our civilizational breakdown
             </p>
           </div>
         </div>
@@ -203,7 +207,7 @@ const Being = () => (
           </div>
         </div>
         <img
-          src="/img/homepage/ecosystem-bg.jpg"
+          src="/img/homepage/mary-delany-parnassium-palustris.jpg"
           alt=""
           className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"
         />
@@ -234,9 +238,9 @@ const Emerging = () => (
           </div>
         </div>
         <img
-          src="/assets/img/homepage/bird-taking-flight.jpg"
-          alt="https://www.deviantart.com/paivatar/art/Bird-taking-flight-338089235"
-          className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"
+          src="/assets/img/homepage/birds-gold.webp"
+          alt="https://www.etsy.com/listing/522550204/swallows-and-house-martin-limited"
+          className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"
         />
       </div>
     </div>
@@ -363,12 +367,12 @@ const Page = () => {
   return (
     <>
       <Hero />
+      <HeroFollowOn />
       <Signs />
       <Root />
       <Cure />
       <Being />
       <Emerging />
-      <HeroFollowOn />
       <div id="diagnosis" className="bg-slate-100 px-6 py-24 sm:py-32 lg:px-8">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Conclusion</h2>
