@@ -19,7 +19,7 @@ What follows below is a comprehensive written "report" on the 2021-2022 mapping 
 
 ## 1. Background: A newly emerging ecosystem
 
-A newly emerging ecosystem of individuals, organizations and initiatives around the world has begun to form in recent years. We know that many of them are trying to create change, often by shifting how we make sense of the world and how we engage with one another — in short, by engaging in sense-making and culture-making.
+A newly emerging ecosystem of individuals, organizations and initiatives around the world has begun to form in recent years. We know that many of them are trying to create change, often by shifting how we make sense of the world and how we engage with one another — in short, by engaging in sense-making and culture-making. Some of the multiple terms and names that we're aware of for it are: Metamodern, Polycrisis, Metacrisis, Great Transition, Liminal Web, Sensemaking Web, Intellectual Deep Web, and Emergentsia. 
 
 But there is still a lot more to learn about this newly emergent space. For example: **What are its defining characteristics? How do organizations differ, and how are they similar? What _is_ this space? What are the other ecosystems to which it is interconnected? And how will it evolve?** 
 
