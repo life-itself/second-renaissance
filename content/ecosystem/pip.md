@@ -15,7 +15,7 @@ This work builds on the first phase (2019-2020) of ecosystem mapping work, which
 
 ![[../assets/Screenshot 2024-04-08 at 15.27.43.png]]
 
-What follows below is a detailed written "report" on the 2021-2022 mapping work, including background and context. **If you would like simply to discover and explore the ecosystem in a more interactive way, e.g. to get an overview of its key characteristics, and explore a directory and visualisations of organisations within it, please visit this [site](https://secondrenaissance.net/ecosystem/pip-2021).** 
+What follows below is a comprehensive written "report" on the 2021-2022 mapping work, including background and context. **If you would like simply to discover and explore the ecosystem in a more interactive way, e.g. to get an overview of its key characteristics, and explore a directory and visualisations of organisations within it, please visit this [site](https://secondrenaissance.net/ecosystem/pip-2021).** 
 
 ## 1. Background: A newly emerging ecosystem
 
