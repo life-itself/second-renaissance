@@ -58,6 +58,7 @@ In *The Listening Society* and *Nordic Ideology*, Hanzi Freinacht articulates a 
 - [Metamodernism: A Brief Introduction](https://www.metamodernism.com/2015/01/12/metamodernism-a-brief-introduction/)
 - [Metamodernisms: A Cheat Sheet](https://www.brendangrahamdempsey.com/post/metamodernisms-a-cheat-sheet)
 - [Metamodernism: A Literature List - Brent Cooper](https://medium.com/the-abs-tract-organization/metamodernism-a-literature-list-91272fa32b9d)
+- [What is Political Metamodernism?](https://www.brendangrahamdempsey.com/post/political-metamodernism?fbclid=IwAR1MtPR6emWVZxrxwR-Em5pzJzQFF3EhTXEjky4bL0rJYFmZayRLBYZaO70)
 - [The Listening Society - A Metamodern Guide to Politics, Book One - Hanzi Freinacht](https://www.amazon.com/Listening-Society-Metamodern-Politics-Guides/dp/8799973901)
 - [Nordic Ideology: A Metamodern Guide to Politics, Book Two - Hanzi Freinacht](https://www.amazon.com/Nordic-Ideology-Metamodern-Politics-Guides/dp/8799973928/ref=sr_1_1?crid=1RCJSVG1TPA9H&dib=eyJ2IjoiMSJ9.QSQ53tdN5epF-gH1rz0xp6X9zumOxXO1wiyqrYfGw9RPJewPePYx7F6DwCsep6O-skXkA9iptrHl8Wu_ufn5KVo8DXYRES_RAExBXay8HDBCuZT5t5GZXV21mb38EdUjKFIvRbnhnCv_Lx8DsdkVuONQhU3MlSt3srlE6QNkcIqeJGTia6wGP82ENWzy4IgeDTdI4urVwFhp2y5lvse55TKCxmzNlhi8x9uqI-Ob3QU._SAElpDY0f6mUkuPuS1BGBUmLZpWIKZkAKtWFyB_QyA&dib_tag=se&keywords=nordic+ideology&qid=1712135780&s=books&sprefix=nordic+id%2Cstripbooks-intl-ship%2C298&sr=1-1)
 - [Metamodernism: Or, The Cultural Logic of Cultural Logics - Brendan Graham Dempsey](https://www.amazon.com/Metamodernism-Cultural-Logic-Logics/dp/B0CKS8MF46) 
