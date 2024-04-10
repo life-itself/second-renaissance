@@ -26,12 +26,13 @@ In this post, we provide an overview of some of the most widely used names and t
 
 The “Second Renaissance” refers to a major civilisational transition that is currently underway: from the paradigm of modernity, which is breaking down, into what comes next. The Second Renaissance is a time between worlds – a period of civilisational crisis and awakening. In our [introduction to the Second Renaissance](https://secondrenaissance.net/intro), we articulate four core premises of what we see as the underlying meta-narrative:
 
->1. **Real risk**: There is a real risk of civilisational collapse and large-scale destruction of life due to intertwined ecological, political, social, and meaning crises.
->2. **Root cause**: The root cause of these crises lies in the cultural paradigm of modernity: in entrenched individual and collective ways of being, which are conditioned by modernity’s logic and values. 
->3. **Radical response**: We are unable to address current crises through the logic and value systems that created and continue to drive them. We need responses that are radical in the etymological sense of going to the roots. That is, we need profound shifts in our ways of being, thinking, feeling, and acting: a new cultural paradigm. 
->4. **Real possibility**: A transformation of cultural paradigm is possible and is already starting to happen.
+> 1. **Real risk**: There is a real risk of civilisational collapse and large-scale destruction of life due to intertwined ecological, political, social, and meaning crises.
+> 2. **Root cause**: The root cause of these crises lies in the cultural paradigm of modernity: in entrenched individual and collective ways of being, which are conditioned by modernity’s logic and values. 
+> 3. **Radical response**: We are unable to address current crises through the logic and value systems that created and continue to drive them. We need responses that are radical in the etymological sense of going to the roots. That is, we need profound shifts in our ways of being, thinking, feeling, and acting: a new cultural paradigm. 
+> 4. **Real possibility**: A transformation of cultural paradigm is possible and is already starting to happen.
 
-The term “Renaissance”, meaning “rebirth”, is a reference to the 'first' Renaissance: the historical period and cultural movement of the 15th and 16th centuries in Europe, which marked the transition from the Middle Ages to early modernity. Like the First Renaissance, we see the Second Renaissance as a period of cultural and societal rebirth of the Western world, characterised by a profound shift at the civilisational level in our most foundational views and values, such as:
+The term “Renaissance”, meaning “rebirth”, is a reference to the 'first' Renaissance: the historical period and cultural movement of the 15th and 16th centuries in Europe, which marked the transition from the Middle Ages to early modernity. Like the First Renaissance, we see the Second Renaissance as a period of cultural and societal rebirth, characterised by a profound shift at the civilisational level in our most foundational views and values, such as:
+
 - how we see ourselves and our nature as human beings
 - how we approach the relationship between ourselves and the world around us
 - what we think is meaningful and important
@@ -40,7 +41,6 @@ The term “Renaissance”, meaning “rebirth”, is a reference to the 'first'
 ### Further resources
 
 - [The Second Renaissance: A Very Short Introduction](https://secondrenaissance.net/intro)
-
 
 # Metamodern
 
