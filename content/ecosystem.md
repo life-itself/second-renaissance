@@ -7,14 +7,14 @@
 
 - [Who is part of it?](https://secondrenaissance.net/ecosystem/pip-2021)
 - [What does it look like?](#landscape)
-- [Where can I learn more?](#key-resources)
-- How can I get involved?
+- [Where can I learn more?](#keyresources)
+- [How can I get involved?](https://lifeitself.org/get-involved)
 
 ## Overview
 
 ### We are seeing a growing ecosystem of people and organisations who are recognising the need for a major civilisational transition from Modernity to a new cultural paradigm – and finding alternative ways of living and working that support that shift.
   
-We’ve been mapping it since 2019, and are aware of others who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
+We’ve been [mapping](id=#mapping) it since 2019, and are aware of others who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
 
 ### We think that this space holds alternative and powerful perspectives on what is going on in the world and what is needed in response to current crises – as well as experience and learnings in how to go about it
 
@@ -40,22 +40,25 @@ For example: are all these terms – Metamodern, Liminal Web, Regenerative etc. 
 
 Below are some of our key resources for exploring and making sense of the Second Renaissance ecosystem.
 
-### Making sense of differences
+### Overviews & Key terms
 
 - [[overview-ecosystem-names|"Many Names, One Ecosystem?": An overview of Second Renaissance ecosystem names]]
 - [[overview-mapping-efforts|An overview of related ecosystem mapping efforts]]
+- [[glossary|Glossary of key terms]]
 
 ### About the Second Renaissance
 
 - [[intro|"The Second Renaissance: A Very Short Introduction"]]
 - [[wiki/second-renaissance-name|“Why ‘Second Renaissance’?”]] 
 
-### Previous mapping projects
+<a id=mapping></a>
+### Our mapping projects
 
-- 2020 mapping work
-- 2021 mapping work
-- Glossary
+- [[ecosystem/state-of-sensemaking-2020|"State of Sensemaking" (2020)]]: report and preliminary map of organisations grouped by core activities 
+- [[ecosystem/pip|"PIP for Social Change: Mapping an Emerging Ecosystem of Paradigmatic, Integrative, and Pragmatic Change Agents" (2021)]]: report, directory, and visualisations of organisations
 
 ## Landscape
+
+A rough sketch of the broader ecosystem of alternative social change of which the Second Renaissance ecosystem is a part.
 
 ![[assets/Screenshot 2024-04-03 at 17.08.00.png]]
