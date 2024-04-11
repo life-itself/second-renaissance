@@ -7,14 +7,14 @@
 
 - [Who is part of it?](https://secondrenaissance.net/ecosystem/pip-2021)
 - [What does it look like?](#landscape)
-- [Where can I learn more?](#keyresources)
+- Where can I learn more?
 - [How can I get involved?](https://lifeitself.org/get-involved)
 
 ## Overview
 
 ### We are seeing a growing ecosystem of people and organisations who are recognising the need for a major civilisational transition from Modernity to a new cultural paradigm – and finding alternative ways of living and working that support that shift.
   
-We’ve been [mapping](id=#mapping) it since 2019, and are aware of others who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
+We’ve been [mapping](#mapping) it since 2019, and are aware of others who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
 
 ### We think that this space holds alternative and powerful perspectives on what is going on in the world and what is needed in response to current crises – as well as experience and learnings in how to go about it
 
@@ -51,7 +51,7 @@ Below are some of our key resources for exploring and making sense of the Second
 - [[intro|"The Second Renaissance: A Very Short Introduction"]]
 - [[wiki/second-renaissance-name|“Why ‘Second Renaissance’?”]] 
 
-<a id=mapping></a>
+<a id=#mapping></a>
 ### Our mapping projects
 
 - [[ecosystem/state-of-sensemaking-2020|"State of Sensemaking" (2020)]]: report and preliminary map of organisations grouped by core activities 
