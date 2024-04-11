@@ -14,7 +14,7 @@
 
 ### We are seeing a growing ecosystem of people and organisations who are recognising the need for a major civilisational transition from Modernity to a new cultural paradigm – and finding alternative ways of living and working that support that shift.
   
-We’ve been [mapping](#mapping) it since 2019, and are aware of others who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
+We’ve been [mapping](#mapping) it since 2019, and are aware of [[wiki/overview-mapping-efforts|others]] who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
 
 ### We think that this space holds alternative and powerful perspectives on what is going on in the world and what is needed in response to current crises – as well as experience and learnings in how to go about it
 
@@ -45,16 +45,16 @@ Below are some of our key resources for exploring and making sense of the Second
 - [[overview-ecosystem-names|"Many Names, One Ecosystem?": An overview of Second Renaissance ecosystem names]]
 - [[overview-mapping-efforts|An overview of related ecosystem mapping efforts]]
 - [[glossary|Glossary of key terms]]
-
-### About the Second Renaissance
-
-- [[intro|"The Second Renaissance: A Very Short Introduction"]]
-- [[wiki/second-renaissance-name|“Why ‘Second Renaissance’?”]] 
 <a id=#mapping></a>
 ### Our mapping projects
 
 - [[ecosystem/state-of-sensemaking-2020|"State of Sensemaking" (2020)]]: report and preliminary map of organisations grouped by core activities 
 - [[ecosystem/pip|"PIP for Social Change: Mapping an Emerging Ecosystem of Paradigmatic, Integrative, and Pragmatic Change Agents" (2021)]]: report, directory, and visualisations of organisations
+
+### About the Second Renaissance
+
+- [[intro|"The Second Renaissance: A Very Short Introduction"]]
+- [[wiki/second-renaissance-name|“Why ‘Second Renaissance’?”]] 
 
 ## Landscape
 
