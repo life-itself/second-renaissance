@@ -3,10 +3,13 @@
 
 # A Second Renaissance movement is forming
 
-- Who is part of it?
-- What does it look like?
+![[assets/Screenshot 2024-04-09 at 16.07.36.png]]
+
+- [Who is part of it?](https://secondrenaissance.net/ecosystem/pip-2021)
+- [What does it look like?](#landscape)
+- [Where can I learn more?](#key-resources)
 - How can I get involved?
-- 
+
 ## Overview
 
 ### We are seeing a growing ecosystem of people and organisations who are recognising the need for a major civilisational transition from Modernity to a new cultural paradigm – and finding alternative ways of living and working that support that shift.
@@ -19,7 +22,7 @@ People have been innovating and experimenting with new theories, practices, and 
   
 ### There are many different names and terms associated with this ecosystem: Metamodern, Regenerative, Liminal Web, Game B, Integral, and more. We’re calling it the Second Renaissance. 
 
-To learn more about each of the main terms and names associated with this ecosystem, read this. To learn about why we’re using the term Second Renaissance, read this. 
+To learn more about each of the main terms and names associated with this ecosystem, read [[wiki/overview-ecosystem-names|this]]. To learn about why we’re using the term Second Renaissance, read [[wiki/second-renaissance-name|this]]. 
   
 ### More and more people are starting to find out about, participate in, and talk about this space. However, its form and identity are still vague, complex, and sprawling.
 
@@ -32,3 +35,27 @@ But it’s unclear how all the pieces of the puzzle fit together, and where ther
 As far as we are aware, there is no existing map that helps people to "make sense" of the diversity within the ecosystem, especially the principles, values, frameworks and aspirations of different actors and communities.
 
 For example: are all these terms – Metamodern, Liminal Web, Regenerative etc. – different names for the same thing? Are they sub-communities within a larger whole? How do they fit together (or not)?
+
+## Key resources
+
+Below are some of our key resources for exploring and making sense of the Second Renaissance ecosystem.
+
+### Making sense of differences
+
+- [[overview-ecosystem-names|"Many Names, One Ecosystem?": An overview of Second Renaissance ecosystem names]]
+- [[overview-mapping-efforts|An overview of related ecosystem mapping efforts]]
+
+### About the Second Renaissance
+
+- [[intro|"The Second Renaissance: A Very Short Introduction"]]
+- [[wiki/second-renaissance-name|“Why ‘Second Renaissance’?”]] 
+
+### Previous mapping projects
+
+- 2020 mapping work
+- 2021 mapping work
+- Glossary
+
+## Landscape
+
+![[assets/Screenshot 2024-04-03 at 17.08.00.png]]
