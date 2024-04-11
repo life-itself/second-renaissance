@@ -1,13 +1,26 @@
-# Ecosystem
 
-We are seeing the emergence of an ecosystem of individuals and organisations, tied together by a shared recognition of this historical moment, and a calling to respond to it.
+**We are seeing a growing ecosystem of people and organisations who are recognising the need for a major civilisational transition from Modernity to a new cultural paradigm – and finding alternative ways of living and working that support that shift.** 
+  
+We’ve been mapping it since 2019, and are aware of others who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
 
-On this page we provide information about this ecosystem.
+**We think that this space holds alternative and powerful perspectives on what is going on in the world and what is needed in response to current crises – as well as experience and learnings in how to go about it**
 
-## 2021-2022 Mapping
+People have been innovating and experimenting with new theories, practices, and infrastructures, drawing from a wide range of bodies of knowledge – from ancient and traditional wisdom to contemporary science and technology. 
+  
+**There are many different names and terms associated with this ecosystem: Metamodern, Regenerative, Liminal Web, Game B, Integral, and more. We’re calling it the Second Renaissance.** 
 
-[[ecosystem/pip-2021|pip-2021]]
+To learn more about each of the main terms and names associated with this ecosystem, read this.
 
-## 2020 - State of Sensemaking Report
+To learn about why we’re using the term Second Renaissance, read this. 
+  
+**More and more people are starting to find out about, participate in, and talk about this space. However, its form and identity are still vague, complex, and sprawling.** 
 
-[[ecosystem/state-of-sensemaking-2020|state-of-sensemaking-2020]]
+There is growing recognition between people who are aware of or part of the ecosystem around practices, thinkers, virtual or physical gathering places, analysis of “what’s wrong” and “what’s needed”. 
+
+But it’s unclear how all the pieces of the puzzle fit together, and where there might be tensions and disagreements underlying higher-level commonalities. 
+
+**How do we make sense of it all?** 
+
+As far as we are aware, there is no existing map that helps people to "make sense" of the diversity within the ecosystem, especially the principles, values, frameworks and aspirations of different actors and communities.
+
+For example: are all these terms – Metamodern, Liminal Web, Regenerative etc. – different names for the same thing? Are they sub-communities within a larger whole? How do they fit together (or not)?
