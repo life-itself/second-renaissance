@@ -23,7 +23,7 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 - [[Effective Altruism]]
 - [[Existential Risk]]
 - [[Indigenous Wisdom]]
-- [[integral|Integral]]
+- [[integral-summary|Integral]]
 - [[Intentional Community]]
 - [[metamodernism|Metamodernism]]
 - [[Mindfulness]]
@@ -38,7 +38,7 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 - [[Spiritual Ecology]]
 - [[Systems Thinking]]
 - [[Trauma Theory]]
-- [[zen|Zen]]
+- [[zen-summary|Zen]]
 
 ## People
 
