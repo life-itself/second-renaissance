@@ -1,7 +1,7 @@
 
 ## A growing network of individuals, organisations, communities, and initiatives are developing ideas, practices, and infrastructures for radical transformation 
 
-# A Second Renaissance movement is forming
+# A Second Renaissance ecosystem is forming
 
 ![[assets/ecosystem-wordcloud.png]]
 
