@@ -3,18 +3,18 @@
 
 # A Second Renaissance movement is forming
 
-![[assets/Screenshot 2024-04-09 at 16.07.36.png]]
+![[assets/ecosystem-wordcloud.png]]
 
 - [Who is part of it?](https://secondrenaissance.net/ecosystem/pip-2021)
 - [What does it look like?](#landscape)
-- [Where can I learn more?](#resources)
+- [Where can I learn more?]
 - [How can I get involved?](https://lifeitself.org/get-involved)
 
 ## Overview
 
 ### We are seeing a growing ecosystem of people and organisations who are recognising the need for a major civilisational transition from Modernity to a new cultural paradigm – and finding alternative ways of living and working that support that shift.
   
-We’ve been [mapping](#mapping) it since 2019, and are aware of [[wiki/overview-mapping-efforts|others]] who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
+We’ve been mapping it since 2019, and are aware of [[wiki/overview-mapping-efforts|others]] who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some key characteristics.
 
 ### We think that this space holds alternative and powerful perspectives on what is going on in the world and what is needed in response to current crises – as well as experience and learnings in how to go about it
 
