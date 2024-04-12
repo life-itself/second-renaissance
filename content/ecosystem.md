@@ -60,4 +60,4 @@ Below are some of our key resources for exploring and making sense of the Second
 
 A rough sketch of the broader ecosystem of alternative social change of which the Second Renaissance ecosystem is a part.
 
-![[assets/Screenshot 2024-04-03 at 17.08.00.png]]
+![[assets/Screenshot 2024-04-12 at 09.51.55.png]]
