@@ -7,7 +7,7 @@
 
 - [Who is part of it?](https://secondrenaissance.net/ecosystem/pip-2021)
 - [What does it look like?](#landscape)
-- [Where can I learn more?]
+- [Where can I learn more?](#resources)
 - [How can I get involved?](https://lifeitself.org/get-involved)
 
 ## Overview
@@ -35,7 +35,7 @@ But it’s unclear how all the pieces of the puzzle fit together, and where ther
 As far as we are aware, there is no existing map that helps people to "make sense" of the diversity within the ecosystem, especially the principles, values, frameworks and aspirations of different actors and communities.
 
 For example: are all these terms – Metamodern, Liminal Web, Regenerative etc. – different names for the same thing? Are they sub-communities within a larger whole? How do they fit together (or not)?
-<a id=#resources></a>
+<a id=resources></a>
 ## Key resources
 
 Below are some of our key resources for exploring and making sense of the Second Renaissance ecosystem.
