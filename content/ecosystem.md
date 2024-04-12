@@ -58,6 +58,6 @@ Below are some of our key resources for exploring and making sense of the Second
 
 ## Landscape
 
-A rough sketch of the broader ecosystem of alternative social change of which the Second Renaissance ecosystem is a part.
+A rough, "work-in-progress" sketch of the broader ecosystem of alternative social change of which the Second Renaissance ecosystem is a part.
 
 ![[assets/Screenshot 2024-04-12 at 09.51.55.png]]
