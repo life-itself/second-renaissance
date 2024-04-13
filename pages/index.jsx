@@ -7,19 +7,20 @@ const Hero = () => (
       className="absolute inset-0 -z-10 h-full w-full object-cover bg-slate-700 opacity-40"
     />
     <div className="mx-auto max-w-4xl py-12 sm:py-16 lg:py-20 text-center">
-      <h1 className="text-2xl tracking-tight sm:text-5xl font-serif">
+      <h2 className="text-2xl tracking-tight sm:text-5xl font-serif">
         We live in a moment of<br />civilizational crisis and awakening
-      </h1>
+      </h2>
       <h1 className="text-4xl font-bold tracking-tight sm:text-7xl mt-8">
         The Second Renaissance
       </h1>
-      <div className="mt-4 text-3xl font-serif">
+      <div className="mt-4 sm:mt-8 text-xl tracking-tight sm:text-3xl font-serif">
         <p>
-          The old world is dying and a new world is yet to be born. The civilization crisis we are living is also precursor of an awakening.
+         A journey from the old paradigm of modernity to<br />
+          the birth of a new dawn for humanity.
           <br /><br />
-          From the old paradigm of modernity to the birth of a new dawn for humanity.
+          The old world is dying and a new world is yet to be born.
           <br /><br />
-          Come discover and dream with others.
+          The civilization crisis we are living is also precursor of an awakening.
         </p>
       </div>
       <div className="mt-10 flex items-center justify-center gap-x-6">
@@ -240,7 +241,7 @@ const Emerging = () => (
         <img
           src="/assets/img/homepage/birds-gold.webp"
           alt="https://www.etsy.com/listing/522550204/swallows-and-house-martin-limited"
-          className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"
+          className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"git push
         />
       </div>
     </div>
