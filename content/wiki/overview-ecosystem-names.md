@@ -47,6 +47,7 @@ The term "Second Renaissance" was first used by Francisco Varela in his book [*E
 - [[second-renaissance-name|Why "Second Renaissance"?]]
 - [Ethical Knowhow: Action, Wisdom, and Cognition – Fransisco Varela](https://www.sup.org/books/title/?id=896)
 - [A Time Between Worlds, Zak Stein](https://www.youtube.com/watch?v=qD5pnsyIYvQ)
+- [Genesis in Three Performances - Sylvie Barbier](https://lifeitself.org/blog/2022/05/24/genesis-in-three-performances)
 
 
 # Metamodern
@@ -73,7 +74,7 @@ In *The Listening Society* and *Nordic Ideology*, Hanzi Freinacht articulates a 
 
 # Metacrisis
 
-![[../assets/metacrisis.png]]
+![[../assets/metacrisis.jpg]]
 
 In simple terms, the metacrisis is the underlying crisis that drives a multitude of major, interconnected global crises, and gives rise to the various catastrophic and existential risks that we are facing as a civilisation.[1](https://systems-souls-society.com/how-to-think-about-the-meta-crisis-without-getting-too-excited/) The term has gained significant traction within the Second Renaissance ecosystem, primarily through thinkers such as Jonathan Rowson, Daniel Schmachtenberger, Terry Patten and Zak Stein. The prefix 'meta' means after, between, within, beyond, more comprehensive, or transcending. Reflecting the many meanings of 'meta', there are also many meanings, definitions and attempts to unpack the metacrisis as a concept. 
 
@@ -96,7 +97,7 @@ In a similar vein, Zak Stein characterises the metacrisis as a "generalised educ
 ### Further resources
 
 - [Metacrisis.org](https://metacrisis.org/META-CRISIS/00.+%F0%9F%91%8B+About/Start+Here)
-- [Green Pill podcast: The Metacrisis - with Daniel Schmachtenberger ](https://civilizationemerging.com/media/the-metacrisis-with-daniel-schmachtenberger-part-1/)
+- [An Introduction to the Metacrisis - Daniel Schmachtenberger - Stockholm Impact Week 2023](https://www.youtube.com/watch?v=4kBoLVvoqVY)
 - [Tasting the Pickle: Ten flavours of meta-crisis and the appetite for a new civilisation - by Jonathan Rowson](https://systems-souls-society.com/tasting-the-pickle-ten-flavours-of-meta-crisis-and-the-appetite-for-a-new-civilisation/)
 - [Prefixing the World - by Jonathan Rowson](https://perspecteeva.substack.com/p/prefixing-the-world)
 - [Google Talk – Confronting the Meta-Crisis: Criteria for Turning the Titanic - Terry Patten](https://www.terrypatten.com/google-talk-confronting-the-meta-crisis-criteria-for-turning-the-titanic/)
