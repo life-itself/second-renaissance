@@ -39,6 +39,7 @@ Ecosystem Mapping.
 - 'Mapping an Emerging Ecosystem: Partnership With The Institute for Integral Studies', https://lifeitself.org/blog/2022/02/10/mapping-an-emerging-ecosystem-partnership-with-the-institute-for-integral-studies **Announcing partnership with IFIS**
 - 'Mapping For Emergence: Announcing a Collaboration to Chart the Emerging Metamodern Ecosystem', https://lifeitself.org/blog/2021/12/09/mapping-for-emergence **🔥🔥Why map, context etc.**
 - 'State of Sensemaking Ecosystem Mapping Directory - Alpha Launch', https://lifeitself.org/blog/2021/10/12/state-of-sensemaking-directory-alpha-launch
+- 'An expedition to explore the new land of “culture-making”', https://lifeitself.org/blog/2020/08/27/ecosystem **Good summary of 2020 mapping**
 
 ### Cohere+ project
 

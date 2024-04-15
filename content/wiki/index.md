@@ -3,8 +3,8 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 
 ## Overviews & Maps
 
-- [[overview-ecosystem-names|Overview of Second Renaissance ecosystem names]]
-- [[overview-mapping-efforts|Overview of related ecosystem mapping efforts]]
+- [[overview-ecosystem-names|Many Names, One Ecosystem? An overview of Second Renaissance ecosystem names]]
+- [[overview-mapping-efforts|An overview of related ecosystem mapping efforts]]
 - [[ancestors|Ancestors of the Second Renaissance: key influences and ideas]]
 
 ## Key Influences
@@ -23,7 +23,7 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 - [[Effective Altruism]]
 - [[Existential Risk]]
 - [[Indigenous Wisdom]]
-- [[integral|Integral]]
+- [[integral-summary|Integral]]
 - [[Intentional Community]]
 - [[metamodernism|Metamodernism]]
 - [[Mindfulness]]
@@ -38,7 +38,7 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 - [[Spiritual Ecology]]
 - [[Systems Thinking]]
 - [[Trauma Theory]]
-- [[zen|Zen]]
+- [[zen-summary|Zen]]
 
 ## People
 

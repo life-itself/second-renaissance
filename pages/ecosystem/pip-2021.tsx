@@ -9,7 +9,7 @@ import CircularVis from "@/components/custom/CircularVis"
 import ProfileSearch from "@/components/custom/ProfileSearch"
 import MdxComponent from "@/components/MdxComponent";
 
-import type { CustomAppProps } from "./_app";
+import type { CustomAppProps } from "../_app";
 import { hasRequiredProfileFields } from "@/lib/temp/hasRequiredProfileFields";
 
 
