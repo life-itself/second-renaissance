@@ -24,7 +24,7 @@ In this post, we provide an overview of some of the most widely used names and t
 
 ![[../assets/second-renaissance.png]]
 
-The “Second Renaissance” refers to a major civilisational transition that is currently underway: from the paradigm of modernity, which is breaking down, into what comes next. The Second Renaissance is a time between worlds – a period of civilisational crisis and awakening. In our [introduction to the Second Renaissance](https://secondrenaissance.net/intro), we articulate four core premises of what we see as the underlying meta-narrative:
+The “Second Renaissance” refers to a major civilisational transition that is currently underway: from the paradigm of modernity, which is breaking down, into what comes next. The Second Renaissance is a [time between worlds](https://www.youtube.com/watch?v=qD5pnsyIYvQ) – a period of civilisational crisis and awakening. In our [introduction to the Second Renaissance](https://secondrenaissance.net/intro), we articulate four core premises of what we see as the underlying meta-narrative:
 
 > 1. **Real risk**: There is a real risk of civilisational collapse and large-scale destruction of life due to intertwined ecological, political, social, and meaning crises.
 > 2. **Root cause**: The root cause of these crises lies in the cultural paradigm of modernity: in entrenched individual and collective ways of being, which are conditioned by modernity’s logic and values. 
@@ -38,9 +38,16 @@ The term “Renaissance”, meaning “rebirth”, is a reference to the 'first'
 - what we think is meaningful and important
 - our ways of knowing and learning about the world
 
+The term "Second Renaissance" was first used by Francisco Varela in his book [*Ethical Knowhow: Action, Wisdom, and Cognition*](https://www.sup.org/books/title/?id=896), published in 1999. He wrote: 
+
+> "[...] it is my contention that the rediscovery of Asian philosophy, particularly of the Buddhist tradition, is a second renaissance in the cultural history of the West."
+
 ### Further resources
 
 - [The Second Renaissance: A Very Short Introduction](https://secondrenaissance.net/intro)
+- [[second-renaissance-name|Why "Second Renaissance"?]]
+- [Ethical Knowhow: Action, Wisdom, and Cognition – Fransisco Varela](https://www.sup.org/books/title/?id=896)
+- [A Time Between Worlds, Zak Stein](https://www.youtube.com/watch?v=qD5pnsyIYvQ)
 
 # Metamodern
 
