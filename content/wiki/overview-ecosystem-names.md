@@ -1,9 +1,8 @@
 ---
-title: Many Names, One Ecosystem?
+title: Many Names, One Ecosystem? Deciphering the Different Terms for the Second Renaissance Movement
 created: 2024-03-12
 authors:
   - elisalifeitself
-  - catherine-tran
 ---
 
 In recent years, we have been observing the emergence of a global network of people and organisations who are acting to catalyse, steward and accelerate what we have called a "Second Renaissance": a major civilisational transition from modernity to a new cultural paradigm. We refer to this growing network as the "Second Renaissance movement" or "Second Renaissance ecosystem". 
