@@ -30,7 +30,8 @@ The “Second Renaissance” refers to a major civilisational transition that is
 > 3. **Radical response**: We are unable to address current crises through the logic and value systems that created and continue to drive them. We need responses that are radical in the etymological sense of going to the roots. That is, we need profound shifts in our ways of being, thinking, feeling, and acting: a new cultural paradigm. 
 > 4. **Real possibility**: A transformation of cultural paradigm is possible and is already starting to happen.
 
-The term “Renaissance”, meaning “rebirth”, is a reference to the 'first' Renaissance: the historical period and cultural movement of the 15th and 16th centuries in Europe, which marked the transition from the Middle Ages to early modernity. Like the First Renaissance, we see the Second Renaissance as a period of cultural and societal rebirth of the Western world, characterised by a profound shift at the civilisational level in our most foundational views and values, such as:
+The term “Renaissance”, meaning “rebirth”, is a reference to the 'first' Renaissance: the historical period and cultural movement of the 15th and 16th centuries in Europe, which marked the transition from the Middle Ages to early modernity. Like the First Renaissance, we see the Second Renaissance as a period of cultural and societal rebirth, characterised by a profound shift at the civilisational level in our most foundational views and values, such as:
+
 - how we see ourselves and our nature as human beings
 - how we approach the relationship between ourselves and the world around us
 - what we think is meaningful and important
@@ -48,7 +49,6 @@ The term "Second Renaissance" was first used by Francisco Varela in his book [*E
 - [A Time Between Worlds, Zak Stein](https://www.youtube.com/watch?v=qD5pnsyIYvQ)
 - [Genesis in Three Performances - Sylvie Barbier](https://lifeitself.org/blog/2022/05/24/genesis-in-three-performances)
 
-
 # Metamodern
 
 ![[../assets/metamodern.jpg]]
@@ -65,6 +65,7 @@ In *The Listening Society* and *Nordic Ideology*, Hanzi Freinacht articulates a 
 - [Metamodernism: A Brief Introduction](https://www.metamodernism.com/2015/01/12/metamodernism-a-brief-introduction/)
 - [Metamodernisms: A Cheat Sheet](https://www.brendangrahamdempsey.com/post/metamodernisms-a-cheat-sheet)
 - [Metamodernism: A Literature List - Brent Cooper](https://medium.com/the-abs-tract-organization/metamodernism-a-literature-list-91272fa32b9d)
+- [What is Political Metamodernism?](https://www.brendangrahamdempsey.com/post/political-metamodernism?fbclid=IwAR1MtPR6emWVZxrxwR-Em5pzJzQFF3EhTXEjky4bL0rJYFmZayRLBYZaO70)
 - [The Listening Society - A Metamodern Guide to Politics, Book One - Hanzi Freinacht](https://www.amazon.com/Listening-Society-Metamodern-Politics-Guides/dp/8799973901)
 - [Nordic Ideology: A Metamodern Guide to Politics, Book Two - Hanzi Freinacht](https://www.amazon.com/Nordic-Ideology-Metamodern-Politics-Guides/dp/8799973928/ref=sr_1_1?crid=1RCJSVG1TPA9H&dib=eyJ2IjoiMSJ9.QSQ53tdN5epF-gH1rz0xp6X9zumOxXO1wiyqrYfGw9RPJewPePYx7F6DwCsep6O-skXkA9iptrHl8Wu_ufn5KVo8DXYRES_RAExBXay8HDBCuZT5t5GZXV21mb38EdUjKFIvRbnhnCv_Lx8DsdkVuONQhU3MlSt3srlE6QNkcIqeJGTia6wGP82ENWzy4IgeDTdI4urVwFhp2y5lvse55TKCxmzNlhi8x9uqI-Ob3QU._SAElpDY0f6mUkuPuS1BGBUmLZpWIKZkAKtWFyB_QyA&dib_tag=se&keywords=nordic+ideology&qid=1712135780&s=books&sprefix=nordic+id%2Cstripbooks-intl-ship%2C298&sr=1-1)
 - [Metamodernism: Or, The Cultural Logic of Cultural Logics - Brendan Graham Dempsey](https://www.amazon.com/Metamodernism-Cultural-Logic-Logics/dp/B0CKS8MF46) 
