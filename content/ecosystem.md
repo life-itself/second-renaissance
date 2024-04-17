@@ -22,7 +22,7 @@ People have been innovating and experimenting with new theories, practices, and 
   
 ### There are many different names and terms associated with this ecosystem: Metamodern, Regenerative, Liminal Web, Game B, Integral, and more. We’re calling it the Second Renaissance. 
 
-To learn more about each of the main terms and names associated with this ecosystem, read [[publications/overview-ecosystem-names|this]]. To learn about why we’re using the term Second Renaissance, read [[wiki/second-renaissance-name|this]]. 
+To learn more about each of the main terms and names associated with this ecosystem, read [[publications/overview-ecosystem-names|this]]. To learn about why we’re using the term Second Renaissance, read [[publications/second-renaissance-name|this]]. 
   
 ### More and more people are starting to find out about, participate in, and talk about this space. However, its form and identity are still vague, complex, and sprawling.
 
@@ -54,7 +54,7 @@ Below are some of our key resources for exploring and making sense of the Second
 ### About the Second Renaissance
 
 - [[intro|"The Second Renaissance: A Very Short Introduction"]]
-- [[wiki/second-renaissance-name|“Why ‘Second Renaissance’?”]] 
+- [[publications/second-renaissance-name|“Why ‘Second Renaissance’?”]] 
 
 ## Landscape
 
