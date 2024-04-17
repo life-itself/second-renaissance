@@ -3,7 +3,7 @@ Welcome to *Seeds of the Second Renaissance: A Wiki.*
 
 ## Overviews & Maps
 
-- [[../publications/overview-ecosystem-names|Overview of Second Renaissance ecosystem names]]
+- [[overview-ecosystem-names|Overview of Second Renaissance ecosystem names]]
 - [[overview-mapping-efforts|Overview of related ecosystem mapping efforts]]
 - [[ancestors|Ancestors of the Second Renaissance: key influences and ideas]]
 
