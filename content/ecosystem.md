@@ -61,3 +61,20 @@ Below are some of our key resources for exploring and making sense of the Second
 A rough, "work-in-progress" sketch of the broader ecosystem of alternative social change of which the Second Renaissance ecosystem is a part.
 
 ![[assets/Screenshot 2024-04-12 at 09.51.55.png]]
+
+### Partnerships
+
+We joined forces with the following partner organisations:
+#### Emerge
+
+![[../assets/emerge_logo_small.png]]
+
+[Emerge](https://www.whatisemerging.com/) is an independent, non-profit media platform and network responding to the question of what is happening within, between and beyond human beings in a civilisation that appears to be dying. Emerge connects transformative and inspirational innovators and initiatives across the globe. They spotlight the most daring pathfinders and visionaries who are using systems thinking, driving spiritual renewal or personal and cultural transformation, and who lovingly seduce cynical minds into seeing more beautiful alternative worlds.
+
+Life Itself (Rufus Pollock and Theo Cox) and Emerge (Anna Schaffner) co-authored the essay '[Mapping for Emergence](https://lifeitself.org/blog/2021/12/09/mapping-for-emergence)' (2021). 
+
+#### Institute for Integral Studies (IFIS) 
+
+![[../assets/ifis-logo.png]]
+
+[IFIS](https://www.ifis-freiburg.de/en) is an independent research institute founded in 2008 and based in Freiburg, Germany, which has well established links with universities and other research organisations across Germany and Europe, as well as further afield. The Institute's mission is "to put an integrally informed science in service of society, the planet and a healthy development of both".
