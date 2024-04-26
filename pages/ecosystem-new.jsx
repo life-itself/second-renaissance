@@ -13,6 +13,10 @@ const Hero = () => (
           <h1 className="text-4xl font-medium tracking-wide sm:text-7xl py-7">
             A Second Renaissance <span className="text-8xl font-bold">ecosystem</span> is <span className="text-8xl font-bold">emerging</span>
           </h1>
+          <p className="text-xl font-serif">
+            This page introduces key resources for making sense of the ecosystem's key features.
+
+          </p>
           <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
             <a href="https://google.com"><button class="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
               What does it look like?
@@ -56,14 +60,78 @@ const Potential = () => (
       <div className="mx-auto max-w-6xl text-center">
         <h2 className="text-4xl font-bold tracking-normal text-gray-900 sm:text-6xl mb-10">The ecosystem has ripening potential to make a real difference</h2>
         <p className="mt-6 text-2xl font-serif leading-8 text-gray-600">
-        Change often happens on the margins. We think this ecosystem holds powerful knowledge and perspectives, which diverge from the mainstream <span className="italic">and</span> the progressive, on
-what is needed in response to current crises – as well as practical experience and learnings in <span className="underline">how to cultivate deep-rooted change</span>.
+        Change often happens on the margins. We think this ecosystem holds <span className="underline">powerful knowledge and perspectives</span>, which diverge from the mainstream <span className="italic">and</span> the progressive, on
+what is needed in response to current crises – as well as <span className="underline">practical experience and learnings</span> in how to <span className="underline">cultivate deep-rooted change</span>.
         <br></br><br></br>
         Communities and individuals in the ecosystem have been innovating, combining, and experimenting with new processes, practices, theories, technologies, and infrastructures, 
 drawing from a wide range of bodies of knowledge – from ancient and traditional wisdom, 
 to contemporary science and technology. 
         </p>
       </div>
+    </div>
+);
+
+const But = () => (
+  <div className="bg-white px-6 py-24 sm:py-32 lg:px-8 -mb-40">
+      <div className="mx-auto max-w-6xl text-center">
+        <h2 className="text-4xl font-bold tracking-normal text-gray-900 sm:text-6xl mb-10">But at the moment it is hard to discover and engage with</h2>
+        <p className="mt-6 text-2xl font-serif leading-8 text-gray-600">
+        The ecosystem is currently vague, complex, and sprawling. Some of the many names and terms associated with this ecosystem are: <span className="underline">Integral, 
+        Metamodern, Regenerative, Metacrisis-aware, Liminal Web, Game B</span>, and more.  
+        <br></br><br></br>
+        While there is growing recognition around certain thinkers, practices, and physical and virtual gathering places, it is hard to make sense of the breadth and variety within the ecosystem. For instance, it has no clear name, language, or identity. <span className="underline">This 
+        makes it hard to talk about</span>, both within the ecosystem and especially to others outside it. <span className="underline">This, in turn, makes effective and strategic collective action more difficult</span>.
+        </p>
+      </div>
+      <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
+            <a href="https://google.com"><button class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+              See mapping projects
+            </button></a>
+          </div>
+    </div>
+);
+
+const Sense = () => (
+  <div className="bg-teal-50 px-6 py-24 sm:py-32 lg:px-8 -mb-40">
+      <div className="mx-auto max-w-6xl text-center">
+        <h2 className="text-4xl font-bold tracking-normal text-gray-900 sm:text-6xl mb-10">How do we make sense of it all?</h2>
+        <p className="mt-6 text-2xl font-serif leading-8 text-gray-600">
+        As far as we are aware, there is no existing map that helps people to navigate the diversity within the ecosystem, especially 
+the implicit and explicit theories of change of different actors and communities.
+        <br></br><br></br>
+        It is unclear where the "boundaries" or "landmarks" of the ecosystem lie and how it is situated in relation to other fields, communities, or movements. 
+        Within the ecosystem, it is unclear where there might be tensions and disagreements underlying high-level commonalities.
+        <br></br><br></br>
+        Although there may never be one singular identity, we think that mapping -- both its process and outputs -- supports greater awareness, interconnectedness, and coherence within the ecosystem.
+        </p>
+      </div>
+      <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
+            <a href="https://google.com"><button class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+              See mapping projects
+            </button></a>
+          </div>
+    </div>
+);
+
+const Mapping = () => (
+  <div className="bg-white px-6 py-24 sm:py-32 lg:px-8 -mb-40">
+      <div className="mx-auto max-w-6xl text-center">
+        <h2 className="text-4xl font-bold tracking-normal text-gray-900 sm:text-6xl mb-10">Navigating the emerging ecosystem</h2>
+        <p className="mt-6 text-2xl font-serif leading-8 text-gray-600">
+        Some of the questions currently animating our work are...
+        <ul class="list-disc">
+          <li>Are all these terms – Metamodern, Liminal Web, Regenerative etc. – different names for the same thing? Are they sub-communities within a larger whole? How do they fit together (or not)?</li>
+          <li>How do we help ourselves and others to get a grasp on something that is complex, broad, and still emerging?</li>
+          <li>What are the "centres" and "bounds" of this space? What defines or characterises it as a whole, or its sub-parts?</li>
+          <li>What will facilitate and support courageous collective action? </li>
+        </ul>
+        </p>
+      </div>
+      <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
+            <a href="https://google.com"><button class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+              See mapping projects
+            </button></a>
+          </div>
     </div>
 );
 
@@ -125,6 +193,9 @@ const Page = () => {
       <Hero></Hero>
       <New></New>
       <Potential></Potential>
+      <But></But>
+      <Sense></Sense>
+      <Mapping></Mapping>
       <Resources></Resources>
     </>
   );
