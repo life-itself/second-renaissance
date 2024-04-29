@@ -125,6 +125,13 @@ const Mapping = () => (
         </ul>
         </div>
       </div>
+        </p>
+      </div>
+      <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
+            <a href="https://google.com"><button class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+              See mapping projects
+            </button></a>
+          </div>
     </div>
 );
 
