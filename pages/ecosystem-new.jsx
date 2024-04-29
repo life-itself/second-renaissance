@@ -18,21 +18,35 @@ const Hero = () => (
 
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
-            <a href="https://google.com"><button class="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            <button onClick={() => window.location.href = 'publications/map-paradigmatic-changemakers'} className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
               What does it look like?
-            </button></a>
-            <button class="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            </button>
+            <button onClick={() => window.location.href = '#projects'} className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
               Who is part of it?
             </button>
-            <button class="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            <button className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
               Learn more
             </button>
-            <a href="https://lifeitself.org/get-involved"><button class="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            <a href="https://lifeitself.org/get-involved"><button className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
               Get involved
             </button></a>
           </div>
         </div>
       </div>
+);
+
+const Landscape = () => (
+  <figure className="mt-16">
+          <img
+            className="rounded-xl bg-gray-50 object-cover"
+            src="/assets/changemaking-ecosystem-map.jpeg"
+            alt=""
+          />
+          <figcaption className="mt-4 flex gap-x-2 text-l leading-6 text-gray-500">
+            <p className="mt-0.5 h-5 w-5 flex-none text-gray-300"/>
+            Read more about this map <a href="/publications/map-paradigmatic-changemakers">here</a>
+          </figcaption>
+        </figure>
 );
 
 const New = () => (
@@ -48,9 +62,9 @@ We’ve profiled over 200 organisations who are part of it, and outlined some of
         </p>
       </div>
       <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
-            <a href="https://google.com"><button class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+            <button onClick={() => window.location.href = '#projects'} className="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
               See mapping projects
-            </button></a>
+            </button>
           </div>
     </div>
 );
@@ -84,7 +98,7 @@ const But = () => (
         </p>
       </div>
       <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
-            <a href="https://google.com"><button class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+            <a href="https://google.com"><button className="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
               See mapping projects
             </button></a>
           </div>
@@ -100,15 +114,17 @@ const Mapping = () => (
         supports greater understanding, interconnectedness, and coherence within the ecosystem, as well as greater 
         visibility, accessibility, and credibility outside it. 
         </p>
-        <p className="mt-6 text-2xl font-serif leading-8 text-gray-600 text-left">
-        Some of the questions currently animating our work are...
+        <div className="mt-6 text-2xl font-serif leading-8 text-gray-600 text-left">
+        <p className="-mb-10">Some of the questions currently animating our work are...</p>
         <br></br><br></br>
-        <ul class="list-disc">
+        <ul className="list-disc pb-10 mb-20">
           <li>What are the "boundaries" and "landmarks" of the space?</li> 
           <li>How is the ecosystem situated in relation to other communities, fields, or movements?</li>
           <li>Where might there be tensions and disagreements underlying high-level commonalities?</li>
           <li>How do we help ourselves and others to get a grasp on something that is complex, broad, and still emerging, without unduly imposing reductionist definitions?</li>
         </ul>
+        </div>
+      </div>
         </p>
       </div>
       <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
@@ -165,9 +181,9 @@ const Resources = () => {
 
 const Projects = () => {
   return (
-    <div className="bg-white px-6 py-24 sm:py-32 lg:px-8 -mb-40">
+    <div id="projects" className="bg-white px-6 py-24 sm:py-32 lg:px-8 -mb-40">
     <h2 className="pb-10 text-4xl font-bold font-headings tracking-tight text-center">Our Mapping Projects</h2>
-    <p className="pb-10 text-2xl font-serif text-gray-600 text-center">We've been mapping the ecosystem since 2019: researching individuals and organisations who are part of it and outlining its key characteristics.</p>
+    <p className="pb-10 text-2xl font-serif text-gray-600 text-center">We've been mapping the ecosystem since 2019. We've created directories of organisations who are part of it, outlined some key characteristics, and created visual maps.</p>
     <ul role="list" className="mx-auto my-6 !pl-0 grid max-w-2xl grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-14 lg:mx-0 lg:max-w-none lg:grid-cols-3">
       <div className="group relative flex flex-col items-start gap-y-3 m-0 p-0">
         <div role="heading" className="text-base font-semibold text-primary">
@@ -201,6 +217,7 @@ const Page = () => {
     <>
       <Hero></Hero>
       <New></New>
+      <Landscape></Landscape>
       <Potential></Potential>
       <But></But>
       <Mapping></Mapping>
