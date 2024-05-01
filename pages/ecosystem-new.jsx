@@ -115,24 +115,22 @@ const Mapping = () => (
         visibility, accessibility, and credibility outside it. 
         </p>
         <div className="mt-6 text-2xl font-serif leading-8 text-gray-600 text-left">
-        <p className="-mb-10">Some of the questions currently animating our work are...</p>
-        <br></br><br></br>
-        <ul className="list-disc pb-10 mb-20">
-          <li>What are the "boundaries" and "landmarks" of the space?</li> 
-          <li>How is the ecosystem situated in relation to other communities, fields, or movements?</li>
-          <li>Where might there be tensions and disagreements underlying high-level commonalities?</li>
-          <li>How do we help ourselves and others to get a grasp on something that is complex, broad, and still emerging, without unduly imposing reductionist definitions?</li>
-        </ul>
+          <p className="-mb-10">Some of the questions currently animating our work are...</p>
+          <br></br><br></br>
+          <ul className="list-disc pb-10 mb-20">
+            <li>What are the "boundaries" and "landmarks" of the space?</li> 
+            <li>How is the ecosystem situated in relation to other communities, fields, or movements?</li>
+            <li>Where might there be tensions and disagreements underlying high-level commonalities?</li>
+            <li>How do we help ourselves and others to get a grasp on something that is complex, broad, and still emerging, without unduly imposing reductionist definitions?</li>
+          </ul>
         </div>
-      </div>
-        </p>
       </div>
       <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
             <a href="https://google.com"><button class="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
               See mapping projects
             </button></a>
-          </div>
-    </div>
+      </div>
+  </div>
 );
 
 const Resources = () => {
