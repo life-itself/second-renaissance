@@ -85,6 +85,20 @@ const Graphic = () => (
         </figure>
 );
 
+const Graphic = () => (
+  <figure id="graphic" className="mt-16">
+          <img
+            className="rounded-xl bg-gray-50 object-cover"
+            src="/assets/changemaking-ecosystem-map.jpeg"
+            alt=""
+          />
+          <figcaption className="mt-4 flex gap-x-2 text-l leading-6 text-gray-500">
+            <p className="mt-0.5 h-5 w-5 flex-none text-gray-300"/>
+            Read more about this map <a href="/publications/map-paradigmatic-changemakers">here</a>
+          </figcaption>
+        </figure>
+);
+
 const Potential = () => (
   <div className="bg-teal-50 px-6 py-24 sm:py-32 lg:px-8">
       <div className="mx-auto max-w-4xl text-center">
