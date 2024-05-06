@@ -46,10 +46,9 @@ const New = () => (
             </h1>
             <p className="mt-6 text-2xl font-serif leading-8 text-gray-600">
         We are seeing a growing ecosystem of people and organisations who are recognising the need for a <span className="underline">major civilisational transition</span> from Modernity 
-to a <span className="underline">new cultural paradigm</span>. They are choosing alternative ways of living and working to support that shift.
+        to a <span className="underline">new cultural paradigm</span>. They are choosing alternative ways of living and working to support that shift.
         <br></br><br></br>
-        We’ve been mapping it since 2019, and know others who have been mapping it too. 
-We’ve profiled over 200 organisations who are part of it, and outlined some of the ecosystem's key characteristics.
+        We’ve been mapping it since 2019, and know others who have been mapping it too. We’ve profiled over 200 organisations who are part of it, and outlined some of the ecosystem's key characteristics.
         </p>
         <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
             <button onClick={() => window.location.href = '#projects'} className="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
@@ -81,20 +80,6 @@ const Graphic = () => (
           <figcaption className="mt-4 flex gap-x-2 text-l leading-6 text-gray-500">
             <p className="mt-0.5 h-5 w-5 flex-none text-gray-300"/>
             This map is currently a work in progress. The final version and write-up will be available soon.
-          </figcaption>
-        </figure>
-);
-
-const Graphic = () => (
-  <figure id="graphic" className="mt-16">
-          <img
-            className="rounded-xl bg-gray-50 object-cover"
-            src="/assets/changemaking-ecosystem-map.jpeg"
-            alt=""
-          />
-          <figcaption className="mt-4 flex gap-x-2 text-l leading-6 text-gray-500">
-            <p className="mt-0.5 h-5 w-5 flex-none text-gray-300"/>
-            Read more about this map <a href="/publications/map-paradigmatic-changemakers">here</a>
           </figcaption>
         </figure>
 );
