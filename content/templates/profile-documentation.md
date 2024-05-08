@@ -13,7 +13,7 @@
 -  year ended 
 ## size
 - team size (no. of paid team members, e.g. doesn't include board members or trustees)
-- format = select one of the following ranges: 1-3; 3-10; 10-20; 20-50; 50-100; 100+
+- format = select one of the following ranges: 1-3; 4-10; 11-20; 21-50; 51-100; 101+
 ## image
 - representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
 - format = filepath (save image in assets/img)
