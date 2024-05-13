@@ -15,8 +15,12 @@ const userConfig = {
       name: 'Ecosystem'
     },
     {
-      href: '/wiki',
+      href: 'https://wiki.secondrenaissance.net/',
       name: 'Wiki'
+    },
+    {
+      href: 'https://forum.secondrenaissance.net/',
+      name: 'Forum'
     },
     {
       href: 'https://lifeitself.org/contact',
