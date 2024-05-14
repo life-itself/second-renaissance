@@ -7,13 +7,14 @@ url: https://www.indigenousandmodern.com/
 locations: 
 start: 2020
 end: 
-size: 1-3
+size:
+  - 1-3
 image: "[[../../assets/indigenous-and-modern-homepage.png]]"
 sectors: 
 activities:
   - Education & Training
   - Consulting & Advisory
-  - Convening and coordination
+  - Convening & Coordination
 cohere: true
 metadata_version: "1"
 ---

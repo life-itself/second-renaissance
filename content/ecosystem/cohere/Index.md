@@ -1,8 +1,8 @@
 
 
 ```dataview
-table locations, cohere, sectors, activities, start, size
-from "/tbd"
+table locations, sectors, activities, start, size
+from "content/ecosystem/cohere"
 ```
 
 ## Cohere + project 
