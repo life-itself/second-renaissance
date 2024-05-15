@@ -44,10 +44,10 @@ They have offerings in English, French, and Dutch.
 ## Connections
 
 The following organisations are listed as "Partners" on their website:
-- [[Lunt Foundation]]
+- [[profiles/Lunt Foundation]]
 - Schumacher College
 - Terre et Conscience
-- [[Ashoka]]
+- [[profiles/Ashoka]]
 - Ferme de Froidefontaine
 - Spes Forum
 

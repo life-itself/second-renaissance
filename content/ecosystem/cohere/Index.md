@@ -1,8 +1,8 @@
 
 
 ```dataview
-table locations, sectors, activities, start, size
-from "content/ecosystem/cohere"
+table locations, sectors, activities, start, size, image
+from "content/ecosystem/cohere/profiles"
 ```
 
 ## Cohere + project 
@@ -19,6 +19,6 @@ The overall objectives of the Cohere+ project are:
 
 ## Examples
 
-[[42-Acres]]
-[[Center for Systems Awareness]]
+[[profiles/42-Acres]]
+[[profiles/Center for Systems Awareness]]
 [[Joysong Collective]]
