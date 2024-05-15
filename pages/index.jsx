@@ -1,3 +1,23 @@
+
+const Page = () => {
+  return (
+    <>
+      <Hero />
+      <Signs />
+      <Water />
+      <Root />
+      <Root2 />
+      <Cure />
+      <Darkness />
+      <Regeneration />
+      <Being />
+      <Emerging />
+      {/* <Course /> */}
+      {/* <Posts /> */}
+    </>
+  );
+};
+
 const Hero = () => (
   <>
   <div className="relative isolate overflow-hidden pt-14">
@@ -6,7 +26,7 @@ const Hero = () => (
       alt=""
       className="absolute inset-0 -z-10 h-full w-full object-cover bg-slate-700 opacity-40"
     />
-    <div className="mx-auto max-w-4xl py-12 sm:py-16 lg:py-20 text-center">
+    <div className="mx-auto max-w-4xl py-8 sm:py-16 lg:py-12 text-center">
       <h2 className="text-2xl tracking-tight sm:text-5xl font-serif">
         We live in a moment of<br />civilizational crisis and awakening
       </h2>
@@ -15,14 +35,12 @@ const Hero = () => (
       </h1>
       <div className="mt-4 sm:mt-8 text-xl tracking-tight sm:text-3xl font-serif">
         <p>
-         A journey from the old paradigm of modernity to<br />
-          the birth of a new dawn for humanity.
-          <br /><br />
-          The old world is dying and a new world is yet to be born.
-          <br /><br />
-          The civilization crisis we are living is also precursor of an awakening.
+        From the old paradigm of modernity to a new paradigm for humanity of interconnectedness, wisdom, inner growth and spirituality beyond capitalism
         </p>
       </div>
+      <h3 className="mt-4 sm:mt-8 text-2xl tracking-tight sm:text-5xl font-serif">
+        Find out more about how we can transition to this new world
+      </h3>
       <div className="mt-10 flex items-center justify-center gap-x-6">
         <a href="#next" className="text-sm font-semibold leading-6">
           Continue
@@ -35,27 +53,25 @@ const Hero = () => (
   </>
 );
 
-const HeroFollowOn = () => (
+const Darkness = () => (
   <div id="next" className="overflow-hidden bg-white pt-12 sm:pt-24">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
           <div className="lg:max-w-lg">
             <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              What comes next?
+              Darkness before dawn
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              So what does come next? What will be born during this second renaissance? A future that is radically weller and wiser.
-            </p>
-            <h2 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Darkness before dawn
-            </h2>
-            <p className="mt-6 text-xl leading-8 text-gray-600">
-              However, it is also a time of crisis. There is darkness before dawn. The last renaissance was preceded by the black death, famine and war following the breakdown of the medieval world.
+              However, it is also a time of crisis. There may be darkness before dawn.
               <br /><br />
-              <a href="#signs" className="font-semibold leading-6">
-                Continue <span aria-hidden="true">↓</span>
-              </a>
+              Our illness is quite far advanced. The global crises indicate that modernity is in decline. Some level of societal collapse may even be likely.
+            </p>
+            <h3 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Crisis can inspire transformation
+            </h3>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              Breakdown can be a precursor for deep cultural transformation. Modernity was itself born out of civilizational collapse in Europe at the end of the mediaeval period, leading to the first Renaissance - a period of great cultural rebirth.
             </p>
           </div>
         </div>
@@ -78,12 +94,18 @@ const Signs = () => (
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
           <div className="lg:max-w-lg">
             <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              There are visible signs of illness
+              Signs of serious illness
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              We are witnessing  a constellation of escalating crises.
+              We are witnessing an escalating series of interconnected crises &ndash; ecological, political, and social. 
               <br /><br />
-              There is a real risk of civilizational collapse and large-scale destruction of life due to intertwined ecological, political, social, and meaning crises.
+              These could be serious, even terminal. There is near-term risk of cascading collapse in the systems of global civilization. This would result in large-scale destruction of life.
+            </p>
+            <h3 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Accurate diagnosis is vital
+            </h3>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              We need to go to the source of the illness. Staying at the superficial, symptomatic level will be insufficient.
             </p>
           </div>
         </div>
@@ -99,6 +121,36 @@ const Signs = () => (
   </div>
 );
 
+const Water = () => (
+  <div id="water" className="overflow-hidden bg-white pt-12 sm:pt-24">
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+        <div className="lg:pr-8 lg:pt-8">
+          <div className="lg:max-w-lg">
+            <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+              Views and values are the water we swim in
+            </h1>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              Like the water we swim in, our views and values are often invisible to us. Yet they shape our way of thinking and being, what we believe is possible or not, what we prioritise and dismiss, what we deem to be "normal".
+            </p>
+            <h3 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              This breakdown goes deeper than we imagine
+            </h3>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              That is why our widespread breakdown goes deeper than we usually imagine. The source lies in our views and values anchored in the cultural paradigm of modernity.
+            </p>
+          </div>
+        </div>
+        <img
+          src="/img/homepage/fish-in-water.jpg"
+          alt=""
+          className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"
+        />
+      </div>
+    </div>
+  </div>
+);
+
 const Root = () => (
   <div id="root" className="overflow-hidden bg-white">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -106,21 +158,47 @@ const Root = () => (
         <div className="lg:pr-8 lg:pt-32">
           <div className="lg:max-w-lg">
             <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Source lies at the roots of our civilization
+             Our crises roots lie in modernity's key values
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              In our ways of thinking and being.
+              Modernity is based on key views and values like individualism, progress, rationality, freedom and equality.
               <br /><br />
-              We are experiencing this crisis because we are at the end of an cultural paradigm that we call modernity.
+              These underpinned extraordinary material progress and advances in individual liberty.
               <br /><br />
-              "We cannot solve our problems with the same thinking we used to create them."
-              <br /><br />
-              Modernity is the water we are swimming in... The root cause of our civilizational breakdown
+              However, its core ideas now cast long shadows: endless growth, materialism, techno-solutionism and an addiction to certainty and control. These in turn are driving global exploitation and the destruction of nature, nihilism and loneliness and an ever-widening wisdom gap culminating in the crises we face today.
             </p>
           </div>
         </div>
         <img
           src="/assets/img/homepage/roots-5.jpg"
+          alt=""
+          className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0 opacity-40 contrast-200"
+        />
+      </div>
+    </div>
+  </div>
+);
+
+const Root2 = () => (
+  <div id="root2" className="overflow-hidden bg-white">
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+        <div className="lg:pr-8 lg:pt-32">
+          <div className="lg:max-w-lg">
+            <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+              We need to go beyond modernity
+            </h1>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              <strong>We cannot address current crises through the logic and value systems that created and continue to drive them.</strong>
+              <br /><br />
+              Any solution must be radical in the true sense of the word: they must go to the roots.
+              <br /><br /> 
+              We need profound shifts in our ways of being, thinking, feeling, and acting: the emergence of a major new cultural paradigm that transcends modernity.
+            </p>
+          </div>
+        </div>
+        <img
+          src="/assets/img/homepage/roots-2.jpg"
           alt=""
           className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0 opacity-40 contrast-200"
         />
@@ -136,14 +214,11 @@ const Cure = () => (
         <div className="lg:ml-auto lg:pl-4 lg:pt-4">
           <div className="lg:max-w-lg">
             <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              A cure is possible: the Second Renaissance
+              A cure is possible &ndash; <br />cultural paradigms evolve
+
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
-              We cannot address current crises through the logic and value systems that created and continue to drive them. 
-              <br /><br />
-              Any solution must be radical in the true sense of the word: they must go to the the roots.
-              <br /><br />
-              We need profound shifts in our ways of being, thinking, feeling, and acting: the emergence of a major new cultural paradigm that transcends modernity.
+              Views and values can change. The deep stories that shape civilization have evolved throughout history. New paradigms can emerge  transcending  old  ideas and offering responses to the problems and limitations of the old world.
             </p>
           </div>
         </div>
@@ -154,6 +229,36 @@ const Cure = () => (
             className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 mx-auto h-screen"
           />
         </div>
+      </div>
+    </div>
+  </div>
+);
+
+const Regeneration = () => (
+  <div className="overflow-hidden bg-white py-24 sm:py-32">
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+        <div className="lg:pr-8 lg:pt-0">
+          <div className="lg:max-w-lg">
+            <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+              A new, regenerative paradigm is needed
+            </h1>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              Modern materialism has reduced complex life to a sum of parts and deprioritised the human inner world, leading to breakdown. A liveable future will demand a new paradigm rooted in understanding of the whole.
+            </p>
+            <h3 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Something is emerging
+            </h3>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              Whilst much is yet to emerge, this new cultural paradigm could include views and values like the following ...
+            </p>
+          </div>
+        </div>
+        <img
+          src="/img/homepage/mary-delany-parnassium-palustris.jpg"
+          alt=""
+          className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"git push
+        />
       </div>
     </div>
   </div>
@@ -191,9 +296,6 @@ const Being = () => (
             <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
               What would it look like?
             </h1>
-            <p className="mt-6 text-xl leading-8 text-gray-600">
-              Whilst much is yet to emerge, we believe this new cultural paradigm will include views and values like:
-            </p>
             <dl className="mt-10 max-w-xl space-y-8 text-lg leading-7 text-gray-600 lg:max-w-none">
               {features.map((feature) => (
                 <div key={feature.name} className="relative">
@@ -208,7 +310,7 @@ const Being = () => (
           </div>
         </div>
         <img
-          src="/img/homepage/mary-delany-parnassium-palustris.jpg"
+          src="/img/homepage/dore-sun.jpg"
           alt=""
           className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"
         />
@@ -363,36 +465,6 @@ const Course = () => (
     </div>
   </div>
 )
-
-const Page = () => {
-  return (
-    <>
-      <Hero />
-      <HeroFollowOn />
-      <Signs />
-      <Root />
-      <Cure />
-      <Being />
-      <Emerging />
-      <div id="diagnosis" className="bg-slate-100 px-6 py-24 sm:py-32 lg:px-8">
-        <div className="mx-auto max-w-2xl text-center">
-          <h2 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">Conclusion</h2>
-          <p className="mt-6 text-2xl leading-8 text-gray-600">
-            The Second Renaissance is both period and a movement.
-            <br /><br />
-            A "time between worlds"<br />and a growing movement of those who recognize it.
-            <br /><br />
-            The two most important common beliefs are: an awareness that we are witnessing the end of a cultural paradigm which underpins much of what we see in our socieities. Second, a belief in the "primacy of being": that the transition to what comes next must be based in the inner dimension and the conscious evolution of ourselves and our cultures.
-            <br /><br />
-            Most of all, the future it envisions is one that prioritizes inner rather than outer growth.
-          </p>
-        </div>
-      </div>
-      <Course />
-      {/* <Posts /> */}
-    </>
-  );
-};
 
 export function getStaticProps() {
   return {
