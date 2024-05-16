@@ -19,10 +19,6 @@ const userConfig = {
       name: 'Wiki'
     },
     {
-      href: 'https://forum.secondrenaissance.net/',
-      name: 'Forum'
-    },
-    {
       href: 'https://lifeitself.org/contact',
       name: 'Contact'
     }
