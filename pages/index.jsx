@@ -12,6 +12,7 @@ const Page = () => {
       <Regeneration />
       <Being />
       <Emerging />
+      <CTA />
       {/* <Course /> */}
       {/* <Posts /> */}
     </>
@@ -42,7 +43,7 @@ const Hero = () => (
         Find out more about how we can transition to this new world
       </h3>
       <div className="mt-10 flex items-center justify-center gap-x-6">
-        <a href="#next" className="text-sm font-semibold leading-6">
+        <a href="#" className="text-sm font-semibold leading-6">
           Continue
           <br />
           <span aria-hidden="true">↓</span>
@@ -181,12 +182,12 @@ const Root = () => (
 
 const Root2 = () => (
   <div id="root2" className="overflow-hidden bg-white">
-    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+    <div className="mx-auto max-w-7xl px-4 lg:px-8 mt-6 lg:mt-12">
       <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-        <div className="lg:pr-8 lg:pt-32">
+        <div className="lg:pr-8 lg:pt-12">
           <div className="lg:max-w-lg">
             <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              We need to go beyond modernity
+              Any solution must likewise go to the roots
             </h1>
             <p className="mt-6 text-xl leading-8 text-gray-600">
               <strong>We cannot address current crises through the logic and value systems that created and continue to drive them.</strong>
@@ -197,11 +198,13 @@ const Root2 = () => (
             </p>
           </div>
         </div>
-        <img
-          src="/assets/img/homepage/roots-2.jpg"
-          alt=""
-          className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0 opacity-40 contrast-200"
-        />
+        <div className="flex items-start justify-end order-first">
+          <img
+            src="/assets/img/homepage/flower-with-roots-johan-teyler.jpg"
+            alt=""
+            className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 mx-auto h-screen"
+          />
+        </div>
       </div>
     </div>
   </div>
@@ -334,11 +337,6 @@ const Emerging = () => (
               We are seeing the emergence of an ecosystem of individuals and organisations, tied together by a shared recognition of this historical moment, and a calling to respond to it.
             </p>
           </div>
-          <div className="mt-10 flex items-center gap-x-6">
-            <a href="/ecosystem" className="text-lg font-semibold leading-6 text-gray-900">
-              Learn more <span aria-hidden="true">→</span>
-            </a>
-          </div>
         </div>
         <img
           src="/assets/img/homepage/birds-gold.webp"
@@ -407,6 +405,99 @@ const Posts = () => (
           </article>
         ))}
       </div>
+    </div>
+  </div>
+)
+
+const secondaryFeatures = [
+  {
+    name: 'Explore the ecosystem',
+    description:
+      'Discover the players and communities seeding the second renaissance.',
+    href: '/ecosystem',
+  },
+  {
+    name: 'Join the chat',
+    description:
+      'Join the chat to engage with the community, exchange ideas and get support.',
+    href: 'https://discord.gg/nNRt6V9jA4',
+  },
+  {
+    name: 'Download the Whitepaper',
+    description:
+      'Download our full whitepaper to learn more about key concepts and the theory change.',
+    href: '/paper',
+  },
+]
+
+const CTA = () => (
+  <div className="bg-white py-8 sm:py-12">
+    <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
+      <div className="relative isolate overflow-hidden bg-gray-200 px-6 py-24 shadow-2xl sm:rounded-3xl sm:px-24 xl:py-32">
+        <div className="mx-auto max-w-2xl lg:text-center">
+          <h2 className="text-base font-semibold leading-7 text-gray-600">Next steps</h2>
+          <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+            Sign up to the newsletter<br />to learn more and stay engaged
+          </p>
+          <p className="mt-6 text-lg leading-8 text-gray-600">
+            
+          </p>
+          <iframe src="https://secondrenaissance.substack.com/embed" width="480" height="320" frameborder="0" scrolling="no" style={{border:"1px solid #EEE", background:'white', margin: 'auto'}}></iframe>
+        </div>
+        <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+          <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
+            {secondaryFeatures.map((feature) => (
+              <div key={feature.name} className="flex flex-col">
+                <dt className="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
+                  {feature.name}
+                </dt>
+                <dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+                  <p className="flex-auto">{feature.description}</p>
+                  <p className="mt-6">
+                    <a href={feature.href} className="text-sm font-semibold leading-6 text-indigo-600">
+                      Learn more <span aria-hidden="true">→</span>
+                    </a>
+                  </p>
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </div>
+      </div>
+    </div>
+  </div>
+)
+
+const CTABak = () => (
+  <div className="mx-auto mt-32 max-w-7xl px-6 sm:mt-12 lg:px-8">
+    <div className="mx-auto max-w-2xl lg:text-center">
+      <h2 className="text-base font-semibold leading-7 text-indigo-600">Learn more</h2>
+      <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+        Sign up to the newsletter<br />to learn more and stay engaged
+      </p>
+      <p className="mt-6 text-lg leading-8 text-gray-600">
+        Quis tellus eget adipiscing convallis sit sit eget aliquet quis. Suspendisse eget egestas a elementum
+        pulvinar et feugiat blandit at. In mi viverra elit nunc.
+      </p>
+    </div>
+    <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
+      <dl className="grid max-w-xl grid-cols-1 gap-x-8 gap-y-16 lg:max-w-none lg:grid-cols-3">
+        {secondaryFeatures.map((feature) => (
+          <div key={feature.name} className="flex flex-col">
+            <dt className="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
+              {feature.name}
+            </dt>
+            <dd className="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600">
+              <p className="flex-auto">{feature.description}</p>
+              <p className="mt-6">
+                <a href={feature.href} className="text-sm font-semibold leading-6 text-indigo-600">
+                  Learn more <span aria-hidden="true">→</span>
+                </a>
+              </p>
+            </dd>
+          </div>
+        ))}
+      </dl>
     </div>
   </div>
 )
