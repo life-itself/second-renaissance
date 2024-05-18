@@ -72,16 +72,12 @@ const New = () => (
 
 const Graphic = () => (
   <figure id="graphic" className="mt-16">
-          <img
-            className="rounded-xl bg-gray-50 object-cover"
-            src="/assets/changemaking-ecosystem-map.jpeg"
-            alt=""
-          />
-          <figcaption className="mt-4 flex gap-x-2 text-l leading-6 text-gray-500">
-            <p className="mt-0.5 h-5 w-5 flex-none text-gray-300"/>
-            This map is currently a work in progress. The final version and write-up will be available soon.
-          </figcaption>
-        </figure>
+    <img
+      className="bg-gray-50 object-cover"
+      src="/assets/img/ecosystem/second-renaissance-ecosystem-map.webp"
+      alt="Map of the Second Renaissance Changemaking Ecosystem as created by Life Itself and friends May 2024"
+    />
+  </figure>
 );
 
 const Potential = () => (
