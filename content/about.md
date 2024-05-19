@@ -1,47 +1,93 @@
 # About
 
-This site is one output from [our ongoing efforts to map an emerging ecosystem][ecosystem]. The ecosystem is still emerging and ill-defined. Reflecting this there is no clear name for it and we have settled for now on the title "state of sensemaking".
+Our current civilization is crumbling, leading to a period of crisis and potential rebirth – what we could term a "second renaissance."
 
-[ecosystem]: https://lifeitself.us/ecosystem/
+This project and website seek to provide an entry-point -- a **gateway** -- for people to discover and make sense of this emerging moment and field. A bit like  a curated art gallery for an emerging area of art.
 
-We emphasize our work here is clearly highly preliminary and is limited by both resources and our own knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](https://lifeitself.us/contact) and [contributions](/contribute/) to correct and improve it.
+## Who is involved
 
-The ecosystem as we have mapped it is quite broad – even disparate. However there are commonalities. Emerging organizations and individuals are opting towards ‘teal’ style collaboration and community building in order to maximize resources as a generalist, lateral way of operating comes into view as a more effective way of tackling systemic problems.
+This project was initiated by [Life Itself][] with support from a variety of partners and collaborators.
 
-There is a focus on systems, emergence, coherence, sovereignty, sensemaking as buzzwords, along with activism, governance, and regenerative culture. This is characterized by a strong lean towards spirituality (mindfulness) and the relationship between inner and outer life. At a higher level, we have identified three core thematic areas which tie together the varied groups in the space: _collectivism, (w)holism and counterculturalism and culture-making._ We will expand on these in the report.
+It is now led by a curatorial team with participants from several organizations. We're also privileged to have ongoing input from an amazing set of advisors.
 
-Beyond this thematic overlap we have identified four major areas of activity: _physical spaces, research, media/publishing and events_. Nonetheless, it has been notable that many organizations have shifted to multi-channel working across a number of these (e.g. producing media content as well as running retreats and events).
+[Life Itself]: https://lifeitself.org
+### Curators
 
-[Browse the full list of profiles](/#profiles) to find out more about selected organizations in the ecosystem.
+- Rufus Pollock, co-founder Life Itself -- **Curatorial Lead**
+- Catherine Tran, Life Itself Research -- **Research lead**
+- Danielle Johnson, Limicon -- **Onboarding Lead and Deputy Wiki Lead**
+- James Baker, Intentional Society -- **Curator and all-round Advisor**
+- Lauren Wigmore, Life Itself Comms --**Communications**
+- Simon Grant, Life Itself Senior Research Associate -- **Wiki Lead**
+- Sylvie Barbier, co-founder Life Itself -- **Design and Narrative**
 
-## Context: [the Larger Ecosystem Mapping Project][ecosystem] 
+### Advisors
 
-*Mapping the ecosystem so that it becomes (more) self-aware, interconnected, resourced and effective.*
+- Daniel Thorson, Emerge Podcast
+- Alexander Beiner, co-founder of Rebel Wisdom
+- Peter Limberg, the Stoa
+- Phil Chen
+- Naryan Wong, Cultivating Leadership and Limicon
+- Joe Lightfoot, Collective Blooming
+- Isabela Granic, McMaster University and Liminal Learning
+- Jamie Bristow, Mindfulness Initiative
+- Oren Slozberg, Commonweal
 
-A newly emerging ecosystem of individuals, organizations and initiatives around the world has in recent years begun to form. We know that many of them are trying to create change, often by shifting how we make sense of the world, by how we engage with one another — in short, by engaging in sense-making and culture-making.
+## Why: Background and Motivation
 
-But that is more or less all we know about this newly emergent space, and, as such, it calls for exploration. What are its defining characteristics? How do organizations differ, and how are they similar? What *is* this space? What are the other ecosystems to which it is interconnected? And how will it evolve? These are some of the things we are hoping to find out.
+At Life Itself we've been working in "this space" for a decade. 
 
-Finally, there is purpose beyond simply exploration: understanding can lead to self-awareness and self-understanding making the ecosystem more known, interconnected, resourced and effective. You can access our 2020 report below. 
+We started mapping this emerging ecosystem formally in 2019/2020 and produced our first report "The State of Sensemaking" In September 2020 followed by the much more thorough and detailed "PIP changemakers ecosystem report" in 2021/2022 (PIP stood for paradigmatic, integral, pragmatic and was our first effort at providing a specific characterisation of this emerging ecosystem).
 
-![[For Publication_ Ecosystem Summary - Social Change Networks 2020 P2023_.pdf]]
+This present work both builds on this mapping work and represents an evolution.
 
-### What
+Specifically, we’ve increasingly seen the need to be able to present these ideas and emerging ecosystem to others in an accessible way. This is based both on our own personal experience and from discussions with many others.
 
-This project seeks to map the emerging ecosystem around social change for a new paradigm. We're seeking to provide an overview of the organizations in the space and better understand what they focus on, by what means, and what ties them together. We hope from this we can start to give a more coherent shape, name and set of key terms to the space.
+> [!example]
+>  Recently one of our team was talking to "Sam", an old friend from college. They were trying to explain to Sam what we are working on:
+>  
+> "I start out with the climate crisis which he obviously gets. However, quickly I'm using quite a few terms like polycrisis, metacrisis or teal and I realize these are a bit jargony. Even terms like modernity and cultural paradigm aren't really that familiar. Sam is interested and asking me lots of questions. We talk for an hour and even then we've only just scratched the surface. I realize there are a lot of roots here beneath the surface, there's a lot there. 
+> 
+> **I want to be able explain it in a reasonably simple way, and I want an accessible resource I can point Sam to where he can get started and find out more if he wants  ...**
 
-### Why
+## What: A Gateway
 
-We want to make the ecosystem visible to itself. We hope in doing this the actors in the space will better be able to connect and collaborate with one another, as well as situate themselves and their work in a broader context to inform their strategies and approaches.
+In short, we need a **gateway or portal** to this space.[^1] A useful gateway provides:
 
-We also hope that, by helping to create a more coherent identity for this ecosystem we can create a more united front when engaging with outside actors, boosting the credibility and effectiveness of our shared efforts.
+[^1]: We acknowledge that there is still debate and discussion about if there is a "a space" or multiple related ones etc – see https://secondrenaissance.net/publications/overview-ecosystem-names. In fact, this is another good motivation for this project: providing something of a "rosetta stone" that makes it easier for "insiders" to see each other and to make it easier for outsiders to see the commonalities.
 
-### How
+- A name so people can easily remember and refer to it 
+- Accessible presentation of key ideas, themes etc
+- Pointers to more info and pathways to get involved
+- Situated relative to things people know which provides both the "oh, ok i know that part" feeling as well as social credibility "oh this connects to these other areas that are already known"
+##  How: Intro, news and wiki
 
-We are undertaking research to gather information on organizations, communities and individuals that are potentially part of this ecosystem -- as well as the connection to nearby spaces. The first stage of the project involves the creation of a repository, outlining the types and areas of focus of these organizations. Over time we will conduct more in depth analysis to map the ecosystem and chart how actors relate to one another across a number of dimensions.
+What that means is we plan to provide (at least):
 
-## Disclaimer
+- **Intro**: to second renaissance and key themes and concepts
+- **Newsletter**: to provide a simple, curated and accessible way in to both discover ideas (one per issue) and news
+- **Wiki and/or forum**: as space for community and contribution
 
-We emphasize our work here is clearly preliminary and is limited by both our resources and knowledge. Based on snowball sampling starting from our contacts it necessarily and obviously display clear biases e.g. geographically to Europe versus the rest of the world, thematically in terms of areas chosen etc. We welcome [feedback](https://lifeitself.us/contact) and [contributions](/contribute/) to correct and improve it.
 
-Specifically, we are doing our best to give as accurate a representation of each organization we have listed. However, like everyone we make mistakes. If you believe the listing for your organization should be changed then please contact us via the [contribute page](/contribute/) and we'll correct it as soon as possible.
+![[assets/img/about/3-parts.png]]
+
+These three parts complement each other. A wiki on its own can be bewildering, overwhelming, and a bit scary for newcomers. A newsletter on its own does not have the richness of a wiki knowledgebase and does not offer an avenue for contribution. By offering both with a *clear set of principles / vision* you can get best of both worlds.
+
+## Deeper motivation: five whys
+
+We the initiators for this project want to create a portal/gateway for the "second renaissance" because …
+
+- Want more people to get involved in second renaissance type stuff (ideas, projects etc), especially people on the edge or close by (and eventually broader society to see) because …
+- Want a movement for second renaissance type stuff because  …
+- Want a "second renaissance" and a paradigmatic transition to happen ...
+- We want that because we see that is key to addressing the (meta)crisis we're in and bringing forth a radically wiser, weller world (see the front page of this website 😉)
+
+## Gallery metaphor
+
+Imagine the world or art where there is all kinds of different art going on. Suppose we’re noticing a new type of art emerging but it doesn’t even have an agreed name yet. It’s hard to find and even talk about  – you go to some show in someone’s basement and feel a vibe etc but hard to even describe to your friends (remember there’s no name etc).
+
+To help, we propose to create a gallery to help showcase this new kind of art so people can more easily find it and talk about it – to highlight a center of an emerging field.[^2]
+
+[^2]: to use Christopher Alexander terminology.
+
+The gallery has a vision statement and in curating it brings certain sets of artists together to really present them to the public and to that community. Both so the broader society can see them – and so they can see themselves.
