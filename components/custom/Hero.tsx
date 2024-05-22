@@ -8,12 +8,7 @@ export default function Hero() {
   useEffect(() => {
     const typed = new Typed(el.current, {
       strings: [
-        "Second Renaissance",
-        "Metamodern Ecosystem",
-        "Polycrisis Ecosystem",
-        "Metacrisis Ecosystem",
-        "Great Transition Ecosystem",
-        "Liminal Ecosystem"
+        "Mapping an Emerging Ecosystem"
       ],
       typeSpeed: 45,
       backDelay: 1650,
@@ -105,35 +100,39 @@ export default function Hero() {
 				<main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
 					<div className="text-center">
 						<h1 className="flex flex-col gap-y-2 h-48 min-[391px]:h-32 sm:h-48 lg:h-32 text-4xl tracking-tight font-extrabold text-primary sm:text-5xl md:text-6xl">
-							<span>Mapping an Emerging</span>
+							<span>"PIP" Pioneers for Social Change</span>
               <span ref={el} className="mx-auto w-fit sm:w-auto flex sm:inline" />
 						</h1>
 						<h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-              By Life Itself, Emerge, Cohere+ and collaborators
+              			By Life Itself
 						</h2>
-						<p className="mt-3 max-w-md mx-auto text-gray-500 sm:text-lg md:mt-5 med:text-xl md:max-w-3xl">
-							An emerging ecosystem is seeking a radical, alternative approach to social change. One that is simultaneous paradigmatic, integrated and engaged (PIE). The project provides a map including key features, ideas, organizations and initiatives.
+						<p className="mt-3 max-w-md mx-auto text-gray-800 sm:text-lg md:mt-5 med:text-xl md:max-w-3xl">
+						An emerging ecosystem is developing radical, alternative approaches to social change. <br></br>What unites them is that they are simultaneously paradigmatic, integrative, and pragmatic (PIP). 
+						<br></br><br></br>This page introduces the ecosystem's key features and ideas – and offers a directory and visual maps of organizations and initiatives.
 						</p>
-						<div className="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
+						<h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-m md:mt-5 md:text-m md:max-w-3xl">
+						Launched October 2021. Updated February 2022.
+						</h2>
+						<div className="mt-5 max-w-xxl mx-auto sm:flex sm:justify-center md:mt-8">
 							<div className="rounded-md shadow">
 								<a
 									href="#overview"
-									className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md bg-yellow-300 hover:bg-yellow-400 md:py-4 md:text-lg md:px-10"
+									className="w-full flex items-center justify-center px-18 py-3 border border-transparent text-base font-medium rounded-md bg-yellow-300 hover:bg-yellow-400 md:py-4 md:text-lg md:px-10"
 								>
-									Discover
+									Discover <br></br>key features
 								</a>
 							</div>
 							<div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
 								{/* <Link href="#profiles"> */}
-								<a href="#profiles" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-100 hover:bg-gray-200 md:py-4 md:text-lg md:px-10">
-									Explore
+								<a href="#profiles" className="w-full flex items-center justify-center px-18 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-100 hover:bg-gray-200 md:py-4 md:text-lg md:px-10">
+									Explore <br></br>organizations
 								</a>
 								{/* </Link> */}
 							</div>
 							<div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
 								{/* <Link href="/about/"> */}
-								<a href="/about/" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10">
-									About
+								<a href="/about/" className="w-full flex items-center justify-center px-18 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10">
+									Read <br></br>full report
 								</a>
 								{/* </Link> */}
 							</div>
