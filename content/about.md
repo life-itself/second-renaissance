@@ -96,12 +96,6 @@ Our guiding principles are:
 - Accessible: simple, shareable and easy to understand
 - Public: Open to everyone
 
-## What is a "Second Renaissance"?
-
-In part, that is what we hope to clarify through the process of curating existing content (essays, books, podcasts, events, etc.), distilling key ideas, and synthesizing key patterns.
-
-At the moment, we use the term “Second Renaissance” to refer to the idea that we are living in a time in which the possibilities of civilisational collapse and radical renewal exist side by side. We also use it to refer to the growing movement of people who are recognising this and are engaged in catalyzing and stewarding a social paradigm shift in their lives and work based on it. 
-
 ## Appendix: Deeper motivation: five whys
 
 We the initiators for this project want to create a gateway for the "second renaissance" because …
