@@ -20,7 +20,7 @@ This project was initiated by [Life Itself][] with the following initial team of
 - Rufus Pollock, co-founder Life Itself -- **Curatorial Lead**
 - Catherine Tran, Life Itself Research -- **Research lead**
 - Danielle Johnson, Limicon -- **Onboarding Lead and Deputy Wiki Lead**
-- James Baker, Intentional Society -- **Curator and all-round Advisor**
+- James Baker, Intentional Society -- **Curator and Social Designer**
 - Lauren Wigmore, Life Itself Comms --**Communications**
 - Simon Grant, Life Itself Senior Research Associate -- **Wiki Lead**
 - Sylvie Barbier, co-founder Life Itself -- **Design and Narrative**
