@@ -7,8 +7,8 @@ const userConfig = {
   analytics: 'G-K5529JHP9G',
   navLinks: [
     {
-      href: '/intro',
-      name: 'Intro'
+      href: '/paper',
+      name: 'Whitepaper'
     },
     {
       href: '/ecosystem',
@@ -19,8 +19,24 @@ const userConfig = {
       name: 'Wiki'
     },
     {
-      href: 'https://lifeitself.org/contact',
+      href: '/intro',
+      name: 'Intro'
+    },
+    {
+      href: '/contact',
       name: 'Contact'
+    },
+    {
+      href: 'https://discord.gg/nNRt6V9jA4',
+      name: 'Chat'
+    },
+    {
+      href: '/about',
+      name: 'About'
+    },
+    {
+      href: 'https://secondrenaissance.substack.com/',
+      name: 'News'
     }
   ],
   theme: {
