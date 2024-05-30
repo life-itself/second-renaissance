@@ -35,8 +35,8 @@ This project was initiated by [Life Itself][] with the following initial team of
 - Naryan Wong, Cultivating Leadership and Limicon
 - Oren Slozberg, Commonweal
 - Peter Limberg, the Stoa
-- Phil Chen, EonV and Limicon
-- Richard Bartlett, theHum and Microsolidarity
+- Phil Chen, Eon v Labs and Limicon
+- Richard Bartlett, The Hum and Microsolidarity
 
 ## Why: Background and Motivation
 
