@@ -8,7 +8,10 @@ export default function Hero() {
   useEffect(() => {
     const typed = new Typed(el.current, {
       strings: [
-        "Mapping an Emerging Ecosystem"
+        "Paradigmatic",
+		"Integrative",
+		"Pragmatic",
+		"'PIP'"
       ],
       typeSpeed: 45,
       backDelay: 1650,
@@ -100,15 +103,16 @@ export default function Hero() {
 				<main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
 					<div className="text-center">
 						<h1 className="flex flex-col gap-y-2 h-48 min-[391px]:h-32 sm:h-48 lg:h-32 text-4xl tracking-tight font-extrabold text-primary sm:text-5xl md:text-6xl">
-							<span>"PIP" Pioneers for Social Change</span>
+							<span>Mapping an Emerging Ecosystem of</span>
               <span ref={el} className="mx-auto w-fit sm:w-auto flex sm:inline" />
 						</h1>
-						<h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+						<h1 className="flex flex-col gap-y-2 h-20 min-[391px]:h-16 sm:h-20 lg:h-16 text-4xl tracking-tight font-extrabold text-primary sm:text-5xl md:text-6xl">Social Change</h1>
+						<h2 className="mt-1 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
               			By Life Itself
 						</h2>
 						<p className="mt-3 max-w-md mx-auto text-gray-800 sm:text-lg md:mt-5 med:text-xl md:max-w-3xl">
-						An emerging ecosystem is developing radical, alternative approaches to social change. <br></br>What unites them is that they are simultaneously paradigmatic, integrative, and pragmatic (PIP). 
-						<br></br><br></br>This page introduces the ecosystem's key features and ideas – and offers a directory and visual maps of organizations and initiatives.
+						An emerging ecosystem is developing radical, alternative approaches to social change. It is associated with many names: Metamodern, Metacrisis, Integral, and more. <br></br>The common thread? Approaches to change which are simultaneously paradigmatic, integrative, and pragmatic (PIP). 
+						<br></br>This page introduces the ecosystem's key features and ideas – and offers a directory and visual maps of organizations and initiatives.
 						</p>
 						<h2 className="mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-m md:mt-5 md:text-m md:max-w-3xl">
 						Launched October 2021. Updated February 2022.
