@@ -128,6 +128,8 @@ Participants are actively engaging with wider society for the purposes of societ
 *   **Cultural change** – transformation of collective narratives, social norms, values, and patterns of behavior. Transformation of unhealthy sociocultural conditioning and power dynamics. For example, through: alternative education, collective rituals, communal living, inquiry, narrative change, relating/relational practices, or social justice work.
     
 *   **Systems change** – transformation of large-scale social systems at the institutional, policy, and infrastructural level. For example, working on topics such as: alternative governance, alternative economics, alternative politics, and alternative technology.
+
+Read more about the visualization in the [full report](https://drive.google.com/file/d/1y-DdWVe6ak-6yHVHFZkoEhLhTqty3QzY/view?usp=sharing).
                     `}
                     </MdxComponent>
                 </section>
