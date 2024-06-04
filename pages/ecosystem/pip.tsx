@@ -3,7 +3,7 @@ import { GetStaticProps, GetStaticPropsResult } from "next";
 
 import clientPromise from "@/lib/mddb.mjs";
 
-import Hero from "@/components/custom/Hero"
+import Hero from "@/components/custom/PIPHero"
 import TernaryPlot from "@/components/custom/TernaryPlot"
 import CircularVis from "@/components/custom/CircularVis"
 import ProfileSearch from "@/components/custom/ProfileSearch"
