@@ -131,7 +131,7 @@ export default function Hero() {
 							</div>
 							<div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3">
 								{/* <Link href="/about/"> */}
-								<a href="/about/" className="w-full flex items-center justify-center px-18 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10">
+								<a href="https://drive.google.com/file/d/1y-DdWVe6ak-6yHVHFZkoEhLhTqty3QzY/view?usp=sharing" className="w-full flex items-center justify-center px-18 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-gray-50 hover:bg-gray-100 md:py-4 md:text-lg md:px-10">
 									Read <br></br>full report
 								</a>
 								{/* </Link> */}
