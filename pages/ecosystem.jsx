@@ -2,34 +2,34 @@ const Hero = () => (
   <div className="relative isolate overflow-hidden pt-14">
         <div className="mx-auto max-w-6xl py-12 sm:py-16 lg:py-20 text-center">
         <img
-      src="/img/dandelion-hasan-almasi-unsplash.jpg"
-      alt=""
-      className="absolute inset-0 -z-10 h-full w-full object-cover bg-slate-700 opacity-40"
+          src="/assets/img/ecosystem/second-renaissance-ecosystem-map.webp"
+          alt=""
+          className="absolute inset-0 -z-10 h-full w-full object-cover bg-slate-700 opacity-30"
         />
-          <h2 className="text-4xl tracking-normal sm:text-4xl font-serif -mt-20 mb-20">
-            A <span className="text-5xl">growing network</span> of individuals, organisations, communities, and initiatives
-            are developing ideas, practices, and infrastructures for <span className="text-5xl">radical transformation</span>
+          <h2 className="text-2xl tracking-normal sm:text-4xl font-serif -mt-10 mb-10">
+            A <span className="text-4xl">growing network</span> of individuals, organisations, communities, and initiatives
+            are developing ideas, practices, and infrastructures for <span className="text-4xl">radical transformation</span>
           </h2>
-          <h1 className="text-4xl font-medium tracking-wide sm:text-7xl py-7">
-            A Second Renaissance <span className="text-8xl font-bold">ecosystem</span> is <span className="text-8xl font-bold">emerging</span>
+          <h1 className="text-3xl font-bold tracking-wide sm:text-7xl py-7">
+            A Second Renaissance ecosystem is emerging
           </h1>
-          <p className="text-xl font-serif">
-            This page introduces key resources for making sense of the ecosystem's key features.
-
+          <p className="text-2
+          xl sm:text-4xl font-serif">
+            This page introduces key resources<br />for making sense of the ecosystem's key features.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
-            <button onClick={() => window.location.href = '#graphic'} className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            <a href="#graphic" className="btn btn-blue">
               What does it look like?
-            </button>
-            <button onClick={() => window.location.href = '#projects'} className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            </a>
+            <a href="#projects" className="btn btn-blue">
               Who is part of it?
-            </button>
-            <button onClick={() => window.location.href = '#resources'} className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            </a>
+            <a href="#resources" className="btn btn-blue">
               Learn more
-            </button>
-            <a href="https://lifeitself.org/get-involved"><button className="bg-amber-500 hover:bg-teal-600 text-white font-bold tracking-wide py-2 px-4 rounded">
+            </a>
+            <a href="/join" className="btn btn-blue">
               Get involved
-            </button></a>
+            </a>
           </div>
         </div>
       </div>
