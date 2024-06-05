@@ -86,3 +86,14 @@ html {
     visibility: hidden;
   }
 }
+
+/* buttons */
+.btn {
+  @apply font-bold py-2 px-4 rounded-md px-4 py-3 font-medium text-primary shadow no-underline;
+}
+.btn-blue {
+  @apply bg-[#F0CA5E];
+}
+.btn-blue:hover {
+  @apply bg-yellow-500 outline-none;
+}
