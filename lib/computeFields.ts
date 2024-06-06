@@ -42,6 +42,7 @@ const computeFields = async ({
     if (frontMatter.layout) return frontMatter.layout;
     if (urlPath.startsWith("blog/")) return "blog";
     if (urlPath.includes("ecosystem/pip/profiles")) return "profile";
+    if (urlPath.includes("ecosystem/cohere/profiles")) return "cohere";
     // if (urlPath.startsWith("docs/")) return "docs";
     return "docs"; // TODO default layout from config?
   })();
