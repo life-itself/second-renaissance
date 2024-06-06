@@ -41,7 +41,7 @@ const computeFields = async ({
   const layout = (() => {
     if (frontMatter.layout) return frontMatter.layout;
     if (urlPath.startsWith("blog/")) return "blog";
-    if (urlPath.includes("ecosystem/pip-2021/profiles")) return "profile";
+    if (urlPath.includes("ecosystem/pip/profiles")) return "profile";
     // if (urlPath.startsWith("docs/")) return "docs";
     return "docs"; // TODO default layout from config?
   })();
