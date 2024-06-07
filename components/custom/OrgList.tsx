@@ -8,7 +8,7 @@ export default function OrgList({ orgs }) {
                     <div key={org.id} className="group relative">
                         <div className="w-full aspect-square bg-beige rounded-md overflow-hidden group-hover:opacity-75">
                             <img
-                                src={(org.logo.cached_new || org.logo.url) ?? (org.image.cached_new || org.image.url)}
+                                src={(org.logo?.cached_new || org.logo?.url) ?? (org.image?.cached_new || org.image.url || org.image)}
                                 alt={org.title}
                                 className="w-full h-full m-0 object-contain"
                             />

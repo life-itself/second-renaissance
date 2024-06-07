@@ -12,10 +12,9 @@ import { hasRequiredProfileFields } from "@/lib/temp/hasRequiredProfileFields";
 
 interface Props extends CustomAppProps {
     profiles: any; // TODO: type
-    topics: any; // TODO: type
 }
 
-const HomePage: React.FC<Props> = ({ profiles, topics }) => {
+const HomePage: React.FC<Props> = ({ profiles }) => {
     return (
         <>
             <div className="prose mx-auto max-w-xl">
@@ -46,18 +45,13 @@ export const getStaticProps: GetStaticProps = async (): Promise<
         acc.push({
             ...file.metadata,
             image: file.metadata.image?.url ?? file.metadata.image,
+            topic: file.metadata.sectors,
+            activity: file.metadata.activities,
+            id: file.metadata.title.toLowerCase(),
             urlPath: '/' + file.url_path,
         });
         return acc;
     }, []);
-
-    const topicFiles = await mddb.getFiles({ folder: "topics" });
-    const topics = topicFiles.map((file) => {
-        return {
-            ...file.metadata,
-            urlPath: file.url_path,
-        };
-    });
 
     return {
         props: {
@@ -68,8 +62,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
                 showSidebar: false,
                 showComments: false,
             },
-            profiles,
-            topics,
+            profiles
         },
     };
 };
