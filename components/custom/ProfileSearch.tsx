@@ -61,7 +61,7 @@ export default function ProfileSearch({ profiles }) {
     const aggregations = {};
     for (const f of facets) {
         aggregations[f.id] = {
-            title: f.name || f.title, // hack to support cohere and pip. cohere does not have name
+            title: f.name, // hack to support cohere and pip. cohere does not have name
             size: 20, // set to 20 to be bigger than max size of a facet atm
             conjunction: true // not sure why
         };
