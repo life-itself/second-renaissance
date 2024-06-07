@@ -7,21 +7,23 @@ import {
     HashtagIcon
 } from '@heroicons/react/solid';
 
-export default function Profile({ children, ...frontMatter }) {
-    // const { title, url, locations, people, topic, activity, image } = frontMatter;
-    const { title, url, locations, people, topic, activity } = frontMatter;
-    const image = frontMatter.logo.cached_new;
+export default function CohereProfile({ children, ...frontMatter }) {
+    const { title, url, locations, sectors, activities } = frontMatter;
+    // these can look like [[../../../assets/42-acres-homepage.png]] (obsidian like)
+    let image = frontMatter.image;
+    image = image.replaceAll("[[../../../", "/").replaceAll("]]", "");
+    const topic = sectors; // changed name in cohere vs pip
 
     return (
-        <div className="max-w-2xl mx-auto pb-16 pt-10 px-4 sm:pb-24 sm:px-6 lg:max-w-7xl lg:px-8">
+        <div className="max-w-2xl mx-auto pb-16 px-4 sm:pb-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <div className="mt-4">
                 <h1 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
                     {title}
                 </h1>
             </div>
-            <div className="lg:grid lg:grid-cols-2 lg:gap-x-8">
+            <div className="lg:grid lg:grid-cols-1 lg:gap-x-8">
                 {/* details */}
-                <div className="lg:max-w-lg lg:self-end text-gray-500">
+                <div className="lg:self-end text-gray-500">
                     <div className="flex flex-col mt-6 gap-y-3 not-prose">
                         {url && (
                             <div className="flex flex-row">
@@ -47,28 +49,14 @@ export default function Profile({ children, ...frontMatter }) {
                                 </ul>
                             </div>
                         )}
-                        {people?.length > 0 && (
-                            <div className="flex flex-row">
-                                <UserCircleIcon className="h-5 w-5" />
-                                <ul className="ml-2 text-sm text-gray-500 capitalize">
-                                    {people.map((value, index) => {
-                                        return (
-                                            <li key={index} className="inline-block mr-2">
-                                                {value + (index === people.length - 1 ? '' : ',')}
-                                            </li>
-                                        );
-                                    })}
-                                </ul>
-                            </div>
-                        )}
-                        {activity?.length > 0 && (
+                        {activities?.length > 0 && (
                             <div className="flex flex-row">
                                 <BriefcaseIcon className="h-5 w-5" />
                                 <ul className="ml-2 text-sm text-gray-500 capitalize">
-                                    {activity.map((value, index) => {
+                                    {activities.map((value, index) => {
                                         return (
                                             <li key={index} className="inline-block mr-2">
-                                                {value + (index === activity.length - 1 ? '' : ',')}
+                                                {value + (index === activities.length - 1 ? '' : ',')}
                                             </li>
                                         );
                                     })}
@@ -98,7 +86,8 @@ export default function Profile({ children, ...frontMatter }) {
                     </section>
                 </div>
                 {/* image */}
-                <div className="mt-10 lg:mt-0 row-span-2">
+                {/*
+                <div className="mt-10 lg:mt-0 row-span-1">
                     <div className="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden">
                         <img
                             src={image}
@@ -107,6 +96,7 @@ export default function Profile({ children, ...frontMatter }) {
                         />
                     </div>
                 </div>
+                */}
             </div>
         </div>
     );

@@ -6,6 +6,7 @@ import {
 } from "@portaljs/core";
 
 import Profile from "./profile";
+import CohereProfile from "./cohere";
 
 export default {
   simple: SimpleLayout,
@@ -13,4 +14,5 @@ export default {
   unstyled: UnstyledLayout,
   blog: BlogLayout,
   profile: Profile,
+  cohere: CohereProfile,
 };
