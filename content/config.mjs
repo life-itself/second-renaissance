@@ -1,5 +1,5 @@
 const userConfig = {
-	title: 'Second Renaissance',
+  title: 'Second Renaissance',
   description: '',
   author: 'Life Itself',
   authorLogo: '/life-itself-logo.svg',
@@ -27,17 +27,17 @@ const userConfig = {
       name: 'Contact'
     },
     {
-      href: 'https://discord.gg/nNRt6V9jA4',
-      name: 'Chat'
-    },
-    {
       href: '/about',
       name: 'About'
     },
     {
       href: 'https://secondrenaissance.substack.com/',
       name: 'News'
-    }
+    },
+    {
+      href: 'https://forum.secondrenaissance.net',
+      name: 'Forum'
+    },
   ],
   theme: {
     default: ''
