@@ -7,7 +7,7 @@ import TernaryPlot from "@/components/custom/TernaryPlot"
 import CircularVis from "@/components/custom/CircularVis"
 import MdxComponent from "@/components/MdxComponent";
 
-import type { CustomAppProps } from "./_app";
+import type { CustomAppProps } from "@/pages/_app";
 import { hasRequiredProfileFields } from "@/lib/temp/hasRequiredProfileFields";
 
 
@@ -88,7 +88,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
 
     const mddb = await clientPromise;
 
-    const profileFiles = await mddb.getFiles({ folder: "profiles" });
+    const profileFiles = await mddb.getFiles({ folder: "ecosystem/pip/profiles" });
     const profiles = profileFiles.reduce((acc, file) => {
         // TODO temporary hack - some of the profiles (created by Matthew) have incorrect metadata
         if (!hasRequiredProfileFields(file.metadata)) {
@@ -116,7 +116,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
     return {
         props: {
             meta: {
-                urlPath: "/vis",
+                urlPath: "/ecosystem/pip/vis",
                 showToc: false,
                 showEditLink: false,
                 showSidebar: false,
