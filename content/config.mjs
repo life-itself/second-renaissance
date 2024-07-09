@@ -19,6 +19,10 @@ const userConfig = {
       name: '🕸️ Ecosystem'
     },
     {
+      href: '/course',
+      name: '🎓 Course'
+    },
+    {
       href: 'https://wiki.secondrenaissance.net/',
       name: '📕 Wiki'
     },
