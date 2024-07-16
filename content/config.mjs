@@ -28,15 +28,15 @@ const userConfig = {
     },
     {
       href: 'https://secondrenaissance.substack.com/',
-      name: '📰 News'
-    },
-    {
-      href: 'https://forum.secondrenaissance.net',
-      name: '💬 Forum'
+      name: '📰 Newsletter'
     },
     {
       href: 'https://discord.gg/nNRt6V9jA4',
       name: '👋 Chat'
+    },
+    {
+      href: 'https://lu.ma/calendar/cal-zmrjcOlK832KWC4',
+      name: '🎉 Events'
     },
     {
       href: '/about',
