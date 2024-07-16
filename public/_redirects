@@ -5,3 +5,5 @@
 # old ecosystem stuff has now moved to /ecosystem/pip/
 /vis /ecosystem/pip/vis
 /profiles/* /ecosystem/pip/profiles/:splat
+# 2024-07-16 until we have a proper page
+/events  https://lu.ma/calendar/cal-zmrjcOlK832KWC4

@@ -35,7 +35,7 @@ const userConfig = {
       name: '👋 Chat'
     },
     {
-      href: 'https://lu.ma/calendar/cal-zmrjcOlK832KWC4',
+      href: '/events',
       name: '🎉 Events'
     },
     {
