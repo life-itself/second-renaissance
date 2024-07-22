@@ -21,7 +21,7 @@ This format makes it suitable whether you’re a complete newcomer to the second
 Using dialog and inquiry in small groups with sharing back with the group as a whole. There will be brief introductions to key features of the second renaissance to frame and prompt discussion.
 
 ## You will
-💬 Engage in co-sensemaking discussions </br>
+💬 Engage in co-sensemaking discussions <br>
 🌊 Gain deep insights into global crises </br>
 😄 Experience interactive and reflective learning </br>
 🌏 Reflect on emerging worldviews and values </br>
