@@ -1,35 +1,52 @@
 ---
 title: The Second Renaissance Course
 ---
-A guided journey to deepen your understanding of the Second Renaissance, this time between worlds.
+Join us this July for our new short course Second Renaissance: A first exploration together. A guided journey to deepen your understanding of the Second Renaissance, this time between worlds.
 
-**Explore this moment of civilizational crisis and transition we are in, moving from modernity into what comes next in our six-episode course.** 
+**Explore this moment of civilizational crisis and transition we are in, moving from modernity into what comes next in our two-episode online course.** 
 
-<iframe width="540" height="450" src="https://1ebb0834.sibforms.com/serve/MUIFAFQNwyFp1Ljhpnd1ptpLuieRxACZsVP-7pQIbHPps9nNEojYS6no6Gewn9BLDCXBujJe5nAHAtdkg02-R6MPVDEkbOQqBGhQALqcZhJsPRaVv8WIj5rBzBWzWlZ3DXmMQ3MKBBhCk3wSMfCHoGTWnbFRGddVQbBidlfGHqwhTn6sAYK2gGm2OVPxcrqNi2zS5OdHIik5dFFq" frameborder="0" allowfullscreen></iframe>
+<iframe
+  src="https://lu.ma/embed/event/evt-HB4OMNPBAs7EG21/simple"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allowfullscreen=""
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
 
-## Why this course?
+_"I leave this session feeling encouraged and inspired, taking with me a profound sense of "we are already moving towards the new paradigm and we're doing it together". I especially appreciated the sense-making conversations with others, building a multi-faceted view of what's ending and what's emerging. And I now understand better why the name "Second Renaissance" was chosen, after hearing Sylvie's story straight from the heart. It wasn't "love at first sight" with this new terminology for me, but now I feel more connected to it, and especially to the people who also take part in this collective movement. A bunch of twigs can't break!"_ - An, previous Second Renaissance Course Explorer
 
-Our six episode course delves into the depths of our current civilizational transition as we take you through the fundamental concepts integral to navigating this period of great awakening.
+Led by Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier we will cover the following areas:
 
-Through an introspective and explorative approach we breakdown the complexity into easy to digest topics to inspire action and foster a deeper understanding of where we stand in this pivotal moment. Together, we traverse through crucial topics such as the cracks in modern civilization, the significance of views and values, the role of cultural evolution, and the journey from the first Renaissance to late modernity. By dissecting paradigms and grappling with cross-paradigmatic friction, we gain insight into the darkness preceding the dawn of a Second Renaissance. 
+**Awareness:** Exploring our paths to the second renaissance. How did you come to be interested in this? If and when did you start noticing “cracks” in the foundations? What are the resonances amongst us?
 
-Sign up today to join us as we navigate towards a radically weller, wiser world.
+**Renaissance:** Exploring what we see can arise? What kind of views and values do you think are needed going forward? What kind of changes in technology and institutions?
 
-**Over the six episodes, we will:**
+**Seeds:** What are the seeds of the second renaissance? Where should we plant and cultivate them? What kinds of greenhouses? What kinds of pockets of emergence are there?
 
-- Introduce the concept of a Second Renaissance
-- Examine the cracks in modern civilization
-- Understand the foundations of these cracks and the role of views and values
-- Explore cultural evolution and its significance
-- Analyze evolving cultural paradigms
-- Trace the journey from the first Renaissance to late modernity
-- Understand the decline of modernism
-- Discover how to navigate by paradigmatic features and Grand Unified Theories of History
-- Address the cross-paradigmatic friction at play
-- Illuminate the path towards seeding a Second Renaissance
-- Identify the qualities of the next paradigm
-- Explore how we can arrive at an awakening society and the action steps to take
+**The course focuses on supporting your own exploration and discovery using small group discussion and sharing amongst the wider group.**
 
+This format makes it suitable whether you’re a complete newcomer to the second renaissance or already have deep knowledge of the area.
+Using dialog and inquiry in small groups with sharing back with the group as a whole. There will be brief introductions to key features of the second renaissance to frame and prompt discussion.
 
-<iframe src="https://youtube.com/embed/TtOdxV326-Y?feature=share" frameborder="0" height="500" width="500"></iframe>
+## You will
+💬 Engage in co-sensemaking discussions </br>
+🌊 Gain deep insights into global crises </br>
+😄 Experience interactive and reflective learning </br>
+🌏 Reflect on emerging worldviews and values </br>
+🦋 Connect with a community of like-minded individuals </br>
+💪🏻 Develop practical strategies for transformation
+
+<a
+  href="https://lu.ma/event/evt-HB4OMNPBAs7EG21"
+  class="luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-HB4OMNPBAs7EG21"
+>
+  Register for Event
+</a>
+
+<script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
 
