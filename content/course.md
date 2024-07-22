@@ -34,7 +34,6 @@ Using dialog and inquiry in small groups with sharing back with the group as a w
 ## You will
 💬 Engage in co-sensemaking discussions <br>
 🌊 Gain deep insights into global crises </br>
-😄 Experience interactive and reflective learning </br>
 🌏 Reflect on emerging worldviews and values </br>
 🦋 Connect with a community of like-minded individuals </br>
 💪🏻 Develop practical strategies for transformation
