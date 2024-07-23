@@ -1,7 +1,8 @@
 ---
-title: The Second Renaissance Course
+title: Exploring a Second Renaissance Online Course
 ---
-Join us this July for our new short course Second Renaissance: A first exploration together. A guided journey to deepen your understanding of the Second Renaissance, this time between worlds.
+
+Join our  short course *Exploring a Second Renaissance Together*. A guided journey to deepen your understanding of the Second Renaissance, this time between worlds.
 
 **Explore this moment of civilizational crisis and transition we are in, moving from modernity into what comes next in our two-episode online course.** 
 
@@ -16,7 +17,7 @@ Join us this July for our new short course Second Renaissance: A first explorati
   tabindex="0"
 ></iframe>
 
-_"I leave this session feeling encouraged and inspired, taking with me a profound sense of "we are already moving towards the new paradigm and we're doing it together". I especially appreciated the sense-making conversations with others, building a multi-faceted view of what's ending and what's emerging. And I now understand better why the name "Second Renaissance" was chosen, after hearing Sylvie's story straight from the heart. It wasn't "love at first sight" with this new terminology for me, but now I feel more connected to it, and especially to the people who also take part in this collective movement. A bunch of twigs can't break!"_ - An, previous Second Renaissance Course Explorer
+_"I leave this session feeling encouraged and inspired. I especially appreciated the sense-making conversations with others. I loved hearing Sylvie's story straight from the heart. I now feel more connected to it, and especially to the people who also take part in this collective movement. A bunch of twigs can't break!"_ - Maria, a participant in our prototype Second Renaissance Course
 
 Led by Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier we will cover the following areas:
 
@@ -32,11 +33,12 @@ This format makes it suitable whether you’re a complete newcomer to the second
 Using dialog and inquiry in small groups with sharing back with the group as a whole. There will be brief introductions to key features of the second renaissance to frame and prompt discussion.
 
 ## You will
-💬 Engage in co-sensemaking discussions <br>
-🌊 Gain deep insights into global crises </br>
-🌏 Reflect on emerging worldviews and values </br>
-🦋 Connect with a community of like-minded individuals </br>
-💪🏻 Develop practical strategies for transformation
+
+- 💬 Engage in co-sensemaking discussions
+- 🌊 Gain deep insights into global crises
+- 🌏 Reflect on emerging worldviews and values
+- 🦋 Connect with a community of like-minded individuals
+- 💪🏻 Develop practical strategies for transformation
 
 <a
   href="https://lu.ma/event/evt-HB4OMNPBAs7EG21"
@@ -48,4 +50,3 @@ Using dialog and inquiry in small groups with sharing back with the group as a w
 </a>
 
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
-
