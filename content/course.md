@@ -11,7 +11,7 @@ Join our  short course *Exploring a Second Renaissance Together*. A guided journ
   width="600"
   height="450"
   frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  style={{border: '1px', solid: '#bfcbda88', borderRadius: '4px'}}
   allowfullscreen=""
   aria-hidden="false"
   tabindex="0"
@@ -39,14 +39,5 @@ Using dialog and inquiry in small groups with sharing back with the group as a w
 - 🌏 Reflect on emerging worldviews and values
 - 🦋 Connect with a community of like-minded individuals
 - 💪🏻 Develop practical strategies for transformation
-
-<a
-  href="https://lu.ma/event/evt-HB4OMNPBAs7EG21"
-  class="luma-checkout--button"
-  data-luma-action="checkout"
-  data-luma-event-id="evt-HB4OMNPBAs7EG21"
->
-  Register for Event
-</a>
 
 <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
