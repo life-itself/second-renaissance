@@ -4,10 +4,12 @@ contributors:
   - Catherine Tran
 title: Conscious Food Systems Alliance
 url: https://consciousfoodsystems.org/
-locations: 
+locations:
+  - International
 start: 2021
 end: 
-size: 4-10
+size:
+  - 4-10
 image: "[[../../../assets/cofsa-homepage.png]]"
 sectors:
   - Environment, Food & Water

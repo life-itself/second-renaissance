@@ -6,8 +6,10 @@ url:
 locations: 
 start: 
 end: 
-size: 1-3 | 4-10 | 11-20 | 21-50 | 51-100 | 101+
+size:
+  - 1-3 | 4-10 | 11-20 | 21-50 | 51-100 | 101+
 image: 
+logo: 
 sectors: 
 activities: 
 cohere: true

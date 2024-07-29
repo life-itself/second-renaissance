@@ -4,16 +4,18 @@ contributors:
   - Catherine Tran
 title: Emerge
 url: https://www.whatisemerging.com/
-locations: 
+locations:
+  - London, UK
+  - Berlin, Germany
 start: 2018
 end: 
-size: 4-10
+size:
+  - 4-10
 image: "[[../../../assets/emerge-homepage.png]]"
 sectors:
   - Media & Communications
 activities:
   - Media & Publishing
-  - Convening & Coordination
   - Events & Retreats
 cohere: true
 metadata_version: "1"

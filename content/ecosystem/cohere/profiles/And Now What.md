@@ -8,8 +8,10 @@ locations:
   - Belgium
 start: 2020
 end: 
-size: 1-3
+size:
+  - 1-3
 image: "[[../../../assets/and-now-what.png]]"
+logo: "[[../../../assets/and-now-what-logo.png]]"
 sectors:
   - Relations & Peace
 activities:
@@ -18,8 +20,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/and-now-what.png]]
-
 >And Now What operates from an awareness of acute existential threats for humanity and complex life on Earth. We provide facilitation, learning and developmental journeys for individuals and groups to make sense, heal, transform, reorganize and act as needed to regenerate the web of life.
 >
 >We walk with individuals, groups, organizations, institutions and communities as they attempt transformation in the face of the unprecedented existential challenges associated with collapse. We help you understand, discern and navigate the complexities of unfamiliar and changing inner and outer terrain.

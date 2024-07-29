@@ -5,10 +5,12 @@ contributors:
   - Matthew McCarthy
 title: Source of Synergy Foundation
 url: https://www.sourceofsynergyfoundation.org/
-locations: 
+locations:
+  - not-found
 start: 2007
 end: 
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/source-of-synergy.png]]"
 sectors:
   - Spirituality & Religion

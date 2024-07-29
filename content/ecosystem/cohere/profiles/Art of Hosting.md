@@ -5,11 +5,13 @@ contributors:
 title: Art of Hosting
 url: https://artofhosting.org/
 locations:
-  - not-applicable
+  - International
 start: 2005
 end: 
-size: not-found
+size:
+  - not-found
 image: "[[../../../assets/art-of-hosting-homepage.png]]"
+logo: "[[../../../assets/AoH-logo.jpg]]"
 sectors:
   - Relations & Peace
 activities:
@@ -17,16 +19,13 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
+>The Art of Hosting is an approach to leadership that scales up from the personal to the systemic using personal practice, dialogue, facilitation and the co-creation of innovation to address complex challenges.
+https://artofhosting.org/
 
-![[art-of-hosting-homepage.png]]
-
-"The Art of Hosting is an approach to leadership that scales up from the personal to the systemic using personal practice, dialogue, facilitation and the co-creation of innovation to address complex challenges."
-(https://artofhosting.org/)
-
-"The Art of Hosting network is rapidly spreading and growing all over the world, as organizations, communities, and people from every walk of life take part in this new way of working that blends the best of what we all know about the power of conversation.  We are rediscovering it, together.
-
-The Art of Hosting network has no formal, legal structure, no appointed leader, no accreditation program and no controlling body.  It is based on a practitioner network, with local communities of practice; it is committed to learning and generous with its sharing and support."
-(https://artofhosting.org/what-is-aoh/)
+>The Art of Hosting network is rapidly spreading and growing all over the world, as organizations, communities, and people from every walk of life take part in this new way of working that blends the best of what we all know about the power of conversation.  We are rediscovering it, together.
+>
+>The Art of Hosting network has no formal, legal structure, no appointed leader, no accreditation program and no controlling body.  It is based on a practitioner network, with local communities of practice; it is committed to learning and generous with its sharing and support.
+https://artofhosting.org/what-is-aoh/
 
 ## Theory of Change
 

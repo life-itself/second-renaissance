@@ -4,10 +4,12 @@ contributors:
   - Catherine Tran
 title: UNESCO Collective Healing Initiative
 url: https://collective-healing.org/
-locations: 
+locations:
+  - International
 start: 2018
 end: 
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/collective-healing.png]]"
 sectors:
   - Justice & Restoration
