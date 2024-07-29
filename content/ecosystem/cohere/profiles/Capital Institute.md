@@ -9,8 +9,10 @@ locations:
   - Greenwich, Connecticut, USA
 start: 2010
 end: 
-size: 1-3
+size:
+  - 1-3
 image: "[[../../../assets/capital-institute-homepage.png]]"
+logo: "[[../../../assets/Capital-Institute-Logo.png]]"
 sectors:
   - Economics & Business
 activities:
@@ -20,9 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-
-![[../../../assets/capital-institute-homepage.png]]
-
 >The Capital Institute is a 501(c)3 non-profit organization reimagining our economic and financial systems to promote the transformation to a more just and regenerative world.
 
 >The Capital Institute has pioneered a new space for holistic economic thought that draws on the latest science of living systems, global wisdom traditions, and 20 years of real world experience at the pillar of global finance on Wall Street.

@@ -8,8 +8,10 @@ locations:
   - Fife, Scotland, UK
 start: 1913
 end: 
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/carnegie-trust-homepage.png]]"
+logo: "[[../../../assets/carnegie-trust-logo.png]]"
 sectors:
   - Health & Wellbeing
   - Governance & Community
@@ -19,8 +21,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/carnegie-trust-homepage.png]]
-
 >Our purpose is better wellbeing for people in the UK and Ireland. Our experience tells us that we can have the biggest impact on people’s lives when we influence decision-makers, whether these are businesses, politicians, civil or public services, or nongovernmental organisations.
 >
 >We work with partners to contribute to what is known about wellbeing, testing and studying what works in practice. We then use evidence to make the case for which approaches and systems need to change, and recommend how to make that happen.

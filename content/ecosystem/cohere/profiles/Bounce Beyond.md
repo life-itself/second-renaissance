@@ -8,8 +8,10 @@ locations:
   - not-found
 start: 
 end: 
-size: 4-10
+size:
+  - 4-10
 image: "[[../../../assets/bounce-beyond-homepage.png]]"
+logo: "[[../../../assets/bouncebeyond-logo.webp]]"
 sectors:
   - Economics & Business
   - Governance & Community
@@ -18,8 +20,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/bounce-beyond-homepage.png]]
-
 >Bounce Beyond is a progressive agency in service to people and initiatives who are accelerating systemic transformation. We are co-creating a shift from exploitive [sic] systems and power structures towards socially just and equitable societies in a flourishing natural world."
 https://www.bouncebeyond.global/
 

@@ -9,8 +9,10 @@ locations:
   - Paris, France
 start: 2021
 end: 
-size: 51-100
+size:
+  - 51-100
 image: "[[../../../assets/AXA-homepage.png]]"
+logo: "[[../../../assets/axa-climate-logo.svg]]"
 sectors:
   - Environment, Food & Water
   - Economics & Business
@@ -19,8 +21,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/AXA-homepage.png]]
-
 >We provide resources to educate and inform organisations about environmental sustainability.
 
 >**A new approach to sustainable transition training**
