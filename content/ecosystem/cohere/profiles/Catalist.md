@@ -9,8 +9,10 @@ locations:
   - not-found
 start: 
 end: 
-size: " 4-10"
+size:
+  - " 4-10"
 image: "[[../../../assets/catalist-homepage.png]]"
+logo: "[[../../../assets/Catalist-Logo.svg]]"
 sectors:
   - Media & Communications
   - Education & Learning
@@ -26,9 +28,7 @@ metadata_version: "1"
  >Catalist leverages curation across communities to create crowdsourced directories of knowledge from around the globe.
  
  https://www.catalist.network/
-
-![[../../../assets/catalist-homepage.png]]
-
+ 
 ### Key people 
 
 - Vincent Arena, Founder

@@ -9,8 +9,10 @@ locations:
   - not-found
 start: 
 end: 
-size: " 4-10"
+size:
+  - " 4-10"
 image: "[[../../../assets/brand-earth-homepage.png]]"
+logo: "[[../../../assets/brand-earth-logo.png]]"
 sectors:
   - Economics & Business
 activities:
@@ -18,8 +20,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/brand-earth-homepage.png]]
-
 >**Vision**
 >Transform commerce to fund a just transition to a regenerative earth. 
 >
