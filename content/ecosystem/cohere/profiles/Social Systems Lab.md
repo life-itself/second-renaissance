@@ -5,7 +5,8 @@ contributors:
   - Catherine Tran
 title: Social Systems Lab
 url: https://www.socialsystems.io/
-locations: 
+locations:
+  - not-found
 start: 
 end: 
 size: 

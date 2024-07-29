@@ -8,8 +8,10 @@ locations:
   - Frome, UK
 start: 2015
 end: 
-size: not-found
-image: "[[../../../assets/42-acres-homepage.png]]"
+size:
+  - not-found
+image: '{"url": "https://uploads-ssl.webflow.com/6048d94d2e420e988bf6db86/6125408cd14b47111f92e421_TM-42ACRES-AUG21-2.jpg",  "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645013187/Ecosystem%20Mapping/42_pdytia.jpg  cached_new: /img/42_pdytia.jpg"}'
+logo: "[[../../../assets/42-acres-logo.svg]]"
 sectors:
   - Health & Wellbeing
   - Environment, Food & Water
@@ -19,9 +21,8 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+curation_status: Y
 ---
-![[../../../assets/42-acres-homepage.png]]
-
 > We use our deepest intuition, ancient tools and shared knowledge to establish [[regenerative]] spaces, curate transformational experiences, and foster opportunities to learn, heal and grow.
 (https://www.42acres.com/)
 

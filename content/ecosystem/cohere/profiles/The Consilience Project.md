@@ -4,10 +4,12 @@ contributors:
   - Catherine Tran
 title: The Consilience Project
 url: https://consilienceproject.org/
-locations: 
+locations:
+  - not-found
 start: 2021
 end: 2022
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/the-consilience-project.png]]"
 sectors:
   - Governance & Community

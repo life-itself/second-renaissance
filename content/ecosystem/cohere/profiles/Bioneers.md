@@ -5,10 +5,11 @@ contributors:
 title: Bioneers
 url: https://bioneers.org/
 locations:
-  - Santa Fe, US
+  - Santa Fe, USA
 start: 1990
 end: 
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/bioneers-homepage.png]]"
 sectors:
   - Environment, Food & Water
