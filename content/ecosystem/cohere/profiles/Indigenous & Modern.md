@@ -9,8 +9,11 @@ start: 2020
 end: 
 size:
   - 1-3
-image: "[[../../assets/indigenous-and-modern-homepage.png]]"
-sectors: 
+image: "[[../../../assets/indigenous-and-modern-homepage.png]]"
+logo: "[[../../../assets/indigenousandmodern-logo.png]]"
+sectors:
+  - Governance & Community
+  - Relations & Peace
 activities:
   - Education & Training
   - Consulting & Advisory
@@ -18,8 +21,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../assets/indigenous-and-modern-homepage.png]]
-
 > We are a global network of organizations, indigenous leaders and social entrepreneurs working towards [[regenerative]] futures.
 > 
 > Our community comes from diverse indigenous and non-indigenous backgrounds. Together, we develop our capacity to catalyze systemic change. We share transformative experiences, resources, knowledge and tools.
@@ -70,11 +71,11 @@ Their main offerings for individuals are:
 
 ### Holistic approach
 
-![[../../assets/Screenshot 2023-12-21 at 15.33.20.png]]
+![[../../../assets/Screenshot 2023-12-21 at 15.33.20.png]]
 
 ### Five key pillars
 
-![[../../assets/Screenshot 2023-12-21 at 15.45.56.png]]
+![[../../../assets/Screenshot 2023-12-21 at 15.45.56.png]]
 ### Keywords
 
 - holistic approaches
@@ -92,7 +93,7 @@ Their main offerings for individuals are:
 ## Key Educational Resources
 
 - *Collaborating for Systems Change: Practical Guide for Combining Indigenous and Modern Practices* (a free 18-page PDF guide, downloadable from: https://www.indigenousandmodern.com/free-guide/) 
-![[../../assets/Indigenous-Modern-Toolkit.pdf]]
+![[../../../assets/Indigenous-Modern-Toolkit.pdf]]
 
 ## Connections
 

@@ -6,17 +6,23 @@ title: Joysong Collective
 url: https://www.joysong.co/
 locations:
   - Sebastopol, USA
-start: 
+start: "2023"
 end: 
-size: 1-3
-image: "[[../../assets/joysong-homepage.png]]"
-sectors: 
-activities: 
+size:
+  - 11-20
+image: "[[../../../assets/joysong-homepage.png]]"
+logo: "[[../../assets/joysong-logo.jpeg]]"
+sectors:
+  - Spirituality & Religion
+  - Economics & Business
+  - Relations & Peace
+activities:
+  - Community Spaces
+  - Events & Retreats
+  - Funding
 cohere: true
 metadata_version: "1"
 ---
-![[../../assets/joysong-homepage.png]]
-
 > **We live in a time of deep yearning for full-throated aliveness.** The dominant, western myths of endless acquisition, increasing control, and individual separation are crumbling. There are macro-catastrophes and geopolitics and revolutions at play. But at some basic level, we simply know in our bones that we can be more fully alive in ways our current paradigms don’t support.
 >
 > The Joysong Collective is a place to re-discover our fundamental joy, including and especially in the everyday places (like livelihood, parenting, grief) where we are often amnesic to remembering our already-wholeness. ...
@@ -73,7 +79,7 @@ They seek paradigm shifts from:
 - dominance --> co-creation
 - separation --> interbeing
 
-![[../../assets/joysong-paradigm.png]]
+![[../../../assets/joysong-paradigm.png]]
 ### Internal practice
 
 They seek to practise their values in their own financial and organisational model, e.g.:
@@ -86,7 +92,7 @@ They seek to practise their values in their own financial and organisational mod
 
 ### Organisational structure and roles
 
-![[../../assets/joysong-structure.png]]
+![[../../../assets/joysong-structure.png]]
 
 ## Inspirations
 
