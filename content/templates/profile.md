@@ -21,7 +21,7 @@ Please refer to [[profile-documentation]] for guidance on how to fill in this pa
 
 ## Theory of Change
 
-## Key Educational Resources
+## Key Learning Resources
 
 ## Connections
 
