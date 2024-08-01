@@ -78,7 +78,7 @@ The following organisations are listed as "Friends of 42 Acres" on their homepag
 - [[Be The Earth Foundation]]
 - [[../../profiles/st-ethelburgas|st-ethelburgas]]
 - [[School of System Change]]
-- [[Gaia foundation]]
+- [[Gaia Foundation]]
 - [[../../profiles/culture-hack-labs|culture-hack-labs]]
 ## Links
 [1]: https://www.42acres.com/our-story/food-and-farm 
