@@ -11,6 +11,7 @@ end:
 size:
   - 4-10
 image: "[[../../../assets/children-of-the-earth.png]]"
+logo: "[[../../../assets/coe-logo.png]]"
 sectors:
   - Relations & Peace
   - Spirituality & Religion
@@ -27,8 +28,6 @@ metadata_version: "1"
 >Children of the Earth inspires and unites young people through personal and social transformation to create a peaceful and sustainable world.
 https://www.coeworld.org/about-us
 
-![[../../../assets/children-of-the-earth.png]]
-
 >Children of the Earth, founded by Nina Meyerhof and by a grass-roots coalition of amazing ambassadors, offers young people leadership skills programs, educational workshops and attendance at distinguished conferences. We instill the concepts of global cooperation, multicultural understanding, spiritual values and ethical living.
 >
 >Children of the Earth’s programs focus on building the youth spiritual movement for world consciousness. We offer educational, interactive and interfaith gatherings, work with local community groups to develop self-sustaining projects and invite young people to a virtual platform designed for positive social exchange.
@@ -40,11 +39,6 @@ https://www.coeworld.org/our-vision
 
 - Nina Meyerhof, President & Founder
 
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

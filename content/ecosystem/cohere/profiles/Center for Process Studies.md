@@ -9,8 +9,10 @@ locations:
   - Portland, Oregon, USA
 start: "1973"
 end: 
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/center-for-process-studies-homepage.png]]"
+logo: "[[../../../assets/center-for-process-studies-logo.webp]]"
 sectors:
   - Science & Technology
   - Spirituality & Religion
@@ -22,8 +24,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/center-for-process-studies-homepage.png]]
-
 >The Center for Process Studies (CPS) is a nonprofit think-and-action tank that conducts interdisciplinary research and education to cultivate holistic understanding for human and planetary flourishing.
 >
 >Founded in 1973 by John B. Cobb, Jr. and David Ray Griffin, CPS is influenced by the process-relational philosophy of Alfred North Whitehead (1861-1947)—an ecological worldview that considers interdependence, change, and intrinsic value to be core features of reality. Accordingly, CPS programming engages three distinct, yet interrelated, areas of concern: 1) science & philosophy, 2) human experience & meaning, and 3) society & sustainability. Within and between these areas of inquiry CPS works to deepen understanding of what the world is like, what it means to be human, and how we should live. As Whitehead once said, “As we think, we live. This is why the assemblage of philosophic ideas is more than a specialist study. It moulds our type of civilization.” And that’s ultimately what CPS is about; advancing more sustainable, equitable, peaceful, and meaningful ways of living—what we call an ecological civilization.

@@ -9,8 +9,10 @@ locations:
   - Jakarta, Indonesia
 start: 2015
 end: 
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/citizen-os.png]]"
+logo: "[[../../../assets/cos-logo.svg]]"
 sectors:
   - Governance & Community
   - Science & Technology
@@ -19,7 +21,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/citizen-os.png]]
 >We are a civic tech non-profit organisation, with headquarters based in Tallinn, Estonia, and a second office in Jakarta, Indonesia, both of which are working on a local level, but also running together many international projects.
 >
 >Our mission is “To empower as many people as possible to participate in respectful, meaningful discussions in order to collaboratively decide on issues that affect their wellbeing.”
@@ -30,14 +31,6 @@ metadata_version: "1"
 >2. **Running participatory e-democracy projects**, which together serve as the driving force behind our commitment to creating a society where every voice matters, and collective decisions are shaped by the collective will of the people.
 
 https://citizenos.com/about-us/
-
-## Key People
-
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

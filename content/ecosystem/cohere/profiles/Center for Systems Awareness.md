@@ -8,8 +8,10 @@ locations:
   - North Andover, Massachusetts, USA
 start: 1997
 end: 
-size: 11-20
+size:
+  - 11-20
 image: "[[../../../assets/systems-awareness-homepage.png]]"
+logo: "[[../../../assets/CSA_logo.webp]]"
 sectors:
   - Education & Learning
 activities:
@@ -25,8 +27,6 @@ metadata_version: "1"
 > We support and connect local communities in diverse settings developing a 'compassionate systems' approach to education that connects capacity building and community building to research and practice. This larger budding global community of compassionate systems practitioners, in turn, is part of a wider effort to come to a deeper understanding of the subtle aspects of systems awareness needed for sustaining deep change over time.
 > 
 'About', https://systemsawareness.org/about/
-
-![[../../../assets/systems-awareness-homepage.png]]
 
 ## Mission 
 
