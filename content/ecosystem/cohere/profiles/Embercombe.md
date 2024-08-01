@@ -8,12 +8,13 @@ locations:
   - Exeter, UK
 start: 2001
 end: 
-size: 4-10
+size:
+  - 4-10
 image: "[[../../../assets/embercombe-homepage.png]]"
 sectors:
-  - Education and Learning
   - Environment, Food, and Water
-  - Health and wellbeing
+  - Education & Learning
+  - Health & Wellbeing
 activities:
   - Education & Training
   - Community Spaces
