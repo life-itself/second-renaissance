@@ -1,0 +1,4 @@
+body { font-family: Georgia, Palatino, Times, sans-serif; line-height: 150% !important; }
+h1 { display: block; border-bottom: 1px solid #666; font-size: 1em !important; padding-bottom: 1em; }
+h2 { text-transform: capitalize; }
+div#menu, div#footer, div#dictionary, div#frame-home, div#frame-home-fader, div#frame-interior, div#frame-interior-fader, div.rightcol img { display: none; }

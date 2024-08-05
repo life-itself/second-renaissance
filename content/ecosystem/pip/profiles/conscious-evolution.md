@@ -13,7 +13,7 @@ started: 2017
 ended: ""
 active: Y
 people:
-  - Robb Cobbold
+  - Rob Cobbold
 notes_data_entry: location within england unspecified - charlotte
 facebook: https://www.facebook.com/evoconscious
 twitter: https://twitter.com/EvoConscious
