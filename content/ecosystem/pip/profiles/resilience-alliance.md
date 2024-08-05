@@ -1,19 +1,17 @@
 ---
-id: resilience_alliance
+id: resilience-alliance
 url: https://www.resalliance.org/
-tagline: "Advancing research and understanding on social-ecological systems for resilient and sustainable futures."
+tagline: Advancing research and understanding on social-ecological systems for resilient and sustainable futures.
 activity:
   - research
 topic:
   - development
 regions: Global
-locations:
-  - 
+locations: 
 started: 1999
 ended: ""
-active: "Y"
-people:
-  - 
+active: Y
+people: 
 notes_data_entry: ""
 facebook: 
 twitter: https://twitter.com/resilience_RA
@@ -30,9 +28,9 @@ image:
 title: Resilience Alliance
 curation_status: YY
 social_change:
-  inner: 0.0
-  cultural: 0.0
-  systems: 1.0
+  inner: 0
+  cultural: 0
+  systems: 1
 ---
 
 The Resilience Alliance is an international, multidisciplinary research organization that explores the dynamics of social-ecological systems. RA members collaborate across disciplines to advance the understanding and practical application of resilience, adaptive capacity, and transformation of societies and ecosystems in order to cope with change and support human well-being.
