@@ -11,7 +11,7 @@ end:
 size:
   - 11-20
 image: "[[../../../assets/joysong-homepage.png]]"
-logo: "[[../../assets/joysong-logo.jpeg]]"
+logo: "[[../../../assets/joysong-logo.jpeg]]"
 sectors:
   - Spirituality & Religion
   - Economics & Business

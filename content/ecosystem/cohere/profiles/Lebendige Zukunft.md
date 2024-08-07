@@ -8,9 +8,10 @@ locations:
   - Germany
   - Switzerland
 start: 2019
-end: 
+end: present
 size: 
 image: "[[../../../assets/lebendige-zukunft-homepage.png]]"
+logo: 
 sectors:
   - Environment, Food & Water
   - Justice & Restoration
@@ -34,13 +35,8 @@ metadata_version: "1"
 >One of the central goals of our association is to build an academy for aliveness and the application of original knowledge in modern times. In doing so, we explore indigenous approaches in a practical way and test their relevance for current challenges.
 
 https://lebendigezukunft.org/en_gb/wir/
-## Key People
 
 ## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 ### Influences & Inspirations
 

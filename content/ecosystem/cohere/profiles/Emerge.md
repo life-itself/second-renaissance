@@ -8,10 +8,11 @@ locations:
   - London, UK
   - Berlin, Germany
 start: 2018
-end: 
+end: present
 size:
   - 4-10
 image: "[[../../../assets/emerge-homepage.png]]"
+logo: "[[../../../assets/Emerge_Logo.png]]"
 sectors:
   - Media & Communications
 activities:
@@ -21,8 +22,6 @@ cohere: true
 metadata_version: "1"
 ---
 
-![[../../../assets/emerge-homepage.png]]
-
 >Emerge is a network responding to the question of what is happening within, between and beyond human beings in a civilisation that appears to be dying. We connect pioneers, seekers, innovators and their initiatives. We highlight what we share and seek to make visible the patterns that connect us. We help each other to respond to the most urgent challenges of our time. Together, we will sow the seeds of a new civilisation.
 
 >The emergence of a more conscious society has already begun. Emerge connects transformative and inspirational innovators and initiatives across the globe. We spotlight the most daring pathfinders and visionaries who are using systems thinking, driving spiritual renewal or personal and cultural transformation, and who lovingly seduce cynical minds into seeing more beautiful alternative worlds.
@@ -31,13 +30,6 @@ metadata_version: "1"
 
 https://www.whatisemerging.com/about
 
-## Key People
-
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

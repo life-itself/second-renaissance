@@ -12,6 +12,7 @@ end:
 size:
   - 4-10
 image: "[[../../../assets/flourish-project.png]]"
+logo: "[[../../../assets/flourishproject-logo.png]]"
 sectors:
   - Health & Wellbeing
 activities:
@@ -20,8 +21,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/flourish-project.png]]
-
 >The Flourish Project introduces a new and powerful framework for understanding and mapping human wellbeing that promotes community involvement and whole-systems thinking. Currently moving into its pilot period, it offers parents, teachers, schools, care-homes, businesses, city-leaders and national policymakers the ability to better understand and promote the health and wellbeing of both themselves and their own local communities and populations. In each case, it provides a quick and easy way to map and evaluate existing wellbeing scales and indicators that promotes eco-systemic thinking and the need to  'measure what matters'. Above all, it underpins the call for a more caring, sustainable and compassionate world.
 https://www.flourishproject.net/
 
@@ -35,13 +34,6 @@ https://www.flourishproject.net/vision-and-values.html
 ## Theory of Change
 
 - https://www.flourishproject.net/theory-of-change.html
-
-## Key Educational Resources
-
-- Books and resources listed here: https://www.flourishproject.net/publications.html
-
-## Connections
-
 ### Inspirations & Influences
 
 #### Individuals
@@ -53,7 +45,13 @@ Richard Barrett, Elinor Ostrom and David Sloan Wilson, the biologists Gregory Ba
 - Systems Thinking
 - Ecology of Wellbeing
 
-### Partners
+## Key Learning Resources
+
+- Books and resources listed here: https://www.flourishproject.net/publications.html
+
+## Connections
+
+Partners include:
 
 - [[Spirit of Humanity Forum]]
 

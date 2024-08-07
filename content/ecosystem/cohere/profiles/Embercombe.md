@@ -11,6 +11,7 @@ end:
 size:
   - 4-10
 image: "[[../../../assets/embercombe-homepage.png]]"
+logo: "[[../../../assets/Embercombe-main-logostrap-colour-01.png]]"
 sectors:
   - Environment, Food, and Water
   - Education & Learning
@@ -22,8 +23,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/embercombe-homepage.png]]
-
 > Embercombe is a beautiful 50 acre [[rewilding]] estate on the edge of Dartmoor. It is a place to find a deep connection with nature – wild nature around us and wild nature within us.
 >
 > We run various programmes, courses and events each year to help you connect to yourself, to nature, and to community. It is a place to breathe, to reconsider, to regenerate and to relearn. It is a place to find the gifts that we have to offer right now in the beauty and peace of Nature.

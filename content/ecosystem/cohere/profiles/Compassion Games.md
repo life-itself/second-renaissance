@@ -7,9 +7,11 @@ url: https://www.compassiongames.org/
 locations:
   - Washington, USA
 start: 2012
-end: -4
-size: 4-10
+end: 
+size:
+  - 4-10
 image: "[[../../../assets/compassion-games.png]]"
+logo: "[[../../../assets/compassiongames-logo.png]]"
 sectors:
   - Relations & Peace
 activities:
@@ -18,8 +20,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/compassion-games.png]]
-
 >**Compassion Games: Survival of the Kindest** is a _community engagement experience_ that invites people around the world to inspire one another to reveal and promote acts of compassion that better our lives, our communities, and all life on Earth.
 https://www.compassiongames.org
 
@@ -42,10 +42,6 @@ https://www.compassiongames.org/about-us/
 >Compassion is an antidote to the fear, disconnection, and social isolation of our time. Scientific research abounds in revealing the intrinsic human necessity for compassion to flourish in our personal, professional, and civic lives. As a profound source of power within each of us, playing with compassion inspires us to connect authentically with one another, rejuvenating our spirits as we _actively live into a positive vision of our world, together_.
 
 https://www.compassiongames.org/about-us/
-
-## Key Educational Resources
-
-## Connections
 
 ### Influences & Inspirations
 

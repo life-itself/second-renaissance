@@ -7,10 +7,11 @@ url: https://consciousfoodsystems.org/
 locations:
   - International
 start: 2021
-end: 
+end: present
 size:
   - 4-10
 image: "[[../../../assets/cofsa-homepage.png]]"
+logo: "[[../../../assets/Cofsa-Master-Blue-Grey--768x257.png]]"
 sectors:
   - Environment, Food & Water
 activities:
@@ -26,7 +27,6 @@ metadata_version: "1"
 
 https://consciousfoodsystems.org/how-we-work/
 
-![[../../../assets/cofsa-homepage.png]]
 ### What They Do
 
 >CoFSA brings together an intentional community of peers, where individuals and organizations can connect and practice together, learn and exchange knowledge, support and inspire each other, as well as collaborate to build conscious food systems.
@@ -57,15 +57,10 @@ https://consciousfoodsystems.org/how-we-work/
 >- Conscious Consumption: _to support the adoption of more healthy, sustainable and local diets, and strengthen traditional food cultures._
 
 https://consciousfoodsystems.org/how-we-work/
-## Key People
 
 ## Theory of Change
 
 Manifesto: https://consciousfoodsystems.org/manifesto/
-
-## Key Educational Resources
-
-## Connections
 
 
 
