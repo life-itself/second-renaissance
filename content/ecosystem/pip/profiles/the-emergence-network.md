@@ -15,7 +15,7 @@ started: 2019
 ended: ""
 active: Y
 people:
-  - Bayo Ako
+  - Bayo Akomolafe
 notes_data_entry: ""
 facebook: https://www.facebook.com/theemergencenetwork
 twitter: not-found
