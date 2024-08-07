@@ -8,11 +8,11 @@ url: https://thelaszloinstitute.com/
 locations:
   - Trieste, Italy
 start: "2015"
-end: 
+end: present
 size:
   - 11-20
 image: "[[../../../assets/laszlo-institute-homepage.png]]"
-logo: "[[../../assets/laszlo-institute-logo.png]]"
+logo: "[[../../../assets/laszlo-institute-logo.png]]"
 sectors:
   - Spirituality & Religion
   - Science & Technology

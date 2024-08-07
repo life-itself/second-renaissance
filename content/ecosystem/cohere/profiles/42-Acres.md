@@ -7,10 +7,9 @@ url: https://www.42acres.com/
 locations:
   - Frome, UK
 start: 2015
-end: 
-size:
-  - not-found
-image: '{"url": "https://uploads-ssl.webflow.com/6048d94d2e420e988bf6db86/6125408cd14b47111f92e421_TM-42ACRES-AUG21-2.jpg",  "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1645013187/Ecosystem%20Mapping/42_pdytia.jpg  cached_new: /img/42_pdytia.jpg"}'
+end: present
+size: []
+image: "[[../../../assets/42-acres-homepage.png]]"
 logo: "[[../../../assets/42-acres-logo.svg]]"
 sectors:
   - Health & Wellbeing
@@ -84,5 +83,4 @@ The following organisations are listed as "Friends of 42 Acres" on their homepag
 [1]: https://www.42acres.com/our-story/food-and-farm 
 [2]: https://www.42acres.com/our-story/regenerative-promise
 
-1: https://www.42acres.com/our-story/food-and-farm 
-2: https://www.42acres.com/our-story/regenerative-promise
+

@@ -7,7 +7,7 @@ url: https://metamoderna.org/
 locations:
   - Sweden
 start: "2014"
-end: 
+end: present
 size:
   - 1-3
 image: "[[../../../assets/metamoderna-homepage.png]]"

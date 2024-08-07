@@ -9,7 +9,7 @@ locations:
   - St. Paul, USA
   - International
 start: "1978"
-end: 
+end: present
 size:
   - 11-20
 image: "[[../../../assets/pathwaystopeace-homepage.png]]"

@@ -8,7 +8,7 @@ url: https://reospartners.com/
 locations:
   - Geneva, Switzerland
 start: "2007"
-end: 
+end: present
 size:
   - 51-100
 image: "[[../../../assets/reos-homepage.png]]"

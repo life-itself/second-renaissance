@@ -8,7 +8,7 @@ url: https://www.sieallianceuk.org/
 locations:
   - UK
 start: "2000"
-end: 
+end: present
 size:
   - " 4-10"
 image: "[[../../../assets/SIEUK-homepage.png]]"

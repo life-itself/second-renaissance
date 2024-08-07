@@ -8,9 +8,11 @@ url: https://www.youthxyouth.com/
 locations:
   - USA
 start: 2020
-end: 
-size: 4-10
+end: present
+size:
+  - 4-10
 image: "[[../../../assets/youthxyouth.png]]"
+logo: "[[../../../assets/youthxyouth-logo.png]]"
 sectors:
   - Education & Learning
 activities:
@@ -20,8 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/youthxyouth.png]]
-
 >We are a global community of youth activists and adult allies.
 >
 >Our mission is to accelerate the process of young people influencing, designing, and transforming their learning experiences and education systems.
@@ -36,10 +36,6 @@ https://www.youthxyouth.com/programs/community-calls
 Valentina Raman; Zineb Mouhyi; Erioluwa Adeyinka
 
 ## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 ### Inspirations & Influences
 

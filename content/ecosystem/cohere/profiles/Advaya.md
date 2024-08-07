@@ -8,7 +8,7 @@ locations:
   - London, UK
   - Online
 start: "2015"
-end: 
+end: present
 size:
   - 4-10
 image: "[[../../../assets/advaya-homepage.png]]"

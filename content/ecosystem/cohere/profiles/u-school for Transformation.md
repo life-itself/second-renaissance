@@ -9,7 +9,7 @@ locations:
   - International
   - Online
 start: "2015"
-end: 
+end: present
 size: 
 image: "[[../../../assets/uschool-homepage.png]]"
 logo: "[[../../../assets/uschool-logo.png]]"

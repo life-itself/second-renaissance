@@ -8,10 +8,11 @@ url: https://www.sourceofsynergyfoundation.org/
 locations:
   - not-found
 start: 2007
-end: 
+end: present
 size:
   - 11-20
 image: "[[../../../assets/source-of-synergy.png]]"
+logo: "[[../../../assets/sourceofsynergyfoundation-logo.png]]"
 sectors:
   - Spirituality & Religion
   - Relations & Peace
@@ -22,8 +23,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-
-![[../../../assets/source-of-synergy.png]]
 
 >The Source of Synergy Foundation is a 501c3 not-for-profit educational organization whose purpose is to synergize individuals, organizations and efforts by tapping into the infinite source of collective consciousness, creativity and potential for the common good.
 
@@ -36,10 +35,6 @@ https://www.sourceofsynergyfoundation.org/aboutus
 - Diane Williams, Founder & President
 
 ## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 ### Influences & Inspirations
 

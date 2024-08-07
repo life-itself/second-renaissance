@@ -7,7 +7,7 @@ url: https://www.thesprouts.co/home
 locations:
   - Havelange, Belgium
 start: "2018"
-end: 
+end: present
 size:
   - 1-10
 image: "[[../../../assets/img/sprouts-homepage.png]]"

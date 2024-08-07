@@ -7,9 +7,10 @@ url: https://joinseeds.earth/
 locations:
   - not-found
 start: 2017
-end: 
+end: present
 size: 
 image: "[[../../../assets/seeds.png]]"
+logo: "[[../../../assets/seeds-logo.svg]]"
 sectors:
   - Economics & Business
   - Science & Technology
@@ -18,8 +19,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/seeds.png]]
-
 >Seeds is a currency that aligns money with value. We value people, planet and prosperity for all.
 
 >We came together to co-create a new economic system. SEEDS offers tools to help you, your business and your movement regenerate our planet and encourage collaboration, cooperation and community building. We are changing the way we assign and distribute value.
@@ -30,13 +29,6 @@ metadata_version: "1"
 
 https://joinseeds.earth/
 
-## Key People
-
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

@@ -11,7 +11,7 @@ end: present
 size:
   - 1-3
 image: "[[../../../assets/aschoolcalledhome-homepage.png]]"
-logo: '{"url": "https://i1.wp.com/aschoolcalledhome.org/wp-content/uploads/2018/03/Screen-Shot-2018-03-08-at-14.17.19.jpg?w=1440&ssl=1", "cached": "https://res.cloudinary.com/ds7qslkd0/image/upload/v1636973115/Ecosystem%20Mapping/Home_wg3srp.webp  cached_new: /img/Home_wg3srp.webp"}'
+logo: "[[../../../assets/aschoolcalledhome-logo.png]]"
 sectors:
   - Education & Learning
   - Relations & Peace
@@ -38,13 +38,6 @@ https://aschoolcalledhome.org/
 - Dougald Hine
 - Anna Bjorkman
 
-## Theory of Change
-
-
-## Key Educational Resources
-
-
-## Connections
 
 
 

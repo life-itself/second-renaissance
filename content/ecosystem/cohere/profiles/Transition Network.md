@@ -4,16 +4,38 @@ contributors:
   - Catherine Tran
 title: Transition Network
 url: https://transitionnetwork.org/
-locations: 
+locations:
+  - UK
+  - Australia
+  - Austria
+  - Belgium
+  - Brazil
+  - Colombia
+  - Croatia
+  - Germany
+  - France
+  - Finland
+  - Japan
+  - Luxembourg
+  - Mexico
+  - Portugal
+  - Switzerland
+  - Spain
+  - Sweden
+  - USA
 start: "2007"
-end: 
+end: present
 size: 
 image: "[[../../../assets/transitionnetwork-homepage.png]]"
 logo: "[[../../../assets/tn-logo.svg]]"
 sectors:
   - Infrastructure & Resources
   - Governance & Community
-activities: 
+  - Economics & Business
+activities:
+  - Education & Training
+  - Events & Retreats
+  - Advocacy & Activism
 cohere: true
 metadata_version: "1"
 ---
@@ -39,15 +61,12 @@ https://transitionnetwork.org/about-the-movement/the-charity/
 
 https://transitionnetwork.org/about-the-movement/what-is-transition/
 
-## Key People
-
-## Theory of Change
 
 ## Key Learning Resources
 
 - Essential Guide to Doing Transition (contains everything you need to know to get started in your community, available in 17 languages): https://transitionnetwork.org/resources-essential-guide-transition/
+- Inner Transition resources: https://transitionnetwork.org/do-transition/inner/ 
 
-## Connections
 
 
 

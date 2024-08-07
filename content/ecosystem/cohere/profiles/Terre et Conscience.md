@@ -7,7 +7,7 @@ url: https://www.terreetconscience.be/
 locations:
   - Braine L'Alleud, Belgium
 start: "2009"
-end: 
+end: present
 size:
   - 1-10
 image: "[[../../../assets/img/terre-et-conscience.png]]"

@@ -8,9 +8,11 @@ url: https://postgrowth.org/
 locations:
   - Oregon, USA
 start: 2010
-end: 
-size: 11-20
+end: present
+size:
+  - 11-20
 image: "[[../../../assets/postgrowth-institute.png]]"
+logo: "[[../../../assets/Post-Growth-Institute-Logo.webp]]"
 sectors:
   - Economics & Business
 activities:
@@ -22,8 +24,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/postgrowth-institute.png]]
-
 >The Post Growth Institute is an international, not for profit organization working to enable collective wellbeing within ecological limits.
 >
 >At the Post Growth Institute, our goal is to help guide the way to that more beautiful world your heart knows is possible. We help shift the worldview, so that more people understand the multitude of alternatives when we look at our challenges through an empowered, post-growth lens.
@@ -33,17 +33,14 @@ https://postgrowth.org/
 
 ## Key People
 
-
 Crystal Arnold; Dani Leonardo; Robert Wanalo Onono; Donnie Maclurcan; Dien Vo; Tyler Harris
-
-## Theory of Change
 
 ## Key Educational Resources
 
 - *How on Earth* (Book)  
 - Blog posts: https://medium.com/postgrowth
 
-## Connections
+
 
 
 

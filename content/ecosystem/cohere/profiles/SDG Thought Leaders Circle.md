@@ -8,7 +8,7 @@ url: https://sdgthoughtleaderscircle.org/
 locations:
   - International
 start: "2020"
-end: 
+end: present
 size:
   - " 4-10"
 image: "[[../../../assets/SDG-thought-leaders-homepage.png]]"
