@@ -8,9 +8,11 @@ url: https://strp.nl/
 locations:
   - Eindhoven, Netherlands
 start: 2006
-end: 
-size: " 4-10"
+end: present
+size:
+  - " 4-10"
 image: "[[../../../assets/strp.jpg]]"
+logo: "[[../../../assets/strp_festival_logo.jpeg]]"
 sectors:
   - Arts & Culture
   - Science & Technology
@@ -27,8 +29,6 @@ metadata_version: "1"
 
 https://strp.nl/about
 
-![[assets/strp.jpg]]
-
 ## Key People
 
 - Joanne van der Woude, Director
@@ -39,15 +39,16 @@ https://strp.nl/about
 
 STRP believes that systems change begins with dialogue, artistic expression. and building community. They have a paradigmatic focus in this regard because they explore different future scenarios, including ones which might be radically transformative. The educational programs as well focus on the intersection of individual artistic expression and larger societal trends. 
 
+### Key Concepts, Methods & Frameworks
+
+- Futures Literacy
+
 ## Key Educational Resources
 
 Here are some of the ongoing educational events and workshops happening at STRP: [Activities - STRP Education](https://onderwijs.strp.nl/en/activities)
 
-## Connections
 
-### Influences & Inspirations
 
-- Futures Literacy
 
 
 

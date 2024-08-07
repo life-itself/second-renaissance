@@ -13,7 +13,7 @@ locations:
   - Quito, Ecuador
   - Cairo, Egypt
 start: "2012"
-end: 
+end: present
 size:
   - 21-50
 image: "[[../../../assets/ouishare-homepage.png]]"

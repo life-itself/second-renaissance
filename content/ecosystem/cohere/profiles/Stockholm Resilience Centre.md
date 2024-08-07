@@ -7,9 +7,11 @@ url: https://www.stockholmresilience.org/
 locations:
   - Stockholm, Sweden
 start: 2007
-end: 
-size: 101+
+end: present
+size:
+  - 101+
 image: "[[../../../assets/stockholm-resilience-centre-homepage.png]]"
+logo: "[[../../../assets/stockholmresiliencecentre-logo.svg]]"
 sectors:
   - Environment, Food & Water
   - Science & Technology
@@ -20,8 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/stockholm-resilience-centre-homepage.png]]
-
 >Stockholm Resilience Centre (SRC) is an international research centre on resilience and sustainability science
 >
 >Since its launch in 2007, SRC has developed into a world-leading science centre for addressing the complex challenges facing humanity.
@@ -34,13 +34,6 @@ metadata_version: "1"
 
 https://www.stockholmresilience.org/about-us.html
 
-## Key People
-
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

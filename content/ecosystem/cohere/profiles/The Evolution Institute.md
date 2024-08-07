@@ -11,7 +11,7 @@ locations:
   - Spain
   - Norway
 start: "2010"
-end: 
+end: present
 size:
   - 11-20
 image: "[[../../../assets/evolution-institute-homepage.png]]"

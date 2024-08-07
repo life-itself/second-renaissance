@@ -8,7 +8,7 @@ locations:
   - Hamburg, Germany
   - Thailand
 start: "2013"
-end: 
+end: present
 size:
   - " 4-10"
 image: "[[../../../assets/mindfulness-project-homepage.png]]"

@@ -7,9 +7,11 @@ url: www.luntfoundation.org
 locations:
   - Fribourg, Switzerland
 start: 2012
-end: 
-size: " 4-10"
+end: present
+size:
+  - " 4-10"
 image: "[[../../../assets/lunt-foundation.png]]"
+logo: "[[../../../assets/luntfoundation-logo.svg]]"
 sectors:
   - Health & Wellbeing
   - Media & Communications
@@ -20,9 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/lunt-foundation.png]]
-
-
 >**The Lunt Foundation** promotes regenerative solutions growing wealth from the perspectives of ecology, well-being and community.   
   >
 >Through our work, we seek to contribute to the elevation of collective consciousness for a more harmonious and loving world.   
@@ -35,13 +34,7 @@ metadata_version: "1"
 
 https://www.luntfoundation.org/
 
-## Key People
 
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

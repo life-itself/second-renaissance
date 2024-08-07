@@ -7,9 +7,10 @@ url: https://www.unify.org/
 locations:
   - San Francisco, California, USA
 start: 2012
-end: 
+end: present
 size: 
 image: "[[../../../assets/unify.png]]"
+logo: "[[../../../assets/unify-logo.webp]]"
 sectors:
   - Spirituality & Religion
   - Relations & Peace
@@ -21,19 +22,12 @@ cohere: true
 metadata_version: "1"
 ---
 
-![[../../../assets/unify.png]]
 >UNIFYING THE EMERGING GLOBAL MOVEMENT FOR WORLD PEACE
 >
 >UNIFY orchestrates Global Synchronized Events that inspire community-driven action campaigns for World Peace. During these events, we invite people of all backgrounds to meditate, host local ceremonies, pray, and contribute to a more loving, peaceful world in their own way. By unifying at these times we create a living example of a fundamental truth, we are all one. Together, we can give rise to an emerging planetary culture that embraces the interdependence and well-being of all.
 https://www.unify.org/about
 
-## Key People
-
 ## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 ### Inspirations & Influences
 

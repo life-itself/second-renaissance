@@ -7,9 +7,9 @@ title: Ubiquity University
 url: https://www.ubiquityuniversity.org/
 locations:
   - International/Online
-  - California, USA 
+  - California, USA
 start: "2012"
-end: 
+end: present
 size:
   - 11-20
 image: "[[../../../assets/ubiquity-homepage.png]]"

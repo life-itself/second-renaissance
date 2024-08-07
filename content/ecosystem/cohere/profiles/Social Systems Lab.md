@@ -5,12 +5,12 @@ contributors:
   - Catherine Tran
 title: Social Systems Lab
 url: https://www.socialsystems.io/
-locations:
-  - not-found
+locations: 
 start: 
 end: 
 size: 
 image: "[[../../../assets/social-systems-lab.png]]"
+logo: "[[../../../assets/SSL-Logo.png]]"
 sectors:
   - Science & Technology
   - Economics & Business
@@ -22,7 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/social-systems-lab.png]]
 >Social Systems lab is a not-for-profit design studio & social innovation lab prototyping and incubating tools for a transforming world. Because change, at least sustainable and regenerative change, and for all its philosophy and noble intent, comes down to good engineering. Or rather, engineering for the good of society.
 >
 >We are a _network_ of developers, designers, researchers, students activists and other makers of change from across the globe. We have joined in the shared purpose of understanding the mechanisms beneath our social systems with the goal of making them better in the most practical ways possible.
@@ -47,13 +46,7 @@ https://www.socialsystems.io/about-us
 
 https://www.socialsystems.io/projects
 
-## Key People
 
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

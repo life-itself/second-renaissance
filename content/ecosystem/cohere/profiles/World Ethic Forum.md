@@ -8,9 +8,11 @@ url: https://www.worldethicforum.com/en/home-en/
 locations:
   - Zurich, Switzerland
 start: 2022
-end: 
-size: 4-10
+end: present
+size:
+  - 4-10
 image: "[[../../../assets/world-ethic-forum.png]]"
+logo: "[[../../../assets/Logo_WorldEthicForum-2022-1960x1123-1.png]]"
 sectors:
   - Relations & Peace
 activities:
@@ -20,8 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/world-ethic-forum.png]]
-
 >A sense of division and powerlessness, and alienation run as deep undercurrents in today’s society at local, national, and global levels. These are often rooted in centuries-old injustices, unresolved traumas, and hierarchical worldviews that continue to fester and leave us often feeling helpless, afraid, and overwhelmed.
 >
 >Yet, there is in all of us a fundamental knowing and desire for balance, social connection, and belonging to others and life itself. Relationships between humans and the natural world are often a big source of nourishment.
@@ -52,9 +52,6 @@ Linard Bardill; Luea Ritter; Selina Lucarelli; Selina Lucarelli; Marco Gyger
 
 https://www.worldethicforum.com/en/the-story-of-change/
 
-## Key Educational Resources
-
-## Connections
 
 
 

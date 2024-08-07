@@ -7,9 +7,11 @@ url: https://www.sohforum.org/
 locations:
   - Reykjavik, Iceland
 start: 2012
-end: 
-size: 4-10
+end: present
+size:
+  - 4-10
 image: "[[../../../assets/soh-forum.png]]"
+logo: "[[../../../assets/sohforum_logo.png]]"
 sectors:
   - Spirituality & Religion
   - Governance & Community
@@ -25,9 +27,6 @@ https://www.sohforum.org/about/background/
 
 >The Forum focuses on spirituality in leadership, and explores new forms of governance underpinned by care, respect, trust, dialogue and relationships.
 https://www.sohforum.org/aim-ethos/
-
-
-![[../../../assets/soh-forum.png]]
 
 The organisation's aim is:
 
@@ -45,18 +44,19 @@ https://www.sohforum.org/aim-ethos/
 
 ## Theory of Change
 
-## Key Educational Resources
-
-- *Why Love Matters: Values in Governance* (book), https://www.sohforum.org/publications/why-love-matters-values-in-governance/
-- *Peacefulness: Being Peace and Making Peace* (book), https://www.sohforum.org/soh-press-presents-first-book/
-
-## Connections
-
 ### Inspirations & Influences
 
 - Mahatma Gandhi
 - Nelson Mandela
 - Martin Luther King
+
+## Key Educational Resources
+
+- *Why Love Matters: Values in Governance* (book), https://www.sohforum.org/publications/why-love-matters-values-in-governance/
+- *Peacefulness: Being Peace and Making Peace* (book), https://www.sohforum.org/soh-press-presents-first-book/
+
+
+
 
 
 

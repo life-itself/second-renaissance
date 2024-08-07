@@ -8,9 +8,11 @@ url: https://pocketproject.org/
 locations:
   - Berlin, Germany
 start: 2016
-end: 
-size: 4-10
+end: present
+size:
+  - 4-10
 image: "[[../../../assets/pocket-project.png]]"
+logo: "[[../../../assets/pocketproject-logo.png]]"
 sectors:
   - Health & Wellbeing
 activities:
@@ -20,8 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/pocket-project.png]]
-
 >The Pocket Project was founded by Thomas Hübl and Yehudit Sasportas to help induce a shift from trauma-inducing to trauma-informed, trauma sensitive and, finally, trauma-integrating institutions and societies.
 >
 >We are a non-profit, non-governmental organization and are funded entirely by the generous contributions of financial donors.
@@ -35,7 +35,6 @@ metadata_version: "1"
 >We raise awareness and train civil society and professionals about the global impact of and processes for integration of collective trauma. We develop trauma-informed social impact projects.
 
 https://pocketproject.org/about/
-## Key People
 
 ## Theory of Change
 
@@ -49,7 +48,7 @@ https://pocketproject.org/about/
 
 - Resource Library on Collective Trauma Integration: https://pocketproject.org/resource-library/
 
-## Connections
+
 
 
 

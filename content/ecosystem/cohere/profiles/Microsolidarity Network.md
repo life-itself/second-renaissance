@@ -8,7 +8,7 @@ locations:
   - Europe
   - USA
 start: "2018"
-end: 
+end: present
 size:
   - 4-10
 image: "[[../../../assets/microsolidarity-homepage.png]]"

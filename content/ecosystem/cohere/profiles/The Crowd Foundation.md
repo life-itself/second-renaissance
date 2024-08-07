@@ -8,9 +8,11 @@ url: http://www.crowd.ngo/index.html
 locations:
   - Netherlands
 start: 2016
-end: 
-size: 1-3
+end: present
+size:
+  - 1-3
 image: "[[../../../assets/crowd-foundation.png]]"
+logo: "[[../../../assets/crowdocracy-logo.png]]"
 sectors:
   - Governance & Community
 activities:
@@ -19,8 +21,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/crowd-foundation.png]]
-
 >The Crowd Foundation aims to bring crowdocracy to life, through
 >
 >- the spreading of the message (this website, speeches, blogs, etc etc),
@@ -37,13 +37,7 @@ http://www.crowd.ngo/crowdocracy/foundation.html
 >Crowdocracy offers a radical new way forward, one that allows all of us - not just some of us - to participate in how we are governed. Using technology and the insights of crowd wisdom, the authors describe how all of us can replace our elected officials and ultimately shape and govern our communities. A revolutionary idea that can be implemented in an evolutionary way.
 http://www.crowd.ngo/index.html
 
-## Key People
-
 ## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 ### Inspirations & Influences
 

@@ -7,10 +7,11 @@ url: https://collective-healing.org/
 locations:
   - International
 start: 2018
-end: 
+end: present
 size:
   - 11-20
 image: "[[../../../assets/collective-healing.png]]"
+logo: "[[../../../assets/UNESCO_Healing2022_logo-1.webp]]"
 sectors:
   - Justice & Restoration
   - Health & Wellbeing
@@ -28,16 +29,10 @@ https://collective-healing.org/
 >[It] is a joint initiative of the [UNESCO Routes of Enslaved Peoples Project,](http://www.unesco.org/new/en/social-and-human-sciences/themes/slave-route/) [Guerrand-Hermès Foundation for Peace,](http://ghfp.org/) and [Global Humanity for Peace Institute](https://ghfp.institute/unesco-initiative/)[...] It is supported by a number of [partners](https://collective-healing.org/home/partners/), and guided by [an Advisory Board consisting of multi-disciplinary experts.](https://collective-healing.org/home/about/advisory-board/)
 https://collective-healing.org/home/about/
 
-![[../../../assets/collective-healing.png]]
-## Key People
-
-## Theory of Change
-
 ## Key Educational Resources
 
 See: https://collective-healing.org/home/resources/
 
-## Connections
 
 
 

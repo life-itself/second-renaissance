@@ -8,7 +8,7 @@ url: https://climatefresk.org/
 locations:
   - France
 start: "2018"
-end: 
+end: present
 size:
   - 21-50
 image: "[[../../../assets/climate-fresk-homepage.png]]"

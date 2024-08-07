@@ -9,9 +9,10 @@ locations:
   - Florida, USA
   - Zaragoza, Spain
 start: 2015
-end: 
+end: present
 size: 
 image: "[[../../../assets/world-happiness-foundation.png]]"
+logo: "[[../../../assets/World-Happiness-Foundation-LOGO-PRI-RGB-_1_-_2_-01-1.png.webp]]"
 sectors:
   - Health & Wellbeing
 activities:
@@ -21,14 +22,9 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/world-happiness-foundation.png]]
-
-
 >The World Happiness Foundation’s purpose is to realize such a world with freedom, consciousness, and happiness, FOR ALL. Humanity has never faced simultaneously such vulnerability and opportunity to make this come true. We are not asking in vain how can we realize a world where everyone is free, healthy, and happy. On the contrary, The World Happiness Foundation is actively working on finding the answer to this most important question. Thankfully, the number of creative thinkers, social impact organizations, and practitioners who understand that this is not a zero-sum game is growing. And we are here to unite and amplify those leaders, institutions, and programs that are making the world a happier place.
 
 Theory of Change document, downloaded from: https://worldhappiness.foundation/who-we-are/
-
-## Key People
 
 ## Theory of Change
 
@@ -47,9 +43,6 @@ https://worldhappiness.foundation/who-we-are/
 See their Theory of Change document, downloaded from https://worldhappiness.foundation/who-we-are/, for more:
 
 ![[../../../assets/The-World-Happiness-Foundation-by-Luis-Gallardo-December-2020-o64hzi.pdf]]
-## Key Educational Resources
-
-## Connections
 
 ### Influences & Inspirations
 

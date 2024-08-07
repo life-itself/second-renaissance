@@ -7,7 +7,7 @@ url: https://www.symphonics.life/
 locations:
   - Rotterdam, Netherlands
 start: "2021"
-end: 
+end: present
 size:
   - 1-3
 image: "[[../../../assets/symphonics-homepage.png]]"

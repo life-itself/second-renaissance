@@ -18,7 +18,7 @@ locations:
   - Portugal
   - UK
 start: "1989"
-end: 
+end: present
 size:
   - 100+
 image: "[[../../../assets/naturalstep-homepage.png]]"
