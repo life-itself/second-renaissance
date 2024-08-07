@@ -8,9 +8,11 @@ url: https://larger.us/
 locations:
   - UK
 start: 2018
-end: 
-size: 4-10
+end: present
+size:
+  - 4-10
 image: "[[../../../assets/larger-us.png]]"
+logo: "[[../../../assets/largerus-logo-green.svg]]"
 sectors:
   - Relations & Peace
 activities:
@@ -25,21 +27,16 @@ Initially, the organization formed in response to Brexit. Over the years, they c
 
 Larger Us is interested in people and organizations who recognize the humanity in ‘the other side’, and what motivates them to act as they do; are willing to listen and reach out beyond their usual support base; understand and act on the inner change needed to do this emotionally demanding kind of work.
 
-![[../../../assets/larger-us.png]]
-
-## Key People
-
 ## Theory of Change
 
 Becoming a larger us "involves both inner and outer work". As cliche as it sometimes sounds, they believe that this is the time to foster connections opposed to division. This diagram comes from the *5 Key Questions for Change Makers* report, which also goes into further detail about their theory of change. Ultimately, there is a focus on the individual and how we relate to one another; and fostering the emotional and relational capacities to create a more collaborative future. 
 
 ![[breakthrough-loop.jpg]]
-## Key Educational Resources
+## Key Learning Resources
 
 - Five Key Questions for Change Makers: https://www.larger.us/wp-content/uploads/2022/09/Building-a-Larger-Us.pdf
 - More articles and resources are available here: https://larger.us/resources/
 
-## Connections
 
 
 

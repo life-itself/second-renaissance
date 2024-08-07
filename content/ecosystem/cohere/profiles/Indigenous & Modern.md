@@ -6,7 +6,7 @@ title: Indigenous & Modern
 url: https://www.indigenousandmodern.com/
 locations: 
 start: 2020
-end: 
+end: present
 size:
   - 1-3
 image: "[[../../../assets/indigenous-and-modern-homepage.png]]"

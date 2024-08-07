@@ -8,11 +8,12 @@ url: https://iofc.org/en
 locations:
   - Geneva, Switzerland
 start: 2001
-end: 
-size: 21-50
+end: present
+size:
+  - 21-50
 image: "[[../../../assets/initiatives-of-change.png]]"
+logo: "[[../../../assets/ioc-logo_en.png]]"
 sectors:
-  - Relations & Peace
   - Economics & Business
   - Environment, Food & Water
   - Governance & Community
@@ -23,8 +24,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/initiatives-of-change.png]]
-
 >Initiatives of Change (IofC) is a world-wide community of people of diverse cultures and backgrounds, who are committed to the transformation of society through changes in human motives and behavior, starting with their own.
 >
 >Initiatives of Change International is a voluntary, donation- and grant-funded nonprofit association of national legal bodies (national teams) and international programmes. We are registered in Caux, Switzerland and we serve as the central hub for a global network of both teams and individuals who are leading community-based initiatives.
@@ -46,10 +45,6 @@ https://iofc.org/en/our-story
 - Talia Smith
 
 ## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 ### Inspirations & Influences
 

@@ -7,9 +7,11 @@ url: https://lecielfoundation.com
 locations:
   - London, UK
 start: 2017
-end: 
-size: 4-10
+end: present
+size:
+  - 4-10
 image: "[[../../../assets/le-ciel.png]]"
+logo: "[[../../../assets/logo-leciel.png]]"
 sectors:
   - Governance & Community
   - Relations & Peace
@@ -20,8 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/le-ciel.png]]
-
 >Le Ciel Foundation was founded in 2017, by nine international co-founders aged between 25 and 50. 
 >
 >We’re a group of dedicated people from all walks of life who answered the urgent call to come together to be in service of each other’s mission in order to help usher in a new era, led by the values of integrity, transparency, harmony, hope, authenticity, evolution, collaboration and love. We view the foundation as a perfect template to discover and know ourselves better and learn through every experience we are invited to go through. For us, every situation is a matter of learning and we are grateful for the journey.
@@ -48,12 +48,6 @@ https://lecielfoundation.com/about-us/
 
 https://lecielfoundation.com/about-us/
 
-## Key Educational Resources
-
-- 'The Twelve' film: https://lecielfoundation.com/watch-the-twelve/
-
-## Connections
-
 ### Influences & Inspirations
 
 #### Frameworks
@@ -65,6 +59,13 @@ https://lecielfoundation.com/about-us/
 #### People
 
 - Barbara Marx Hubbard
+
+## Key Learning Resources
+
+- 'The Twelve' film: https://lecielfoundation.com/watch-the-twelve/
+
+
+
 
 
 

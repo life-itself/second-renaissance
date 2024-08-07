@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1018 185.7" style="enable-background:new 0 0 1018 185.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+</style>
+<polygon points="778.3,0 748.6,47.2 820.9,47.2 852.4,0 "/>
+<rect x="684.7" y="0" width="63.8" height="47.2"/>
+<rect y="0" width="63.8" height="47.2"/>
+<rect y="69.3" width="63.8" height="47.2"/>
+<rect x="97" y="69.3" width="189.1" height="47.2"/>
+<polygon points="811,116.4 798.1,92.9 811,69.3 684.7,69.3 684.7,116.4 "/>
+<polygon points="582.6,138.6 600.9,185.7 662.6,185.7 644.3,138.6 "/>
+<rect x="684.7" y="138.6" width="63.8" height="47.2"/>
+<rect x="874.3" y="0" width="143.7" height="47.2"/>
+<rect x="915.7" y="69.3" width="61" height="47.2"/>
+<rect x="915.7" y="138.6" width="61" height="47.2"/>
+<polygon points="748.6,138.6 778.3,185.7 852.4,185.7 820.9,138.6 "/>
+<rect x="319.3" y="138.6" width="62.4" height="47.2"/>
+<rect y="138.6" width="63.8" height="47.2"/>
+<rect x="97" y="138.6" width="59.9" height="47.2"/>
+<rect x="226.3" y="138.6" width="59.8" height="47.2"/>
+<polygon points="478.8,138.6 460.4,185.7 522.1,185.7 540.4,138.6 "/>
+<polygon points="97,0 97,47.2 191.6,47.2 156.9,0 "/>
+<polygon points="226.3,0 191.6,47.2 286.1,47.2 286.1,0 "/>
+<polygon points="156.9,138.6 191.6,185.7 226.3,138.6 "/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="1018" height="185.7"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st0" d="M472.5,47.2C467.3,20.3,443.7,0,415.3,0h-96v46.9v0.2H472.5z"/>
+	<path class="st0" d="M415.3,116.4c28.4,0,52-20.3,57.1-47.2H319.3v0.2v47H415.3z"/>
+</g>
+<polygon points="617.4,69.3 505.7,69.3 487.3,116.4 635.7,116.4 "/>
+<polygon points="532.6,0 514.3,47.2 608.8,47.2 590.5,0 "/>
+</svg>

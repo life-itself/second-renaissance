@@ -8,9 +8,11 @@ url: https://impakt.nl/
 locations:
   - Utrecht, Netherlands
 start: 1988
-end: 
-size: 11-20
+end: present
+size:
+  - 11-20
 image: "[[../../../assets/impakt.png]]"
+logo: "[[../../../assets/impakt-logo.svg]]"
 sectors:
   - Arts & Culture
   - Media & Communications
@@ -21,8 +23,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/impakt.png]]
-
 >IMPAKT is a media arts organization based in Utrecht and founded in 1988. We present critical and creative views on contemporary media culture and arts, in an interdisciplinary context. Our aim is to identify urgent issues in our digital and transglobal culture, by focusing on the relationship between society, media, technology and arts. We examine issues around politics, science and popular culture from different angles. We aim to present creative and innovative approaches and stir debates with critical ideas on common beliefs in society at large as well as towards dominant perceptions in arts and academia.
 >
 >We organise activities throughout the year at our venue at Lange Nieuwstraat 4, including IMPAKT Works, a residency programme, and IMPAKT Events, a regular series of exhibitions, panels, artist-talks, presentations and screenings centering on a given theme, movement, or artist. The IMPAKT Channel is a platform where art projects made for the internet are presented, along with curated programmes featuring film and video art. Last but not least, the IMPAKT Archive works on digitising IMPAKT’s screening history back to 1988, when the first IMPAKT Festival was organised. [...]
@@ -39,11 +39,6 @@ https://impakt.nl/about/
 - Bram Koning, General and Technical Production
 - Michelle Franke, Head of PR & Marketing
 
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

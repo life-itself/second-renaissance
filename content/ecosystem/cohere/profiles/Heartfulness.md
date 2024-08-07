@@ -11,9 +11,10 @@ locations:
   - Canada
   - Spain
 start: 1945
-end: 
+end: present
 size: 
 image: "[[../../../assets/heartfulness.png]]"
+logo: "[[../../../assets/logo_heartfulness.svg]]"
 sectors:
   - Health & Wellbeing
   - Spirituality & Religion
@@ -26,8 +27,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/heartfulness.png]]
-
 >Heartfulness is a 100-year-old tradition that continues to evolve with the times, integrating scientific inquiry and time-honored contemplative practices. Certified trainers guide you to experience the subtle energy of Transmission, which awakens a deeper level of inner experience, authenticity, compassion, and awareness. Heartfulness practices expand your awareness, and develop well-being, contentment, calm, compassion, courage, and clarity. With this awakened potential, together we can create a world based on respect, peace and unity.
 >
 >Heartfulness emerged in the late 1800s in a small town called Fatehgarh on the Ganges River in the north of India. The practices are based on the ancient art of Transmission, a transformative yogic technique, which was rediscovered by Ram Chandra, who was known as Lalaji to his friends. He rediscovered Transmission when he was still a boy, and from an early age recognized the need for a simple and effective method of self-care that could be practised universally.
@@ -39,16 +38,12 @@ metadata_version: "1"
 >The Heartfulness Movement has been active in peace building since 1957, when Babuji first contacted the UN Secretary-General Dag Hammarskjöld to offer a practice for peace among all people of the world. [...] Today, there are Heartful Communication programs offered in all regions of the world, offering people a way to resolve conflict and bring harmony.
 https://heartfulness.org/en/about-heartfulness
 
-## Key People
-
-## Theory of Change
-
-## Key Educational Resources
+## Key Learning Resources
 
 - Heartfulness Institute conducts research on meditation: https://www.heartfulnessinstitute.org/research/
 - Heartfulness Magazine: https://www.heartfulnessmagazine.com/
 
-## Connections
+## Theory of Change
 
 ### Inspirations & Influences
 

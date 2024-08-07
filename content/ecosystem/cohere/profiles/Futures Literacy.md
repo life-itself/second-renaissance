@@ -8,9 +8,11 @@ url: https://futuresliteracy.net/
 locations:
   - Groningen, Netherlands
 start: 2016
-end: 
-size: 4-10
+end: present
+size:
+  - 4-10
 image: "[[../../../assets/futures-literacy.png]]"
+logo: "[[../../../assets/futuresliteracy-logo.svg]]"
 sectors:
   - Education & Learning
 activities:
@@ -20,8 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/futures-literacy.png]]
-
 >**UNESCO Chair on Futures Literacy at Hanze University of Applied Sciences**
 >
 >As Chair we commit ourselves to the implementation of Futures Literacy in Higher Education through research and a wide range of practices. The development of these programs, the lessons learnt, the tools for evaluation and the carefully designed principles, have put the UNESCO Chair at Hanze at the top of global educators regarding futures literacy. More and more students, and professionals from all over the world find their way to our programs. The Chair has become a leading voice of advice in long term learning trajectories due to experience in mapping learning journeys in futures literacy.
@@ -40,12 +40,6 @@ https://futuresliteracy.net/
 - Ramila Khafaji Zadeh  
 - Petra Cremers  
 - Paul Beenen
-
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

@@ -7,9 +7,11 @@ url: https://www.kosmosjournal.org/
 locations:
   - Media, Pennsylvania, USA
 start: 2000
-end: 
-size: 11-20
+end: present
+size:
+  - 11-20
 image: "[[../../../assets/kosmos-homepage.png]]"
+logo: "[[../../../assets/kosmos-logo.png]]"
 sectors:
   - Media & Communications
   - Governance & Community
@@ -20,8 +22,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/kosmos-homepage.png]]
-
 >The _Kosmos_ mission is to inform, inspire and engage individual and collective participation for global transformation in harmony with all Life. We do this by sharing transformational thinking and policy initiatives, aesthetic beauty and wisdom, local to global.
 >
 >_The Shift, Great Turning_, and _New Story_ are words used to describe what many are experiencing as a growing ‘movement of movements’, an awareness worldwide of the need to examine and restructure political, economic, and social systems to align more closely with the needs of humanity and the Earth.
@@ -34,13 +34,7 @@ metadata_version: "1"
 
 https://www.kosmosjournal.org/about/mission/
 
-## Key People
 
-## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 
 

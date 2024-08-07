@@ -7,7 +7,7 @@ url: https://www.k9coliving.com/
 locations:
   - Stockholm, Sweden
 start: "2016"
-end: 
+end: present
 size: 
 image: "[[../../../assets/k9-homepage.png]]"
 logo: "[[../../../assets/kg-logo.svg]]"
