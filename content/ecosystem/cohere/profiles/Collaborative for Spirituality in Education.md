@@ -9,8 +9,10 @@ locations:
   - New York, USA
 start: 
 end: 
-size: " 4-10"
+size:
+  - " 4-10"
 image: "[[../../../assets/CSE.png]]"
+logo: "[[../../../assets/CSE-logo.png]]"
 sectors:
   - Education & Learning
   - Spirituality & Religion
@@ -22,8 +24,6 @@ activities:
 cohere: true
 metadata_version: "1"
 ---
-![[../../../assets/CSE.png]]
-
 >CSE is housed at Teachers College and was founded in partnership with the Fetzer Institute and Rockefeller Philanthropy Advisors. CSE’s research and teaching hub is housed at Teachers College.
 https://spiritualityineducation.org/about-us/
 
@@ -37,12 +37,7 @@ https://spiritualityineducation.org/how-we-work/
 
 - Dr. Lisa Miller, President & CEO
 
-
 ## Theory of Change
-
-## Key Educational Resources
-
-## Connections
 
 ### Influences & Inspirations
 
