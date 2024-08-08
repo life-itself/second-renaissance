@@ -7,7 +7,7 @@ url: https://systemsawareness.org/
 locations:
   - North Andover, Massachusetts, USA
 start: 1997
-end: 
+end: present
 size:
   - 11-20
 image: "[[../../../assets/systems-awareness-homepage.png]]"
@@ -120,6 +120,11 @@ The Mandala for Systems Change is a framework developed by the Center for System
 > 
 > Second, the mandala identifies the space in the center that honors all these dimensions and holds them in a dynamic creative tension, symbolizing the substrate from which systemic change can grow.
 (Read more at: https://systemsawareness.org/about/#mandala-for-systems-change)
+
+### Compassionate Systems Framework
+
+> This framework incorporates learning tools in development for several decades from the fields of living systems dynamics, organizational learning, contemplative traditions, and social and emotional learning, and is now being used at both the level of classroom innovations and collective leadership in shaping a more generative school culture. We conceptualize compassion as an essentially systemic property of mind: to cultivate compassion is to be able to appreciate the systemic forces that influence people’s actions. It is the capacity to hold paradoxes – to see and sense the larger system with all its interdependence and interconnectedness and all the unintended consequences of human behavior – without judgment, but with real care for the system and everyone involved in it.
+https://systemsawareness.org/program/intro-compassionate-systems-mit-jan2024/
 
 ## Key People
 
