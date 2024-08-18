@@ -6,7 +6,8 @@ logo: >-
   https://drive.google.com/file/d/1Bu_f5hDQhE0zUNBzuiuEinLUHWwE5wJC/view?usp=drive_link
 image: >-
   https://drive.google.com/file/d/1Bu_f5hDQhE0zUNBzuiuEinLUHWwE5wJC/view?usp=drive_link
-locations: not found
+locations: 
+  - not found
 start: not found
 end: present
 sectors:

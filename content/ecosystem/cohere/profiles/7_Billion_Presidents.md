@@ -6,7 +6,8 @@ logo: >-
   https://drive.google.com/file/d/1uthrngXi56btLqQhZH09e2WMeJGC4VX-/view?usp=drive_link
 image: >-
   https://drive.google.com/file/d/1cxQbJgBYprVqGaTojJtn2FbrcpfWHgbq/view?usp=drive_link
-locations: 'Amsterdam, Netherlands'
+locations: 
+  - Amsterdam, Netherlands
 start: '2020'
 end: present
 sectors:
