@@ -1,14 +1,25 @@
 // import Link from 'next/link';
+import { useRouter } from 'next/router';
 
 export default function OrgList({ orgs }) {
+    const { asPath } = useRouter();
+    const isCohere = asPath.toLowerCase().includes("cohere");
+    let imgSrc="";
+
     return (
         <div className="mt-6 grid grid-cols-1 gap-y-10 gap-x-8 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-10">
             {orgs.map((org) => {
+                if ( isCohere ){
+                    imgSrc = org.logo || org.image; 
+                } else {
+                    imgSrc= (org.logo?.cached_new || org.logo?.url) ?? (org.image?.cached_new || org.image.url || org.image);
+                }
+                imgSrc = imgSrc?.replaceAll("[[../../../", "/").replaceAll("]]", "");                
                 if (org) return (
                     <div key={org.id} className="group relative">
                         <div className="w-full aspect-square bg-beige rounded-md overflow-hidden group-hover:opacity-75">
                             <img
-                                src={(org.logo?.cached_new || org.logo?.url) ?? (org.image?.cached_new || org.image.url || org.image)}
+                                src={imgSrc}
                                 alt={org.title}
                                 className="w-full h-full m-0 object-contain"
                             />
