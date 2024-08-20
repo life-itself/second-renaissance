@@ -6,7 +6,7 @@ import {
     BriefcaseIcon,
     HashtagIcon,
     CalendarIcon,
-    BuildingOfficeIcon
+    UsersIcon
 } from '@heroicons/react/solid';
 
 export default function CohereProfile({ children, ...frontMatter }) {
@@ -89,7 +89,16 @@ export default function CohereProfile({ children, ...frontMatter }) {
                                 </ul>
                             </div>
                         )}
-                    
+                        {size && (
+                            <div className="flex flex-row">
+                                <UsersIcon className="h-5 w-5" />
+                                <ul className=" ml-2 text-sm">
+                                    <p>
+                                        {size}
+                                    </p>
+                                </ul>
+                            </div>
+                        )}
                     </div>
                     {/* image */}
 
