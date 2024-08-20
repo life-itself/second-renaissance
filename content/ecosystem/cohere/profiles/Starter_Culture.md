@@ -1,12 +1,15 @@
 ---
 title: Starter Culture
-url: 'https://starterculture.net/'
-contributors: Elisa
+url: https://starterculture.net/
+contributors:
+  - Elisa
 logo: /assets/starter-culture-logo.png
 image: /assets/starter-culture-homepage.png
 locations:
-  - 'UK, Germany, US'
-start: '2017'
+  - UK
+  - Germany
+  - USA
+start: "2017"
 end: present
 sectors:
   - Relations & Peace

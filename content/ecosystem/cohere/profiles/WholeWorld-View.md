@@ -1,12 +1,12 @@
 ---
 title: WholeWorld-View
-url: 'https://www.wholeworld-view.org/'
-contributors: Catherine
+url: https://www.wholeworld-view.org/
+contributors:
+  - Catherine
 logo: /assets/wholeworldview-logo.png
 image: /assets/wholeworldview-homepage.png
-locations:
-  - not-found
-start: '2017'
+locations: []
+start: "2017"
 end: present
 sectors:
   - Spirituality & Religion

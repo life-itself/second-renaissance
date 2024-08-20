@@ -1,12 +1,12 @@
 ---
 title: Regens Unite
-url: 'https://www.regensunite.earth/'
-contributors: Catherine
+url: https://www.regensunite.earth/
+contributors:
+  - Catherine
 logo: /assets/regens-unite-logo.png
 image: /assets/regens-unite-homepage.png
-locations:
-  - not found
-start: not found
+locations: 
+start: 
 end: present
 sectors:
   - Economics & Business

@@ -1,15 +1,15 @@
 ---
 title: Global Alliance for the Future of Food
-url: 'https://futureoffood.org/'
-contributors: Catherine
+url: https://futureoffood.org/
+contributors:
+  - Catherine
 logo: /assets/global-aliance-for-the-future-of-food-logo.svg
 image: /assets/global-alliance-for-the-future-of-food-homepage.png
-locations:
-  - not-found
-start: '2012'
+locations: []
+start: "2012"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Research
   - Convening & Coordination

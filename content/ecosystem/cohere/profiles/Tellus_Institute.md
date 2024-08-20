@@ -1,15 +1,15 @@
 ---
 title: Tellus Institute
-url: 'https://www.tellus.org/'
-contributors: Elisa
+url: https://www.tellus.org/
+contributors:
+  - Elisa
 logo: /assets/tellus-institute-logo.png
 image: /assets/tellus-institute-homepage.png
-locations:
-  - not found
-start: '1976'
+locations: []
+start: "1976"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Economics & Business
 activities:
   - Research

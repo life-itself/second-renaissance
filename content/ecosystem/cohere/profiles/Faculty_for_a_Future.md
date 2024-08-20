@@ -1,12 +1,12 @@
 ---
 title: Faculty for a Future
-url: 'https://facultyforafuture.org/'
-contributors: Elisa; Catherine
+url: https://facultyforafuture.org/
+contributors:
+  - Elisa; Catherine
 logo: /assets/faculty-for-a-future-logo.png
 image: /assets/faculty-for-a-future-homepage.png
-locations:
-  - not-found
-start: '2021'
+locations: []
+start: "2021"
 end: present
 sectors:
   - Education & Learning

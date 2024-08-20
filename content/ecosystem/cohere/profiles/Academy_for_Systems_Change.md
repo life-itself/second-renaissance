@@ -1,16 +1,16 @@
 ---
 title: Academy for Systems Change
-url: 'https://www.academyforchange.org/'
-contributors: Catherine
+url: https://www.academyforchange.org/
+contributors:
+  - Catherine
 logo: /assets/academy-for-systems-change-logo.png
 image: /assets/academy-for-systems-change-homepage.png
-locations:
-  - not found
+locations: []
 start: not found
 end: present
 sectors:
   - Governance & Community
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Economics & Business
 activities:
   - Education & Training

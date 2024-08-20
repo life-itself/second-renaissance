@@ -4,8 +4,7 @@ contributors:
   - Catherine Tran
 title: Children of the Earth
 url: https://www.coeworld.org/
-locations:
-  - not-found
+locations: []
 start: 1990
 end: 
 size:

@@ -5,8 +5,7 @@ contributors:
   - Catherine Tran
 title: Catalist
 url: https://www.catalist.network/
-locations:
-  - not-found
+locations: []
 start: 
 end: 
 size:

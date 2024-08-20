@@ -4,8 +4,7 @@ contributors:
   - Catherine Tran
 title: Bounce Beyond
 url: https://www.bouncebeyond.global/
-locations:
-  - not-found
+locations: []
 start: 
 end: 
 size:

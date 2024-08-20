@@ -5,8 +5,7 @@ contributors:
   - Matthew McCarthy
 title: Source of Synergy Foundation
 url: https://www.sourceofsynergyfoundation.org/
-locations:
-  - not-found
+locations: []
 start: 2007
 end: present
 size:

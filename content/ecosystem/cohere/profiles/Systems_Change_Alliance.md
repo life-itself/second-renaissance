@@ -1,16 +1,16 @@
 ---
 title: Systems Change Alliance
-url: 'https://systemschangealliance.org/ '
-contributors: Elisa
+url: "https://systemschangealliance.org/ "
+contributors:
+  - Elisa
 logo: /assets/systems-change-alliance-logo.svg
 image: /assets/systems-change-alliance-homepage.png
-locations:
-  - Not found
-start: Not found
+locations: 
+start: 
 end: present
 sectors:
   - Economics & Business
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Governance & Community
 activities:
   - Convening & Coordination

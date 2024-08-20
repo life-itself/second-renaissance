@@ -4,8 +4,7 @@ contributors:
   - Catherine Tran
 title: Seeds
 url: https://joinseeds.earth/
-locations:
-  - not-found
+locations: []
 start: 2017
 end: present
 size: 

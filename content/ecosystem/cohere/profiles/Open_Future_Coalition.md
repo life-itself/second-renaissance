@@ -1,16 +1,16 @@
 ---
 title: Open Future Coalition
-url: 'https://www.openfuturecoalition.org/ '
-contributors: Matthew; Catherine
+url: "https://www.openfuturecoalition.org/ "
+contributors:
+  - Matthew; Catherine
 logo: /assets/OFC-Logo.png
 image: /assets/OFC-homepage.png
-locations:
-  - not found
-start: '2021'
+locations: []
+start: "2021"
 end: present
 sectors:
   - Infrastructure & Resources
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Convening & Coordination
   - Funding

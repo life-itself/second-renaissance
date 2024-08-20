@@ -1,19 +1,19 @@
 ---
 title: Radical Climate Collaboration
-url: 'https://radicalclimatecollaboration.reospartners.com/ '
-contributors: Elisa
+url: "https://radicalclimatecollaboration.reospartners.com/ "
+contributors:
+  - Elisa
 logo: /assets/radical-climate-collaboration-logo.webp
 image: /assets/radical-climate-collaboration-homepage.png
-locations:
-  - Not found
-start: Not found
+locations: 
+start: 
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Education & Training
   - Events & Retreats
-size: ''
+size: ""
 ---
 > Many more diverse people and organizations need to collaborate. And many more will be willing to, if they believe their efforts and the results they are producing, are fair — that justice is not being sacrificed for speed and scale.
 > 

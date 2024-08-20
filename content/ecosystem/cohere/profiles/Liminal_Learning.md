@@ -1,15 +1,15 @@
 ---
 title: Liminal Learning
-url: 'https://liminal-learning.com/'
-contributors: Catherine
+url: https://liminal-learning.com/
+contributors:
+  - Catherine
 logo: /assets/liminal-learning-logo.png
 image: /assets/liminal-learning-homepage.png
 locations:
   - UK
-  - ' USA'
-  - ' Canada'
-  - ' Germany'
-  - ''
+  - " USA"
+  - " Canada"
+  - " Germany"
 start: not found
 end: present
 sectors:

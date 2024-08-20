@@ -5,8 +5,7 @@ contributors:
   - Catherine Tran
 title: Brand Earth
 url: https://brand.earth/
-locations:
-  - not-found
+locations: []
 start: 
 end: 
 size:
