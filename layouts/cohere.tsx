@@ -4,11 +4,13 @@ import {
     LocationMarkerIcon,
     UserCircleIcon,
     BriefcaseIcon,
-    HashtagIcon
+    HashtagIcon,
+    CalendarIcon,
+    BuildingOfficeIcon
 } from '@heroicons/react/solid';
 
 export default function CohereProfile({ children, ...frontMatter }) {
-    const { title, url, locations, sectors, activities } = frontMatter;
+    const { title, url, locations, start, sectors, activities, size } = frontMatter;
     // these can look like [[../../../assets/42-acres-homepage.png]] (obsidian like)
     let image = frontMatter.image;
     image = image.replaceAll("[[../../../", "/").replaceAll("]]", "");
@@ -74,6 +76,26 @@ export default function CohereProfile({ children, ...frontMatter }) {
                                             </li>
                                         );
                                     })}
+                                </ul>
+                            </div>
+                        )}
+                          {start && (
+                            <div className="flex flex-row">
+                                <CalendarIcon className="h-5 w-5" />
+                                <ul className=" ml-2 text-sm">
+                                    <a href={start} className="">
+                                        {start}
+                                    </a>
+                                </ul>
+                            </div>
+                        )}
+                          {size && (
+                            <div className="flex flex-row">
+                                <BuildingOfficeIcon className="h-5 w-5" />
+                                <ul className=" ml-2 text-sm">
+                                    <a href={size} className="">
+                                        {size}
+                                    </a>
                                 </ul>
                             </div>
                         )}
