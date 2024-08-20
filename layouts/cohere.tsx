@@ -89,16 +89,7 @@ export default function CohereProfile({ children, ...frontMatter }) {
                                 </ul>
                             </div>
                         )}
-                          {size && (
-                            <div className="flex flex-row">
-                                <BuildingOfficeIcon className="h-5 w-5" />
-                                <ul className=" ml-2 text-sm">
-                                    <a href={size} className="">
-                                        {size}
-                                    </a>
-                                </ul>
-                            </div>
-                        )}
+        
                     </div>
                     <section aria-labelledby="information-heading" className="mt-4">
                         <h2 id="information-heading" className="sr-only">
