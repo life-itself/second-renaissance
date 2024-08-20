@@ -1,0 +1,91 @@
+---
+title: Euforia
+url: 'https://www.euforia.org/'
+contributors: Ola
+logo: /assets/Euforia logo.gif
+image: /assets/Euforia homepage.png
+locations:
+  - Switzerland
+start: ''
+end: ''
+sectors:
+  - Education & Learning
+  - Economics & Business
+activities:
+  - Education & Training
+  - 'Design, Development & Innovation'
+size: 11-20
+---
+> We are an innovative, youth-driven NGO based in Switzerland with a community of volunt'heroes in over 20 countries across three continents. Combining non-formal education and transformative learning methods we empower people and organizations to embark on their own changemaking journey. Our key strength is to create safe spaces where people realize their own potential, find solutions and become transformational leaders.
+
+## Key People
+
+Nicoletta Lumaldo
+
+## Theory of Change
+
+Non-formal education and transformative learning methods
+
+## Learning Resources
+
+https://www.euforia.org/en/blog/category/tools+%26+resources
+
+## Key Concepts
+
+"collaboration"
+
+"self management"
+
+"wholeness"
+
+"purpose"
+
+## Connections
+
+-Radical Collaboration
+
+-WWF
+
+- UNITAR
+
+- FHNW
+
+-  SEIF
+
+-OBÜ
+
+- Oikos
+
+- Capacity
+
+- Active Asyl
+
+-  Impact Hub Geneva
+
+-  SCISwitzerland
+
+- EDA
+
+- Singa3D
+
+- Amani Institute
+
+- Reversible
+
+- Montebelo
+
+- RZ Worksmart
+
+- Netzwerk
+
+- Seres
+
+- Galileo
+
+- SIA
+
+- JobCloud
+
+- Constellation
+
+- Collaboratio Helvetica
