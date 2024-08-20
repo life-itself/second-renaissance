@@ -2,8 +2,7 @@
 title: 7 Billion Presidents
 url: 'https://www.7billionpresidents.org/'
 contributors: Catherine
-logo: >-
-  https://drive.google.com/file/d/1uthrngXi56btLqQhZH09e2WMeJGC4VX-/view?usp=drive_link
+logo: /cohere/7-billion-presidents-homepage.png
 image: >-
   https://drive.google.com/file/d/1cxQbJgBYprVqGaTojJtn2FbrcpfWHgbq/view?usp=drive_link
 locations: 
