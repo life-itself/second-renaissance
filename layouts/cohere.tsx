@@ -91,14 +91,7 @@ export default function CohereProfile({ children, ...frontMatter }) {
                         )}
         
                     </div>
-                    <section aria-labelledby="information-heading" className="mt-4">
-                        <h2 id="information-heading" className="sr-only">
-                            Organization information
-                        </h2>
-                        <div className="mt-6 space-y-6 text-base text-gray-500">{children}</div>
-                    </section>
-                </div>
-                {/* image */}
+                    {/* image */}
 
                 <div className="mt-10 lg:mt-0 row-span-1">
                     <div className="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden">
@@ -109,6 +102,15 @@ export default function CohereProfile({ children, ...frontMatter }) {
                         />
                     </div>
                 </div>
+                    
+                    <section aria-labelledby="information-heading" className="mt-4">
+                        <h2 id="information-heading" className="sr-only">
+                            Organization information
+                        </h2>
+                        <div className="mt-6 space-y-6 text-base text-gray-500">{children}</div>
+                    </section>
+                </div>
+                
                 
             </div>
         </div>
