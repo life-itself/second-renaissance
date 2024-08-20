@@ -10,8 +10,7 @@ locations:
   - Online
 start: 
 end: 
-size:
-  - 21-50
+size: 21-50
 image: "[[../../../assets/prosocial-homepage.png]]"
 logo: "[[../../../assets/prosocial-logo.png]]"
 sectors:

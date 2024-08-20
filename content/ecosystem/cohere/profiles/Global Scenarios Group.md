@@ -27,8 +27,7 @@ locations:
   - Belgium
 start: "1995"
 end: present
-size:
-  - 21-50
+size: 21-50
 image: "[[../../../assets/gsg-homepage.png]]"
 logo: "[[../../../assets/GSG-logo.gif]]"
 sectors:

@@ -12,8 +12,7 @@ locations:
   - Malmö, Sweden
 start: 
 end: 
-size:
-  - 51-100
+size: 51-100
 image: "[[../../../assets/dark-matter-labs.png]]"
 logo: "[[../../../assets/DML-logo.gif]]"
 sectors:

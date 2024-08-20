@@ -9,8 +9,7 @@ locations:
   - Online
 start: "2015"
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/advaya-homepage.png]]"
 logo: "[[../../../assets/advaya-logo.jpg]]"
 sectors:

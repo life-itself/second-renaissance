@@ -8,8 +8,7 @@ locations:
   - Bern, Switzerland
 start: 
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/amtfurzukunft-homepage.png]]"
 logo: "[[../../../assets/amt-logo.png]]"
 sectors:

@@ -8,8 +8,7 @@ locations:
   - Netherlands
 start: 
 end: 
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/worldviewjourneys-homepage.png]]"
 logo: "[[../../../assets/worldview-journeys-logo.png]]"
 sectors:

@@ -10,8 +10,7 @@ locations:
   - International
 start: "1978"
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/pathwaystopeace-homepage.png]]"
 logo: "[[../../../assets/PTP-Logo.png]]"
 sectors:

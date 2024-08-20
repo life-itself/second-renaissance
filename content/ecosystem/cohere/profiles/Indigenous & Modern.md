@@ -7,8 +7,7 @@ url: https://www.indigenousandmodern.com/
 locations: 
 start: 2020
 end: present
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/indigenous-and-modern-homepage.png]]"
 logo: "[[../../../assets/indigenousandmodern-logo.png]]"
 sectors:

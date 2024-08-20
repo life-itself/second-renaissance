@@ -9,8 +9,7 @@ locations:
   - London, UK
 start: "1987"
 end: 
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/gaiafoundation-homepage.png]]"
 logo: "[[../../../assets/gaiafoundation-logo.png]]"
 sectors:

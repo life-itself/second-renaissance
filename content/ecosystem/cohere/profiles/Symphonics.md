@@ -8,8 +8,7 @@ locations:
   - Rotterdam, Netherlands
 start: "2021"
 end: present
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/symphonics-homepage.png]]"
 logo: "[[../../../assets/symphonicslogo.webp]]"
 sectors:

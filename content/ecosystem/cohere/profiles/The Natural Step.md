@@ -19,8 +19,7 @@ locations:
   - UK
 start: "1989"
 end: present
-size:
-  - 100+
+size: 101+
 image: "[[../../../assets/naturalstep-homepage.png]]"
 logo: "[[../../../assets/naturalstep-logo.png]]"
 sectors:

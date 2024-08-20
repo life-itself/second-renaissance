@@ -8,8 +8,7 @@ locations:
   - Europe
 start: "1968"
 end: 
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/clubofrome-homepage.png]]"
 logo: "[[../../../assets/club-of-rome-logo.png]]"
 sectors:

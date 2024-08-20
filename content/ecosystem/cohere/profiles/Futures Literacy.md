@@ -9,8 +9,7 @@ locations:
   - Groningen, Netherlands
 start: 2016
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/futures-literacy.png]]"
 logo: "[[../../../assets/futuresliteracy-logo.svg]]"
 sectors:

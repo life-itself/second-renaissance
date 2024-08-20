@@ -8,8 +8,7 @@ locations:
   - Thénac, France
 start: "1982"
 end: present
-size:
-  - 100+
+size: 101+
 image: "[[../../../assets/plumvillage-homepage.png]]"
 logo: "[[../../../assets/plumvillage-logo.png]]"
 sectors:

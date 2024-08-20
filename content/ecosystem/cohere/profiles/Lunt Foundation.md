@@ -8,8 +8,7 @@ locations:
   - Fribourg, Switzerland
 start: 2012
 end: present
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/lunt-foundation.png]]"
 logo: "[[../../../assets/luntfoundation-logo.svg]]"
 sectors:

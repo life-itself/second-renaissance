@@ -9,8 +9,7 @@ locations:
   - Zurich, Switzerland
 start: 2022
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/world-ethic-forum.png]]"
 logo: "[[../../../assets/Logo_WorldEthicForum-2022-1960x1123-1.png]]"
 sectors:

@@ -8,8 +8,7 @@ locations:
   - New York, USA
 start: 2022
 end: present
-size:
-  - 21-50
+size: 21-50
 image: "[[../../../assets/COP2.png]]"
 logo: "[[../../../assets/cops2-logo.png]]"
 sectors:

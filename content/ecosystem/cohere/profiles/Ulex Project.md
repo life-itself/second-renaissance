@@ -8,8 +8,7 @@ locations:
   - Catalonia, Spain
 start: "2008"
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/ulex-homepage.png]]"
 logo: "[[../../../assets/ulex-new-logo.png]]"
 sectors:

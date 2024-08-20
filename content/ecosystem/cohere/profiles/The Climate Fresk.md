@@ -9,8 +9,7 @@ locations:
   - France
 start: "2018"
 end: present
-size:
-  - 21-50
+size: 21-50
 image: "[[../../../assets/climate-fresk-homepage.png]]"
 logo: "[[../../../assets/climatefresk-logo.webp]]"
 sectors:

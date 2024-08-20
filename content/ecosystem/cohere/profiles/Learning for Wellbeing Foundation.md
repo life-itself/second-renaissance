@@ -9,8 +9,7 @@ locations:
   - Brussels, Belgium
 start: "2004"
 end: present
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/learningforwellbeing-homepage.png]]"
 logo: "[[../../../assets/learning-for-wellbeing-logo.png]]"
 sectors:

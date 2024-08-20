@@ -9,8 +9,7 @@ locations:
   - Netherlands
 start: 2016
 end: present
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/crowd-foundation.png]]"
 logo: "[[../../../assets/crowdocracy-logo.png]]"
 sectors:

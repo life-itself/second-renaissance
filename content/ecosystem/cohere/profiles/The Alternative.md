@@ -9,8 +9,7 @@ locations:
   - Online
 start: 2017
 end: present
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/alternative-homepage.png]]"
 logo: "[[../../../assets/alternative-logo.png]]"
 sectors:

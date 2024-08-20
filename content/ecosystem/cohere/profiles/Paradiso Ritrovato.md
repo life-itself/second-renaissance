@@ -8,8 +8,7 @@ locations:
   - Italy
 start: "2010"
 end: present
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/paradisoritrovato-homepage.png]]"
 logo: "[[../../../assets/logo-paradiso-01.png]]"
 sectors:

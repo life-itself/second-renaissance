@@ -8,8 +8,7 @@ locations:
   - Stockholm, Sweden
 start: 2007
 end: present
-size:
-  - 101+
+size: 101+
 image: "[[../../../assets/stockholm-resilience-centre-homepage.png]]"
 logo: "[[../../../assets/stockholmresiliencecentre-logo.svg]]"
 sectors:

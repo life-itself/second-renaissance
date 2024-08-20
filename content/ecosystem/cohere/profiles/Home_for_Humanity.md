@@ -27,7 +27,7 @@ activities:
   - Art Production & Curation
 size: 4-10
 ---
-> "Home for Humanity is an inclusive movement for planetary regeneration.
+> Home for Humanity is an inclusive movement for planetary regeneration.
 > 
 > We activate the power of our homes to pioneer regenerative futures.
 > 
@@ -40,12 +40,20 @@ size: 4-10
 > 
 > ... to serve the one EARTH HOME we share, drawing on the wisdom and innovations of every geography, culture and country to shape together an inclusive and regenerative future for the indivisible family of life on Earth.
 > 
-> ​This is the transformative work of the Home for Humanity Movement for Planetary Regeneration, active locally and globally, on all continents."
+> ​This is the transformative work of the Home for Humanity Movement for Planetary Regeneration, active locally and globally, on all continents.
 > https://www.homeforhumanity.earth/ 
 
-## Theory of Change
+## Theory of Change 
 
-https://drive.google.com/file/d/1vws8dabCPjQh-6uRCr0AmazR0crUXXq8/view?usp=drive_link
+Their mission is to actualise the following Humanity Charter: https://www.homeforhumanity.earth/humanity-charter
+
+>THE HUMANITY CHARTER expresses a collective vision for our times: for humanity to come together in unity to transform our divided world into a united home for the Earth family.
+
+![[../../../assets/home-for-humanity-toc.png]]
+
+## Key Learning Resources 
+
+- See their map of "Homes for Humanity" (organisations and initiatives pioneering planetary regeneration) worldwide: https://www.homeforhumanity.earth/homesforhumanityworldwide
 
 ## Connections
 

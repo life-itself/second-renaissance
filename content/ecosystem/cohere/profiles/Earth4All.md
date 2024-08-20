@@ -12,8 +12,7 @@ locations:
   - Argentina
 start: "2020"
 end: 
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/earth4all-homepage.png]]"
 logo: "[[../../../assets/earth4all-logo.png]]"
 sectors:

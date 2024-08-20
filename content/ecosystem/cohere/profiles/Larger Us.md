@@ -9,8 +9,7 @@ locations:
   - UK
 start: 2018
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/larger-us.png]]"
 logo: "[[../../../assets/largerus-logo-green.svg]]"
 sectors:

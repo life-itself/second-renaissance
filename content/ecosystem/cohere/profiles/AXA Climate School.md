@@ -9,8 +9,7 @@ locations:
   - Paris, France
 start: 2021
 end: 
-size:
-  - 51-100
+size: 51-100
 image: "[[../../../assets/AXA-homepage.png]]"
 logo: "[[../../../assets/axa-climate-logo.svg]]"
 sectors:

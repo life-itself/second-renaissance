@@ -8,8 +8,7 @@ locations:
   - Sebastopol, USA
 start: "2023"
 end: 
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/joysong-homepage.png]]"
 logo: "[[../../../assets/joysong-logo.jpeg]]"
 sectors:

@@ -14,8 +14,7 @@ locations:
   - Cairo, Egypt
 start: "2012"
 end: present
-size:
-  - 21-50
+size: 21-50
 image: "[[../../../assets/ouishare-homepage.png]]"
 logo: "[[../../../assets/ouishare-logo.svg]]"
 sectors:

@@ -9,8 +9,7 @@ locations:
   - Vienna, Austria
 start: 2016
 end: present
-size:
-  - 51-100
+size: 51-100
 image: "[[../../../assets/complexity-science-hub.png]]"
 logo: "[[../../../assets/Complexity-Science-Hub_schwarz_RGB.svg]]"
 sectors:

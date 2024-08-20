@@ -9,8 +9,7 @@ locations:
   - Portland, Oregon, USA
 start: "1973"
 end: 
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/center-for-process-studies-homepage.png]]"
 logo: "[[../../../assets/center-for-process-studies-logo.webp]]"
 sectors:

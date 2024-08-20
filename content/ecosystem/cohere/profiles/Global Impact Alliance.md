@@ -8,8 +8,7 @@ locations:
   - Berlin, Germany
 start: 
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/global-impact-alliance-homepage.png]]"
 logo: "[[../../../assets/Logo GIA-WAF_tif.webp]]"
 sectors:

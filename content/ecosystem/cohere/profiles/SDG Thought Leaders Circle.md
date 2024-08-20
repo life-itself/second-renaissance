@@ -9,8 +9,7 @@ locations:
   - International
 start: "2020"
 end: present
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/SDG-thought-leaders-homepage.png]]"
 logo: "[[../../../assets/sdgthoughtleaders-logo.png]]"
 sectors:

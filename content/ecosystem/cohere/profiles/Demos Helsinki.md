@@ -8,8 +8,7 @@ locations:
   - Helsinki, Finland
 start: 2005
 end: present
-size:
-  - 51-100
+size: 51-100
 image: "[[../../../assets/demos-homepage.png]]"
 logo: "[[../../../assets/demos_helsinki_logo.jpeg]]"
 sectors:

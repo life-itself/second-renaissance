@@ -8,8 +8,7 @@ locations:
   - International
 start: 2018
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/collective-healing.png]]"
 logo: "[[../../../assets/UNESCO_Healing2022_logo-1.webp]]"
 sectors:

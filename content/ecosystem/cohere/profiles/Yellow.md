@@ -8,8 +8,7 @@ locations:
   - Spain
 start: "2020"
 end: present
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/yellow-homepage.png]]"
 logo: "[[../../../assets/yellow-logo.png]]"
 sectors:

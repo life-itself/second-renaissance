@@ -9,8 +9,7 @@ locations:
   - Geneva, Switzerland
 start: 2001
 end: present
-size:
-  - 21-50
+size: 21-50
 image: "[[../../../assets/initiatives-of-change.png]]"
 logo: "[[../../../assets/ioc-logo_en.png]]"
 sectors:

@@ -8,8 +8,7 @@ locations:
   - Washington, USA
 start: 2012
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/compassion-games.png]]"
 logo: "[[../../../assets/compassiongames-logo.png]]"
 sectors:

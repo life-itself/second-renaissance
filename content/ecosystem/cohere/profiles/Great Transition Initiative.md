@@ -9,8 +9,7 @@ locations:
   - Quincy, Massachusetts, USA
 start: 2014
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/great-transition.png]]"
 logo: "[[../../../assets/GTI-logo.png]]"
 sectors:

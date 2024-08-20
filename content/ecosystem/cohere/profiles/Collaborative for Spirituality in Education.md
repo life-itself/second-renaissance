@@ -9,8 +9,7 @@ locations:
   - New York, USA
 start: 
 end: 
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/CSE.png]]"
 logo: "[[../../../assets/CSE-logo.png]]"
 sectors:

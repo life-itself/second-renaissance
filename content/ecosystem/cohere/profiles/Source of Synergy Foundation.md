@@ -5,11 +5,10 @@ contributors:
   - Matthew McCarthy
 title: Source of Synergy Foundation
 url: https://www.sourceofsynergyfoundation.org/
-locations: []
+locations: 
 start: 2007
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/source-of-synergy.png]]"
 logo: "[[../../../assets/sourceofsynergyfoundation-logo.png]]"
 sectors:

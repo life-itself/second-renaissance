@@ -8,8 +8,7 @@ locations:
   - International
 start: 2021
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/cofsa-homepage.png]]"
 logo: "[[../../../assets/Cofsa-Master-Blue-Grey--768x257.png]]"
 sectors:

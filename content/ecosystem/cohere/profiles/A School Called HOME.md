@@ -8,8 +8,7 @@ locations:
   - Östervåla, Sweden
 start: "2018"
 end: present
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/aschoolcalledhome-homepage.png]]"
 logo: "[[../../../assets/aschoolcalledhome-logo.png]]"
 sectors:

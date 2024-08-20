@@ -10,8 +10,7 @@ locations:
   - New York, USA
 start: 1981
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/tallberg-foundation.png]]"
 logo: "[[../../../assets/logo-tallberg.svg]]"
 sectors:

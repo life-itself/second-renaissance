@@ -9,8 +9,7 @@ locations:
   - Oregon, USA
 start: 2010
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/postgrowth-institute.png]]"
 logo: "[[../../../assets/Post-Growth-Institute-Logo.webp]]"
 sectors:

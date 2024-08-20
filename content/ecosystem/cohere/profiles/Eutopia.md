@@ -9,8 +9,7 @@ locations:
   - Brussels, Belgium
 start: "2019"
 end: 
-size:
-  - 51-100
+size: 51-100
 image: "[[../../../assets/eutopia-homepage.png]]"
 logo: "[[../../../assets/EUTOPIA-Logo.png]]"
 sectors:

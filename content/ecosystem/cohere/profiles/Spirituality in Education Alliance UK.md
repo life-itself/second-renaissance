@@ -9,8 +9,7 @@ locations:
   - UK
 start: "2000"
 end: present
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/SIEUK-homepage.png]]"
 logo: "[[../../../assets/SIEUK-logo.png]]"
 sectors:

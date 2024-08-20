@@ -9,8 +9,7 @@ locations:
   - Belgium
 start: 
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/office-for-the-future.png]]"
 logo: "[[../../../assets/officeforthefuture-logo.png]]"
 sectors:

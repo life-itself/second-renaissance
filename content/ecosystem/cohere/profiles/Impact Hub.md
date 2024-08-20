@@ -9,8 +9,7 @@ locations:
   - Vienna, Austria
 start: 2005
 end: present
-size:
-  - 21-50
+size: 21-50
 image: "[[../../../assets/impact-hub.png]]"
 logo: "[[../../../assets/logo-impact-hub.svg]]"
 sectors:

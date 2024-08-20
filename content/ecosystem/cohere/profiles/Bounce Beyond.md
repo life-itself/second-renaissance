@@ -4,11 +4,10 @@ contributors:
   - Catherine Tran
 title: Bounce Beyond
 url: https://www.bouncebeyond.global/
-locations: []
+locations: 
 start: 
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/bounce-beyond-homepage.png]]"
 logo: "[[../../../assets/bouncebeyond-logo.webp]]"
 sectors:

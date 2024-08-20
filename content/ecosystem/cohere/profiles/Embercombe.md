@@ -8,8 +8,7 @@ locations:
   - Exeter, UK
 start: 2001
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/embercombe-homepage.png]]"
 logo: "[[../../../assets/Embercombe-main-logostrap-colour-01.png]]"
 sectors:

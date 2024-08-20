@@ -9,8 +9,7 @@ locations:
   - Greenwich, Connecticut, USA
 start: 2010
 end: 
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/capital-institute-homepage.png]]"
 logo: "[[../../../assets/Capital-Institute-Logo.png]]"
 sectors:

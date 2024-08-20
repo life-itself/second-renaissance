@@ -9,8 +9,7 @@ locations:
   - Berlin, Germany
 start: 2016
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/pocket-project.png]]"
 logo: "[[../../../assets/pocketproject-logo.png]]"
 sectors:

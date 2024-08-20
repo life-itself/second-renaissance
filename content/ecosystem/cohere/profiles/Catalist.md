@@ -5,11 +5,10 @@ contributors:
   - Catherine Tran
 title: Catalist
 url: https://www.catalist.network/
-locations: []
+locations: 
 start: 
 end: 
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/catalist-homepage.png]]"
 logo: "[[../../../assets/Catalist-Logo.svg]]"
 sectors:

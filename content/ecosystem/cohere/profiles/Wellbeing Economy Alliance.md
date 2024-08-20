@@ -22,8 +22,7 @@ locations:
   - Canada
 start: "2018"
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/weall-homepage.png]]"
 logo: "[[../../../assets/logo-weall-cor.png]]"
 sectors:

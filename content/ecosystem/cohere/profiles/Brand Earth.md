@@ -5,11 +5,10 @@ contributors:
   - Catherine Tran
 title: Brand Earth
 url: https://brand.earth/
-locations: []
+locations: 
 start: 
 end: 
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/brand-earth-homepage.png]]"
 logo: "[[../../../assets/brand-earth-logo.png]]"
 sectors:

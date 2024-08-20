@@ -8,8 +8,7 @@ locations:
   - International
 start: 2018
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[1000-landscapes-for-1-billion-people-homepage.png]]"
 logo: "[[../../../assets/1000-Landscape-for-1-Billion-People-logo.svg]]"
 sectors:

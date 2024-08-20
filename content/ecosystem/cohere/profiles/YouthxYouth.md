@@ -9,8 +9,7 @@ locations:
   - USA
 start: 2020
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/youthxyouth.png]]"
 logo: "[[../../../assets/youthxyouth-logo.png]]"
 sectors:

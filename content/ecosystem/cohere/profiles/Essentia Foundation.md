@@ -7,8 +7,7 @@ url: https://www.essentiafoundation.org/
 locations: 
 start: 
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/essentia-homepage.png]]"
 logo: "[[../../../assets/essentia-foundation-logo.png]]"
 sectors:

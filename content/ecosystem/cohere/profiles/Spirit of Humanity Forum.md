@@ -8,8 +8,7 @@ locations:
   - Reykjavik, Iceland
 start: 2012
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/soh-forum.png]]"
 logo: "[[../../../assets/sohforum_logo.png]]"
 sectors:

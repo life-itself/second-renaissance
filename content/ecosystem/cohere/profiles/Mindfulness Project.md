@@ -9,8 +9,7 @@ locations:
   - Thailand
 start: "2013"
 end: present
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/mindfulness-project-homepage.png]]"
 logo: "[[../../../assets/mindfulness-project-logo.webp]]"
 sectors:

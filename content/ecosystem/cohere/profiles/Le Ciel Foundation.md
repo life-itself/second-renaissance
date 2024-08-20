@@ -8,8 +8,7 @@ locations:
   - London, UK
 start: 2017
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/le-ciel.png]]"
 logo: "[[../../../assets/logo-leciel.png]]"
 sectors:

@@ -8,8 +8,7 @@ locations:
   - Braine L'Alleud, Belgium
 start: "2009"
 end: present
-size:
-  - 1-10
+size: 1-10
 image: "[[../../../assets/img/terre-et-conscience.png]]"
 logo: "[[../../../assets/terreetconscience-LOGO.jpg]]"
 sectors:

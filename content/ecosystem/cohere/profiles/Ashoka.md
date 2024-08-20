@@ -9,8 +9,7 @@ locations:
   - International
 start: 1980
 end: 
-size:
-  - 101+
+size: 101+
 image: "[[../../../assets/ashoka-homepage.png]]"
 logo: "[[../../../assets/ashoka-logo.svg]]"
 sectors:

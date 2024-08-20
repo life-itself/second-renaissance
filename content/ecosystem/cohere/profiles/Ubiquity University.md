@@ -10,8 +10,7 @@ locations:
   - California, USA
 start: "2012"
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/ubiquity-homepage.png]]"
 logo: "[[../../../assets/ubiquityuniversity-logo.png]]"
 sectors:

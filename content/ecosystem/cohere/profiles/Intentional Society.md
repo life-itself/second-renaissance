@@ -8,8 +8,7 @@ locations:
   - Online
 start: "2021"
 end: present
-size:
-  - 1-3
+size: 1-3
 image: "[[../../../assets/is-homepage.png]]"
 logo: "[[../../../assets/is-logo.png]]"
 sectors:

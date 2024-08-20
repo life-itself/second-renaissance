@@ -9,8 +9,7 @@ locations:
   - Utrecht, Netherlands
 start: 1988
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/impakt.png]]"
 logo: "[[../../../assets/impakt-logo.svg]]"
 sectors:

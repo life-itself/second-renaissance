@@ -8,8 +8,7 @@ locations:
   - Italy
 start: "2019"
 end: 
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/liminalvillage-homepage.png]]"
 logo: "[[../../../assets/liminalvillage-logo.png]]"
 sectors:

@@ -12,8 +12,7 @@ locations:
   - Norway
 start: "2010"
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/evolution-institute-homepage.png]]"
 logo: "[[../../../assets/ei-logo.png]]"
 sectors:

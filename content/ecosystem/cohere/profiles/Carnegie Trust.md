@@ -8,8 +8,7 @@ locations:
   - Fife, Scotland, UK
 start: 1913
 end: 
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/carnegie-trust-homepage.png]]"
 logo: "[[../../../assets/carnegie-trust-logo.png]]"
 sectors:

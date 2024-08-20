@@ -9,8 +9,7 @@ locations:
   - Jakarta, Indonesia
 start: 2015
 end: 
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/citizen-os.png]]"
 logo: "[[../../../assets/cos-logo.svg]]"
 sectors:

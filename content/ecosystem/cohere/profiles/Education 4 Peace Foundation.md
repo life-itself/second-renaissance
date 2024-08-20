@@ -9,8 +9,7 @@ locations:
   - Switzerland
 start: "2002"
 end: 
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/education-for-peace-homepage.png]]"
 logo: "[[../../../assets/education-4-peace-logo.png]]"
 sectors:

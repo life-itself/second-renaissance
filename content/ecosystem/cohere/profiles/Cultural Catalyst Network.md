@@ -9,8 +9,7 @@ locations:
   - Online
 start: 
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/ccn-website.png]]"
 logo: "[[../../../assets/ccn-logo.png]]"
 sectors:

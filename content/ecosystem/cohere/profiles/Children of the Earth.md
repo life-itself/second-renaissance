@@ -4,11 +4,10 @@ contributors:
   - Catherine Tran
 title: Children of the Earth
 url: https://www.coeworld.org/
-locations: []
+locations: 
 start: 1990
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/children-of-the-earth.png]]"
 logo: "[[../../../assets/coe-logo.png]]"
 sectors:

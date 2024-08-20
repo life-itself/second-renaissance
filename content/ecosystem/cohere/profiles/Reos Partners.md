@@ -9,8 +9,7 @@ locations:
   - Geneva, Switzerland
 start: "2007"
 end: present
-size:
-  - 51-100
+size: 51-100
 image: "[[../../../assets/reos-homepage.png]]"
 logo: "[[../../../assets/reos-logo.svg]]"
 sectors:

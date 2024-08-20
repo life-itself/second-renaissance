@@ -9,8 +9,7 @@ locations:
   - UK
 start: 2018
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/flourish-project.png]]"
 logo: "[[../../../assets/flourishproject-logo.png]]"
 sectors:

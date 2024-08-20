@@ -1,7 +1,7 @@
 
 
 ```dataview
-table start, size, image
+table size, image
 from "content/ecosystem/cohere/profiles"
 ```
 

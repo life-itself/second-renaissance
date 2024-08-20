@@ -9,8 +9,7 @@ locations:
   - Berlin, Germany
 start: 2018
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/emerge-homepage.png]]"
 logo: "[[../../../assets/Emerge_Logo.png]]"
 sectors:

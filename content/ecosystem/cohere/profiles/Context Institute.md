@@ -9,8 +9,7 @@ locations:
   - Online
 start: "1979"
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/contextinstitute-homepage.png]]"
 logo: "[[../../../assets/context-institute-logo.svg]]"
 sectors:

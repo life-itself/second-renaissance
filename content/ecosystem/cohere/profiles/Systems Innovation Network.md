@@ -9,8 +9,7 @@ locations:
   - International/Online
 start: 
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/SI-network-homepage.png]]"
 logo: "[[../../../assets/si-network-logo.jpeg]]"
 sectors:

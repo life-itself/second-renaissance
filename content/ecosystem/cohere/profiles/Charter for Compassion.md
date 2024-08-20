@@ -9,8 +9,7 @@ locations:
   - Bainbridge Island, Washington, USA
 start: "2009"
 end: 
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/charterforcompassion.jpg]]"
 logo: "[[../../../assets/CFC-Official-Logo-blue-424x100.png]]"
 sectors:

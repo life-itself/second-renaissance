@@ -8,8 +8,7 @@ locations:
   - Havelange, Belgium
 start: "2018"
 end: present
-size:
-  - 1-10
+size: 1-10
 image: "[[../../../assets/img/sprouts-homepage.png]]"
 logo: "[[../../../assets/sprouts-logo.png]]"
 sectors:

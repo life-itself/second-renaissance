@@ -8,8 +8,7 @@ locations:
   - International
 start: 2005
 end: 
-size:
-  - not-found
+size: []
 image: "[[../../../assets/art-of-hosting-homepage.png]]"
 logo: "[[../../../assets/AoH-logo.jpg]]"
 sectors:

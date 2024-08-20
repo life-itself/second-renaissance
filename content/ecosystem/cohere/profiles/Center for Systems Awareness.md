@@ -8,8 +8,7 @@ locations:
   - North Andover, Massachusetts, USA
 start: 1997
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/systems-awareness-homepage.png]]"
 logo: "[[../../../assets/CSA_logo.webp]]"
 sectors:

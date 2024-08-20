@@ -9,8 +9,7 @@ locations:
   - Warsaw, Poland
 start: 2021
 end: present
-size:
-  - 4-10
+size: 4-10
 image: "[[../../../assets/GAIA-homepage.png]]"
 logo: "[[../../../assets/gaia-logo.png]]"
 sectors:

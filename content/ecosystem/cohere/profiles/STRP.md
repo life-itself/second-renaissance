@@ -9,8 +9,7 @@ locations:
   - Eindhoven, Netherlands
 start: 2006
 end: present
-size:
-  - " 4-10"
+size: " 4-10"
 image: "[[../../../assets/strp.jpg]]"
 logo: "[[../../../assets/strp_festival_logo.jpeg]]"
 sectors:

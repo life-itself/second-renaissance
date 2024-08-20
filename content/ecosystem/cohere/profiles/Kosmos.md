@@ -8,8 +8,7 @@ locations:
   - Media, Pennsylvania, USA
 start: 2000
 end: present
-size:
-  - 11-20
+size: 11-20
 image: "[[../../../assets/kosmos-homepage.png]]"
 logo: "[[../../../assets/kosmos-logo.png]]"
 sectors:
