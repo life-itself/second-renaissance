@@ -1,12 +1,13 @@
 ---
 title: European School of Governance
-url: 'https://eusg.org/'
-contributors: Catherine
+url: https://eusg.org/
+contributors:
+  - Catherine
 logo: /assets/EUSG-logo.png
 image: /assets/EUSG-homepage.png
 locations:
-  - 'Berlin, Germany'
-start: Not found
+  - Berlin, Germany
+start: 
 end: present
 sectors:
   - Governance & Community

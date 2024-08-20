@@ -1,18 +1,19 @@
 ---
 title: in.Seed
-url: 'https://www.inseed.be/'
-contributors: Catherine
+url: https://www.inseed.be/
+contributors:
+  - Catherine
 logo: /assets/in.seed-logo.png
 image: /assets/in.seed-homepage.png
 locations:
-  - 'Ottignies, Belgium'
-start: not found
+  - Ottignies, Belgium
+start: 
 end: present
 sectors:
   - Infrastructure & Resources
 activities:
   - Consulting & Advisory
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
 size: 4-10
 ---
 > "in.Seed is a multidisciplinary design and consulting workshop serving integrated projects. [...]

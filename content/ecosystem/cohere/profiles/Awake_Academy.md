@@ -1,12 +1,13 @@
 ---
 title: Awake Academy
-url: 'https://www.awakeacademy.org/'
-contributors: Catherine
+url: https://www.awakeacademy.org/
+contributors:
+  - Catherine
 logo: /assets/awake-academy-logo.webp
 image: /assets/awake-academy-homepage.png
 locations:
   - Online
-start: not-found
+start: 
 end: present
 sectors:
   - Spirituality & Religion

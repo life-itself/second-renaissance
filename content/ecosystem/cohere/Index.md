@@ -1,7 +1,7 @@
 
 
 ```dataview
-table locations, sectors, activities, start, size, image
+table start, size, image
 from "content/ecosystem/cohere/profiles"
 ```
 

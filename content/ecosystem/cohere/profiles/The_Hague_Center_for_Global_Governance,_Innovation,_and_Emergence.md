@@ -1,14 +1,13 @@
 ---
-title: 'The Hague Center for Global Governance, Innovation, and Emergence'
-url: 'https://www.thehaguecenter.org/'
-contributors: Elisa
-logo: >-
-  /assets/the-hague-center-for-global-governance-innovation-and-emergence-logo.jpeg
-image: >-
-  /assets/the-hague-center-for-global-governance,-innovation,-and-emergence-homepage.png
+title: The Hague Center for Global Governance, Innovation, and Emergence
+url: https://www.thehaguecenter.org/
+contributors:
+  - Elisa
+logo: /assets/the-hague-center-for-global-governance-innovation-and-emergence-logo.jpeg
+image: /assets/the-hague-center-for-global-governance,-innovation,-and-emergence-homepage.png
 locations:
   - Netherlands
-start: Not found
+start: 
 end: present
 sectors:
   - Relations & Peace

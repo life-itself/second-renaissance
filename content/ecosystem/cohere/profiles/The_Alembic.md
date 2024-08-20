@@ -1,13 +1,14 @@
 ---
 title: The Alembic
-url: 'https://berkeleyalembic.org/'
-contributors: Catherine
+url: https://berkeleyalembic.org/
+contributors:
+  - Catherine
 logo: /assets/alembic-logo.png
 image: /assets/alembic-homepage.png
 locations:
-  - 'Berkeley, California, USA'
-  - ' Online'
-start: not found
+  - Berkeley, California, USA
+  - " Online"
+start: 
 end: present
 sectors:
   - Spirituality & Religion

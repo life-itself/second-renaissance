@@ -1,18 +1,19 @@
 ---
 title: Nature Academy Learning Lab
-url: 'https://www.gorangennvi.eu/'
-contributors: Elisa
+url: https://www.gorangennvi.eu/
+contributors:
+  - Elisa
 logo: /assets/nature-academy-learning-lab-logo.jpg
 image: /assets/nature-academy-learning-lab-homepage.png
 locations:
-  - 'Stockholm, Sweden'
-start: not-found
+  - Stockholm, Sweden
+start: 
 end: present
 sectors:
   - Education & Learning
 activities:
   - Education & Training
-size: ''
+size: ""
 ---
 > "We want to inspire, strengthen and educate people to be a positive force for societal change and contribute to a more sustainable global community. Therefore, we assist leaders, individuals, and organisations to develop their skills and capacities for transformative learning.
 > The Nature Academy also provides methods and tools for inner development, abilities that are increasingly necessary to reach and live up to global sustainability goals."

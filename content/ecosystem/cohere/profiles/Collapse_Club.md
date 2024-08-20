@@ -1,13 +1,14 @@
 ---
 title: Collapse Club
-url: 'https://www.collapseclub.com/'
-contributors: Catherine
+url: https://www.collapseclub.com/
+contributors:
+  - Catherine
 logo: /assets/collapse-club-logo.webp
 image: /assets/collapse-club-homepage.png
 locations:
-  - 'Seattle, USA'
-  - ' Global/Online'
-start: not found
+  - Seattle, USA
+  - " Global/Online"
+start: 
 end: present
 sectors:
   - Health & Wellbeing

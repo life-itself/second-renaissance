@@ -1,22 +1,23 @@
 ---
 title: Théra
-url: 'https://thera.earth/'
-contributors: Catherine
+url: https://thera.earth/
+contributors:
+  - Catherine
 logo: /assets/thera-logo.webp
 image: /assets/thera-homepage.png
 locations:
-  - 'Tarn-et-Garonne, France'
-start: not found
+  - Tarn-et-Garonne, France
+start: 
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Governance & Community
   - Economics & Business
 activities:
   - Research
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
   - Events & Retreats
-size: ''
+size: ""
 ---
 > "The Applied Research Center for the Regeneration of Living Systems responds to the global metacrisis by fostering a holistic approach to revitalization. Nestled within the biodiverse and culturally rich Tarn-et-Garonne, we strive to empower civil society through research and co-development, integrating local and global stakeholders and knowledge, and bringing all of that together into real projects.
 > 

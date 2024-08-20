@@ -1,13 +1,14 @@
 ---
 title: Together Life
-url: 'https://www.togethermovement.world/'
-contributors: Elisa
+url: https://www.togethermovement.world/
+contributors:
+  - Elisa
 logo: /assets/together-life-logo.png
 image: /assets/together-life-homepage.png
 locations:
   - Israel
-start: not found
-end: '2021'
+start: 
+end: "2021"
 sectors:
   - Health & Wellbeing
   - Economics & Business

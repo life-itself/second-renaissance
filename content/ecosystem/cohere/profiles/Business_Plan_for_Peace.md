@@ -1,12 +1,13 @@
 ---
 title: Business Plan for Peace
-url: 'https://thebusinessplanforpeace.org/'
-contributors: Elisa; Catherine
+url: https://thebusinessplanforpeace.org/
+contributors:
+  - Elisa; Catherine
 logo: /assets/business-plan-for-peace-logo.png
 image: /assets/business-plan-for-peace-homepage.png
 locations:
-  - 'London, UK'
-start: Not found
+  - London, UK
+start: 
 end: present
 sectors:
   - Relations & Peace

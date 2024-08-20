@@ -1,12 +1,13 @@
 ---
 title: H3Uni
-url: 'https://www.h3uni.org/'
-contributors: Matthew; Elisa
+url: https://www.h3uni.org/
+contributors:
+  - Matthew; Elisa
 logo: /assets/h3uni-logo.png
 image: /assets/h3uni-homepage.png
 locations:
-  - 'Scotland, UK'
-start: not-found
+  - Scotland, UK
+start: 
 end: present
 sectors:
   - Education & Learning

@@ -1,18 +1,19 @@
 ---
 title: Chôra Foundation
-url: 'https://www.chora.foundation/'
-contributors: Elisa
+url: https://www.chora.foundation/
+contributors:
+  - Elisa
 logo: /assets/chôra-foundation-logo.png
 image: /assets/chôra-foundation-homepage.png
 locations:
-  - 'Haarlem, Natherlands'
-start: not found
+  - Haarlem, Natherlands
+start: 
 end: present
 sectors:
   - Economics & Business
 activities:
   - Consulting & Advisory
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
   - Education & Training
 size: 11-20
 ---

@@ -1,13 +1,14 @@
 ---
 title: Gesturing Towards Decolonial Futures Collective
-url: 'https://decolonialfutures.net/'
-contributors: Catherine
+url: https://decolonialfutures.net/
+contributors:
+  - Catherine
 logo: /assets/gtdf-logo.png
 image: /assets/gtdf-homepage.png
 locations:
   - Canada
-  - ' Brazil'
-start: not found
+  - " Brazil"
+start: 
 end: present
 sectors:
   - Education & Learning

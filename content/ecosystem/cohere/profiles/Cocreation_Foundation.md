@@ -1,18 +1,19 @@
 ---
 title: Cocreation Foundation
-url: 'https://cocreation-foundation.org/'
-contributors: Catherine
+url: https://cocreation-foundation.org/
+contributors:
+  - Catherine
 logo: /assets/cocreation-foundation-logo.jpeg
 image: /assets/cocreation-foundation-homepage.png
 locations:
-  - 'Berlin, Germany'
-start: not found
+  - Berlin, Germany
+start: 
 end: present
 sectors:
   - Governance & Community
 activities:
   - Research
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
 size: 4-10
 ---
 > "The Cocreation Foundation is a think and do tank to understand, forward and prototype cocreation as a cultural technique to tackle the global challenges of our time.

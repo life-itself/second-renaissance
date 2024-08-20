@@ -1,13 +1,14 @@
 ---
 title: Good Grief Network
-url: 'https://www.goodgriefnetwork.org/'
-contributors: Elisa; Ola
+url: https://www.goodgriefnetwork.org/
+contributors:
+  - Elisa; Ola
 logo: /assets/good-grief-network-logo.webp
 image: /assets/good-grief-network-homepage.png
 locations:
-  - 'Michigan, USA'
-  - ' global'
-start: not found
+  - Michigan, USA
+  - " global"
+start: 
 end: present
 sectors:
   - Health & Wellbeing

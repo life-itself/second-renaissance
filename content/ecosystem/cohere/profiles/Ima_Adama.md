@@ -1,12 +1,13 @@
 ---
 title: Ima Adama
-url: 'https://www.ima-adama.earth/'
-contributors: Elisa
+url: https://www.ima-adama.earth/
+contributors:
+  - Elisa
 logo: /assets/ima-adama-logo.png
 image: /assets/ima-adama-homepage.png
 locations:
-  - 'Egnach, Switzerland'
-start: not-found
+  - Egnach, Switzerland
+start: 
 end: present
 sectors:
   - Arts & Culture

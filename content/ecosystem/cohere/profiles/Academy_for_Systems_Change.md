@@ -5,8 +5,8 @@ contributors:
   - Catherine
 logo: /assets/academy-for-systems-change-logo.png
 image: /assets/academy-for-systems-change-homepage.png
-locations: []
-start: not found
+locations: 
+start: 
 end: present
 sectors:
   - Governance & Community

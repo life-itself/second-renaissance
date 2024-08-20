@@ -1,18 +1,19 @@
 ---
 title: Deep Transformation Network
-url: 'https://deeptransformation.network/discovery'
-contributors: Elisa; Catherine
+url: https://deeptransformation.network/discovery
+contributors:
+  - Elisa; Catherine
 logo: /assets/deep-transformation-network-logo.avif
 image: /assets/deep-transformation-network-homepage.png
 locations:
   - Online
-start: Not found
+start: 
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Convening & Coordination
-size: ''
+size: ""
 ---
 > A Mighty Network community.
 > 

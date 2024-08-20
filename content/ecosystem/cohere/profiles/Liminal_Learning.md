@@ -10,7 +10,7 @@ locations:
   - " USA"
   - " Canada"
   - " Germany"
-start: not found
+start: 
 end: present
 sectors:
   - Education & Learning

@@ -1,20 +1,21 @@
 ---
 title: Integral City
-url: 'https://integralcity.com/'
-contributors: Elisa; Catherine
+url: https://integralcity.com/
+contributors:
+  - Elisa; Catherine
 logo: /assets/integral-city-logo.png
 image: /assets/integral-city-homepage.png
 locations:
   - Canada
-  - ' USA'
-  - ' UK'
-  - ' Netherlands'
-  - ' Spain'
-  - ' Russia'
-  - ' Mexico'
-  - ' Australia'
-  - ' South Africa'
-start: not found
+  - " USA"
+  - " UK"
+  - " Netherlands"
+  - " Spain"
+  - " Russia"
+  - " Mexico"
+  - " Australia"
+  - " South Africa"
+start: 
 end: present
 sectors:
   - Economics & Business
