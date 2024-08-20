@@ -2,11 +2,9 @@
 title: Academy for Systems Change
 url: 'https://www.academyforchange.org/'
 contributors: Catherine
-logo: >-
-  https://drive.google.com/file/d/1Bu_f5hDQhE0zUNBzuiuEinLUHWwE5wJC/view?usp=drive_link
-image: >-
-  https://drive.google.com/file/d/1Bu_f5hDQhE0zUNBzuiuEinLUHWwE5wJC/view?usp=drive_link
-locations: 
+logo: /assets/academy-for-systems-change-logo.png
+image: /assets/academy-for-systems-change-homepage.png
+locations:
   - not found
 start: not found
 end: present
@@ -18,13 +16,7 @@ activities:
   - Education & Training
 size: 1-3
 ---
-## 
-
-"The Academy for Systems Change is a nonprofit organization focused on advancing the field of awareness-based systemic change in order to accelerate ecological, social, and economic well-being."
-
-## Key People
-
-
+> "The Academy for Systems Change is a nonprofit organization focused on advancing the field of awareness-based systemic change in order to accelerate ecological, social, and economic well-being."
 
 ## Theory of Change
 
@@ -33,11 +25,3 @@ How they understand systems change: "Systems change is inherently an “inner”
 ## Learning Resources
 
 Great, free comprehensive online resource - A System Leader's Fieldbook: https://www.systemsfieldbook.org/
-
-## Key Concepts
-
-
-
-## Connections
-
-
