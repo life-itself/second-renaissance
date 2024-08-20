@@ -4,11 +4,13 @@ import {
     LocationMarkerIcon,
     UserCircleIcon,
     BriefcaseIcon,
-    HashtagIcon
+    HashtagIcon,
+    CalendarIcon,
+    BuildingOfficeIcon
 } from '@heroicons/react/solid';
 
 export default function CohereProfile({ children, ...frontMatter }) {
-    const { title, url, locations, sectors, activities } = frontMatter;
+    const { title, url, locations, start, sectors, activities, size } = frontMatter;
     // these can look like [[../../../assets/42-acres-homepage.png]] (obsidian like)
     let image = frontMatter.image;
     image = image.replaceAll("[[../../../", "/").replaceAll("]]", "");
@@ -77,6 +79,17 @@ export default function CohereProfile({ children, ...frontMatter }) {
                                 </ul>
                             </div>
                         )}
+                          {start && (
+                            <div className="flex flex-row">
+                                <CalendarIcon className="h-5 w-5" />
+                                <ul className=" ml-2 text-sm">
+                                    <p>
+                                        {start}
+                                    </p>
+                                </ul>
+                            </div>
+                        )}
+        
                     </div>
                     <section aria-labelledby="information-heading" className="mt-4">
                         <h2 id="information-heading" className="sr-only">
@@ -86,7 +99,7 @@ export default function CohereProfile({ children, ...frontMatter }) {
                     </section>
                 </div>
                 {/* image */}
-                {/*
+
                 <div className="mt-10 lg:mt-0 row-span-1">
                     <div className="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden">
                         <img
@@ -96,7 +109,7 @@ export default function CohereProfile({ children, ...frontMatter }) {
                         />
                     </div>
                 </div>
-                */}
+                
             </div>
         </div>
     );
