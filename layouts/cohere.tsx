@@ -86,7 +86,7 @@ export default function CohereProfile({ children, ...frontMatter }) {
                     </section>
                 </div>
                 {/* image */}
-                {/*
+
                 <div className="mt-10 lg:mt-0 row-span-1">
                     <div className="aspect-w-1 aspect-h-1 rounded-lg overflow-hidden">
                         <img
@@ -96,7 +96,7 @@ export default function CohereProfile({ children, ...frontMatter }) {
                         />
                     </div>
                 </div>
-                */}
+                
             </div>
         </div>
     );
