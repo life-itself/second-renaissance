@@ -89,16 +89,7 @@ export default function CohereProfile({ children, ...frontMatter }) {
                                 </ul>
                             </div>
                         )}
-                        {size && (
-                            <div className="flex flex-row">
-                                <BuildingOfficeIcon className="h-5 w-5" />
-                                <ul className=" ml-2 text-sm">
-                                    <p>
-                                        {size}
-                                    </p>
-                                </ul>
-                            </div>
-                        )}
+                    
                     </div>
                     {/* image */}
 
