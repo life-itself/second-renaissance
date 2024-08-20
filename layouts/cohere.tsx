@@ -83,9 +83,9 @@ export default function CohereProfile({ children, ...frontMatter }) {
                             <div className="flex flex-row">
                                 <CalendarIcon className="h-5 w-5" />
                                 <ul className=" ml-2 text-sm">
-                                    <a href={start} className="">
+                                    <p>
                                         {start}
-                                    </a>
+                                    </p>
                                 </ul>
                             </div>
                         )}
