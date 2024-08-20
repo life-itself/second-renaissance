@@ -35,7 +35,7 @@ export default function OrgList({ orgs }) {
                                     </a>
                                     {/* </Link> */}
                                 </h3>
-                                <p className="mt-1 text-sm text-darkgray pb-1">{org.url}</p>
+                                {/* <p className="mt-1 text-sm text-darkgray pb-1">{org.url}</p> */}
                                 {/* <p className="text-sm text-gray-700">{org.body.raw.slice(0, 100) + '…'}</p> */}
                             </div>
                         </div>
