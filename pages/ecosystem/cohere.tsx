@@ -17,11 +17,7 @@ interface Props extends CustomAppProps {
 const HomePage: React.FC<Props> = ({ profiles }) => {
     return (
         <>
-            <div className="prose mx-auto max-w-xl">
-            {profiles.map((profile: any, idx)  => (
-                <p>{profile.title}</p>
-            ))}
-            </div>
+    
             <div id="profiles" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
                 <h1 className="text-center">
                     Directory
