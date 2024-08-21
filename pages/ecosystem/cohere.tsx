@@ -41,7 +41,7 @@ export const getStaticProps: GetStaticProps = async (): Promise<
         acc.push({
             ...file.metadata,
             image: file.metadata.image?.url ?? file.metadata.image,
-            topic: file.metadata.sectors,
+            sector: file.metadata.sectors,
             activity: file.metadata.activities,
             id: file.metadata.title.toLowerCase(),
             urlPath: '/' + file.url_path,
