@@ -8,39 +8,39 @@ const userConfig = {
   navLinks: [
     {
       href: '/paper',
-      name: '📝 Whitepaper'
+      name: 'Whitepaper'
     },
     {
-      href: '/map',
-      name: '🗺️ Map'
+      href: '/art',
+      name: 'Art'
     },
     {
       href: '/ecosystem',
-      name: '🕸️ Ecosystem'
+      name: 'Ecosystem'
     },
     {
       href: '/course',
-      name: '🎓 Course'
+      name: 'Course'
     },
     {
       href: 'https://wiki.secondrenaissance.net/',
-      name: '📕 Wiki'
-    },
-    {
-      href: 'https://secondrenaissance.substack.com/',
-      name: '📰 Newsletter'
-    },
-    {
-      href: 'https://discord.gg/nNRt6V9jA4',
-      name: '👋 Chat'
+      name: 'Wiki'
     },
     {
       href: '/events',
-      name: '🎉 Events'
+      name: 'Events'
     },
     {
       href: '/about',
-      name: 'ℹ️ About'
+      name: 'About'
+    },
+    {
+      href: 'https://secondrenaissance.substack.com/',
+      name: 'News'
+    },
+    {
+      href: 'https://discord.gg/nNRt6V9jA4',
+      name: 'Chat'
     }
   ],
   theme: {
