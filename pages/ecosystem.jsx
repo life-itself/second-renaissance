@@ -13,8 +13,7 @@ const Hero = () => (
           <h1 className="text-3xl font-bold tracking-wide sm:text-7xl py-7">
             A Second Renaissance ecosystem is emerging
           </h1>
-          <p className="text-2
-          xl sm:text-4xl font-serif">
+          <p className="text-2xl sm:text-4xl font-serif">
             This page introduces key resources<br />for making sense of the ecosystem's key features.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6 my-20">
