@@ -6,18 +6,18 @@ Join our  short course *Exploring a Second Renaissance Together*. A guided journ
 
 **Explore this moment of civilizational crisis and transition we are in, moving from modernity into what comes next in our two-episode online course.** 
 
+> I left this feeling inspired. I especially appreciated getting to talk with others and hearing storiees straight from the heart like Sylvie's about having a child and facing the climate crisis. I feel more connected to myself and to others and a sense of being part of a collective movement. Whilst a single twig may easily break a bunch of twigs are unbreakable!" &mdash; Maria
+
 <iframe
-  src="https://lu.ma/embed/event/evt-HB4OMNPBAs7EG21/simple"
+  src="https://lu.ma/embed/event/evt-3GMP066DAcwgw4W/simple"
   width="600"
-  height="450"
+  height="800"
   frameborder="0"
   style={{border: '1px', solid: '#bfcbda88', borderRadius: '4px'}}
   allowfullscreen=""
   aria-hidden="false"
   tabindex="0"
 ></iframe>
-
-_"I leave this session feeling encouraged and inspired. I especially appreciated the sense-making conversations with others. I loved hearing Sylvie's story straight from the heart. I now feel more connected to it, and especially to the people who also take part in this collective movement. A bunch of twigs can't break!"_ - Maria, a participant in our prototype Second Renaissance Course
 
 Led by Life Itself co-founders and Second Renaissance project curators Rufus Pollock and Sylvie Barbier we will cover the following areas:
 
