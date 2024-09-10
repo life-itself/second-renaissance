@@ -1,12 +1,13 @@
 ---
 title: 7 Billion Presidents
-url: 'https://www.7billionpresidents.org/'
-contributors: Catherine
-logo: /assets/7-billion-presidents-logo.png
+url: https://www.7billionpresidents.org/
+contributors:
+  - Catherine
+logo: /assets/7billionpresidents-logo.png
 image: /assets/7-billion-presidents-homepage.png
 locations:
-  - 'Amsterdam, Netherlands'
-start: '2020'
+  - Amsterdam, Netherlands
+start: "2020"
 end: present
 sectors:
   - Economics & Business
