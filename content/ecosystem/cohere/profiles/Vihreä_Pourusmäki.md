@@ -4,8 +4,8 @@ url: https://www.vihreapourusmaki.fi/en
 contributors:
   - Ola
   - Catherine Tran
-logo: /assets/Vihreä Pourusmäki logo.png
-image: /assets/Vihreä Pourusmäki Homepage.png
+logo: /assets/vihrea-pourusmaki-logo.png
+image: /assets/vihrea-pourusmaki-homepage.png
 locations:
   - Laitikkala, Finland
 start: "2022"
