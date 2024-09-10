@@ -11,7 +11,7 @@ start: 2010
 end: 
 size: 1-3
 image: "[[../../../assets/capital-institute-homepage.png]]"
-logo: "[[../../../assets/Capital-Institute-Logo.png]]"
+logo: "[[../../../assets/capital-institute-logo.png]]"
 sectors:
   - Economics & Business
 activities:
@@ -60,4 +60,4 @@ See more on this here: https://capitalinstitute.org/8-principles-regenerative-ec
 - Library of Recommended Reading: https://capitalinstitute.org/book-library/
 - Thought Leadership: https://capitalinstitute.org/thought-pieces/
 
-## Connections 
+
