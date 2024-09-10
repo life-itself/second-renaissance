@@ -13,7 +13,7 @@ locations:
   - Quito, Ecuador
   - Cairo, Egypt
 start: "2012"
-end: present
+end: "2023"
 size: 21-50
 image: "[[../../../assets/ouishare-homepage.png]]"
 logo: "[[../../../assets/ouishare-logo.svg]]"
@@ -52,6 +52,8 @@ https://www.ouishare.net/mission
 
 https://www.ouishare.net/mission
 
+Ouishare was composted in 2023. 
+
 ## Theory of Change
 
 Read their political commitment to discover the key principles/values underlying their work:
@@ -59,7 +61,11 @@ Read their political commitment to discover the key principles/values underlying
 ![[../../../assets/ouishare-political-commitment.pdf|ouishare-political-commitment]]
 
 
+## Key Learning Resources
 
+The Ouishare Handbook gives insight into the structures and practices of OuiShare's distributed network -- you can learn about their structures and processes for governance and decision-making, communication, etc. 
+
+https://handbook.ouishare.net/
 
 
 

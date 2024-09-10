@@ -35,12 +35,6 @@ These are:
 
 https://andnowwhat.be/services/
 
-## Key People
-
-## Theory of Change
-
-## Key Educational Resources
-
 ## Connections
 
 ### Inspirations & Influences

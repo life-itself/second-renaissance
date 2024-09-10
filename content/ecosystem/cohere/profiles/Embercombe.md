@@ -12,13 +12,13 @@ size: 4-10
 image: "[[../../../assets/embercombe-homepage.png]]"
 logo: "[[../../../assets/Embercombe-main-logostrap-colour-01.png]]"
 sectors:
-  - Environment, Food, and Water
+  - Environment, Food & Water
   - Education & Learning
   - Health & Wellbeing
 activities:
   - Education & Training
   - Community Spaces
-  - Events and Retreats
+  - Events & Retreats
 cohere: true
 metadata_version: "1"
 ---
