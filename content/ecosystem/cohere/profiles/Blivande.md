@@ -1,12 +1,13 @@
 ---
 title: Blivande
-url: 'https://www.blivande.com/'
-contributors: Danielle
-logo: /assets/Blivande logo.png
-image: /assets/Blivande Homepage.png
+url: https://www.blivande.com/
+contributors:
+  - Danielle
+logo: /assets/blivande-logo.png
+image: /assets/blivande-homepage.png
 locations:
-  - 'Stockholm, Sweden'
-start: '2018'
+  - Stockholm, Sweden
+start: "2018"
 end: present
 sectors:
   - Governance & Community
@@ -29,3 +30,4 @@ size: 4-10
 > 
 > https://www.blivande.com/vision/vision
 > 
+![[../../../assets/blivande-homepage.png]]
