@@ -1,12 +1,13 @@
 ---
 title: Global Humanity for Peace Institute
-url: 'https://ghfp.institute/ '
-contributors: Elisa
-logo: /assets/global-humanity-for-peace-institute-logo.png
+url: https://ghfp.institute/
+contributors:
+  - Elisa
+logo: /assets/globalhumanityforpeaceinstitute-logo.jpeg
 image: /assets/global-humanity-for-peace-institute-logo.png
 locations:
-  - 'Lampeter, UK'
-start: '2021'
+  - Lampeter, UK
+start: "2021"
 end: present
 sectors:
   - Relations & Peace
