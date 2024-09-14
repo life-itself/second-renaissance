@@ -52,40 +52,6 @@ const Hero = () => (
   </>
 );
 
-const Darkness = () => (
-  <div id="next" className="overflow-hidden bg-white pt-12 sm:pt-24">
-    <div className="mx-auto max-w-7xl px-6 lg:px-8">
-      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-        <div className="lg:ml-auto lg:pl-4 lg:pt-4">
-          <div className="lg:max-w-lg">
-            <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Darkness before dawn
-            </h1>
-            <p className="mt-6 text-xl leading-8 text-gray-600">
-              However, this is also a time of crisis. There may be darkness before dawn.
-              <br /><br />
-              Global crises indicate that modern civilization is in decline. Some level of societal collapse may even be likely.
-            </p>
-            <h3 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-              Crisis can inspire transformation
-            </h3>
-            <p className="mt-6 text-xl leading-8 text-gray-600">
-              Breakdown can be a precursor for deep cultural transformation. Modernity was itself born out of civilizational collapse in Europe at the end of the mediaeval period, leading to the first Renaissance - a period of great cultural rebirth.
-            </p>
-          </div>
-        </div>
-        <div className="flex items-start justify-end order-first">
-          <img
-            src="/assets/img/homepage/solar-eclipse-butler-1923.webp"
-            alt=""
-            className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 bg-yellow-200 w-full"
-          />
-        </div>
-      </div>
-    </div>
-  </div>
-);
-
 const Signs = () => (
   <div id="signs" className="overflow-hidden bg-white pt-12 sm:pt-24">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -120,34 +86,6 @@ const Signs = () => (
   </div>
 );
 
-const Root = () => (
-  <div id="root" className="overflow-hidden bg-white">
-    <div className="mx-auto max-w-7xl px-6 lg:px-8">
-      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
-        <div className="lg:pr-8 lg:pt-32">
-          <div className="lg:max-w-lg">
-            <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-             Our crises roots lie in modernity's key values
-            </h1>
-            <p className="mt-6 text-xl leading-8 text-gray-600">
-              Modernity is based on key views and values like individualism, progress, rationality, freedom and equality.
-              <br /><br />
-              These underpinned extraordinary material progress and advances in individual liberty.
-              <br /><br />
-              However, its core ideas now cast long shadows: endless growth, materialism, techno-solutionism and an addiction to certainty and control. These in turn are driving global exploitation and the destruction of nature, nihilism and loneliness and an ever-widening wisdom gap culminating in the crises we face today.
-            </p>
-          </div>
-        </div>
-        <img
-          src="/assets/img/homepage/roots-5.jpg"
-          alt=""
-          className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0 opacity-40 contrast-200"
-        />
-      </div>
-    </div>
-  </div>
-);
-
 const Water = () => (
   <div id="water" className="overflow-hidden bg-white pt-12 sm:pt-24">
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
@@ -172,6 +110,34 @@ const Water = () => (
           src="/img/homepage/fish-in-water.jpg"
           alt=""
           className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 h-screen"
+        />
+      </div>
+    </div>
+  </div>
+);
+
+const Root = () => (
+  <div id="root" className="overflow-hidden bg-white">
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+        <div className="lg:pr-8 lg:pt-32">
+          <div className="lg:max-w-lg">
+            <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+             Our crises roots lie in modernity's key values
+            </h1>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              Modernity is based on key views and values like individualism, progress, rationality, freedom and equality.
+              <br /><br />
+              These underpinned extraordinary material progress and advances in individual liberty.
+              <br /><br />
+              However, its core ideas now cast long shadows: endless growth, materialism, techno-solutionism and an addiction to certainty and control. These in turn are driving global exploitation and the destruction of nature, nihilism and loneliness and an ever-widening wisdom gap culminating in the crises we face today.
+            </p>
+          </div>
+        </div>
+        <img
+          src="/assets/img/homepage/roots-5.jpg"
+          alt=""
+          className="w-[48rem] max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0 opacity-40 contrast-200"
         />
       </div>
     </div>
@@ -253,6 +219,40 @@ const Cure = () => (
             src="/assets/img/homepage/yellow-plant.jpg"
             alt=""
             className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 mx-auto h-screen"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+);
+
+const Darkness = () => (
+  <div id="next" className="overflow-hidden bg-white pt-12 sm:pt-24">
+    <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
+        <div className="lg:ml-auto lg:pl-4 lg:pt-4">
+          <div className="lg:max-w-lg">
+            <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+              Darkness before dawn
+            </h1>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              However, this is also a time of crisis. There may be darkness before dawn.
+              <br /><br />
+              Global crises indicate that modern civilization is in decline. Some level of societal collapse may even be likely.
+            </p>
+            <h3 className="mt-10 text-2xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+              Crisis can inspire transformation
+            </h3>
+            <p className="mt-6 text-xl leading-8 text-gray-600">
+              Breakdown can be a precursor for deep cultural transformation. Modernity was itself born out of civilizational collapse in Europe at the end of the mediaeval period, leading to the first Renaissance - a period of great cultural rebirth.
+            </p>
+          </div>
+        </div>
+        <div className="flex items-start justify-end order-first">
+          <img
+            src="/assets/img/homepage/solar-eclipse-butler-1923.webp"
+            alt=""
+            className="max-w-none rounded-xl shadow-xl ring-1 ring-gray-400/10 md:-ml-4 lg:-ml-0 bg-yellow-200 w-full"
           />
         </div>
       </div>
