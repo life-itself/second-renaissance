@@ -9,15 +9,20 @@ const Page = () => {
 };
 
 const Hero = () => (
-  <div className="overflow-hidden bg-white py-24 sm:py-32 min-h-screen">
-    <div className="mx-auto max-w-7xl md:px-6 lg:px-8 font-serif">
+  <div className="relative isolate overflow-hidden pt-24 sm:pt-32 min-h-screen bg-black">
+    <div className="mx-auto max-w-7xl md:px-6 lg:px-8 text-white">
+      <img
+        src="/assets/img/art/trees.webp"
+        alt=""
+        className="absolute inset-0 -z-10 object-cover opacity-90"
+        />
       <div className="grid grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:grid-cols-2 lg:items-start">
         <div className="px-6 lg:px-0 lg:pr-8 lg:pt-4">
-          <h1 className="mt-10 text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+          <h1 className="mt-10 text-4xl font-bold tracking-tight sm:text-6xl">
             Art of the second renaissance
           </h1>
-          <h3 className="mt-6 text-2xl leading-8 text-gray-600 sm:text-4xl">
-            We are a collective of artists making art to bring forth a second renaissance.
+          <h3 className="mt-6 text-2xl leading-8 sm:text-4xl">
+            We are an artists collective making art to bring forth a second renaissance.
           </h3>
         </div>
         <div className="sm:px-6 lg:px-0">
@@ -140,3 +145,4 @@ export function getStaticProps() {
 }
 
 export default Page;
+

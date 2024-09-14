@@ -88,11 +88,22 @@ html {
 }
 
 /* buttons */
+
 .btn {
-  @apply font-bold py-2 px-4 rounded-md px-4 py-3 font-medium text-primary shadow no-underline inline-block;
+  @apply py-2 px-4 rounded-md px-4 py-3 font-medium text-primary shadow no-underline inline-block;
 }
 .btn-blue {
   @apply bg-[#F0CA5E];
+}
+.btn-blue:hover {
+  @apply bg-yellow-500 outline-none;
+}
+
+.btnsq {
+  @apply px-8 py-4 text-lg font-semibold text-white shadow-sm no-underline inline-block;
+}
+.btn-black {
+  @apply bg-black;
 }
 .btn-blue:hover {
   @apply bg-yellow-500 outline-none;
