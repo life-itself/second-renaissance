@@ -12,7 +12,7 @@ start: "2015"
 end: present
 size: 
 image: "[[../../../assets/uschool-homepage.png]]"
-logo: "[[../../../assets/uschool-logo.png]]"
+logo: "[[../../../assets/u-school-logo.png]]"
 sectors:
   - Education & Learning
   - Governance & Community
