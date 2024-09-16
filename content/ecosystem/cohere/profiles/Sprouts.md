@@ -37,7 +37,7 @@ They have offerings in English, French, and Dutch.
 
 - Sprouts was founded by a group of Schumacher College graduates. Their activities and offerings are deeply inspired by Schumacher College principles and teachings. 
 
-"Inspired by [Schumacher College](https://www.schumachercollege.org.uk/), we offer a range of courses for personal and professional development in a transforming world. The courses are centered around a Trinity we deem essential for our time: **Soil**, **Soul**, **Society**."
+>Inspired by [Schumacher College](https://www.schumachercollege.org.uk/), we offer a range of courses for personal and professional development in a transforming world. The courses are centered around a Trinity we deem essential for our time: **Soil**, **Soul**, **Society**.
 
 ## Key Learning Resources
 
@@ -52,7 +52,7 @@ They have offerings in English, French, and Dutch.
 The following organisations are listed as "Partners" on their website:
 - [[profiles/Lunt Foundation]]
 - Schumacher College
-- Terre et Conscience
+- [[Terre et Conscience]]
 - [[profiles/Ashoka]]
 - Ferme de Froidefontaine
 - Spes Forum
