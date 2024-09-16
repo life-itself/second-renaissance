@@ -10,7 +10,7 @@ start: "2019"
 end: 
 size: " 4-10"
 image: "[[../../../assets/liminalvillage-homepage.png]]"
-logo: "[[../../../assets/liminalvillage-logo.png]]"
+logo: "[[../../../assets/liminalvillage_logo.jpeg]]"
 sectors:
   - Governance & Community
 activities:
