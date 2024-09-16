@@ -11,7 +11,7 @@ start:
 end: 
 size: 
 image: "[[../../../assets/dolphin-embassy-homepage.png]]"
-logo: "[[../../../assets/dolphin-embassy-logo.webp]]"
+logo: "[[../../../assets/dolphin-embassy-logo.png]]"
 sectors:
   - Environment, Food & Water
   - Relations & Peace
@@ -65,6 +65,5 @@ https://www.dolphinembassy.org/about
 
 https://www.dolphinembassy.org/research-en
 
-## Connections 
 
 

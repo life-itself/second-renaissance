@@ -18,7 +18,7 @@ activities:
   - Funding
 size: 51-100
 ---
-> "Beautiful Trouble is… 
+> Beautiful Trouble is… 
 > A book, strategy card deck, online toolbox and creative campaign incubator.
 > An international network of artist-activist-trainers helping grassroots movements become more creative and effective. [...]
 > 
@@ -26,8 +26,9 @@ size: 51-100
 > 
 > We are a global network of organizers, artists, trainers, and writers who form the community of praxis called Beautiful Trouble. [...]
 > 
-> We equip social movements with an ever-growing suite of strategic tools and training to help grassroots movements be more creative, effective, and irresistible."
-> https://beautifultrouble.org/about 
+> We equip social movements with an ever-growing suite of strategic tools and training to help grassroots movements be more creative, effective, and irresistible.
+
+ https://beautifultrouble.org/about 
 
 ## Learning Resources
 
