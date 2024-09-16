@@ -10,7 +10,7 @@ start: 2000
 end: 
 size: 4-10
 image: "[[../../../assets/ecointention-homepage.png]]"
-logo: "[[../../../assets/logo_ecointention_white.png]]"
+logo: "[[../../../assets/ecointention-logo.jpeg]]"
 sectors:
   - Economics & Business
   - Governance & Community
