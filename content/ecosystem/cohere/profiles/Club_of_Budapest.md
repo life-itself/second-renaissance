@@ -1,12 +1,13 @@
 ---
 title: Club of Budapest
-url: 'https://www.clubofbudapest.com/'
-contributors: Ola; Catherine
-logo: /assets/clubofbudapest logo.webp
+url: https://www.clubofbudapest.com/
+contributors:
+  - Ola; Catherine
+logo: /assets/club-of-budapest-logo.png
 image: /assets/clubofbudapest homepage.png
 locations:
-  - 'Budapest, Hungary'
-start: '2013'
+  - Budapest, Hungary
+start: "2013"
 end: present
 sectors:
   - Spirituality & Religion
