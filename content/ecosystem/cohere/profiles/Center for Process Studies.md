@@ -11,7 +11,7 @@ start: "1973"
 end: 
 size: 11-20
 image: "[[../../../assets/center-for-process-studies-homepage.png]]"
-logo: "[[../../../assets/center-for-process-studies-logo.webp]]"
+logo: "[[../../../assets/center-for-process-stuides-logo.png]]"
 sectors:
   - Science & Technology
   - Spirituality & Religion
@@ -31,14 +31,10 @@ https://ctr4process.org/about/
 >The CPS mission is carried out through research projects, academic conferences, courses, community conversations, webinars, podcasts, the world’s largest library related to process-relational writings, and an array of publications (including two peer-reviewed journals and a number of active books series). As Alfred North Whitehead said, “Ideas won’t keep. Something must be done about them.” That’s what CPS is all about: putting big ideas to work to build a better world. As an international think-tank and global network of educators, visionaries, and activists, CPS exists to help scholars help the world.
 https://ctr4process.org/initiatives/
 
-## Key people 
-
-## Theory of Change 
-
-## Key educational Resources 
+## Key Learning Resources 
 
 https://ctr4process.org/resources/new-books/
+
 ## Connections 
 
 - Affiliated organizations can be found here: https://ctr4process.org/about/affiliated-organizations/
-- They can be contacted here: https://ctr4process.org/contact/

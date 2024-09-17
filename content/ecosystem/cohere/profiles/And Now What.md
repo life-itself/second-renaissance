@@ -10,7 +10,7 @@ start: 2020
 end: 
 size: 1-3
 image: "[[../../../assets/and-now-what.png]]"
-logo: "[[../../../assets/and-now-what-logo.png]]"
+logo: "[[../../../assets/and-now-what-logo.jpeg]]"
 sectors:
   - Relations & Peace
 activities:

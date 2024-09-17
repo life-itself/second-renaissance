@@ -1,12 +1,13 @@
 ---
 title: Bio-Leadership Project
-url: 'https://www.bio-leadership.org/'
-contributors: Danielle
-logo: /assets/Bio-Leadership Project Logo.png
-image: /assets/Bio-Leadership Project Homepage.png
+url: https://www.bio-leadership.org/
+contributors:
+  - Danielle
+logo: /assets/bio-leadership-logo.png
+image: /assets/bio-leadership-homepage.png
 locations:
-  - 'Bristol, UK'
-start: '2016'
+  - Bristol, UK
+start: "2016"
 end: present
 sectors:
   - Economics & Business
@@ -15,7 +16,7 @@ activities:
   - Education & Training
 size: 4-10
 ---
-> “Leadership defined by growth, winner-takes-all competition, consumption and separation is a root of many of the problems we see in the world.
+> Leadership defined by growth, winner-takes-all competition, consumption and separation is a root of many of the problems we see in the world.
 > 
 > But a new story of leadership is growing, working with the rules of life: cycles, connection, regeneration, reciprocity and love.
 > 
@@ -39,14 +40,13 @@ size: 4-10
 > 
 > - Nature-Based Being:  This is about working with qualities that grow when we take the time to stop, notice and work with nature’s patterns. It is about developing resilience, awareness, connection, and an understanding of how life flows.
 > 
-> - Collective Movement: This is knowledge that is needed to help us learn as whole systems and connected communities. It is knowledge related to organisational learning, cultural change and deep personal and social transformation.”
-> 
-> https://www.bio-leadership.org/about-us
-> 
+> - Collective Movement: This is knowledge that is needed to help us learn as whole systems and connected communities. It is knowledge related to organisational learning, cultural change and deep personal and social transformation.
+
+ https://www.bio-leadership.org/about-us
 
 ## Key People
 
-Andres Roberts (founder)
+Andres Roberts, Founder
 
 ## Learning Resources
 

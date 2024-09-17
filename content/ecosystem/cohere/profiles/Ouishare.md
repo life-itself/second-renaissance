@@ -16,7 +16,7 @@ start: "2012"
 end: "2023"
 size: 21-50
 image: "[[../../../assets/ouishare-homepage.png]]"
-logo: "[[../../../assets/ouishare-logo.svg]]"
+logo: "[[../../../assets/ouishare-logo.png]]"
 sectors:
   - Governance & Community
   - Economics & Business

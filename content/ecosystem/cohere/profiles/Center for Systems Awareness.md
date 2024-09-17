@@ -10,7 +10,7 @@ start: 1997
 end: present
 size: 11-20
 image: "[[../../../assets/systems-awareness-homepage.png]]"
-logo: "[[../../../assets/CSA_logo.webp]]"
+logo: "[[../../../assets/CSA-logo.png]]"
 sectors:
   - Education & Learning
 activities:
@@ -24,15 +24,15 @@ metadata_version: "1"
 > The Center for Systems Awareness honors the mind-heart-body system of the learner, the social reality of relationships, family and community that is the context for all learning, and responds to the need to engage learners of all ages in fostering systemic well-being at all levels, from the individual to the larger systems of institutions, society, economy and ecology.
 > 
 > We support and connect local communities in diverse settings developing a 'compassionate systems' approach to education that connects capacity building and community building to research and practice. This larger budding global community of compassionate systems practitioners, in turn, is part of a wider effort to come to a deeper understanding of the subtle aspects of systems awareness needed for sustaining deep change over time.
-> 
-'About', https://systemsawareness.org/about/
+
+About', https://systemsawareness.org/about/
 
 ## Mission 
 
 > Around the world a renaissance is unfolding in education, driven by a combination of bold new ideas and increasing awareness of the necessity for societal change – and the radical idea that young people could be key leaders in these changes and education a key vehicle.
 > 
 > The Center for Systems Awareness exists to advance this renaissance based on _profound inter-connectedness_ as the integrating idea – that 'self,' 'other,' society and the larger natural world all arise as entwined systems of relationships – and that recovering our sense of connectedness and caring at each level can shape our future.
-> 
+
 https://systemsawareness.org/
 
 ## History

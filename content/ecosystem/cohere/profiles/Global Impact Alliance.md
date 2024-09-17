@@ -10,7 +10,7 @@ start:
 end: 
 size: 4-10
 image: "[[../../../assets/global-impact-alliance-homepage.png]]"
-logo: "[[../../../assets/Logo GIA-WAF_tif.webp]]"
+logo: "[[../../../assets/global-impact-alliance-logo.jpeg]]"
 sectors:
   - Economics & Business
 activities:
@@ -26,13 +26,15 @@ They are fostering a community of "conscious citizens" and "conscious organisati
 
 They host salons and gatherings and are developing some courses.
 
-Their target audience seem to be mainly business leaders and investors.
+Their target audience seems to be mainly business leaders and investors.
 
 ## Theory of Change
 
 See their 'Roadmap': https://www.global-impact-alliance.org/the-roadmap
 
-### Influences & Inspirations
+### Key Concepts
+
+They are influenced or inspired by the following fields of knowledge:
 
 - Deep Ecology
 - Ancient Knowledge
