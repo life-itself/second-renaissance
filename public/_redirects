@@ -7,3 +7,6 @@
 /profiles/* /ecosystem/pip/profiles/:splat
 # 2024-07-16 until we have a proper page
 /events  https://lu.ma/second-renaissance
+# art magazine
+/assets/docs/impermanence-magazine-art-of-second-renaissance.pdf  https://drive.google.com/file/d/1XBTPnWgkFqtLqZ96DKqjQLy537XG65yG/view?usp=sharing
+/assets/docs/art-of-second-renaissance-manifesto.pdf   https://drive.google.com/file/d/1XLIpNjaeR6b5QfxNyyXK4J-YDy2XyIj8/view?usp=sharing

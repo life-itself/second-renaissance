@@ -20,6 +20,9 @@ export function getStaticProps() {
 
 export default Page;
 
+const magazineLink = '/assets/docs/impermanence-magazine-art-of-second-renaissance.pdf';
+const manifestoLink = '/assets/docs/art-of-second-renaissance-manifesto.pdf';
+
 const Hero = () => (
   <div className="overflow-hidden bg-white">
     <div className="mx-auto max-w-7xl px-4 lg:px-8">
@@ -37,7 +40,7 @@ const Hero = () => (
               grow our wisdom and insight of inter-connectedness.
             </p>
             <p className="mt-8">
-              <a href="/assets/" className="btnsq btn-black text-3xl">
+              <a href={magazineLink} className="btnsq btn-black text-3xl">
                 Download our magazine
               </a>
             </p>
@@ -88,7 +91,7 @@ const Hero = () => (
       <div className="flex flex-col md:flex-row items-center justify-between">
         <div className="md:w-7/12">
           <p className="text-xl leading-8">
-            We don’t want to just talk about the 2nd Renaissance, we want to
+            We don't want to just talk about the 2nd Renaissance, we want to
             make it happen. We want to make this new culture come to live. What
             better way to birth a new cultural paradigm than through art?
             <br />
@@ -102,13 +105,13 @@ const Hero = () => (
             <br />
             <em>
               If you wish to contribute works for our next issue Mythos please
-              write to sylvie@lifeitself.org
+              write to art@lifeitself.org
             </em>
           </p>
 
           <p className="mt-8">
-            <a href="/assets/" className="btnsq btn-black text-3xl">
-              Art of the Second Renaissance
+            <a href="{manifestoLink}" className="btnsq btn-black text-3xl">
+              Download Manifesto for Art of the Second Renaissance
             </a>
           </p>
         </div>
@@ -119,8 +122,8 @@ const Hero = () => (
             className="w-full h-full object-cover"
           />
           <p className="mt-[-50px]">
-            <a href="/assets/" className="btnsq btn-black text-3xl">
-              Download
+            <a href={magazineLink} className="btnsq btn-black text-3xl">
+              Download Magazine
             </a>
           </p>
         </div>

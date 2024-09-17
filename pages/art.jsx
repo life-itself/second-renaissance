@@ -9,6 +9,9 @@ const Page = () => {
   );
 };
 
+const magazineLink = '/assets/docs/impermanence-magazine-art-of-second-renaissance.pdf';
+const manifestoLink = '/assets/docs/art-of-second-renaissance-manifesto.pdf';
+
 const Hero = () => (
   <div
     className="relative isolate overflow-hidden pt-24 sm:pt-32 bg-center bg-cover min-h-screen bg-black"
@@ -75,7 +78,7 @@ const Catalyst = () => (
               and took place in Thénac France in April 2024.
             </p>
             <p className="mt-8">
-              <a href="/assets/" className="btnsq btn-black text-3xl">
+              <a href="/art/impermanence" className="btnsq btn-black text-3xl">
                 See the exhibition and magazine
               </a>
             </p>
@@ -119,7 +122,7 @@ const SecondRenaissance = () => (
               Marrying the artistic, political and spiritual world.
             </p>
             <p className="mt-8">
-              <a href="/assets/" className="btnsq btn-black text-3xl">
+              <a href={manifestoLink} className="btnsq btn-black text-3xl">
               Download
               </a>
             </p>
@@ -135,11 +138,10 @@ const SecondRenaissance = () => (
           </p>
           <p className="mt-6 text-xl leading-8">
             Subscribe for updates about art of the second renaissance
-            (quarterly).
           </p>
           <p className="mt-8">
-            <a href="/assets/" className="btnsq btn-black text-3xl">
-              Sign up
+            <a href="https://secondrenaissance.substack.com/s/art" className="btnsq btn-black text-3xl">
+              Sign on our substack newsletter
             </a>
           </p>
         </div>
@@ -150,11 +152,12 @@ const SecondRenaissance = () => (
 
 const Manifesto = () => (
   <div className="bg-white px-6 py-32 lg:px-8">
-    <div className="mx-auto max-w-3xl text-base leading-7 text-gray-600 text-center prose text-lg leading-8">
-      <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-6xl text-center font-serif mb-8">
+    <div className="mx-auto max-w-3xl text-base leading-7 text-gray-600 text-center text-lg leading-8">
+      <h1 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-6xl text-center mb-8">
         Manifesto
       </h1>
 
+    <div className="prose-lg text-center">
       <p>
         We are a collective of artists making art to bring forth the second
         renaissance.
@@ -240,8 +243,9 @@ const Manifesto = () => (
         <li>Our work are prayers. </li>
         <li>Our work is an embrace to the earth and mother nature.</li>
       </ul>
+    </div>
       <p className="mt-8">
-        <a href="/assets/" className="btnsq btn-black text-3xl">
+        <a href="/assets/docs/impermanence-magazine-art-of-second-renaissance.pdf" className="btnsq btn-black text-3xl">
           Download
         </a>
       </p>
