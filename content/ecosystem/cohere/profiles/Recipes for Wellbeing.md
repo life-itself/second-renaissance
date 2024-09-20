@@ -10,7 +10,7 @@ start:
 end: 
 size: 4-10
 image: "[[../../../assets/recipes-for-wellbeing-homepage.png]]"
-logo: "[[../../../assets/recipes-for-wellbeing-logo.webp]]"
+logo: "[[../../../assets/recipes-for-wellbeing-logo.png]]"
 sectors:
   - Health & Wellbeing
   - Relations & Peace

@@ -3,7 +3,7 @@ title: Local Futures
 url: https://www.localfutures.org/
 contributors:
   - Catherine Tran
-logo: /assets/localfutures-logo.png
+logo: /assets/localfutures-logo.jpg
 image: /assets/local-futures-homepage.png
 locations:
   - USA

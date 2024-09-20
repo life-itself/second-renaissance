@@ -4,7 +4,7 @@ url: https://www.regenerators.co/
 contributors:
   - Ola
   - Catherine Tran
-logo: /assets/regenerators-logo.png
+logo: /assets/regenerators-logo.jpeg
 image: /assets/regenerators homepage.png
 locations: 
 start: ""

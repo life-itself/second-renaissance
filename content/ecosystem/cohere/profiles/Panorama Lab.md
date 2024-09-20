@@ -10,7 +10,7 @@ start: 2019
 end: present
 size: 
 image: "[[../../../assets/panorama-lab.png]]"
-logo: "[[../../../assets/panoramalab-logo.jpg]]"
+logo: "[[../../../assets/panorama-lab-logo.jpeg]]"
 sectors:
   - Economics & Business
   - Governance & Community

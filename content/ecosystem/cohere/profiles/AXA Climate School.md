@@ -11,7 +11,7 @@ start: 2021
 end: 
 size: 51-100
 image: "[[../../../assets/AXA-homepage.png]]"
-logo: "[[../../../assets/axa-climate-logo.svg]]"
+logo: "[[../../../assets/axa-climate-school-logo.jpeg]]"
 sectors:
   - Environment, Food & Water
   - Economics & Business

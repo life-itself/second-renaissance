@@ -10,7 +10,7 @@ start: 2007
 end: present
 size: 11-20
 image: "[[../../../assets/source-of-synergy.png]]"
-logo: "[[../../../assets/sourceofsynergyfoundation-logo.png]]"
+logo: "[[../../../assets/source-of-synergy-logo.png]]"
 sectors:
   - Spirituality & Religion
   - Relations & Peace

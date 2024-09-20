@@ -3,7 +3,7 @@ title: Visionautik Academie
 url: https://visionaut.de/
 contributors:
   - Ola
-logo: /assets/visionaut logo.png
+logo: "[[../../../assets/visionautik-logo.png]]"
 image: /assets/visionaut HOMEPAGE.png
 locations:
   - Berlin, Germany

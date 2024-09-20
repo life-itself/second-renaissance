@@ -1,22 +1,23 @@
 ---
 title: Holomovement
-url: 'https://www.holomovement.org/'
-contributors: Ola
-logo: /assets/holomovement logo.jpeg
+url: https://www.holomovement.org/
+contributors:
+  - Ola
+logo: "[[../../../assets/holomovement-logo.jpeg]]"
 image: /assets/holomovement homepage.png
 locations:
   - global
-start: ''
-end: ''
+start: ""
+end: ""
 sectors:
   - Health & Wellbeing
   - Education & Learning
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Community Spaces
   - Convening & Coordination
   - Education & Training
-size: ''
+size: ""
 ---
 > The Holomovement is a social movement that awakens us to our interconnectedness, igniting a critical mass of collaborative action serving the good of the whole. 
 > 
@@ -26,36 +27,17 @@ size: ''
 > 
 > The Holomovement is an experiment in joyful collaboration--a named space for coalition and shared collective wisdom--rather than a non-profit or organizational entity. 
 
-## Key People
-
-Fundación por el Futuro
-
-Purpose Earth
-
-The Source of Synergy Foundation
-
-Great Transition Stories, 
-
-The Hague Centre, 
-
-Green Heart Music, 
-
-Light on Light, 
-
-NewStories,
-
-## Theory of Change
-
-Meditation or Interspiritual Prayer Circles.
-
-Community park, beach or trail hike clean-ups.
-
-Regenerative farming or permaculture projects.
-
-Mentorship programs or other nonprofit organizational work.
-
-Educational programs for children or vulnerable communities.
-
 ## Learning Resources
 
 https://www.holomovement.net/media
+
+## Connections
+
+Fundación por el Futuro
+Purpose Earth
+[[Source of Synergy Foundation]]
+Great Transition Stories
+[[The_Hague_Center_for_Global_Governance,_Innovation,_and_Emergence]]
+Green Heart Music
+Light on Light
+NewStories
