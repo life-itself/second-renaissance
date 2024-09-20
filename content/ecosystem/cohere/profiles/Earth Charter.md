@@ -12,7 +12,7 @@ start: "2000"
 end: 
 size: 11-20
 image: "[[../../../assets/earthcharter-homepage.png]]"
-logo: "[[../../../assets/earth-charter-logo.png]]"
+logo: "[[../../../assets/earth-charter-logo.jpeg]]"
 sectors:
   - Governance & Community
   - Relations & Peace

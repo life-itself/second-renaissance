@@ -10,7 +10,7 @@ start: "2014"
 end: present
 size: 1-3
 image: "[[../../../assets/metamoderna-homepage.png]]"
-logo: "[[../../../assets/metamoderna-logo.svg]]"
+logo: "[[../../../assets/metamoderna-logo.png]]"
 sectors:
   - Governance & Community
   - Spirituality & Religion

@@ -21,7 +21,7 @@ start: "1989"
 end: present
 size: 101+
 image: "[[../../../assets/naturalstep-homepage.png]]"
-logo: "[[../../../assets/naturalstep-logo.png]]"
+logo: "[[../../../assets/natural-step-logo.png]]"
 sectors:
   - Environment, Food & Water
   - Infrastructure & Resources

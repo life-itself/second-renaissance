@@ -11,7 +11,7 @@ start: "2013"
 end: present
 size: " 4-10"
 image: "[[../../../assets/mindfulness-project-homepage.png]]"
-logo: "[[../../../assets/mindfulness-project-logo.webp]]"
+logo: "[[../../../assets/mindfulness-project-logo.jpeg]]"
 sectors:
   - Spirituality & Religion
   - Environment, Food & Water

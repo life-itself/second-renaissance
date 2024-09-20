@@ -14,7 +14,7 @@ start: "2010"
 end: present
 size: 11-20
 image: "[[../../../assets/evolution-institute-homepage.png]]"
-logo: "[[../../../assets/ei-logo.png]]"
+logo: "[[../../../assets/evolution-institute-logo.png]]"
 sectors:
   - Health & Wellbeing
   - Justice & Restoration

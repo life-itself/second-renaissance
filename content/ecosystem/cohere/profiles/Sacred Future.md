@@ -10,7 +10,7 @@ start: 2019
 end: present
 size: " 4-10"
 image: "[[../../../assets/sacredfuture-homepage.png]]"
-logo: "[[../../../assets/logo-sacred-future-test.svg]]"
+logo: "[[../../../assets/sacred-future-logo.png]]"
 sectors:
   - Environment, Food & Water
   - Justice & Restoration

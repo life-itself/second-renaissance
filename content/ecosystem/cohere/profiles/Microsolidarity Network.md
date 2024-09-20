@@ -11,7 +11,7 @@ start: "2018"
 end: present
 size: 4-10
 image: "[[../../../assets/microsolidarity-homepage.png]]"
-logo: "[[../../../assets/microsolidarity-logo.avif]]"
+logo: "[[../../../assets/microsolidarity-logo.jpeg]]"
 sectors:
   - Relations & Peace
   - Governance & Community

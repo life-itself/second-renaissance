@@ -3,7 +3,7 @@ title: Bio-Leadership Project
 url: https://www.bio-leadership.org/
 contributors:
   - Danielle
-logo: /assets/bio-leadership-logo.png
+logo: /assets/bio-leadership-logo.jpeg
 image: /assets/bio-leadership-homepage.png
 locations:
   - Bristol, UK

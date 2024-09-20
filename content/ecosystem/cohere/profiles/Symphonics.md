@@ -10,7 +10,7 @@ start: "2021"
 end: present
 size: 1-3
 image: "[[../../../assets/symphonics-homepage.png]]"
-logo: "[[../../../assets/symphonicslogo.webp]]"
+logo: "[[../../../assets/symphonics-logo.jpg]]"
 sectors:
   - Science & Technology
   - Governance & Community

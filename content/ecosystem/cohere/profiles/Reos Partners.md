@@ -11,7 +11,7 @@ start: "2007"
 end: present
 size: 51-100
 image: "[[../../../assets/reos-homepage.png]]"
-logo: "[[../../../assets/reos-logo.svg]]"
+logo: "[[../../../assets/reos-logo.png]]"
 sectors:
   - Environment, Food & Water
   - Justice & Restoration

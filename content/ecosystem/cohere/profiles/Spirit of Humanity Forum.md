@@ -10,7 +10,7 @@ start: 2012
 end: present
 size: 4-10
 image: "[[../../../assets/soh-forum.png]]"
-logo: "[[../../../assets/sohforum_logo.png]]"
+logo: "[[../../../assets/soh-forum-logo.jpeg]]"
 sectors:
   - Spirituality & Religion
   - Governance & Community

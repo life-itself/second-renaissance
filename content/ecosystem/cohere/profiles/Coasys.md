@@ -28,4 +28,4 @@ collective intelligence; sensemaking; metacrisis
 
 ## Connections
 
-Symphonics is a partner
+[[Symphonics]] is a partner

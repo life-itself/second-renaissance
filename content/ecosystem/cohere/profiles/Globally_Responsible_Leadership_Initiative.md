@@ -4,7 +4,7 @@ url: https://grli.org/
 contributors:
   - Ola
   - Catherine Tran
-logo: /assets/GRLI-Logo1x.png
+logo: "[[../../../assets/grli-logo.jpeg]]"
 image: /assets/GRLI Homepage.png
 locations:
   - Brussels, Belgium

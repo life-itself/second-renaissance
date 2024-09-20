@@ -70,6 +70,6 @@ One of their major reports is *Great Transition: The Promise and Lure of the Tim
 
 ## Connections 
 
-- Tellus Institute 
+- [[Tellus_Institute]] 
 - Stockholm Environment Institute
 

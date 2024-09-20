@@ -10,7 +10,7 @@ start: "2019"
 end: present
 size: 4-10
 image: "[[../../../assets/ten-homepage.png]]"
-logo: "[[../../../assets/ten-logo_100x100.webp]]"
+logo: "[[../../../assets/ten-logo.jpeg]]"
 sectors:
   - Relations & Peace
   - Governance & Community
