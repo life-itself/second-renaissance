@@ -5,7 +5,7 @@ contributors:
   - Ola
   - Catherine Tran
 logo: /assets/vihrea-pourusmaki-logo.png
-image: /assets/vihrea-pourusmaki-homepage.png
+image: /assets/vihrea-homepage.png
 locations:
   - Laitikkala, Finland
 start: "2022"
@@ -21,7 +21,7 @@ size:
 
 https://www.vihreapourusmaki.fi/en
 
-One of their main projects is the homestead and permaculture education centre, Beyond Buckthorns, where they host courses and lectures on sustainability/permaculture 
+One of their main projects is the homestead and permaculture education centre, Beyond Buckthorns, where they host courses and lectures on sustainability/permaculture. 
 
 ## Theory of Change
 

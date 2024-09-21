@@ -24,4 +24,8 @@ size: ""
 > 
 > Our home is Château du Feÿ, in Burgundy, France.
 
-> https://feytopia.com/ 
+https://feytopia.com/ 
+
+>Our everyday is peppered with impromptu, emergent, participatory events. Think improv workshops, music jams, all-nighter philosophy discussions, salons for your daily cosmetic and intellectual routine, sports (indoor, outdoor, inside out), movie screenings, talks… to name the most conventional happenings.
+
+https://feytopia.com/en/events

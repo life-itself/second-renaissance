@@ -30,6 +30,7 @@ metadata_version: "1"
 >We redefine wealth and reimagine finance in service to the emergence of an ecologically and socially regenerative economy. By addressing the root causes of climate change, economic injustice, and even pandemics, we promote the emergence of thriving communities and a flourishing planet.
 >
 >The Regenerative Economy we foresee is a powerful one, unleashing presently unseen potential, which is the source of Regenerative Age prosperity, and replacing no longer feasible extractive growth. This potential derives from the essence of our individual genius, the deep purpose of regenerative enterprise large and small, and must extend to the macro socio-economic system as a whole.
+
 https://capitalinstitute.org/about-us/
 
 ### Key People 

@@ -27,7 +27,8 @@ metadata_version: "1"
 > The Joysong Collective is a place to re-discover our fundamental joy, including and especially in the everyday places (like livelihood, parenting, grief) where we are often amnesic to remembering our already-wholeness. ...
 > 
 > Our Joysong Collective is both tapped into the effervescence of global consciousness and rooted in local soil and embodied reality. Our first local “node” is in Sebastopol, California. 
-(https://www.joysong.co/humans)
+
+https://www.joysong.co/humans
 
 They describe themselves as:
 - "an incubator for spirit at work"
@@ -93,10 +94,6 @@ They seek to practise their values in their own financial and organisational mod
 
 ![[../../../assets/joysong-structure.png]]
 
-## Inspirations
-
-- [[Jack Kornfield]]
-
 ## Connections
 
-- [[We Will Dance with Mountains]] (WWDWM) course
+- We Will Dance with Mountains (WWDWM) course

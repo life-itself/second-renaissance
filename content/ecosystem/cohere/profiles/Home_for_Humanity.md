@@ -1,21 +1,22 @@
 ---
 title: Home for Humanity
-url: 'https://www.homeforhumanity.earth/ '
-contributors: Catherine
+url: "https://www.homeforhumanity.earth/ "
+contributors:
+  - Catherine Tran
 logo: /assets/home-for-humanity-logo.webp
 image: /assets/homeforhumanity-homepage.png
 locations:
   - France
-  - ' Zimbabwe'
-  - ' Egypt'
-  - ' Brazil'
-  - ' India'
-  - ' Nigeria'
-  - ' Sri Lanka'
-  - ' Jordan'
-  - ' Morocco'
-  - ' Jerusalem'
-start: '2019'
+  - " Zimbabwe"
+  - " Egypt"
+  - " Brazil"
+  - " India"
+  - " Nigeria"
+  - " Sri Lanka"
+  - " Jordan"
+  - " Morocco"
+  - " Jerusalem"
+start: "2019"
 end: present
 sectors:
   - Arts & Culture
@@ -41,7 +42,8 @@ size: 4-10
 > ... to serve the one EARTH HOME we share, drawing on the wisdom and innovations of every geography, culture and country to shape together an inclusive and regenerative future for the indivisible family of life on Earth.
 > 
 > ​This is the transformative work of the Home for Humanity Movement for Planetary Regeneration, active locally and globally, on all continents.
-> https://www.homeforhumanity.earth/ 
+
+https://www.homeforhumanity.earth/ 
 
 ## Theory of Change 
 
@@ -57,4 +59,6 @@ Their mission is to actualise the following Humanity Charter: https://www.homefo
 
 ## Connections
 
-Global partner organisations include: Holomovement, Wholeworld-View,Charter for Compassion, Learning Planet Institute, Wellbeing Economy Alliance, Source of Synergy Foundation, YouthxYouth, Kosmos https://www.homeforhumanity.earth/partnerorganisations 
+Global partner organisations include: [[Holomovement]], [[WholeWorld-View]], [[Charter for Compassion]], [[Learning_Planet_Institute]], [[Wellbeing Economy Alliance]], [[Source of Synergy Foundation]], [[YouthxYouth]], [[Kosmos]].
+
+See: https://www.homeforhumanity.earth/partnerorganisations 

@@ -28,12 +28,14 @@ metadata_version: "1"
 >- developing the technology to enable crowdocratic governance - the concept of crowdocracy assumes that technology enables crowd governance. Today, this technology as we envisage it does not exist yet. This is a crucial piece in the road to a crowdocratic future. [...]
 >
 >The Crowd Foundation aims to become a crowdocratic body itself.
+
 http://www.crowd.ngo/crowdocracy/foundation.html
 ### About Crowdocracy
 
 >*Crowdocracy: The End of Politics* discusses one of the world's most debated and critical issues - who decides our future and how should we be governed? Democracy is struggling to produce solutions to the challenges of our times. Populations feel disenfranchised with the political process, with the real power today being in the hands of a small elite.
 >
 >Crowdocracy offers a radical new way forward, one that allows all of us - not just some of us - to participate in how we are governed. Using technology and the insights of crowd wisdom, the authors describe how all of us can replace our elected officials and ultimately shape and govern our communities. A revolutionary idea that can be implemented in an evolutionary way.
+
 http://www.crowd.ngo/index.html
 
 ## Theory of Change
