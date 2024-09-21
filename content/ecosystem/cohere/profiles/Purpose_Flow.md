@@ -3,7 +3,7 @@ title: Purpose Flow
 url: https://purposeflow.org/living/
 contributors:
   - Elisa Paka
-logo: 
+logo: /assets/purposeflow-logo.png
 image: /assets/purpose-flow-homepage.png
 locations:
   - Pavia, Portugal
