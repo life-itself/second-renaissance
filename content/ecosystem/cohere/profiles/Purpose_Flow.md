@@ -3,7 +3,7 @@ title: Purpose Flow
 url: https://purposeflow.org/living/
 contributors:
   - Elisa Paka
-logo: /assets/purpose-flow-logo.png
+logo: "[[../../../assets/purpose-flow-logo.png]]"
 image: /assets/purpose-flow-homepage.png
 locations:
   - Pavia, Portugal
@@ -24,3 +24,4 @@ https://purposeflow.org/living/
 ## Key Concepts
 
 bioregional regeneration; ecological restoration; ecological awareness; regenerative practices; circular economy; act locally; community living
+![[../../../assets/purpose-flow-logo.png]]
