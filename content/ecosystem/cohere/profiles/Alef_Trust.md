@@ -1,12 +1,13 @@
 ---
 title: Alef Trust
-url: 'https://www.aleftrust.org/'
-contributors: Danielle
+url: https://www.aleftrust.org/
+contributors:
+  - Danielle
 logo: /assets/alef-trust-logo-web-100.webp
-image: /assets/Alef Trust Homepage.png
+image: "[[../../../assets/Alef Trust Homepage.png]]"
 locations:
   - United Kingdom
-start: '2011'
+start: "2011"
 end: present
 sectors:
   - Education & Learning
