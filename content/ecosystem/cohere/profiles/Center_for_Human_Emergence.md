@@ -13,10 +13,11 @@ start: "2008"
 end: present
 sectors:
   - Education & Learning
+  - Economics & Business
 activities:
-  - Advocacy & Activism
-  - Events & Retreats
+  - Education & Training
   - Research
+  - Consulting & Advisory
 size: 4-10
 ---
 >The German speaking Center for Human Emergence (CHE) focuses on developing evolutionary future competences and innovative models of thinking and awareness, on researching and training. We are convinced that we will need new approaches to master the historical transition from modern and postmodern society to the integral age to create sustainable answers for the future of our cultures and communities.
