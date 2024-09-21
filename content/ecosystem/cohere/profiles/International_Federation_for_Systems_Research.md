@@ -3,7 +3,7 @@ title: International Federation for Systems Research
 url: https://ifsr.org/
 contributors:
   - Catherine Tran
-logo: /assets/ifsr-logo.png
+logo: /assets/IFSR-logo.png
 image: /assets/IFSR-homepage.png
 locations:
   - Vienna, Austria
