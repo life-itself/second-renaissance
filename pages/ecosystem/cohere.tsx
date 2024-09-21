@@ -22,7 +22,7 @@ const HomePage: React.FC<Props> = ({ profiles }) => {
                 <h1 className="text-center">
                     Directory
                 </h1>
-                <div className="text-center py-5">Explore the directory of organizations, communities, and initiatives who are active in or close to the ecosystem.</div>
+                <div className="text-center py-5">Explore the directory of organizations, communities, and initiatives who are working for paradigmatic social change in Europe.</div>
                 <ProfileSearch profiles={profiles} />
             </div>
         </>
