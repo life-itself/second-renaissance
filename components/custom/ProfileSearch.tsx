@@ -2,6 +2,7 @@ import OrgList from './OrgList';
 import Fuse from 'fuse.js';
 import ItemsJS from 'itemsjs';
 import React, { useState, useEffect } from 'react';
+import { useRouter } from 'next/router';
 
 /** JS search component
   Use 2 search systems:
@@ -10,6 +11,8 @@ import React, { useState, useEffect } from 'react';
   * */
 export default function ProfileSearch({ profiles }) {
     const [orgs, setOrgs] = useState([]);
+    const { asPath } = useRouter();
+    const isCohere = asPath.toLowerCase().includes("cohere");
 
     useEffect(() => {
         setOrgs(profiles);
@@ -94,6 +97,10 @@ export default function ProfileSearch({ profiles }) {
 
     sortedOrgs = searchResults2.data.items;
 
+    const facetDisplayName = (facet) => {
+       return ( isCohere && facet.title === "Topic" ) ? "Sector" : facet.title;
+    }
+
     return (
         <>
             <p className="">Profiles found: {sortedOrgs.length}</p>
@@ -111,7 +118,7 @@ export default function ProfileSearch({ profiles }) {
                 {/* TODO type */}
                 {facetResults.map((facet: any, idx) => (
                     <fieldset key={`${facet.title}-${idx}`}>
-                        <legend className="block font-medium">{facet.title}</legend>
+                         <legend className="block font-medium">{facetDisplayName(facet)}</legend>
                         <div className="mt-2 grid grid-cols-1 gap-y-1 gap-x-2 sm:grid-cols-2 lg:grid-cols-4">
                             {facet.buckets.map((option, optionIdx) => (
                                 <div
