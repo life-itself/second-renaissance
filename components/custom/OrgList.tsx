@@ -16,7 +16,7 @@ export default function OrgList({ orgs }) {
                 }
                 imgSrc = imgSrc?.replaceAll("[[../../../", "/").replaceAll("]]", "");                
                 if (org) return (
-                    <div key={org.id} className="group relative">
+                    <div key={org.id} className="group relative p-2 border-2 rounded-md border-zinc-100 hover:bg-zinc-100">
                         <div className="w-full aspect-square bg-beige rounded-md overflow-hidden group-hover:opacity-75">
                             <img
                                 src={imgSrc}
@@ -29,7 +29,7 @@ export default function OrgList({ orgs }) {
                                 <a className="extra-small exception font-medium tracking-wide text-accent uppercase">{org.category}</a>
                                 <h3 className="text-base font-medium hover:underline text-semiblack">
                                     {/* <Link href={org.urlPath}> */}
-                                    <a href={org.urlPath} className="!visible">
+                                    <a href={org.urlPath} className="!visible group-hover:text-yellow-500">
                                         <span aria-hidden="true" className="absolute inset-0" />
                                         {org.title}
                                     </a>

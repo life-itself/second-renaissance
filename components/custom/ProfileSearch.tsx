@@ -102,7 +102,7 @@ export default function ProfileSearch({ profiles }) {
                 type="search"
                 name="search"
                 placeholder="Search ..."
-                className="mt-4 w-full md:w-1/2"
+                className="border border-input rounded-md py-1 px-4 mt-4 w-full md:w-1/2"
                 value={searchQuery}
                 onChange={(event) => handleSearch(event.target.value)}
             />
@@ -112,7 +112,7 @@ export default function ProfileSearch({ profiles }) {
                 {facetResults.map((facet: any, idx) => (
                     <fieldset key={`${facet.title}-${idx}`}>
                         <legend className="block font-medium">{facet.title}</legend>
-                        <div className="pt-2 space-y-1 md:space-y-0 md:space-x-4">
+                        <div className="mt-2 grid grid-cols-1 gap-y-1 gap-x-2 sm:grid-cols-2 lg:grid-cols-4">
                             {facet.buckets.map((option, optionIdx) => (
                                 <div
                                     key={`${option.id}-${optionIdx}`}
