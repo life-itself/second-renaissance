@@ -40,11 +40,11 @@ const Hero = () => (
               grow our wisdom and insight of inter-connectedness.
             </p>
             <p className="mt-8">
-              <a href={magazineLink} className="btnsq btn-black text-3xl">
-                Download our magazine
+              <a href={magazineLink} className="btnsq btn-black text-2xl">
+                Download magazine
               </a>
-              <a href="#exhibition" className="btnsq btn-black text-3xl ml-2">
-                View exhition videos
+              <a href="#exhibition" className="btnsq btn-black text-2xl ml-2">
+                View exhibition
               </a>
             </p>
           </div>
