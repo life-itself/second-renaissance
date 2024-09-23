@@ -26,6 +26,9 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+territory: Spirituality & Contemplative Practice
+y: 592
+x: 88
 ---
 >Heartfulness is a 100-year-old tradition that continues to evolve with the times, integrating scientific inquiry and time-honored contemplative practices. Certified trainers guide you to experience the subtle energy of Transmission, which awakens a deeper level of inner experience, authenticity, compassion, and awareness. Heartfulness practices expand your awareness, and develop well-being, contentment, calm, compassion, courage, and clarity. With this awakened potential, together we can create a world based on respect, peace and unity.
 >
@@ -36,6 +39,7 @@ metadata_version: "1"
 >In July 1945, Babuji founded the first Heartfulness organization in India – a non-profit for the well-being of people around the world. [...]
 >
 >The Heartfulness Movement has been active in peace building since 1957, when Babuji first contacted the UN Secretary-General Dag Hammarskjöld to offer a practice for peace among all people of the world. [...] Today, there are Heartful Communication programs offered in all regions of the world, offering people a way to resolve conflict and bring harmony.
+
 https://heartfulness.org/en/about-heartfulness
 
 ## Key Learning Resources

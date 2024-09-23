@@ -21,6 +21,9 @@ activities:
 cohere: true
 metadata_version: "1"
 curation_status: Y
+territory: Inner Wisdom & Healing
+y: 609
+x: 197
 ---
 > We use our deepest intuition, ancient tools and shared knowledge to establish [[regenerative]] spaces, curate transformational experiences, and foster opportunities to learn, heal and grow.
 

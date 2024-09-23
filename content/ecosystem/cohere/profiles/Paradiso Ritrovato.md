@@ -18,6 +18,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Inner Wisdom & Healing
+y: 544
+x: 222
 ---
 >The Paradiso Ritrovato Association is a non-profit organization that promotes social resilience, environmental protection and regeneration through education and training. It collaborates with individuals and groups that transform new models of living together into concrete reality. The activities are aimed at all those who seek global and individual peace and share the principles of respect for the Earth, truth, transparency and mutual support.
 

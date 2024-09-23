@@ -20,6 +20,9 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+territory: Inner Wisdom & Healing
+y: 428
+x: 231
 ---
 >The Pocket Project was founded by Thomas Hübl and Yehudit Sasportas to help induce a shift from trauma-inducing to trauma-informed, trauma sensitive and, finally, trauma-integrating institutions and societies.
 >
