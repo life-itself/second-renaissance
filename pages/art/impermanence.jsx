@@ -43,6 +43,9 @@ const Hero = () => (
               <a href={magazineLink} className="btnsq btn-black text-3xl">
                 Download our magazine
               </a>
+              <a href="#exhibition" className="btnsq btn-black text-3xl ml-2">
+                View exhition videos
+              </a>
             </p>
           </div>
         </div>
@@ -129,7 +132,7 @@ const Hero = () => (
         </div>
       </div>
     </div>
-    <div className="container mx-auto mt-20 mb-20">
+    <section id="exhibition" className="container mx-auto mt-20 mb-20">
       <div className="block">
         <div className="w-full">
           <h2 className="text-center text-2xl md:text-7xl h-[84.72px] text-bold font-inter font-normal">
@@ -137,7 +140,7 @@ const Hero = () => (
           </h2>
         </div>
       </div>
-    </div>
+    </section>
     <ImpermanenceArtVideo
       heading=" The art of impermanence"
       description={
@@ -155,9 +158,9 @@ const Hero = () => (
     <ImpermanenceArtVideo
       heading="I give you my word - with Paz Perlman"
       description={
-        'Paz Perlman share the story and meaning behind the art work " I give you my word" which was part of the Art of impermanence exhibition.'
+        'Paz Perlman share the story and meaning behind the art work "I give you my word" which was part of the Art of impermanence exhibition.'
       }
-      video={"ttY24srAYI0"}
+      video={"yXtU-Yp4yA0"}
     />
     <ImpermanenceArtVideo
       heading="I'm of the nature to die - with Sylvie Barbier"
@@ -194,19 +197,21 @@ const Hero = () => (
       }
       video={"QNIMVEdTEEg"}
     />
+    {/*
     <ImpermanenceArtVideo
-      heading="Ashes to ashes- By Sylvie Barbier (short)"
+      heading="Ashes to ashes - By Sylvie Barbier (short)"
       description={
         "The artist performs a ritual in a cave along the Dordogne river (home of many prehistoric cave painting sites) to honour the life and death of her father."
       }
       video={"Llon-fUFNtU"}
     />
     <ImpermanenceArtVideo
-      heading="Ashes to ashes- By Sylvie Barbier (long)"
+      heading="Ashes to ashes - By Sylvie Barbier (full version)"
       description={
         "The artist performs a ritual in a cave along the Dordogne river (home of many prehistoric cave painting sites) to honour the life and death of her father."
       }
       video={"obD1Jj80ajw"}
     />
+    */}
   </div>
 );
