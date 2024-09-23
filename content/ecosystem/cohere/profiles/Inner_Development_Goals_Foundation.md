@@ -15,6 +15,9 @@ activities:
   - Research
   - Events & Retreats
 size: 4-10
+territory: Inner-led Systems Change
+y: 393
+x: 519
 ---
 >In 2015, the UN Sustainable Development Goals (SDGs) provided a comprehensive plan for a sustainable world by 2030. However, progress is not happening fast enough, and we urgently need to increase our collective abilities to face and work effectively with complex challenges.
 > 

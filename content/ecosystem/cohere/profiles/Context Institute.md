@@ -21,6 +21,9 @@ activities:
   - Media & Publishing
 cohere: true
 metadata_version: "1"
+territory: Inner Development & Evolution of Consciousness
+y: 369
+x: 20
 ---
 >Context Institute is an independent non-profit (501(c)(3)) organization, founded in 1979 by [Robert](https://www.context.org/about/who-we-are/robert-gilman/ "Robert Gilman") and [Diane Gilman](https://www.context.org/about/who-we-are/diane-gilman/ "Diane Gilman"), devoted to helping all of us create the best possible 21st century we can — for each of us, for our communities, and for all of life. We are one of a handful of organizations that have focused on sustainability as a central theme for more than 40 years, and we are internationally recognized as an authority in this area.
 >

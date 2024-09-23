@@ -4,7 +4,9 @@ contributors:
   - Catherine Tran
 title: Children of the Earth
 url: https://www.coeworld.org/
-locations: 
+locations:
+  - USA
+  - International
 start: 1990
 end: 
 size: 4-10
@@ -18,6 +20,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Inner Development & Evolution of Consciousness
+y: 435
+x: 16
 ---
 >Children of the Earth was established in 1990 as an international US tax exempt, 501(C)(3) corporation. Working with youth and children locally and globally, we have been recognized as a charitable NGO non-governmental organization of the United Nations since 1992.
 >

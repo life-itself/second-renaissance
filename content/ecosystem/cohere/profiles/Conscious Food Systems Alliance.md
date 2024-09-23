@@ -19,6 +19,9 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+territory: Inner-led Systems Change
+y: 326
+x: 637
 ---
 >The Conscious Food Systems Alliance (CoFSA), convened by UNDP, is a movement of food, agriculture, and consciousness practitioners united around a common goal: **to support people from across food and agriculture systems to cultivate the inner capacities that activate systemic change and regeneration.**
 >

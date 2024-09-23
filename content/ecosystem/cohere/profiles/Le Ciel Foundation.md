@@ -20,6 +20,9 @@ activities:
   - Art Production & Curation
 cohere: true
 metadata_version: "1"
+territory: Inner Development & Evolution of Consciousness
+y: 301
+x: 36
 ---
 >Le Ciel Foundation was founded in 2017, by nine international co-founders aged between 25 and 50. 
 >

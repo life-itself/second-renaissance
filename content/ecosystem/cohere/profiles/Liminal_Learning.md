@@ -2,14 +2,14 @@
 title: Liminal Learning
 url: https://liminal-learning.com/
 contributors:
-  - Catherine
+  - Catherine Tran
 logo: /assets/liminal-learning-logo.png
 image: /assets/liminal-learning-homepage.png
 locations:
   - UK
-  - " USA"
-  - " Canada"
-  - " Germany"
+  - USA
+  - Canada
+  - Germany
 start: 
 end: present
 sectors:
@@ -17,8 +17,11 @@ sectors:
 activities:
   - Education & Training
 size: 4-10
+territory: Inner Development & Evolution of Consciousness
+y: 259
+x: 97
 ---
-> "A way to find your way
+> A way to find your way
 > 
 > A communal launch into purposeful adulthood
 > 
@@ -34,5 +37,6 @@ size: 4-10
 > 
 > As educators, our highest role is as liberators: seeing, revealing, and inspiring the unique gifts of each individual. In various industries, cultures, and roles, our founding team have experienced living within systems that have lost contact with this function, that indeed subdue and devalue the essential expression of life. We see a different path.
 > 
-> As a community, our commitment is to the pursuit and practice of meaning and wisdom. We hold these pursuits to be collective; fundamentally relational, social. In various ways, we’ve experienced living within systems that foster alienation, isolation, and the amputation of parts of life and self. We see a different way."
-> https://liminal-learning.com/ 
+> As a community, our commitment is to the pursuit and practice of meaning and wisdom. We hold these pursuits to be collective; fundamentally relational, social. In various ways, we’ve experienced living within systems that foster alienation, isolation, and the amputation of parts of life and self. We see a different way.
+
+https://liminal-learning.com/ 

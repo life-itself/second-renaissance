@@ -17,6 +17,9 @@ activities:
   - Consulting & Advisory
   - Research
 size: ""
+territory: Inner Development & Evolution of Consciousness
+y: 382
+x: 58
 ---
 > Based in London, The Barrett Academy is an international think-tank which seeks to provide evidence-based practical advice on the evolution of human consciousness.
 > 
