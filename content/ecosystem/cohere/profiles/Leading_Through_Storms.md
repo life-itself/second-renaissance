@@ -2,7 +2,7 @@
 title: Leading Through Storms
 url: "https://www.leadingthroughstorms.org/ "
 contributors:
-  - Catherine
+  - Catherine Tran
 logo: /assets/leadingthroughstorms-logo.png
 image: /assets/leading-through-storms-homepage.png
 locations:
@@ -17,10 +17,13 @@ activities:
   - Events & Retreats
   - Education & Training
 size: 1-3
+territory: Emotional Support & Resilience
+y: 172
+x: 120
 ---
-> Leading Through Storms supports people to discover their best adaptive responses to the climate, ecological and related crises, building a more consciously interconnected society in community with others."
+> Leading Through Storms supports people to discover their best adaptive responses to the climate, ecological and related crises, building a more consciously interconnected society in community with others.
 > 
-> "Leading through these troubled, troubling times can feel more like a burden than a privilege. Stepping in, caring to act, engaging wholeheartedly, we can find ourselves overwhelmed, in conflict, exhausted.
+> Leading through these troubled, troubling times can feel more like a burden than a privilege. Stepping in, caring to act, engaging wholeheartedly, we can find ourselves overwhelmed, in conflict, exhausted.
 > 
 > Leading Through Storms is not a journey to be undertaken alone.
 > 

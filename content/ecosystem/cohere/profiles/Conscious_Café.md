@@ -18,6 +18,9 @@ activities:
   - Events & Retreats
   - Convening & Coordination
 size: 11-20
+territory: Relationships & Conflict
+y: 140
+x: 332
 ---
 > ConsciousCafe was founded in 2011 when a group of friends got together to hold deep, conscious conversations.
 > 

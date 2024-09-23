@@ -18,6 +18,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Relationships & Conflict
+y: 216
+x: 180
 ---
 >We are a geographically distributed community of seekers and friends, connecting face-to-face via video calls. We connect and reflect together in relationship as a catalyst to self-development, increased awareness, greater integrity. We relish our diversity across gender, generation, nation, ethnicity, religious (or non-) background, socioeconomic status, and other perspectives increasingly. Some of us bring backgrounds in various related fields or scenes: adult development psychology, relational practices (e.g. Authentic Relating, Circling, Collective Presencing), and the "sensemaking web" (e.g. Game B, Integral, Metamodernism). Regardless, all of us are united in one thing above all else: seeking to grow.
 >

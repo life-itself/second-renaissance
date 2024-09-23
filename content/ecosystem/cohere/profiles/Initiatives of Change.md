@@ -22,6 +22,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Relationships & Conflict
+y: 124
+x: 187
 ---
 >Initiatives of Change (IofC) is a world-wide community of people of diverse cultures and backgrounds, who are committed to the transformation of society through changes in human motives and behavior, starting with their own.
 >

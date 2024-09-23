@@ -19,6 +19,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Emotional Support & Resilience
+y: 94
+x: 32
 ---
 >COP² is a global network of organisations, reflecting the knowledge, practice, activism, lived experience and traditions that go into bolstering the ‘social climate’ and emotional resilience that we need to care for a sustainable earth.
 >

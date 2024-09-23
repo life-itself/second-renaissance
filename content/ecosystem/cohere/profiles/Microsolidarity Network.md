@@ -21,6 +21,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Relationships & Conflict
+y: 154
+x: 195
 ---
 In late 2018, Richard D. Bartlett published a [proposal](https://www.microsolidarity.cc/articles/proposal) for "Microsolidarity" — a small mutual aid community for people to do personal development, in good company, for social benefit.
 

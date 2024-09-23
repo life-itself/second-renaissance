@@ -21,6 +21,9 @@ activities:
   - Funding
 cohere: true
 metadata_version: "1"
+territory: Inner Wisdom & Healing
+y: 528
+x: 202
 ---
 > **We live in a time of deep yearning for full-throated aliveness.** The dominant, western myths of endless acquisition, increasing control, and individual separation are crumbling. There are macro-catastrophes and geopolitics and revolutions at play. But at some basic level, we simply know in our bones that we can be more fully alive in ways our current paradigms don’t support.
 >
