@@ -14,6 +14,9 @@ sectors:
 activities:
   - Education & Training
 size: 21-50
+territory: Spirituality & Contemplative Practice
+y: "488"
+x: "15"
 ---
 > Alef Trust is a global leader in transformative education and training in consciousness, transpersonal and spiritual psychology.​
 

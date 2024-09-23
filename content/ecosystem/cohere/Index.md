@@ -1,8 +1,9 @@
 
 
 ```dataview
-table size, image
+table y, x, territory
 from "content/ecosystem/cohere/profiles"
+sort territory asc
 ```
 
 ## Cohere + project 

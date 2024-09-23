@@ -16,6 +16,9 @@ activities:
   - Education & Training
   - Events & Retreats
 size: 4-10
+territory: Spirituality & Contemplative Practice
+y: 675
+x: 70
 ---
 > The Teilhard de Chardin Centre, opened in June 2023 in the heart of the technological and scientific center of Saclay, is a unique and innovative project carried out jointly by the Society of Jesus and the dioceses of Evry Corbeil-Essonnes, Paris, Nanterre and Versailles. It offers a space for meeting and dialogue to reflect on scientific and technological developments from a philosophical, ethical and spiritual point of view.
 > 

@@ -1,19 +1,23 @@
 ---
 title: The Ridhwan Foundation
-url: 'https://www.diamondapproach.org/'
-contributors: Elisa
+url: https://www.diamondapproach.org/
+contributors:
+  - Elisa
 logo: /assets/the-ridhwan-foundation-logo.png
 image: /assets/the-ridhwan-foundation-homepage.png
 locations:
   - global
-start: '1976'
+start: "1976"
 end: present
 sectors:
   - Spirituality & Religion
 activities:
   - Education & Training
   - Events & Retreats
-size: ''
+size: ""
+territory: Spirituality & Contemplative Practice
+y: 699
+x: 18
 ---
 > "The Ridhwan Foundation is the nonprofit spiritual organization (incorporated as a church) established to support and preserve the integrity of the Diamond Approach teaching."
 > 

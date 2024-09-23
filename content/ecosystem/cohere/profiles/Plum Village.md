@@ -19,6 +19,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Spirituality & Contemplative Practice
+y: 581
+x: 13
 ---
 >Plum Village, near Bordeaux in southwest France, is the largest international practice center in the Plum Village tradition, and the first monastic community founded by Zen Master [Thich Nhat Hanh](https://plumvillage.org/about/thich-nhat-hanh) (Thay) in the West.
 >

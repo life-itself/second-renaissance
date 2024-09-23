@@ -1,28 +1,32 @@
 ---
 title: Isha Foundation
-url: 'https://www.ishafoundation.org/'
-contributors: Matthew; Elisa
+url: https://www.ishafoundation.org/
+contributors:
+  - Matthew; Elisa
 logo: /assets/isha-foundation-logo.png
 image: /assets/isha-foundation-homepage.png
 locations:
   - India
-  - ' Lebanon'
-  - ' US'
-  - ' UK'
-  - ' Australia'
-  - ' Malaysia'
-  - ' Singapore'
-start: '1992'
+  - " Lebanon"
+  - " US"
+  - " UK"
+  - " Australia"
+  - " Malaysia"
+  - " Singapore"
+start: "1992"
 end: present
 sectors:
   - Spirituality & Religion
   - Health & Wellbeing
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Education & Training
   - Advocacy & Activism
   - Funding
-size: ''
+size: ""
+territory: Spirituality & Contemplative Practice
+y: 688
+x: 120
 ---
 > "Three decades ago, Sadhguru founded Isha Foundation, a non-profit human-service organization, with human wellbeing as its core commitment. 
 > 
