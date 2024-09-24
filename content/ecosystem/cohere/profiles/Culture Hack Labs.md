@@ -8,7 +8,7 @@ locations:
   - International
 start: 
 end: 
-size: []
+size: 
 image: "[[../../../assets/chl-homepage.png]]"
 logo: "[[../../../assets/chl-logo.png]]"
 sectors:
@@ -21,6 +21,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Worldviews & Narratives
+y: 86
+x: 368
 ---
 >Culture Hack Labs (CHL) is a not-for-profit consultancy that supports organizations, social movements and activists to create cultural interventions for systems change.  
   >

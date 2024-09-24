@@ -18,6 +18,9 @@ activities:
   - Events & Retreats
   - Research
 size: 11-20
+territory: Worldviews & Narratives
+y: 83
+x: 329
 ---
 > Founded in 1993, the Club of Budapest is an informal international association dedicated to developing a new way of thinking and a new ethics that will help resolve the social, political, economic, and ecological challenges of the 21st century. With its roster of internationally renowned members, the Club initiates a dialogue between different belief systems and worldviews in order to co-create and develop effective strategies for responsible and sustainable action with a global focus.
 
