@@ -19,6 +19,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Health & Wellbeing
+y: 6
+x: 987
 ---
 >Our purpose is better wellbeing for people in the UK and Ireland. Our experience tells us that we can have the biggest impact on people’s lives when we influence decision-makers, whether these are businesses, politicians, civil or public services, or nongovernmental organisations.
 >

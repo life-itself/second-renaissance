@@ -1,20 +1,24 @@
 ---
 title: Nova Institute for Health
-url: 'https://novainstituteforhealth.org/ '
-contributors: Catherine
+url: "https://novainstituteforhealth.org/ "
+contributors:
+  - Catherine
 logo: /assets/nova-logo.png
 image: /assets/nova-homepage.png
 locations:
-  - 'Baltimore, Maryland, USA'
-start: '2007'
+  - Baltimore, Maryland, USA
+start: "2007"
 end: present
 sectors:
   - Health & Wellbeing
 activities:
   - Research
   - Convening & Coordination
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
 size: 11-20
+territory: Health & Wellbeing
+y: 81
+x: 963
 ---
 > "The Nova Institute for Health is a heart-centered think tank that takes action for the good of people, places, and the planet. We look at the whole picture, the entire lived experience that influences health.   
 > 

@@ -19,6 +19,9 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+territory: Health & Wellbeing
+y: 25
+x: 943
 ---
 >The Flourish Project introduces a new and powerful framework for understanding and mapping human wellbeing that promotes community involvement and whole-systems thinking. Currently moving into its pilot period, it offers parents, teachers, schools, care-homes, businesses, city-leaders and national policymakers the ability to better understand and promote the health and wellbeing of both themselves and their own local communities and populations. In each case, it provides a quick and easy way to map and evaluate existing wellbeing scales and indicators that promotes eco-systemic thinking and the need to  'measure what matters'. Above all, it underpins the call for a more caring, sustainable and compassionate world.
 https://www.flourishproject.net/

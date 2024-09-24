@@ -1,22 +1,26 @@
 ---
 title: Planetary Health Alliance
-url: 'https://www.planetaryhealthalliance.org/ '
-contributors: Cesar; Catherine
+url: "https://www.planetaryhealthalliance.org/ "
+contributors:
+  - Cesar; Catherine
 logo: /assets/Planetary Health Alliance logo.png
 image: /assets/Planetary Health Alliance - homepage.png
 locations:
-  - 'Washington, USA'
-  - ' International'
-start: '2015'
+  - Washington, USA
+  - " International"
+start: "2015"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Health & Wellbeing
 activities:
   - Research
   - Education & Training
   - Advocacy & Activism
 size: 11-20
+territory: Health & Wellbeing
+y: 59
+x: 994
 ---
 > "The Planetary Health Alliance is a growing consortium of over 420 universities, non-governmental organizations, research institutes, and government entities from 70+ countries around the world committed to understanding and addressing the impacts of global environmental change on human health and wellbeing. 
 > 

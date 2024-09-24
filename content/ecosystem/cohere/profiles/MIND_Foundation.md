@@ -1,12 +1,13 @@
 ---
 title: MIND Foundation
-url: 'https://mind-foundation.org/'
-contributors: Catherine
+url: https://mind-foundation.org/
+contributors:
+  - Catherine
 logo: /assets/mind-foundation-eu-logo.jpeg
 image: /assets/mind-foundation-homepage.png
 locations:
-  - 'Berlin, Germany'
-start: '2016'
+  - Berlin, Germany
+start: "2016"
 end: present
 sectors:
   - Health & Wellbeing
@@ -16,6 +17,9 @@ activities:
   - Education & Training
   - Government & Policymaking
 size: 4-10
+territory: Health & Wellbeing
+y: 103
+x: 915
 ---
 > "The MIND Foundation envisions a healthier, more connected world through evidence-based, safe, and legal applications of the psychedelic experience.
 > 

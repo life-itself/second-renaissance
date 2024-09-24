@@ -1,12 +1,13 @@
 ---
 title: Association for Natural Medicine in Europe
-url: 'https://www.anme-ngo.eu/en/anme/about-us/aims-functions.html'
-contributors: Catherine
+url: https://www.anme-ngo.eu/en/anme/about-us/aims-functions.html
+contributors:
+  - Catherine
 logo: /assets/anme-eu-logo.png
 image: /assets/ANME-homepage.png
 locations:
   - Germany
-start: '2001'
+start: "2001"
 end: present
 sectors:
   - Health & Wellbeing
@@ -15,6 +16,9 @@ activities:
   - Research
   - Education & Training
 size: 11-20
+territory: Health & Wellbeing
+y: 6
+x: 1018
 ---
 > "The Association for Natural Medicine in Europe e.V. (ANME) operates as a democratic, non-governmental organization. Our mission is based on preserving intangible cultural heritage (ICH), and we are committed to a multi-faceted, interdisciplinary approach to health and health-related politics and dialogue via both national and inter-European engagement.
 > 
