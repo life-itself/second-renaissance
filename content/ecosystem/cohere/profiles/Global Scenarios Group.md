@@ -38,6 +38,9 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+territory: Alternative Futures
+y: 148
+x: 969
 ---
 >**The Global Scenario Group was founded in 1995 as an independent, international and interdisciplinary body to examine world prospects and ways of fostering a more sustainable and equitable future.**
 

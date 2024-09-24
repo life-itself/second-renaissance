@@ -27,6 +27,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Alternative Futures
+y: 140
+x: 1074
 ---
 >Ouishare is a collective of reflection and experimentation whose mission is to politicize our societal choices. Our favorite subjects: circular economy, digital exclusion, water management, data governance, fuel poverty, etc. There are few topics that do not arouse our curiosity. In the course of our work, we have nevertheless identified three common threads. Three families of issues that we are exploring in depth: the digitization of society, the ecological transition and the phenomena of precariousness.
 

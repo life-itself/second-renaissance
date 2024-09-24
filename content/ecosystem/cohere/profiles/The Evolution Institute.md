@@ -26,8 +26,8 @@ activities:
 cohere: true
 metadata_version: "1"
 territory: Alternative Futures
-y: 
-x:
+y: 187
+x: 1016
 ---
 >The Evolution Institute is a non-profit research and policy organization that seeks to understand and solve humanity’s most critical problems. We bring together scientists and scholars from many disciplines to conduct research, start pilot projects and develop policy recommendations. Our work is based on a scientific evolutionary perspective that recognizes the complexity of our biggest challenges as we seek practical solutions to sustain and improve the quality of life for all. [...]
 >

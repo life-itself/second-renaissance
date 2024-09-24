@@ -20,6 +20,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Alternative Futures
+y: 203
+x: 1074
 ---
 >The Great Transition Initiative is an online forum of ideas and an international network for the critical exploration of concepts, strategies, and visions for a transition to a future of enriched lives, human solidarity, and a resilient biosphere. By enhancing scholarly discourse and public awareness of possibilities arising from converging social, economic, and environmental crises, and by fostering a broad network of thinkers and doers, it aims to contribute to a new praxis for global transformation.  
  > 

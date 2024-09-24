@@ -25,8 +25,8 @@ activities:
 cohere: true
 metadata_version: "1"
 territory: Alternative Futures
-y: 
-x:
+y: 126
+x: 1018
 ---
 
 > Dark Matter Labs (Dm) is working on what is needed to manifest transformations to our food, housing, land, material and nature systems towards a future of mutual thriving.  
