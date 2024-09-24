@@ -21,6 +21,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: International Relations & Peacebuilding
+y: 5
+x: 779
 ---
  >_Pathways To Peace expands the understanding and expression of Peace, fosters Peacebuilders and Peacebuilding activities, and builds an integral movement for a Culture of Peace._
 >

@@ -19,6 +19,9 @@ activities:
   - Advocacy & Activism
   - Convening & Coordination
 size: 4-10
+territory: International Relations & Peacebuilding
+y: 9
+x: 834
 ---
 > Founded in response to the horrors of war in Europe, the IFOR has taken a consistent stance against war and its preparation throughout its history.
 > Perceiving the need for healing and reconciliation in the world, the founders of IFOR formulated a vision of the human community based upon the belief that love in action has the power to transform unjust political, social, and economic structures.

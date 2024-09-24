@@ -16,6 +16,9 @@ sectors:
 activities:
   - Education & Training
 size: 4-10
+territory: International Relations & Peacebuilding
+y: 97
+x: 779
 ---
 > "The GHfP Institute carries forward a number of major international research programmes previously developed at the Guerrand-Hermès Foundation and is embedded in an excellent research and teaching environment and learning community of the UWTSD.
 > 

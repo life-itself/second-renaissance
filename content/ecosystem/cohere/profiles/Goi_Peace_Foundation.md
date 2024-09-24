@@ -1,12 +1,13 @@
 ---
 title: Goi Peace Foundation
-url: 'https://www.goipeace.or.jp/en/'
-contributors: Catherine
+url: https://www.goipeace.or.jp/en/
+contributors:
+  - Catherine
 logo: /assets/goi-peace-foundation-logo.svg
 image: /assets/goi-peace-foundation-homepage.png
 locations:
-  - 'Tokyo, Japan'
-start: '1999'
+  - Tokyo, Japan
+start: "1999"
 end: present
 sectors:
   - Relations & Peace
@@ -16,6 +17,9 @@ activities:
   - Education & Training
   - Research
 size: 11-20
+territory: International Relations & Peacebuilding
+y: 71
+x: 751
 ---
 > "Based in Japan, the Goi Peace Foundation is a public benefit organization supported by members around the world working together to create a culture of peace. Our mission is to foster a sustainable and harmonious global society by promoting consciousness, values and wisdom for creating peace, and building cooperation among individuals and organizations across diverse fields, including education, science, culture and the arts.
 > 

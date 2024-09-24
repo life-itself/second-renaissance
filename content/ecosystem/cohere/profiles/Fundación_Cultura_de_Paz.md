@@ -1,12 +1,13 @@
 ---
 title: Fundación Cultura de Paz
-url: 'https://fund-culturadepaz.org/'
-contributors: Cesar
+url: https://fund-culturadepaz.org/
+contributors:
+  - Cesar
 logo: /assets/logo-cultura-de-paz.png
 image: /assets/Cultura de Paz - homepage.png
 locations:
   - Spain
-start: '2000'
+start: "2000"
 end: present
 sectors:
   - Relations & Peace
@@ -15,6 +16,9 @@ activities:
   - Convening & Coordination
   - Education & Training
 size: 4-10
+territory: International Relations & Peacebuilding
+y: 86
+x: 821
 ---
 > In 2000, the Culture of Peace Foundation was established with the aim of strengthening and promoting the culture of peace, implementing and putting into action the Declaration and Program of Action, approved in 1999 by the General Assembly of the United Nations.
 > 

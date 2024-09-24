@@ -1,13 +1,14 @@
 ---
 title: Unity Earth
-url: 'https://unity.earth/'
-contributors: Catherine
+url: https://unity.earth/
+contributors:
+  - Catherine
 logo: /assets/unity-earth-logo.png
 image: /assets/unity-earth-homepage.png
 locations:
   - USA
-  - ' Australia'
-start: '2016'
+  - " Australia"
+start: "2016"
 end: present
 sectors:
   - Relations & Peace
@@ -16,6 +17,9 @@ activities:
   - Events & Retreats
   - Media & Publishing
 size: 4-10
+territory: International Relations & Peacebuilding
+y: 7
+x: 722
 ---
 > "UNITY EARTH is a global network on a mission to accelerate the realization of unity and peace on Earth.
 > 

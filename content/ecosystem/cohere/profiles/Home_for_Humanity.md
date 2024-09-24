@@ -27,6 +27,9 @@ activities:
   - Education & Training
   - Art Production & Curation
 size: 4-10
+territory: International Relations & Peacebuilding
+y: 35
+x: 695
 ---
 > Home for Humanity is an inclusive movement for planetary regeneration.
 > 

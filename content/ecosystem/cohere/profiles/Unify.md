@@ -20,6 +20,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: International Relations & Peacebuilding
+y: 138
+x: 788
 ---
 
 >UNIFYING THE EMERGING GLOBAL MOVEMENT FOR WORLD PEACE
