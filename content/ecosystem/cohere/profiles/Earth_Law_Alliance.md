@@ -1,15 +1,17 @@
 ---
 title: Earth Law Alliance
-url: 'https://earthlawyers.org/'
-contributors: Matthew; Elisa
+url: https://earthlawyers.org/
+contributors:
+  - Matthew McCarthy
+  - Elisa Paka
 logo: /assets/earth-law-alliance-logo.webp
 image: /assets/earth-law-alliance-homepage.png
 locations:
-  - 'Dorking, UK'
-start: '2012'
+  - Dorking, UK
+start: "2012"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Justice & Restoration
   - Governance & Community
 activities:
@@ -17,6 +19,9 @@ activities:
   - Education & Training
   - Events & Retreats
 size: 4-10
+territory: Environment & Food
+y: 289
+x: 1162
 ---
 > "The term ‘Earth law’ describes inherently ecocentric laws that have been emerging around the world over the last few decades. Broadly speaking, the aim of Earth Law is to protect and/or regenerate various forms of life on Earth. Either as a specific aim or as a secondary outcome, Earth Law seeks to maintain the biogeochemical cycles on which life on Earth depends.[...]
 > 

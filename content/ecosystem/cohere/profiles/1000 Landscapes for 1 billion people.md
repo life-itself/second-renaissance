@@ -19,6 +19,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Environment & Food
+y: 100
+x: 1304
 ---
 >1000 Landscapes for 1 Billion People (1000L) is a radical collaboration of change agents working together to accelerate landscape efforts to sustain and restore ecosystems, build rural prosperity and confront climate change.
 >

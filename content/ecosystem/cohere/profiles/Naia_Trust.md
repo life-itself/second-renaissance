@@ -1,21 +1,25 @@
 ---
 title: Naia Trust
-url: 'https://www.naiatrust.com/#hero'
-contributors: Catherine
+url: https://www.naiatrust.com/#hero
+contributors:
+  - Catherine
 logo: /assets/naia-trust-logo.jpeg
 image: /assets/naia-trust-homepage.png
 locations:
   - Switzerland
-start: '2024'
+start: "2024"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Governance & Community
   - Spirituality & Religion
 activities:
   - Funding
   - Media & Publishing
 size: 4-10
+territory: Environment & Food
+y: 110
+x: 1246
 ---
 > "Founded in 2024, Naia Trust is a steward of capital committed to serving economic, cultural and spiritual renewal during a time of great transformation.
 > 

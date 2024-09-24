@@ -1,20 +1,24 @@
 ---
 title: ECOLISE
-url: 'https://www.ecolise.eu/'
-contributors: Catherine
+url: https://www.ecolise.eu/
+contributors:
+  - Catherine
 logo: /assets/ECOLISE-logo.png
 image: /assets/ECOLISE-homepage.png
 locations:
-  - 'Brussels, Belgium'
-start: '2014'
+  - Brussels, Belgium
+start: "2014"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Advocacy & Activism
   - Education & Training
   - Convening & Coordination
 size: 11-20
+territory: Environment & Food
+y: 323
+x: 1239
 ---
 > "ECOLISE, the European network for community-led initiatives on climate change and sustainability, recognises the unprecedented ecological, social, economic and political threats to dignified life on planet earth. These threats have been provoked by centuries of ongoing extractive and exploitative institutional systems and practices, a structural dependence on unconstrained economic growth, and the unfettered spread of unsustainable lifestyles.
 > 

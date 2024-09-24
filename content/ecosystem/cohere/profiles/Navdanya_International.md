@@ -1,19 +1,23 @@
 ---
 title: Navdanya International
-url: 'https://navdanyainternational.org/'
-contributors: Ola
+url: https://navdanyainternational.org/
+contributors:
+  - Ola
 logo: /assets/Navdanya International logo.png
 image: /assets/Navdanya International homepage.png
 locations:
-  - 'Florence, Italy'
-  - ' India'
-start: '1994'
+  - Florence, Italy
+  - " India"
+start: "1994"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Advocacy & Activism
 size: 4-10
+territory: Environment & Food
+y: 312
+x: 1288
 ---
 > Navdanya and the Navdanya movement was created by Dr. Vandana Shiva 30 years ago in India to defend Seed and Food sovereignty and small farmers around the world. Navdanya pioneered the movement of seed saving and seed freedom, which began in response to the crisis of erosion of agricultural biodiversity and introduction of GMOs and patents on seeds through intellectual property rights (IPRs) and so-called ‘free trade’ agreements. It has long fought against biopiracy, the patenting of indigenous knowledge by self-interested multinational corporations and won cases related to Neem, basmati rice and wheat in India.
 > 

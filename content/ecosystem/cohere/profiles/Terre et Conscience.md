@@ -18,6 +18,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Environment & Food
+y: 204
+x: 1186
 ---
 >The non-profit organization Terre & Conscience offers events, learning and training in the fields of permaculture, agroecology, biodynamics, vegetable gardens, transition and ecopsychology… in order to strengthen our connection to nature, the earth and the living and thus participate together in the project of transforming the world.
 >

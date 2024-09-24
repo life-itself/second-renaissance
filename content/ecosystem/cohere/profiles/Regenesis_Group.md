@@ -1,21 +1,25 @@
 ---
 title: Regenesis Group
-url: 'https://regenesisgroup.com/ '
-contributors: Elisa
+url: "https://regenesisgroup.com/ "
+contributors:
+  - Elisa
 logo: /assets/regenesis-group-logo.png
 image: /assets/regenesis-group-homepage.png
 locations:
   - USA
-start: '1995'
-end: 'present '
+start: "1995"
+end: "present "
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Infrastructure & Resources
 activities:
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
   - Education & Training
   - Consulting & Advisory
 size: 4-10
+territory: Environment & Food
+y: 187
+x: 1246
 ---
 > "Regenesis is a world leader in the field of regenerative development—an approach to land use, community development, and the built environment that has defined the leading edge of sustainability practice for more than two decades.
 > 

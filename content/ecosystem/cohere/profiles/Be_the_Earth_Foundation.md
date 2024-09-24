@@ -2,7 +2,7 @@
 title: Be the Earth Foundation
 url: https://www.betheearth.foundation/
 contributors:
-  - Catherine
+  - Catherine Tran
 logo: "[[../../../assets/betheearth-logo.png]]"
 image: /assets/be-the-earth-foundation.png
 locations:
@@ -18,6 +18,9 @@ sectors:
 activities:
   - Funding
 size: 4-10
+territory: Environment & Food
+y: 210
+x: 1210
 ---
 > Be The Earth is a UK based foundation that combines impact investing and philanthropy for a world that nurtures all beings. Committed to living in harmony with Earth, BTE entrusts all of its capital to people, programmes and places that are creating resilient solutions for our regenerative future, with a particular focus on food systems. 
 > 

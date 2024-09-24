@@ -16,6 +16,9 @@ activities:
   - Education & Training
   - Convening & Coordination
 size: ""
+territory: Environment & Food
+y: 289
+x: 1197
 ---
 A Mighty Network community.
  

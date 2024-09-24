@@ -1,21 +1,25 @@
 ---
 title: La Bolina
-url: 'https://labolina.org/en/home/'
-contributors: Catherine
+url: https://labolina.org/en/home/
+contributors:
+  - Catherine
 logo: /assets/la-bolina-logo.png
 image: /assets/la-bolina-homepage.png
 locations:
-  - 'El Valle, near Granada, Spain'
-start: '2017'
+  - El Valle, near Granada, Spain
+start: "2017"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Justice & Restoration
 activities:
   - Community Spaces
   - Advocacy & Activism
   - Art Production & Curation
 size: 4-10
+territory: Intentional Communities & Ecovillages
+y: 286
+x: 784
 ---
 > La Bolina is an ecological, regenerative and intercultural association based in El Valle, near Granada, Spain.
 > 

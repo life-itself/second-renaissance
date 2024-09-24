@@ -18,6 +18,9 @@ activities:
   - Research
   - Advocacy & Activism
 size: 4-10
+territory: Environment & Food
+y: 280
+x: 1240
 ---
 > Re-Alliance promotes a regenerative vision for the humanitarian and development sectors.
 > 

@@ -5,7 +5,7 @@ contributors:
   - Catherine
 logo: /assets/global-aliance-for-the-future-of-food-logo.svg
 image: /assets/global-alliance-for-the-future-of-food-homepage.png
-locations: []
+locations: 
 start: "2012"
 end: present
 sectors:
@@ -15,6 +15,9 @@ activities:
   - Convening & Coordination
   - Funding
 size: 11-20
+territory: Environment & Food
+y: 202
+x: 1290
 ---
 > "Founded in 2012, the Global Alliance for the Future of Food is a strategic alliance for collective action on food systems transformation. Our work is grounded in our principles of food systems that are renewable, resilient, equitable, healthy, diverse, inclusive, and interconnected. At the heart of our work are our philanthropic foundation members, who work alongside a global Secretariat, along with our Allied Initiatives, partners in civil society, funder affinity groups and intermediaries, governments and the private sector, and global fora, including the UN FAO.
 > 

@@ -15,6 +15,9 @@ activities:
   - Consulting & Advisory
   - Design, Development & Innovation
 size: 4-10
+territory: Environment & Food
+y: 386
+x: 1177
 ---
 > "in.Seed is a multidisciplinary design and consulting workshop serving integrated projects. [...]
 > 

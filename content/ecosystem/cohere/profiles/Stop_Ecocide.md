@@ -1,21 +1,25 @@
 ---
 title: Stop Ecocide
-url: 'https://www.stopecocide.earth/ '
-contributors: Elisa
+url: "https://www.stopecocide.earth/ "
+contributors:
+  - Elisa
 logo: /assets/stop-ecocide-logo.jpeg
 image: /assets/stop-ecocide-homepage.png
 locations:
-  - 'Stroud, UK'
-  - ' Amsterdam, Netherlands'
-  - ' global'
-start: '2017'
+  - Stroud, UK
+  - " Amsterdam, Netherlands"
+  - " global"
+start: "2017"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Justice & Restoration
 activities:
   - Advocacy & Activism
 size: 21-50
+territory: Environment & Food
+y: 249
+x: 1186
 ---
 > "'Ecocide' is a word to describe what is happening to our planet; the mass damage and destruction of the natural living world.  It literally means “killing one’s home”.   And right now, in most of the world, no-one is held responsible.  
 > 

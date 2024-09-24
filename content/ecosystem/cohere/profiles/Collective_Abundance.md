@@ -1,12 +1,13 @@
 ---
 title: Collective Abundance
-url: 'https://www.collectiveabundance.org/'
-contributors: Catherine
+url: https://www.collectiveabundance.org/
+contributors:
+  - Catherine
 logo: /assets/collective-abundance-logo.png
 image: /assets/collective-abundance-homepage.png
 locations:
   - Europe
-start: '2023'
+start: "2023"
 end: present
 sectors:
   - Economics & Business
@@ -16,6 +17,9 @@ activities:
   - Advocacy & Activism
   - Convening & Coordination
 size: 4-10
+territory: Environment & Food
+y: 152
+x: 1184
 ---
 > "Collective Abundance is a new collaborative initiative, working to change the way philanthropy redistributes wealth to climate justice organisers in Europe and building collective organised power amongst those working on the frontlines of the climate crisis.
 > 

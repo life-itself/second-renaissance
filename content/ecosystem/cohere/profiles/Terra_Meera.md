@@ -17,6 +17,9 @@ activities:
   - Community Spaces
   - Events & Retreats
 size: 4-10
+territory: Intentional Communities & Ecovillages
+y: 262
+x: 772
 ---
 > Terra Meera is a newly founded Center for Regeneration and Human Potential, born in Croatia. Located in an abandoned valley, Terra Meera pioneers are laying the foundations for a community project dedicated to local and regenerative agriculture in the area.
 > 

@@ -1,21 +1,25 @@
 ---
 title: Global Action Plan
-url: 'https://www.globalactionplan.org.uk/home'
-contributors: Catherine
+url: https://www.globalactionplan.org.uk/home
+contributors:
+  - Catherine
 logo: /assets/global-action-plan-logo.png
 image: /assets/global-action-plan-homepage.png
 locations:
-  - 'London, UK'
-start: '1993'
+  - London, UK
+start: "1993"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Health & Wellbeing
 activities:
   - Research
   - Advocacy & Activism
   - Convening & Coordination
 size: 11-20
+territory: Environment & Food
+y: 150
+x: 1227
 ---
 > "Global Action Plan is an environmental charity focused on issues where the connection between the health of people and our planet is most tangible.
 > 

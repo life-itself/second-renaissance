@@ -18,6 +18,9 @@ activities:
   - Media & Publishing
   - Advocacy & Activism
 size: 11-20
+territory: Environment & Food
+y: 356
+x: 1272
 ---
 > Our commitment is to inspire will and build capacity to collectively accelerate regenerative food systems as a means to restore human and planetary health. [...] 
 > 

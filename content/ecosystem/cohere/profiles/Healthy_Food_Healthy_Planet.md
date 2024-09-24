@@ -1,23 +1,27 @@
 ---
 title: Healthy Food Healthy Planet
-url: 'https://www.healthyfoodhealthyplanet.eu/'
-contributors: Catherine
+url: https://www.healthyfoodhealthyplanet.eu/
+contributors:
+  - Catherine
 logo: /assets/healthy-food-healthy-planet-logo.png
 image: /assets/healthy-food-healthy-planet-homepage.png
 locations:
   - UK
-  - ' France'
-  - ' Germany'
-  - ' Netherlands'
-start: '2021'
+  - " France"
+  - " Germany"
+  - " Netherlands"
+start: "2021"
 end: present
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Advocacy & Activism
   - Education & Training
   - Funding
 size: 1-3
+territory: Environment & Food
+y: 158
+x: 1282
 ---
 > "A Pan-European movement uniting civil society and funders in the transition to healthy, just & sustainable food environments. [...]
 > 
