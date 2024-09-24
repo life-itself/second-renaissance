@@ -1,12 +1,13 @@
 ---
 title: nrhythm
-url: 'https://www.nrhythm.co/home '
-contributors: Lauren
+url: "https://www.nrhythm.co/home "
+contributors:
+  - Lauren
 logo: /assets/nrhythm-logo.png
 image: /assets/nrhythm-homepage.png
 locations:
-  - 'Boulder, Colorado, USA'
-start: '2009'
+  - Boulder, Colorado, USA
+start: "2009"
 end: present
 sectors:
   - Governance & Community
@@ -15,8 +16,11 @@ activities:
   - Education & Training
   - Consulting & Advisory
 size: 11-20
+territory: Leadership Development
+y: 589
+x: 514
 ---
-> "Through a living systems approach, nRhythm is on a mission to transform workplaces and create conditions where health and abundance are the natural outcomes.
+> Through a living systems approach, nRhythm is on a mission to transform workplaces and create conditions where health and abundance are the natural outcomes.
 > 
 > We offer various educational offerings, free resources, gatherings, community, plus consulting for brands, organizations, businesses, and projects. 
 > 
@@ -24,13 +28,14 @@ size: 11-20
 > 
 > Organizations are complex living systems. And living systems require a very different management and design approach.
 > 
-> nRhythm helps organizations make the necessary shifts in their design and operations to align with a living systems approach. We call organizations who embrace this approach Regenerative Organizations." 
-> https://www.nrhythm.co/ 
+> nRhythm helps organizations make the necessary shifts in their design and operations to align with a living systems approach. We call organizations who embrace this approach Regenerative Organizations.
+
+https://www.nrhythm.co/ 
+
 
 ## Learning Resources
 
 - Various resources related to Regeneration and Living Systems which inspire their work: https://www.nrhythm.co/learn 
-
 - Free mini workbooks on topics related to Regenerative Leadership: https://www.nrhythm.co/mini-workbook 
 
 ## Key Concepts

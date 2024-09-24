@@ -19,20 +19,26 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Leadership Development
+y: 494
+x: 459
 ---
 > We are a global network of organizations, indigenous leaders and social entrepreneurs working towards [[regenerative]] futures.
 > 
 > Our community comes from diverse indigenous and non-indigenous backgrounds. Together, we develop our capacity to catalyze systemic change. We share transformative experiences, resources, knowledge and tools.
+
 'About Us', https://www.indigenousandmodern.com/about/
 
 ### Vision
 
 > Together we work towards futures where all peoples, species and ecosystems thrive. We envision equitable, regenerative and peaceful societal systems which replace oppression, supremacy, and violence.
+
 'Our Vision', https://www.indigenousandmodern.com/about/
 
 ### What they do
 
 > We partner with corporations, universities, governments, funders, networks, and individuals to shape equitable futures. We offer personalized workshops, strategic consultancy, dynamic keynotes, transformational coaching, and leadership programs.
+
 https://www.indigenousandmodern.com/
 
 They work with groups and individuals to: 
@@ -94,7 +100,6 @@ Their main offerings for individuals are:
 - *Collaborating for Systems Change: Practical Guide for Combining Indigenous and Modern Practices* (a free 18-page PDF guide, downloadable from: https://www.indigenousandmodern.com/free-guide/) 
 ![[../../../assets/Indigenous-Modern-Toolkit.pdf]]
 
-## Connections
 
 
 

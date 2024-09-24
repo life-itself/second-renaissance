@@ -15,6 +15,9 @@ activities:
   - Consulting & Advisory
   - Education & Training
 size: 4-10
+territory: Leadership Development
+y: 586
+x: 370
 ---
 > Leadership defined by growth, winner-takes-all competition, consumption and separation is a root of many of the problems we see in the world.
 > 
@@ -52,6 +55,6 @@ Andres Roberts, Founder
 
 https://www.bio-leadership.org/resources-1
 
-## Key Concepts
+## Keywords
 
 leadership, cycles, love, connection, regeneration, reciprocity, global ecosystem, systems thinking

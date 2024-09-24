@@ -23,6 +23,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Leadership Development
+y: 502
+x: 423
 ---
 >u-school is a global capacity-building and action research platform that offers programs, certifications, space holding and innovation labs using Theory U and Social Arts to activate a shift in individuals and collectives from ego- to eco-system consciousness, for the healing and regeneration of self, society and planet.
 

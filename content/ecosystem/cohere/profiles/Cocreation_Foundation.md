@@ -2,7 +2,7 @@
 title: Cocreation Foundation
 url: https://cocreation-foundation.org/
 contributors:
-  - Catherine
+  - Catherine Tran
 logo: /assets/cocreation-foundation-logo.jpeg
 image: /assets/cocreation-foundation-homepage.png
 locations:
@@ -15,13 +15,17 @@ activities:
   - Research
   - Design, Development & Innovation
 size: 4-10
+territory: Co-creation & Collaboration
+y: 458
+x: 589
 ---
-> "The Cocreation Foundation is a think and do tank to understand, forward and prototype cocreation as a cultural technique to tackle the global challenges of our time.
+> The Cocreation Foundation is a think and do tank to understand, forward and prototype cocreation as a cultural technique to tackle the global challenges of our time.
 > 
 > Moving through the great transformation, we strive to design new code for a cocreative global governance.
 > 
-> It is our conviction that we need this new governance code to face the challenge of cocreating a world for 10-12 billion people living in peace, freedom and ecological abundance on this earth."
-> https://cocreation-foundation.org/ 
+> It is our conviction that we need this new governance code to face the challenge of cocreating a world for 10-12 billion people living in peace, freedom and ecological abundance on this earth.
+
+https://cocreation-foundation.org/ 
 
 ## Theory of Change
 

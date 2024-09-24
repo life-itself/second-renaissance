@@ -17,6 +17,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Leadership Development
+y: 543
+x: 366
 ---
 >**A complex world**
 >

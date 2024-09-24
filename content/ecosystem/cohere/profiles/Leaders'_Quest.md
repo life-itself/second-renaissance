@@ -17,6 +17,9 @@ activities:
   - Education & Training
   - Consulting & Advisory
 size: 51-100
+territory: Leadership Development
+y: 606
+x: 489
 ---
 > We immerse leaders in the forces shaping the future – so they can shape the future of their organizations. We help companies align strategy, culture, and skills by creating purposeful change that sticks across three levels:
 > 

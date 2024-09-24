@@ -14,6 +14,9 @@ sectors:
 activities:
   - Education & Training
 size: ""
+territory: Leadership Development
+y: 606
+x: 406
 ---
 > Visionautics is made up of vision and nautical science, the art of steering. Visionautics is the art of developing visions and navigating to them, i.e. making these visions a reality. Visionautics support takes the form of seminars, advice and coaching. It covers all areas that are relevant to the design and implementation of visionary projects, from questioning familiar patterns to developing and testing ideas, encouraging and strengthening personality, collaboration and co-creation skills, and concrete implementation skills such as entrepreneurial skills, project planning or funding acquisition.
 
@@ -27,4 +30,4 @@ https://visionaut.de/angebote/visionaut-basic/
 
 ## Connections
 
-Legacy 17, Erasmus +, Copernicus, Traccskills
+Legacy 17, Erasmus+, Copernicus, Traccskills

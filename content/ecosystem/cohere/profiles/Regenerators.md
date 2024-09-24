@@ -17,6 +17,9 @@ activities:
   - Education & Training
   - Community Spaces
 size: 4-10
+territory: Leadership Development
+y: 536
+x: 529
 ---
 > The Regenerators is a collective of professionals coming together to aid the emergence of a new thriving paradigm built on regenerative principles. A world where products, services and organizations leave more value than they take. Where our systems, structures and mind-sets provide the foundation for vibrant, invigorating, thriving societies and organizations. 
 > 
