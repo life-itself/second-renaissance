@@ -18,6 +18,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Worldviews & Narratives
+y: 13
+x: 33
 ---
 >Our mission is to support people to _explore_, _exchange_, and _expand_ their worldviews, empowering them to _enact_ a better world.
 >

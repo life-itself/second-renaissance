@@ -20,8 +20,8 @@ activities:
   - Research
 size: 21-50
 territory: Worldviews & Narratives
-y: 
-x:
+y: 28
+x: 153
 ---
 An international researchers and artists collective, largely based in Canada.
 

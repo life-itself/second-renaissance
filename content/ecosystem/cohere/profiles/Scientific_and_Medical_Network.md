@@ -1,12 +1,13 @@
 ---
 title: Scientific and Medical Network
-url: 'https://scientificandmedical.net/'
-contributors: Elisa
+url: https://scientificandmedical.net/
+contributors:
+  - Elisa Paka
 logo: /assets/scientific-and-medical-network-logo.webp
 image: /assets/scientific-and-medical-network-homepage.png
 locations:
   - global
-start: '1973'
+start: "1973"
 end: present
 sectors:
   - Education & Learning
@@ -15,9 +16,12 @@ activities:
   - Education & Training
   - Events & Retreats
   - Media & Publishing
-size: ''
+size: ""
+territory: Worldviews & Narratives
+y: 98
+x: 383
 ---
-> "For fifty years, the Scientific and Medical Network has been bringing together individuals – including professionals with a background in science, medicine, engineering, psychology, philosophy and complementary practices – who accept the existence of a fundamental, unifying and transcendent reality.
+> For fifty years, the Scientific and Medical Network has been bringing together individuals – including professionals with a background in science, medicine, engineering, psychology, philosophy and complementary practices – who accept the existence of a fundamental, unifying and transcendent reality.
 > 
 > Given the current divisive and disconnected state of the world, we maintain that there is a pressing need for a worldview that goes beyond the prevailing materialist ethos and provides the rising generation with an orienting sense of meaning and purpose.
 > 
@@ -25,9 +29,9 @@ size: ''
 > 
 > Through our extensive educational programme, featuring internationally renowned speakers and visionaries in their respective fields, we provide a creative forum for exploring frontier issues at the interfaces between science, spirituality, consciousness and well-being.
 > 
-> In a spirit of open and critical enquiry, we seek to integrate ‘heart’ and ‘head’ – connecting intuitive insights with evidence-based reason."
-> 
-> https://scientificandmedical.net/
+> In a spirit of open and critical enquiry, we seek to integrate ‘heart’ and ‘head’ – connecting intuitive insights with evidence-based reason.
+
+https://scientificandmedical.net/
 
 ## Key Concepts
 

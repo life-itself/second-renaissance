@@ -2,10 +2,10 @@
 title: WholeWorld-View
 url: https://www.wholeworld-view.org/
 contributors:
-  - Catherine
+  - Catherine Tran
 logo: /assets/wholeworldview-logo.png
 image: /assets/wholeworldview-homepage.png
-locations: []
+locations: 
 start: "2017"
 end: present
 sectors:
@@ -14,8 +14,11 @@ sectors:
 activities:
   - Media & Publishing
 size: 11-20
+territory: Worldviews & Narratives
+y: 95
+x: 342
 ---
-> "Our purpose is to empower our conscious evolution through the understanding, experiencing and embodying of unitive awareness. 
+> Our purpose is to empower our conscious evolution through the understanding, experiencing and embodying of unitive awareness. 
 > 
 > Our world-view drives our beliefs, thoughts, decisions, behaviours and words. Our current, dominant world-view is based on an illusion of separation, causing a collective dis-ease and now an existential threat to our future and that of our planetary home, Gaia.  A WholeWorld-View perceives the fundamentally unified nature of the whole - the me, the we, and the all. A WholeWorld-View offers the science, the movements, the people, tools and most importantly the authentic hope of unitive awareness.   
 > 
@@ -24,9 +27,9 @@ size: 11-20
 > - the latest unitive scientific breakthroughs and evidence of a conscious and evolutionary Universe
 > - fellow communities, networks, tools and examples of how we can understand, experience and embody unitive awareness
 > 
-> Converging with universal spiritual experiences and wisdom teachings and based on the evidence of thousands of leading edge researchers, WholeWorld-View as a team and as a movement offer a ‘unifying underpinning and framework’ to support a unitive narrative that can inspire and empower, our conscious evolution."
-> 
-> https://www.wholeworld-view.org/ 
+> Converging with universal spiritual experiences and wisdom teachings and based on the evidence of thousands of leading edge researchers, WholeWorld-View as a team and as a movement offer a ‘unifying underpinning and framework’ to support a unitive narrative that can inspire and empower, our conscious evolution.
+
+ https://www.wholeworld-view.org/ 
 
 ## Key People
 

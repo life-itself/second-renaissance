@@ -17,6 +17,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Worldviews & Narratives
+y: 8
+x: 63
 ---
 >Essentia Foundation aims at communicating, in an accurate yet accessible way, the latest analytic and scientific indications that metaphysical materialism is fundamentally flawed. Indeed, clear reasoning and the evidence at hand indicate that metaphysical idealism or nondualism—the notion that nature is essentially mental—is the best explanatory model we currently have. This is known in specialist communities, but hasn’t yet been openly communicated, in an accessible manner, to the culture at large. _Essentia Foundation_ hopes to help close this communication gap.
 >

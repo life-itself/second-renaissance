@@ -15,6 +15,9 @@ activities:
   - Events & Retreats
   - Education & Training
 size: 4-10
+territory: Worldviews & Narratives
+y: 14
+x: 118
 ---
 > The Global Center for Indigenous Leadership and Lifeways (GCILL) is an informal umbrella created to support long-term and short-term projects that educate and inform people about Indigenous ways to raise human consciousness and  co-create a harmonious relationship with Mother Earth.
 > 

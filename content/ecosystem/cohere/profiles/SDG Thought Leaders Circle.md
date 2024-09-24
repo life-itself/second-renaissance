@@ -20,6 +20,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Worldviews & Narratives
+y: 45
+x: 382
 ---
 >A Synergy Circle focused on the United Nations (UN) Sustainable Development Goals (SDGs) was initiated by members of the [Evolutionary Leaders (EL) Circle](http://www.evolutionaryleaders.net/), a project of the [Source of Synergy Foundation](http://www.sourceofsynergyfoundation.org/). 
 

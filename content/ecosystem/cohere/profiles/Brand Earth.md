@@ -17,6 +17,9 @@ activities:
   - Consulting & Advisory
 cohere: true
 metadata_version: "1"
+territory: Alternative Economics & Regenerative Finance
+y: 49
+x: 1245
 ---
 >**Vision**
 >Transform commerce to fund a just transition to a regenerative earth. 
