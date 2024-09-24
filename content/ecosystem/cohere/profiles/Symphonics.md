@@ -19,6 +19,9 @@ activities:
   - Art Production & Curation
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 622
+x: 641
 ---
 >Humanity is on the threshold of a new all-win era of co-creation inspired by principles of co-operation, regeneration, health, harmony and living systems design.  Symphonics are leading edge co-creation specialists, providing planetary-scale innovations to support the quantum leap out of competitive silos into a unitive ecosystem of expansion and superabundance! [...]
 >

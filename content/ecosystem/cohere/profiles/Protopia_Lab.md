@@ -1,12 +1,13 @@
 ---
 title: Protopia Lab
-url: 'https://www.protopialab.org/'
-contributors: Ola
+url: https://www.protopialab.org/
+contributors:
+  - Ola
 logo: /assets/protopia lab logo.png
 image: /assets/protopia lab homepage.png
 locations:
-  - 'Barcelona, Spain'
-start: ''
+  - Barcelona, Spain
+start: ""
 end: present
 sectors:
   - Relations & Peace
@@ -15,6 +16,9 @@ activities:
   - Community Spaces
   - Convening & Coordination
 size: 1-3
+territory: Systems Thinking & Complexity
+y: 517
+x: 804
 ---
 > Our public conversation has become highly dysfunctional. More and more people are afraid to speak out publicly on certain issues because they don't have the 'right' opinion. 
 > 
@@ -24,11 +28,7 @@ size: 1-3
 
 ## Key People
 
-Micha Narberhaus Founder and strategic lead
-
-## Theory of Change
-
-think tank and social innovation
+Micha Narberhaus, Founder and Strategic Lead
 
 ## Learning Resources
 

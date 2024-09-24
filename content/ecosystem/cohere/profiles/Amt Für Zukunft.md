@@ -18,6 +18,9 @@ activities:
   - Consulting & Advisory
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 616
+x: 728
 ---
 >Amt Für Zukunft is a think and do tank for a future-proof society.
 
@@ -33,7 +36,7 @@ Translated from: https://www.amt-fuer-zukunft.ch/service-public
 
 ## Connections
 
-- A partner of Collaboratio Helvetica
+- A partner of [[Collaboratio_Helvetica]]
 
 
 

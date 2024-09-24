@@ -20,6 +20,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 513
+x: 778
 ---
 >The Si Network is a global online platform supporting individuals and organizations on their journey of learning and applying systems innovation ideas and methods towards addressing complex challenges. Our purpose is to build the world’s capacity for systems innovation, so as to better understand and address complex challenges and co-create a world where systems work for all.
 >

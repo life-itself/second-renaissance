@@ -21,8 +21,8 @@ activities:
 cohere: true
 metadata_version: "1"
 territory: Systems Thinking & Complexity
-y: 
-x:
+y: 588
+x: 672
 ---
  >Catalist is a social impact network and digital library where you can discover projects, events, and opportunities to change the world.
  

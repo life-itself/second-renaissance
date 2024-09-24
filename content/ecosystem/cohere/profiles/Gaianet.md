@@ -1,13 +1,14 @@
 ---
 title: Gaianet
-url: 'https://www.gaianet.earth/ '
-contributors: Trip
+url: "https://www.gaianet.earth/ "
+contributors:
+  - Trip
 logo: /assets/gaianet-logo-centered.png
 image: /assets/gaianet-website.png
 locations:
-  - 'De Bilt, Netherlands'
-  - ' global'
-start: '2020'
+  - De Bilt, Netherlands
+  - " global"
+start: "2020"
 end: present
 sectors:
   - Governance & Community
@@ -17,14 +18,17 @@ activities:
   - Community Spaces
   - Funding
 size: 4-10
+territory: Systems Thinking & Complexity
+y: 575
+x: 652
 ---
-> "Gaianet is a global organization which hosts a network of professionals, project leaders, experts, elders and investors in co-creation of a New Earth.
+> Gaianet is a global organization which hosts a network of professionals, project leaders, experts, elders and investors in co-creation of a New Earth.
 > 
 > Gaianet shapes the social architecture, digital infrastructure, and supporting blueprints to connect New Earth contributors with the right people, knowledge and tools.
 > 
-> The network currently consists of 2000+ mission-aligned projects and 540+ trusted members in 50+ countries (all personally invited)."
-> 
-> https://www.gaianet.earth/
+> The network currently consists of 2000+ mission-aligned projects and 540+ trusted members in 50+ countries (all personally invited).
+
+https://www.gaianet.earth/
 
 ## Key People
 
@@ -34,15 +38,9 @@ Daan Gorter, co-founder and vision keeper; Giulia May, co-founder; Bart Hoorweg,
 
 Connect aligned contributors (project initiators and professionals) around the process of co-creation
 
-
-
 Grounding aligned creation through field-building and solidarity
 
-
-
 Create technology systems for funding / value exchange
-
-
 
 Themes:
 
@@ -66,12 +64,3 @@ Gaianet SEP pdf for distribution v202205.pdf
 
 New Earth; co-creation; social architecture
 
-## Connections
-
-Hard to pin down core partners, affiliations at first glance
-
-
-
-Ecosystem gallery:
-
-The New Earth Ecosystem — Gaianet

@@ -20,6 +20,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 570
+x: 770
 ---
 >**UNESCO Chair on Futures Literacy at Hanze University of Applied Sciences**
 >

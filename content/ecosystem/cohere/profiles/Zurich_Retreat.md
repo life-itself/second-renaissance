@@ -1,52 +1,49 @@
 ---
 title: Zurich Retreat
-url: 'https://www.zurichretreat.com/'
-contributors: Ola
+url: https://www.zurichretreat.com/
+contributors:
+  - Ola
 logo: /assets/Zurich Retreat logo.webp
 image: /assets/Zurich homepage.png
 locations:
-  - 'Zurich, Switzerland'
-start: '2017'
-end: ''
+  - Zurich, Switzerland
+start: "2017"
+end: ""
 sectors:
   - Education & Learning
   - Health & Wellbeing
 activities:
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
   - Community Spaces
   - Events & Retreats
 size: 4-10
+territory: Systems Thinking & Complexity
+y: 594
+x: 706
 ---
-> "A competence centre of social innovation and future sense-making.
+> A competence centre of social innovation and future sense-making.
 > 
 > We create a space for collective sense-making, catalysing change and showcasing social innovation. 
 > 
-> ZurichRetreat is prototyping solutions and providing inspiring education for what could be such a new society model."
-> 
-> https://www.zurichretreat.com/project-en
+> ZurichRetreat is prototyping solutions and providing inspiring education for what could be such a new society model.
+
+https://www.zurichretreat.com/project-en
 
 ## Key People
 
-MARTIN HOHN | Founder
+Martin Hohn, Founder
 
-## Theory of Change
+## Keywords
 
-social innovation and future sense-making
+social innovation; future sense-making
 
 ## Connections
 
-Collaboratio Helvetica
-
+[[Collaboratio_Helvetica]]
 x27
-
 Sens Suisse
-
 Ecogood
-
 Amani Institute
-
-Global Impact Alliance
-
+[[Global Impact Alliance]]
 JoinSeeds
-
 IASS Potsdam

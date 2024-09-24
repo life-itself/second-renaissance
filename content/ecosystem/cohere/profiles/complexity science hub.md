@@ -20,6 +20,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 585
+x: 748
 ---
 >Since 2016, the Complexity Science Hub has conducted independent science for a better understanding of our complex world. We advance progress by extracting meaning from the enormous amounts of data representing our planet in its various dimensions: the economy, human migration, health and disease, climate crisis, social values, urban development, conflict, and more. Our research approaches let us see the world in a new way, as interconnected, dynamic, co-evolving, extensive networks, that allow us to understand these complex systems and identify their weaknesses and strengths. Using this knowledge, we can make evidence-based statements about how complex systems will respond to change and propose realistic interventions to move them in a positive direction for society. In other words, we want to find solutions for a better world.
 >

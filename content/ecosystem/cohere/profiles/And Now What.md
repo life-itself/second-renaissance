@@ -18,6 +18,9 @@ activities:
   - Art Production & Curation
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 555
+x: 670
 ---
 >And Now What operates from an awareness of acute existential threats for humanity and complex life on Earth. We provide facilitation, learning and developmental journeys for individuals and groups to make sense, heal, transform, reorganize and act as needed to regenerate the web of life.
 >
