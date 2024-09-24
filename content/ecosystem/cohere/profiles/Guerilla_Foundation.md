@@ -2,7 +2,7 @@
 title: Guerilla Foundation
 url: https://guerrillafoundation.org/
 contributors:
-  - Catherine
+  - Catherine Tran
 logo: /assets/guerrilla-foundation-logo.png
 image: /assets/guerilla-foundation-homepage.png
 locations:
@@ -18,6 +18,9 @@ activities:
   - Convening & Coordination
   - Advocacy & Activism
 size: 4-10
+territory: Movement Building & Civic Action
+y: 347
+x: 883
 ---
 > True to our name, the Guerrilla Foundation resources activists & grassroots movements in building pockets of resistance while carrying out radical societal transformations needed to cultivate a living, circular economy with a deeply democratic society that prioritises social & ecological wellbeing.
 

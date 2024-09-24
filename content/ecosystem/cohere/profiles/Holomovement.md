@@ -18,6 +18,9 @@ activities:
   - Convening & Coordination
   - Education & Training
 size: ""
+territory: Movement Building & Civic Action
+y: 401
+x: 718
 ---
 > The Holomovement is a social movement that awakens us to our interconnectedness, igniting a critical mass of collaborative action serving the good of the whole. 
 > 

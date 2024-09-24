@@ -18,6 +18,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Movement Building & Civic Action
+y: 387
+x: 884
 ---
 >The Climate Fresk NGO was created in December 2018 by **Cédric Ringenbach** in order to accelerate the spread of the tool, to train and upskill Climate Fresk facilitators who are the international community of Freskers.
 >
@@ -44,7 +47,7 @@ Their main offering is a 3-hour workshop which teaches the fundamental science b
 - One of the things that is often emphasized on their website is 'scale'; namely, that their services can be applied to individuals, and to small or large organizations. 
 - Their approach is one where informing people and organisations about the climate crisis leads to more informed individuals and to better and more sustainable practices. 
 - "The Climate Fresk methodology doesn’t involve an expert presenting information to the group; instead, it requires all participants to take an active role in the building-up of the Fresk, becoming participative learners."
-- 
+
 ## Key Learning Resources
 
 They use the IPCC reports on climate change to guide their teaching: https://www.ipcc.ch/reports/

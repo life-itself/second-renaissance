@@ -19,6 +19,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Movement Building & Civic Action
+y: 446
+x: 920
 ---
 >We provide resources to educate and inform organisations about environmental sustainability.
 
@@ -30,8 +33,6 @@ https://axaclimateschool.com/who-we-are/
 >
 >Since then, we have created new formats to meet the needs of our clients seeking more sector-specific knowledge or to engage their employees with more varied content. Today, we enable HR Departments to support the skills development of their employees worldwide, and ESG Managers to involve all their staff in their sustainable transition approach.
 https://axaclimateschool.com/what-we-do/
-
-## Key People
 
 ## Theory of Change
 
@@ -53,7 +54,6 @@ Source: https://axaclimateschool.com/who-we-are/
 
 https://axaclimateschool.com/news-insights/
 
-## Connections
 
 
 

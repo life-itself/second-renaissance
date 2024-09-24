@@ -20,6 +20,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Co-creation & Collaboration
+y: 535
+x: 635
 ---
 
 >The Source of Synergy Foundation is a 501c3 not-for-profit educational organization whose purpose is to synergize individuals, organizations and efforts by tapping into the infinite source of collective consciousness, creativity and potential for the common good.

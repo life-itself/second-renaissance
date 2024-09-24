@@ -19,6 +19,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Movement Building & Civic Action
+y: 387
+x: 747
 ---
 >Catalyst 2030 is a global movement of social change innovators. It comprises NGOs, social entrepreneurs, intermediaries, funders and other social change innovators, collaborating in this urgent moment to achieve the United Nations Sustainable Development Goals (SDGs).
 

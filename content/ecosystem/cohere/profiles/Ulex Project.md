@@ -20,6 +20,9 @@ activities:
   - Community Spaces
 cohere: true
 metadata_version: "1"
+territory: Movement Building & Civic Action
+y: 364
+x: 762
 ---
 >The Ulex Project provides high-quality training for activists, change makers, and organisations.
 >

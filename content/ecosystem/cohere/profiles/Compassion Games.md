@@ -18,6 +18,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Relationships & Conflict
+y: 190
+x: 174
 ---
 >**Compassion Games: Survival of the Kindest** is a _community engagement experience_ that invites people around the world to inspire one another to reveal and promote acts of compassion that better our lives, our communities, and all life on Earth.
 https://www.compassiongames.org

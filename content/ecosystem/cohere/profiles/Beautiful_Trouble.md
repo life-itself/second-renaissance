@@ -1,13 +1,14 @@
 ---
 title: Beautiful Trouble
-url: 'https://beautifultrouble.org/'
-contributors: Catherine
+url: https://beautifultrouble.org/
+contributors:
+  - Catherine Tran
 logo: /assets/beautiful-trouble-logo.png
 image: /assets/beautiful-trouble-homepage.png
 locations:
   - Denmark
-  - ' International'
-start: '2010'
+  - " International"
+start: "2010"
 end: present
 sectors:
   - Justice & Restoration
@@ -17,6 +18,9 @@ activities:
   - Convening & Coordination
   - Funding
 size: 51-100
+territory: Movement Building & Civic Action
+y: 361
+x: 828
 ---
 > Beautiful Trouble is… 
 > A book, strategy card deck, online toolbox and creative campaign incubator.

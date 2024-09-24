@@ -21,6 +21,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 483
+x: 789
 ---
 >The **Tällberg Foundation, launched in 1981** by Swedish business leader Bo Ekman, explores the issues that are challenging and changing our societies, with the goal of stimulating new thinking and discovering new solutions. The world that we have known since the mid 20th century, which produced unprecedented peace as well as unparalleled human advance, is changing at a pace and in directions that threaten to devolve towards Orwellian dystopia. All is made worse by the accelerating retreat from globalism, even in the face of problems whose very nature demands **global solutions**.
 >
