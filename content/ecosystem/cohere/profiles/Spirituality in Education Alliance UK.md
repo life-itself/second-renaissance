@@ -21,6 +21,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Alternative Education
+y: 278
+x: 1045
 ---
 >We are a newly forming group of leaders and organisations in the UK who have come together in the call for educational models that better respond to the growing global call for systems that better nurture human wellbeing and potential within the context of a sustainable world.
 

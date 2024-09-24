@@ -1,18 +1,20 @@
 ---
 title: World Academy of Art & Science
-url: 'https://worldacademy.org/'
-contributors: Ola; Catherine
+url: https://worldacademy.org/
+contributors:
+  - Ola
+  - Catherine Tran
 logo: /assets/world-academy-of-art-and-science-logo.png
 image: /assets/The World Academy of Art & Science homepage.png
 locations:
-  - 'California, USA'
-  - ' Bucharest, Romania'
-  - ' Zagreb, Croatia'
-  - ' Podgorica, Montenegro'
-  - ' India'
-  - ' Italy'
-  - ' Belgrade, Serbia'
-start: '1960'
+  - California, USA
+  - " Bucharest, Romania"
+  - " Zagreb, Croatia"
+  - " Podgorica, Montenegro"
+  - " India"
+  - " Italy"
+  - " Belgrade, Serbia"
+start: "1960"
 end: present
 sectors:
   - Education & Learning
@@ -23,14 +25,17 @@ activities:
   - Convening & Coordination
   - Events & Retreats
 size: 4-10
+territory: Alternative Futures
+y: 257
+x: 1122
 ---
-> "The World Academy of Art & Science (WAAS) was founded in 1960 by eminent intellectuals including Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others. The Academy serves as a forum for reflective scientists, artists, and scholars dedicated to addressing the pressing challenges confronting humanity today independent of political boundaries or limits, whether spiritual or physical — a forum where these problems can be discussed objectively, scientifically, globally, and free from vested interests or regional attachments to arrive at solutions that affirm universal human rights and serve the common good of all humanity. WAAS is founded on faith in the power of original and creative ideas — Real Ideas with effective power — to change the world.
+> The World Academy of Art & Science (WAAS) was founded in 1960 by eminent intellectuals including Albert Einstein; Robert Oppenheimer, Father of Manhattan Project; Bertrand Russell, Joseph Needham, co-Founder of UNESCO; Lord Boyd Orr, first Director General of FAO; Brock Chisholm, first Director General of WHO and many others. The Academy serves as a forum for reflective scientists, artists, and scholars dedicated to addressing the pressing challenges confronting humanity today independent of political boundaries or limits, whether spiritual or physical — a forum where these problems can be discussed objectively, scientifically, globally, and free from vested interests or regional attachments to arrive at solutions that affirm universal human rights and serve the common good of all humanity. WAAS is founded on faith in the power of original and creative ideas — Real Ideas with effective power — to change the world.
 > 
 > ​Our motto​: ​​​Leadership in thought that leads to action
 > 
-> WAAS Fellows come from diverse cultures, nationalities, intellectual disciplines and professions, chosen for eminence in the natural, technological and social sciences; the arts and humanities; different professions and fields of public service. The focus of WAAS from the beginning has been to address global social challenges. Its founding motive comes from the knowledge that academic knowledge cannot be separated or divorced from the social responsibility of how the knowledge is used."
-> 
-> https://worldacademy.org/about-us/
+> WAAS Fellows come from diverse cultures, nationalities, intellectual disciplines and professions, chosen for eminence in the natural, technological and social sciences; the arts and humanities; different professions and fields of public service. The focus of WAAS from the beginning has been to address global social challenges. Its founding motive comes from the knowledge that academic knowledge cannot be separated or divorced from the social responsibility of how the knowledge is used.
+
+ https://worldacademy.org/about-us/
 
 ## Key People
 
@@ -44,7 +49,7 @@ See their 2021 Retrospective and Reflections: https://drive.google.com/file/d/19
 
 - 11 Essays on Societal Transformation: The Most Important Challenge Facing Humanity by WAAS Working Group (2021): https://cadmusjournal.org/article/volume-4/issue-5/societal-transformation 
 
-## Key Concepts
+## Keywords
 
 systems thinking; conscious social evolution; new paradigm
 

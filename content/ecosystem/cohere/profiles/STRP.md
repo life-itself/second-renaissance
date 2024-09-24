@@ -21,6 +21,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 508
+x: 810
 ---
 >STRP explores the relationship between art, technology, and major societal issues with the general public, artists, designers, media makers, and thinkers. The Eindhoven-based organisation starts a dialogue about speculative future scenarios with various events throughout the year and an annual festival in the spring.  
  > 

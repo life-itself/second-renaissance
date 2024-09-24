@@ -20,9 +20,12 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+territory: Alternative Education
+y: 302
+x: 1093
 ---
 >Since 2019, EUTOPIA has been an Alliance of ten European universities committed to developing a new model for European integrated higher education institutions through transnational cooperation. It is part of the European Universities Initiative.
->
+
 https://eutopia-university.eu/
 
 >In the context of both the Anthropocene and the expansion of knowledge society, we live in a time of pressing planetary and democratic challenges that require massive and novel coordinated scientific and societal efforts on an unprecedented scale.  

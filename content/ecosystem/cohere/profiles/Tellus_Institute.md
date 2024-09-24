@@ -14,6 +14,9 @@ sectors:
 activities:
   - Research
 size: 21-50
+territory: Alternative Futures
+y: 124
+x: 1050
 ---
 > Tellus Institute strives to advance a planetary civilization rooted in justice, well-being, and sustainability. Our work addresses key dimensions of a transformative global praxis—understanding, vision, and action—by fostering scholarship, developing scenarios, and mobilizing networks for change. At this perilous juncture in human affairs, Tellus now more than ever joins engaged thinkers and thinking activists the world over in shaping a global transition, the great challenge of our time.
 

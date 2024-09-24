@@ -20,6 +20,9 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+territory: Alternative Futures
+y: 236
+x: 1068
 ---
 
 The Club of Rome is a group of international economists and researchers  who are concerned with transforming the global financial world system. 

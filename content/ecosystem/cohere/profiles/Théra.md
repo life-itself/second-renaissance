@@ -2,7 +2,7 @@
 title: Théra
 url: https://thera.earth/
 contributors:
-  - Catherine
+  - Catherine Tran
 logo: /assets/thera-logo.webp
 image: /assets/thera-homepage.png
 locations:
@@ -18,8 +18,11 @@ activities:
   - Design, Development & Innovation
   - Events & Retreats
 size: ""
+territory: Intentional Communities & Ecovillages
+y: 203
+x: 758
 ---
-> "The Applied Research Center for the Regeneration of Living Systems responds to the global metacrisis by fostering a holistic approach to revitalization. Nestled within the biodiverse and culturally rich Tarn-et-Garonne, we strive to empower civil society through research and co-development, integrating local and global stakeholders and knowledge, and bringing all of that together into real projects.
+> The Applied Research Center for the Regeneration of Living Systems responds to the global metacrisis by fostering a holistic approach to revitalization. Nestled within the biodiverse and culturally rich Tarn-et-Garonne, we strive to empower civil society through research and co-development, integrating local and global stakeholders and knowledge, and bringing all of that together into real projects.
 > 
 > Our Center operates as a multi-site living laboratory for sustainability, focused on creating an integrated ecosystem where innovation thrives across various sectors. Facilities and initiatives include:
 > 
@@ -29,9 +32,10 @@ size: ""
 > - Enterprise Seminars & Retreats: Targeting knowledge exchange and skill development to empower entrepreneurs and business leaders with the tools they need to create sustainable impact. 
 > - Hybrid International Conferences: Connecting virtual and physical realms for a far-reaching dialogue, fostering global collaborations and knowledge sharing.
 > - Cultural Events & Spaces: Celebrating innovation through the arts, providing a platform for cultural expression that inspires and connects.
-> - Unique Accommodations: Welcoming eco-tourists to immersive experiences, showcasing the Center's commitment to sustainable living and tourism."
-> https://thera.earth/en/ 
+> - Unique Accommodations: Welcoming eco-tourists to immersive experiences, showcasing the Center's commitment to sustainable living and tourism.
 
-## Key Concepts
+ https://thera.earth/en/ 
+
+## Keywords
 
 metacrisis; regeneration; living systems; innovation

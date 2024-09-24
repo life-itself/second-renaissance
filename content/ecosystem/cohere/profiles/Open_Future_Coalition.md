@@ -16,6 +16,9 @@ activities:
   - Convening & Coordination
   - Funding
 size: 4-10
+territory: Alternative Futures
+y: 156
+x: 1000
 ---
 > We are designers, developers, social systems architects, economists, storytellers, and movement builders innovating social, technological, and financial tools that support our ability to collectively innovate on, resource, and apply solutions to the world’s most pressing issues. 
 > 

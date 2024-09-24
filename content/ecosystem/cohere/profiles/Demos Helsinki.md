@@ -20,6 +20,9 @@ activities:
   - Consulting & Advisory
 cohere: true
 metadata_version: "1"
+territory: Alternative Futures
+y: 130
+x: 1142
 ---
 >Demos Helsinki is a globally operating, independent think tank. We conduct research, offer a range of services, including strategy, capacity-building and training among other things, and host a global alliance of social imagination called [Untitled.](http://untitled.community/) Since day one, our community has been built on the idea that change can only happen together. That is why we carry out direct engagements and research projects with hundreds of partners around the world. Unlike many think tanks, we are predominantly project-funded and fully independent, without any political affiliations.
 >

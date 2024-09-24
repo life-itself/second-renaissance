@@ -19,6 +19,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Alternative Education
+y: 375
+x: 1022
 ---
 
 >Welcome to Ubiquity University. We offer transformational higher education for people ready to make a positive contribution towards solving current global challenges. We believe that the fundamental nature of these challenges requires the development of our inner qualities and competencies in tandem with academic study. From healing past traumas to working with consciousness to co-create the future and the radical collaboration needed to make impact at scale; all are grounded in a lived experience of interconnectedness.  

@@ -21,6 +21,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Alternative Education
+y: 284
+x: 1073
 ---
 >The Learning for Well-being Foundation implements diverse projects worldwide, promoting holistic well-being and school reform, embedding a transversal element of intergenerational collaboration throughout.
 >
