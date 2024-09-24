@@ -19,6 +19,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Alternative Politics & Governance
+y: 159
+x: 815
 ---
 >The Crowd Foundation aims to bring crowdocracy to life, through
 >

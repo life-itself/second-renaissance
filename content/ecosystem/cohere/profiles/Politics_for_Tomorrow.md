@@ -16,6 +16,9 @@ activities:
   - Research
   - Design, Development & Innovation
 size: 11-20
+territory: Alternative Politics & Governance
+y: 248
+x: 950
 ---
 > The focus of our work is on collaborations with public innovation labs and educational institutions, ministries, federal and state offices, political foundations, as well as civil society initiatives and umbrella organizations.
 > 

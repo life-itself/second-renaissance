@@ -1,12 +1,13 @@
 ---
 title: New Institute
-url: 'https://thenew.institute/en'
-contributors: Cesar
+url: https://thenew.institute/en
+contributors:
+  - Cesar
 logo: /assets/TheNewInstitute_Logo.png
 image: /assets/The New Institute - homepage.png
 locations:
-  - 'Warburg, Germany'
-start: '2021'
+  - Warburg, Germany
+start: "2021"
 end: present
 sectors:
   - Education & Learning
@@ -17,6 +18,9 @@ activities:
   - Education & Training
   - Events & Retreats
 size: 11-20
+territory: Alternative Politics & Governance
+y: 244
+x: 1016
 ---
 > "On the basis of humanistic and social-scientific reflection, THE NEW INSTITUTE aims to develop visions of progressive socio-economic and political futures.  All of our activities are clustered around three Research Areas: The Human Condition in the 21st Century, The Future of Democracy, and Socio-Economic Transformation. An annual theme provides focus across these areas, and structures our research activities, fellowship programs, lectures, and workshops.
 > 

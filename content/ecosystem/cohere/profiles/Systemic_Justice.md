@@ -1,12 +1,13 @@
 ---
 title: Systemic Justice
-url: 'https://systemicjustice.ngo/'
-contributors: Catherine
+url: https://systemicjustice.ngo/
+contributors:
+  - Catherine
 logo: /assets/systemicjustice-logo.jpeg
 image: /assets/systemic-justice-homepage.png
 locations:
-  - 'Amsterdam, Netherlands'
-start: '2021'
+  - Amsterdam, Netherlands
+start: "2021"
 end: present
 sectors:
   - Justice & Restoration
@@ -15,6 +16,9 @@ activities:
   - Convening & Coordination
   - Education & Training
 size: 4-10
+territory: Alternative Politics & Governance
+y: 242
+x: 890
 ---
 > "Systemic Justice is a new NGO that partners with organisations working on racial, social, and economic justice to bring about change through strategic litigation.
 > 

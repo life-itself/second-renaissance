@@ -1,20 +1,24 @@
 ---
 title: Simpol
 url: www.simpol.org
-contributors: Elisa
+contributors:
+  - Elisa
 logo: /assets/simpol-logo.png
 image: /assets/simpol-homepage.png
 locations:
-  - 'London, UK'
-  - ' global'
-start: '2000'
+  - London, UK
+  - " global"
+start: "2000"
 end: present
 sectors:
   - Governance & Community
 activities:
   - Advocacy & Activism
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
 size: 4-10
+territory: Alternative Politics & Governance
+y: 206
+x: 977
 ---
 > "What?
 > 

@@ -19,6 +19,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Alternative Politics & Governance
+y: 263
+x: 981
 ---
 >We are a civic tech non-profit organisation, with headquarters based in Tallinn, Estonia, and a second office in Jakarta, Indonesia, both of which are working on a local level, but also running together many international projects.
 >

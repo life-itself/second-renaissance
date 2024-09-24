@@ -1,22 +1,26 @@
 ---
 title: Radical XChange
-url: 'https://www.radicalxchange.org/ '
-contributors: Matthew; Catherine
+url: "https://www.radicalxchange.org/ "
+contributors:
+  - Matthew; Catherine
 logo: /assets/radicalxchange-logo.svg
 image: /assets/radicalxchange-homepage.png
 locations:
   - USA
-  - ' Global'
-start: '2018'
+  - " Global"
+start: "2018"
 end: present
 sectors:
   - Governance & Community
   - Science & Technology
 activities:
   - Research
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
   - Advocacy & Activism
 size: 4-10
+territory: Technology
+y: 531
+x: 1280
 ---
 > "The best opportunities for liberating social progress arise in times of technological transformation. Yet technologies that emerge from capitalist incentives too often fail to deliver on this promise. More often, they increase our capacity to pursue self-interest and externalize harm, exacerbating our deepest challenges rather than solving them.
 > 

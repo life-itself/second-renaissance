@@ -17,8 +17,8 @@ activities:
 cohere: true
 metadata_version: "1"
 territory: Alternative Politics & Governance
-y: 
-x:
+y: 173
+x: 916
 ---
 >The Consilience Project publishes novel research at the leading edges of global risk mitigation, governance design and culture. Our content explores the key challenges and existential threats facing humanity, and the underlying problems with current approaches for addressing them. We outline how our social systems and institutions need to be redesigned if free, open, non-authoritarian societies are to survive.
 
