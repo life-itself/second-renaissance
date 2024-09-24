@@ -18,6 +18,9 @@ activities:
   - Media & Publishing
   - Design, Development & Innovation
 size: 11-20
+territory: Co-creation & Collaboration
+y: 479
+x: 686
 ---
 > The University of Us is a world to discover, to meet. It is a unique journey of pioneers of doing things together, of sensitivity, of the common. It is a handful of committed, fiery utopians, convinced of a possible "other tomorrow".
 > 

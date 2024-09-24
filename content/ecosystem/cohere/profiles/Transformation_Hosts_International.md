@@ -1,12 +1,13 @@
 ---
 title: Transformation Hosts International
-url: 'https://hostingtransformation.eu/'
-contributors: Ola
+url: https://hostingtransformation.eu/
+contributors:
+  - Ola
 logo: /assets/hostingtransformation logo.png
 image: /assets/hostingtransformation homepage.png
 locations:
   - Europe
-start: '2012'
+start: "2012"
 end: present
 sectors:
   - Education & Learning
@@ -14,6 +15,9 @@ activities:
   - Education & Training
   - Convening & Coordination
 size: 21-50
+territory: Co-creation & Collaboration
+y: 473
+x: 549
 ---
 > Technically…
 > … the Transformation Hosts International (THI) is a community of practice for Transformative Learning and for hosting the socio-ecological transition. THI articulates this new paradigm of learning, develops and implements new tools for addressing this paradigm, and brings together the practitioners who have the power and skills to host this transformation. We do not have a legal body – yet.
@@ -32,7 +36,7 @@ https://hostingtransformation.eu/methods-toolbox/
 
 ## Connections
 
-[[Art Monastery]]
+[[Art_Monastery_Project]]
 Neurodiversity Foundation
 Rogers Foundation
 Biovilla

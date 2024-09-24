@@ -17,11 +17,16 @@ activities:
   - Consulting & Advisory
 cohere: true
 metadata_version: "1"
+territory: Co-creation & Collaboration
+y: 519
+x: 648
 ---
->Bounce Beyond is a progressive agency in service to people and initiatives who are accelerating systemic transformation. We are co-creating a shift from exploitive [sic] systems and power structures towards socially just and equitable societies in a flourishing natural world."
+>Bounce Beyond is a progressive agency in service to people and initiatives who are accelerating systemic transformation. We are co-creating a shift from exploitive [sic] systems and power structures towards socially just and equitable societies in a flourishing natural world.
+
 https://www.bouncebeyond.global/
 
 >Bounce Beyond works with initiatives to accelerate pathways to regenerative, life-centered, wellbeing economies through catalytic actions. We enable them to catalyze powerful [transformation systems](https://www.bouncebeyond.global/transformations-systems) to collaboratively accelerate transformation of a geography, such as a political- or bio-region, an issue such as climate change or racial injustice, and/or sector such as fisheries or health care.  We work with six activities to realize life-centered futures.
+
 'What We Do', https://www.bouncebeyond.global/values/mission
 
 These six activities are: 
@@ -33,6 +38,7 @@ These six activities are:
 6. Developing Transformation Infrastructure (Amplifying)
 
  ![[../../../assets/bounce-beyond-activities.png]]
+ 
 ## Theory of Change
 
 ![[../../../assets/bounce-beyond-1.png]]
@@ -42,12 +48,12 @@ These six activities are:
 ## Connections
 
 On their homepage they list some of the following as organisations that their Advisors are associated with:
-- [[../../profiles/wellbeing-economy-alliance|wellbeing-economy-alliance]]
+- [[Wellbeing Economy Alliance]]
 - [[Catalyst 2030]]
 - [[Capital Institute]]
-- [[Economy for the Common Good ]]
-- [[Regenerative Communities Network]]
-- [[University for International Cooperation]]
+- Economy for the Common Good
+- Regenerative Communities Network
+- University for International Cooperation
 
 ## Key People
 

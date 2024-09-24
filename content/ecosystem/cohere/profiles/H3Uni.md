@@ -16,6 +16,9 @@ activities:
   - Education & Training
   - Events & Retreats
 size: 1-3
+territory: Co-creation & Collaboration
+y: 592
+x: 551
 ---
 > H3Uni, an educational charity, offers purposeful people and groups powerful methods to access, activate and enliven their innate collaborative wisdom, that will help us to navigate the deepening uncertainties of the 21st century.
 
@@ -23,7 +26,7 @@ https://www.h3uni.org/about/
 
 ## Learning Resources
 
-https://www.h3uni.org/resource-library/
+Resource library with methods and facilitation guides for improving team effectiveness: https://www.h3uni.org/resource-library/
 
 ## Key Concepts
 

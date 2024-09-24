@@ -20,6 +20,9 @@ activities:
   - Consulting & Advisory
 cohere: true
 metadata_version: "1"
+territory: Co-creation & Collaboration
+y: 464
+x: 752
 ---
 >We’re a global team of adaptive innovators, creative problem solvers, and facilitators of societal transformation, striving to make the world more peaceful, just, and sustainable through enhanced multi-stakeholder collaboration.
 >

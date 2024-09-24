@@ -20,6 +20,9 @@ activities:
   - Convening & Coordination
 cohere: true
 metadata_version: "1"
+territory: Systems Thinking & Complexity
+y: 
+x:
 ---
  >Catalist is a social impact network and digital library where you can discover projects, events, and opportunities to change the world.
  
@@ -43,6 +46,4 @@ For more detail, see 'Catalist White Paper' (2020), written by Vincent Arena: ht
 ## Key Educational Resources 
 
 Their main offering is a curated public directory of resources of various kinds.
-
-## Connections 
 

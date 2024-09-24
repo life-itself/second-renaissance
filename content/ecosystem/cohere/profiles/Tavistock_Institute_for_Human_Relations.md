@@ -1,13 +1,14 @@
 ---
 title: Tavistock Institute for Human Relations
-url: 'https://www.tavinstitute.org/'
-contributors: Ola
+url: https://www.tavinstitute.org/
+contributors:
+  - Ola
 logo: /assets/Tavistock Institute  logo.png
 image: /assets/Tavistock Institute  homepage.png
 locations:
   - London
-start: '1947'
-end: ''
+start: "1947"
+end: ""
 sectors:
   - Relations & Peace
   - Education & Learning
@@ -16,6 +17,9 @@ activities:
   - Research
   - Art Production & Curation
 size: 21-50
+territory: Co-creation & Collaboration
+y: 649
+x: 593
 ---
 > In our earliest history, just over a centenary ago, a group of medical professionals who called themselves the Tavistock group worked with the British Army to help soldiers who had been prisoners during World War II return to civilian life and – equally as importantly – to help their families and communities adjust to having them back.
 > 
@@ -29,19 +33,9 @@ size: 21-50
 
 Dr. Eliat Aram, CEO
 
-## Theory of Change
-
-Human relations
-
 ## Learning Resources
 
 https://www.tavinstitute.org/search/results?theme=Staff+publications
-
-## Key Concepts
-
-multi-disciplinary
-
-Human relations
 
 ## Connections
 

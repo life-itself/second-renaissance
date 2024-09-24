@@ -19,6 +19,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Co-creation & Collaboration
+y: 614
+x: 583
 ---
 >ECOintention is the observation, interpretation and improvement of (life) energy in organizations and natural areas. It is a method to bring back healthy energy and flow in organizations and natural areas. Center for ECOintention has been successfully applying this method in numerous projects for over twenty-five years. ECOintention is a profession that you can learn in the four-year ECOintention Practitioner training.
 
