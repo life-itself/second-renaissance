@@ -19,6 +19,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Relationships & Conflict
+y: 157
+x: 194
 ---
 >We support the emerging global movement that brings compassion to life. We are a global network connecting people, cities, grassroots organizers and leaders to each other. We provide educational resources, organizing tools, and avenues for communication.
 >

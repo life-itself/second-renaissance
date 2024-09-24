@@ -14,6 +14,9 @@ sectors:
 activities:
   - Convening & Coordination
 size: ""
+territory: Inner-led Systems Change
+y: 342
+x: 540
 ---
 > A Mighty Network community.
 > 

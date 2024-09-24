@@ -1,12 +1,13 @@
 ---
 title: Earthwise
-url: 'https://www.earthwisecentre.org/ '
-contributors: Catherine
+url: "https://www.earthwisecentre.org/ "
+contributors:
+  - Catherine
 logo: /assets/earthwise-logo.webp
 image: /assets/earthwise-homepage.png
 locations:
   - Mauritius
-start: '2015'
+start: "2015"
 end: present
 sectors:
   - Governance & Community
@@ -14,8 +15,11 @@ sectors:
 activities:
   - Education & Training
   - Media & Publishing
-  - 'Design, Development & Innovation'
+  - Design, Development & Innovation
 size: 4-10
+territory: Inner-led Systems Change
+y: 306
+x: 618
 ---
 > "EARTHwise is a visionary movement and ecosystem for a thrivable world and future. Founded in 2015 through EARTHwise Centre, it champions personal, collective, and systemic transformation to shift trajectories from collapse to collective thriving. Building the foundations and movement for a new and planetary civilization, in partnership with life.
 > 

@@ -20,6 +20,9 @@ activities:
   - Art Production & Curation
 cohere: true
 metadata_version: "1"
+territory: Inner-led Systems Change
+y: 287
+x: 467
 ---
 >The _Kosmos_ mission is to inform, inspire and engage individual and collective participation for global transformation in harmony with all Life. We do this by sharing transformational thinking and policy initiatives, aesthetic beauty and wisdom, local to global.
 >

@@ -1,12 +1,13 @@
 ---
 title: Perspectiva
-url: 'https://systems-souls-society.com'
-contributors: Elisa
+url: https://systems-souls-society.com
+contributors:
+  - Elisa
 logo: /assets/perspectiva-logo.png
 image: /assets/perspectiva-homepage.png
 locations:
-  - 'London, UK'
-start: '2016'
+  - London, UK
+start: "2016"
 end: present
 sectors:
   - Education & Learning
@@ -17,6 +18,9 @@ activities:
   - Events & Retreats
   - Research
 size: 4-10
+territory: Metacrisis
+y: 241
+x: 378
 ---
 > "Perspectiva is a community of expert generalists working on an urgent one hundred year project to improve the relationships between systems, souls and society in theory and practice.
 > 

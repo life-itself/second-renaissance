@@ -22,6 +22,9 @@ activities:
   - Media & Publishing
 cohere: true
 metadata_version: "1"
+territory: Metacrisis
+y: 221
+x: 305
 ---
 >advaya is a leading transformative learning and experience platform creating online and offline programmes led by the leading minds of our time. **We invite you to radically shift how you see the world and your place within it.**
 >

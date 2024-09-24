@@ -22,6 +22,9 @@ activities:
   - Media & Publishing
 cohere: true
 metadata_version: "1"
+territory: Integral
+y: 386
+x: 384
 ---
 >Integral Life is a member-driven digital media community that supports the growth, education and application of Integral Philosophy and integrative metatheory to complex issues in the 21st century. Integral Life offers perspectives, practices, analysis and community to help people grow into the full capacities of integral consciousness in order to thrive in a rapidly-evolving world.
 

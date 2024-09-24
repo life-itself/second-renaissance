@@ -1,12 +1,13 @@
 ---
 title: Nordic Bildung
-url: 'https://www.nordicbildung.org/'
-contributors: Catherine
+url: https://www.nordicbildung.org/
+contributors:
+  - Catherine
 logo: /assets/nordic-bildung-logo.png
 image: /assets/nordic-bildung-homepage.png
 locations:
-  - 'Copenhagen, Denmark'
-start: '2018'
+  - Copenhagen, Denmark
+start: "2018"
 end: present
 sectors:
   - Education & Learning
@@ -16,6 +17,9 @@ activities:
   - Events & Retreats
   - Media & Publishing
 size: 1-3
+territory: Inner-led Systems Change
+y: 391
+x: 534
 ---
 > "Nordic Bildung is a thinking lab and a bildung lab; that is what we mean by future systems studies and humanistic futurism. We want to grasp the world in new ways that match its constantly rising complexity, and we want people to engage with new knowledge, with the world, and with their own life-situation in new and meaningful ways that match the 21st century.
 > 

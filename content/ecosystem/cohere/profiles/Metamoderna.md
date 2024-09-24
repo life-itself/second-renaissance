@@ -20,6 +20,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Metacrisis
+y: 167
+x: 419
 ---
 Metamoderna is written by Hanzi Freinacht, the pen name of Daniel Görtz and Emil Ejner Friis.
 

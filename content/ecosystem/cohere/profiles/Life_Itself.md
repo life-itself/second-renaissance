@@ -1,14 +1,15 @@
 ---
 title: Life Itself
-url: 'https://lifeitself.org/'
-contributors: Catherine
+url: https://lifeitself.org/
+contributors:
+  - Catherine
 logo: /assets/life-itself-logo.png
 image: /assets/life-itself-homepage.png
 locations:
   - Online
-  - ' Bergerac, France'
-  - ' Berlin, Germany'
-start: '2015'
+  - " Bergerac, France"
+  - " Berlin, Germany"
+start: "2015"
 end: present
 sectors:
   - Education & Learning
@@ -19,6 +20,9 @@ activities:
   - Research
   - Events & Retreats
 size: 4-10
+territory: Metacrisis
+y: 249
+x: 333
 ---
 > "We are pragmatic utopians, committed to practical action for a radically wiser, weller world. We create coliving hubs, start businesses, do research and engage in activism to pioneer a wiser culture. We are ordinary people who choose an extra-ordinary path, treading the middle way between Plum Village and Silicon Valley. [...]
 > 

@@ -14,6 +14,9 @@ sectors:
 activities:
   - Research
 size: 1-3
+territory: Inner-led Systems Change
+y: 193
+x: 521
 ---
 > The Murmuration Project is a research initiative that is helping organisations and networks understand how they can develop more effective leadership skills and strategies and work collaboratively to inspire and influence greater change.  
 > 

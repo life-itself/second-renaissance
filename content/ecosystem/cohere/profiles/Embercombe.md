@@ -21,6 +21,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Inner Wisdom & Healing
+y: 546
+x: 175
 ---
 > Embercombe is a beautiful 50 acre [[rewilding]] estate on the edge of Dartmoor. It is a place to find a deep connection with nature – wild nature around us and wild nature within us.
 >

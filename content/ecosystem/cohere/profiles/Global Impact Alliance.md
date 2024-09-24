@@ -19,6 +19,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Alternative Futures
+y: 138
+x: 1126
 ---
 >The current focus is on fixing individual issues such as poverty, gender inequality, climate change, etc. All important problems - however, we believe that they will not be truly solved without a deep paradigm and culture shift within each of us ("inner transformation") and conscious action and collaboration for impact and redesign of our systems ("systemic change")  - as it takes both, inner work as well as a critical mass of people coming together to challenge our current system design and implement alternatives that from their core foster the wellbeing of people and planet.
 

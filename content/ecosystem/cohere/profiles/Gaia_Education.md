@@ -14,6 +14,9 @@ sectors:
 activities:
   - Education & Training
 size: 11-20
+territory: Inner-led Systems Change
+y: 359
+x: 588
 ---
 > As an award-winning provider of holistic Education for Sustainable Development, Gaia Education empowers students across the globe to see the interconnectedness of life. We teach the knowledge & skills needed to design truly regenerative communities which thrive within planetary boundaries.
 > 

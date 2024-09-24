@@ -38,6 +38,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Inner-led Systems Change
+y: 312
+x: 642
 ---
 >Transition Network is a charity which works to support the Transition movement, amplify stories of community-led change, and nurture collaborations across difference to challenge us all to reimagine and rebuild our world.  Read more about our organisational purpose [here](https://transitionnetwork.org/about-the-movement/the-charity/purpose/).
 >

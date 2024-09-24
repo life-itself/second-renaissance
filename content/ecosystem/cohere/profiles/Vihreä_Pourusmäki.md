@@ -15,7 +15,10 @@ sectors:
   - Infrastructure & Resources
 activities:
   - Education & Training
-size:
+size: 
+territory: Environment & Food
+y: 181
+x: 1205
 ---
 > Vihreä Pourusmäki is a non-profit organization dedicated to promoting rural sustainable development in Laitikkala. Founded in 2022, Vihreä Pourusmäki works with local communities and other stakeholders to identify and address the unique challenges faced by rural areas. Through a variety of programs, courses, lectures and initiatives, Vihreä Pourusmäki aims to support the social, and environmental sustainability of rural communities. Whether through improving access to education supporting small businesses and entrepreneurs, or protecting and preserving natural resources, Vihreä Pourusmäki is committed to fostering the long-term well-being of rural communities.
 

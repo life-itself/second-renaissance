@@ -22,6 +22,9 @@ activities:
   - Consulting & Advisory
 cohere: true
 metadata_version: "1"
+territory: Inner-led Systems Change
+y: 251
+x: 609
 ---
 The Laszlo Institute of New Paradigm Research is an ETS (Ente del Terzo Settore or Third Sector Organization, an Italian Non-Profit).
 

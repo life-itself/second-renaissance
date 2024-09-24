@@ -1,12 +1,13 @@
 ---
 title: Institute for Integral Studies Freiburg (IFIS)
-url: 'https://www.ifis-freiburg.de/en/organization/about-institute '
-contributors: Elisa
+url: "https://www.ifis-freiburg.de/en/organization/about-institute "
+contributors:
+  - Elisa
 logo: /assets/ifis-logo.png
 image: /assets/ifis-homepage.png
 locations:
-  - 'Freiburg, Germany'
-start: '2008'
+  - Freiburg, Germany
+start: "2008"
 end: present
 sectors:
   - Education & Learning
@@ -15,6 +16,9 @@ activities:
   - Research
   - Events & Retreats
 size: 21-50
+territory: Integral
+y: 324
+x: 334
 ---
 > "The Institute for Integral Studies (IFIS) is an independent research institute, yet linked to numerous universities in Germany and other European and non-European countries through its members and advisory board members.
 > 

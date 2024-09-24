@@ -23,6 +23,9 @@ activities:
   - Media & Publishing
 cohere: true
 metadata_version: "1"
+territory: Worldviews & Narratives
+y: 10
+x: 18
 ---
 
 > The Dolphin Embassy is an international non-governmental mission with the main goal to promulgate an integral worldview and create a cultural space for the preservation and sustainable harmonious development of life on Earth.

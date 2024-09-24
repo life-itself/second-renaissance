@@ -17,6 +17,9 @@ activities:
   - Community Spaces
   - Research
 size: 4-10
+territory: Inner-led Systems Change
+y: 171
+x: 577
 ---
 > Our philosophy is quite simple: To provide a space where people can gather together, to learn from one another, to discuss, to reflect, to work on a project and, most importantly, to meet and talk with others at the human and personal level.
 >

@@ -1,20 +1,24 @@
 ---
 title: Deep Adaptation Forum
-url: 'https://www.deepadaptation.info/'
-contributors: Catherine
+url: https://www.deepadaptation.info/
+contributors:
+  - Catherine
 logo: /assets/deep-adaptation-forum-logo.webp
 image: /assets/deep-adaptation-forum-homepage.png
 locations:
   - Global/online
-start: '2018'
-end: ''
+start: "2018"
+end: ""
 sectors:
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
   - Justice & Restoration
 activities:
   - Community Spaces
   - Events & Retreats
-size: ''
+size: ""
+territory: Inner-led Systems Change
+y: 346
+x: 617
 ---
 > "DAF is dedicated “to embodying and enabling loving responses to our predicament”. Our “predicament” is societal collapse arising from our climate emergency, global economic and environmental crises, species extinction, soil degradation, extreme weather events, forced migration, historical and systemic planet and people abuse, and much more. 
 > 

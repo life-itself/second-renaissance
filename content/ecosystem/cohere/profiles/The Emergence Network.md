@@ -20,6 +20,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Metacrisis
+y: 212
+x: 462
 ---
 >We are a fugitive, underground network of social artists seeking to create new openings to age-old problems. We aim to disrupt dominant modes of perception, engagement, and responsiveness in a time of crisis by disturbing modern notions of justice, power, and human agency. 
 >

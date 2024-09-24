@@ -15,6 +15,9 @@ sectors:
 activities:
   - Education & Training
 size: 1-3
+territory: Inner-led Systems Change
+y: 298
+x: 474
 ---
 > "The Academy for Systems Change is a nonprofit organization focused on advancing the field of awareness-based systemic change in order to accelerate ecological, social, and economic well-being."
 

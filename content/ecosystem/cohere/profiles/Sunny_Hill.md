@@ -16,6 +16,9 @@ activities:
   - Community Spaces
   - Events & Retreats
 size: 4-10
+territory: Intentional Communities & Ecovillages
+y: 145
+x: 702
 ---
 > Sunny Hills of Istria is a project that aims for the sustainable revitalization of the rural area of Slovene Istra.
 > 

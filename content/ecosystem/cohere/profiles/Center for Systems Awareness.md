@@ -21,6 +21,8 @@ activities:
 cohere: true
 metadata_version: "1"
 territory: Inner-led Systems Change
+y: 329
+x: 508
 ---
 > The Center for Systems Awareness honors the mind-heart-body system of the learner, the social reality of relationships, family and community that is the context for all learning, and responds to the need to engage learners of all ages in fostering systemic well-being at all levels, from the individual to the larger systems of institutions, society, economy and ecology.
 > 

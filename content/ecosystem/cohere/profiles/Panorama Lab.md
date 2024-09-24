@@ -19,6 +19,9 @@ activities:
   - Education & Training
 cohere: true
 metadata_version: "1"
+territory: Co-creation & Collaboration
+y: 452
+x: 524
 ---
 >PanoramaLAB was established in 2019 in search for integral solutions for sustainable development and growth amid the increasing pace of global changes, instability, tensions, and polarization in the world. Our aim is to find new ways for organizations, people, and communities to thrive in these ever-changing life conditions.
 >

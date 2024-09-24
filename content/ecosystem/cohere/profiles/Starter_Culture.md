@@ -17,6 +17,9 @@ activities:
   - Education & Training
   - Advocacy & Activism
 size: 1-3
+territory: Inner-led Systems Change
+y: 260
+x: 509
 ---
 > "We are a small emergent collective dedicated to supporting the inner-led change needed to challenge systemic injustice and support outer social and ecological change and deep cultural transformation. We do this by supporting people, groups and organisations to compost power-over culture from the inside-out.
 > 

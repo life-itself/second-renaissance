@@ -20,6 +20,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Alternative Politics & Governance
+y: 201
+x: 840
 ---
 >The Spirit of Humanity Forum started as an idea from a group in the Gulf State of Oman. Given its role as a peacemaker in the region, it seemed an obvious place for bringing together leaders to explore the role of spiritual values in decision-making. Iceland was also on the horizon for this work which was further explored by the Brahma Kumaris and Education for Peace. The name was chosen to reflect the deep exploration of the connection between our inner spiritual values and the world around us.
 https://www.sohforum.org/about/background/

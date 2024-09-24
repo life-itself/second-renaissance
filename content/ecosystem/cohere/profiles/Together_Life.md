@@ -16,6 +16,9 @@ sectors:
 activities:
   - Convening & Coordination
 size: 11-20
+territory: Inner-led Systems Change
+y: 213
+x: 528
 ---
 > "The Together organization was established out of the understanding that there are millions of organizations and people around the world working to create a change for the better. However, we understand that in order to create a significant change, we need to unite and operate together, rather than each operate independently.
 > 

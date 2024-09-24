@@ -1,20 +1,24 @@
 ---
 title: Notre Affaire A Tous
-url: 'https://notreaffaireatous.org/ '
-contributors: Catherine
+url: "https://notreaffaireatous.org/ "
+contributors:
+  - Catherine
 logo: /assets/notre-affaire-a-tous-logo.webp
 image: /assets/notre-affaire-a-tous-homepage.png
 locations:
   - France
-start: '2015'
+start: "2015"
 end: present
 sectors:
   - Justice & Restoration
-  - 'Environment, Food & Water'
+  - Environment, Food & Water
 activities:
   - Legal
   - Advocacy & Activism
 size: 4-10
+territory: Environment & Food
+y: 291
+x: 1266
 ---
 > "Notre Affaire à Tous is a non-profit organisation which uses law as a strategic lever in the fight against the triple environmental crisis – climate, biodiversity, pollution. It defends a vision of law in favour of social justice and the primary affected communities.
 > 

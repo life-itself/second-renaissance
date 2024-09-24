@@ -19,6 +19,9 @@ activities:
   - Events & Retreats
 cohere: true
 metadata_version: "1"
+territory: Metacrisis
+y: 157
+x: 473
 ---
 >In the small Swedish town of Östervåla, thirty miles north of Uppsala, we are creating a school called HOME.
 >
