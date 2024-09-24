@@ -1,12 +1,13 @@
 ---
 title: Leap Collective
-url: 'https://leapcollective.org/'
-contributors: Cesar
+url: https://leapcollective.org/
+contributors:
+  - Cesar
 logo: /assets/leap-blue-logo-circle-1350-x-1350-px.svg
 image: /assets/Leap Collective - homepage.png
 locations:
   - Germany
-start: '2020'
+start: "2020"
 end: present
 sectors:
   - Economics & Business
@@ -16,6 +17,9 @@ activities:
   - Convening & Coordination
   - Education & Training
 size: 4-10
+territory: Alternative Economics & Regenerative Finance
+y: 3
+x: 1240
 ---
 > We are activists, social entrepreneurs, foundation staff, and philanthropists working towards systemic change in philanthropy.
 > 

@@ -17,6 +17,9 @@ activities:
   - Art Production & Curation
   - Events & Retreats
 size: ""
+territory: Intentional Communities & Ecovillages
+y: 136
+x: 681
 ---
 > An extitutional community prototyping the world of tomorrow. 
 > 

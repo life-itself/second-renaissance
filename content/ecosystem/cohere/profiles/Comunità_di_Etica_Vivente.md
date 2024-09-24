@@ -2,7 +2,7 @@
 title: Comunità di Etica Vivente
 url: https://www.comunitadieticavivente.org/
 contributors:
-  - Elisa
+  - Elisa Paka
 logo: /assets/comunita-di-etica-vivente-logo.png
 image: /assets/comunita-di-etica-vivente-homepage.png
 locations:
@@ -18,6 +18,9 @@ activities:
   - Education & Training
   - Events & Retreats
 size: 4-10
+territory: Intentional Communities & Ecovillages
+y: 272
+x: 757
 ---
 > The Community of Living Ethics is a cultural, aconfessional and apolitical non-profit association founded in 1981 by Sergio Bartoli and a group of 11 friends, all psychosynthesisers. The intent was the creation of a Psychosynthesis Community in the farmhouse of Poggio del Fuoco, which soon began hosting courses related to psychosynthetic personal development and creative meditation. The community is based on study, meditation, service and group life.
 > 
@@ -27,6 +30,6 @@ size: 4-10
 
 (Translated from: https://www.comunitadieticavivente.org/chi-siamo/)
 
-## Key Concepts
+## Keywords
 
 evolution of consciousness; community; inner development; ecovillage; meditation; psychosynthesis

@@ -4,7 +4,7 @@ contributors:
   - Catherine Tran
 title: Seeds
 url: https://joinseeds.earth/
-locations: []
+locations: 
 start: 2017
 end: present
 size: 
@@ -17,6 +17,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Alternative Economics & Regenerative Finance
+y: 5
+x: 1279
 ---
 >Seeds is a currency that aligns money with value. We value people, planet and prosperity for all.
 

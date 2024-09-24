@@ -8,7 +8,7 @@ locations:
   - Steyerberg, Germany
 start: 
 end: 
-size: []
+size: 
 image: "[[../../../assets/caia-homepage.png]]"
 logo: "[[../../../assets/CAIA_Logo.jpg]]"
 sectors:
@@ -19,6 +19,9 @@ activities:
   - Design, Development & Innovation
 cohere: true
 metadata_version: "1"
+territory: Intentional Communities & Ecovillages
+y: 152
+x: 712
 ---
 >**C** o-existence  
 >**A** wareness-based  

@@ -25,6 +25,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Alternative Economics & Regenerative Finance
+y: 72
+x: 1195
 ---
  
 >Earth4All is a vibrant collective of leading economic thinkers, scientists, and advocates, convened by [The Club of Rome](https://earth4all.life/who-we-are/%22https://www.clubofrome.org/), the [**BI Norwegian Business School**](https://www.bi.edu/), the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/en/home) and the **[Stockholm Resilience Centre](https://www.stockholmresilience.org/)**.
@@ -68,4 +71,4 @@ The initiative is supported by:
 - the **Generation Foundation**
 - the **Global Challenges Foundation**
 - the **Laudes Foundation**
-- **Partners for a New Economy**
+- [[Partners_for_a_New_Economy]]

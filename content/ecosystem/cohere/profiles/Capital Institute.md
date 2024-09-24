@@ -20,6 +20,9 @@ activities:
   - Research
 cohere: true
 metadata_version: "1"
+y: 4
+x: 1161
+territory: Alternative Economics & Regenerative Finance
 ---
 >The Capital Institute is a 501(c)3 non-profit organization reimagining our economic and financial systems to promote the transformation to a more just and regenerative world.
 

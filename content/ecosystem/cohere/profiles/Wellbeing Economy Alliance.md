@@ -34,6 +34,9 @@ activities:
   - Advocacy & Activism
 cohere: true
 metadata_version: "1"
+territory: Alternative Economics & Regenerative Finance
+y: 53
+x: 1041
 ---
 >The Wellbeing Economy Alliance (WEAll) is the leading collaboration of organisations, alliances, movements and individuals working towards a Wellbeing Economy, delivering human and ecological wellbeing. We were born in 2018 as a time-bound project to catalyse a transition towards a Wellbeing Economy by promoting radical connection and collaboration between different actors of the new economy ecosystem, so we can achieve impact larger than the sum of our parts.
 
