@@ -27,17 +27,27 @@ const Heading = () => (
           <br></br><br></br>Dive in to explore the organisation profiles and see where they take you... 
           </p>
         </div>
+        <div className="mt-10 flex items-center justify-center gap-x-6 my-auto">
+            <button onClick={() => window.open('/ecosystem/cohere/map', '_blank')} className="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+              Explore visual map
+            </button>
+            <button onClick={() => window.location.href = '#directory'} className="bg-teal-600 hover:bg-teal-400 text-white font-bold tracking-wide py-2 px-4 rounded">
+              Explore directory
+            </button>
+          </div>
       </div>
   );
 
 const MapImage = () => (
     <figure id="mapimage" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
+      <a href="/ecosystem/cohere/map" target="_blank">
       <img
         className="bg-gray-50 object-cover"
         src="/assets/cohere-map-image.png"
         alt=""
       />
-      <caption className="text-sm text-center mx-auto max-w-3xl block mt-5">Explore the interactive version of the map and see the organisations plotted on it<a className="underline" href="https://secondrenaissance.net/ecosystem/cohere/map"> here &raquo;</a></caption>
+      </a>
+      <caption className="text-m text-center mx-auto max-w-3xl block mt-5">Explore the interactive version of the visual map and see the organisations plotted on it<a className="underline" target="_blank" href="/ecosystem/cohere/map"> here &raquo;</a></caption>
     </figure>
   );
 
@@ -65,8 +75,8 @@ const Cohere = () => (
     <div id="cohere" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
             <p>This mapping was co-funded by the European Union as part of the Cohere+ project, in collaboration with: The Hague Center, Institute for Integral Studies, Emerge, and Ekskaret.</p>
             <img
-        className="bg-gray-50"
-        src="/assets/cohere and co-funded EU logo.jpg"
+        className="bg-gray-50 mx-auto"
+        src="/assets/cohere and co-funded EU logo xs.jpg"
         alt=""
       />
             </div>
@@ -80,7 +90,7 @@ const HomePage: React.FC<Props> = ({ profiles }) => {
             <Intro></Intro>
             <Cohere></Cohere>
             <div id="profiles" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
-                <h2 className="text-center">
+                <h2 id="directory" className="text-center">
                     Directory
                 </h2>
                 <div className="text-center py-5">Explore the directory of organizations, communities, and initiatives who are taking action towards paradigmatic social change in Europe.</div>
