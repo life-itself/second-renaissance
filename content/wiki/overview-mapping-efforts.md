@@ -179,4 +179,4 @@ We see the following mapping efforts as related but having a scope that spans br
 ***
 *Co-funded by the European Union, part of the [Cohere+](https://lifeitself.org/blog/2023/08/30/cohere-erasmus-mapping-announce) project.*
 
-![[../../cohere-and-eu-logos.webp]]
+![[../assets/cohere and co-funded EU logo.jpg]]
