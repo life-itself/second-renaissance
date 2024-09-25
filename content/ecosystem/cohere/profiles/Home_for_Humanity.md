@@ -62,6 +62,6 @@ Their mission is to actualise the following Humanity Charter: https://www.homefo
 
 ## Connections
 
-Global partner organisations include: [[Holomovement]], [[WholeWorld-View]], [[Charter-for-Compassion]], [[Learning_Planet_Institute]], [[Wellbeing_Economy_Alliance]], [[Source_of_Synergy_Foundation]], [[YouthxYouth]], [[Kosmos]].
+Global partner organisations include: [[Holomovement]], [[WholeWorld-View]], [[Charter_for_Compassion]], [[Learning_Planet_Institute]], [[Wellbeing_Economy_Alliance]], [[Source_of_Synergy_Foundation]], [[YouthxYouth]], [[Kosmos]].
 
 See: https://www.homeforhumanity.earth/partnerorganisations 

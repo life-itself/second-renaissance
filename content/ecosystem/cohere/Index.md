@@ -20,6 +20,6 @@ The overall objectives of the Cohere+ project are:
 
 ## Examples
 
-[[profiles/42-Acres]]
-[[profiles/Center for Systems Awareness]]
+[[profiles/42_Acres]]
+[[profiles/Center_for_Systems_Awareness]]
 [[profiles/Joysong_Collective]]
