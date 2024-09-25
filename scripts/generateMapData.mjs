@@ -25,7 +25,7 @@ const getDescription = async (mdContentFile) => {
     // Read the md files and get the content
     const defaultText = "";
     if ( !fs.existsSync(path.resolve(mdContentFile))) {
-        console.log(`Could find file ${path.resolve(mdContentFile)}`)
+        console.log(`Could not find file ${path.resolve(mdContentFile)}`)
         return defaultText.slice(0, 200);
     }
     const { content } = matter.read(mdContentFile);
