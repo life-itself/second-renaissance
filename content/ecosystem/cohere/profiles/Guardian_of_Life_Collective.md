@@ -34,4 +34,4 @@ https://www.guardianoflife.org/what-we-do
 
 ## Connections
 
-[[Ekskäret]] is a partner and donor
+[[Ekskaret]] is a partner and donor
