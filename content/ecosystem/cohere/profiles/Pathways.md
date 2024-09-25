@@ -33,7 +33,7 @@ Teodora Radulescu, Annabelle Schapals, Roos Derks (co-founders)
 
 ## Key Methodologies & Areas of Expertise
 
-Permaculture Design, Authentic Vocation, Sociocracy, Ecovillage Design, Facilitation, Conflict Resolution, Yoga, Deep Ecology, [[Dragon Dreaming]], Collaboration methods 
+Permaculture Design, Authentic Vocation, Sociocracy, Ecovillage Design, Facilitation, Conflict Resolution, Yoga, Deep Ecology, [[Dragon_Dreaming]], Collaboration methods 
 
 ## Learning Resources
 

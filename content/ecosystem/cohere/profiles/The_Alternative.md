@@ -78,7 +78,7 @@ The following organisations/projects are listed as Strategic Partners on their w
 - Perspectiva
 - LiFT (Leadership for Transition)
 - CTRL Shift - https://ctrlshift.org.uk/
-- [[Bounce Beyond]] - https://www.bouncebeyond.global/
+- [[Bounce-Beyond]] - https://www.bouncebeyond.global/
 - [[Emerge]]
 - FemmeQ
 

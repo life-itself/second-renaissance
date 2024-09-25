@@ -46,5 +46,5 @@ https://sdgthoughtleaderscircle.org/about/#mvs
 
 ## Connections 
 
-- Initiated by members of the [[profiles/Source of Synergy Foundation|Source of Synergy Foundation]]
+- Initiated by members of the [[Source_of_Synergy_Foundation|Source_of_Synergy_Foundation]]
 

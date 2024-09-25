@@ -36,4 +36,4 @@ https://actionresearchplus.com/ar-resources/
 
 ## Connections
 
-Founding organisations include: [[Institute_for_Integral_Studies_Freiburg_(IFIS)]] and [[World Ethic Forum]].
+Founding organisations include: [[Institute_for_Integral_Studies_Freiburg_(IFIS)]] and [[World_Ethic_Forum]].

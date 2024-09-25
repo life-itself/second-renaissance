@@ -55,7 +55,7 @@ SoL
 Edventure
 Knowmads
 [[ECOLISE]]
-[[Ulex Project]]
+[[Ulex_Project]]
 Transition Romania
 [[Gaia_Education]]
 Global Ecovillage Network - GEN

@@ -55,7 +55,7 @@ Richard Barrett, Elinor Ostrom and David Sloan Wilson, the biologists Gregory Ba
 
 Partners include:
 
-- [[Spirit of Humanity Forum]]
+- [[Spirit_of_Humanity_Forum]]
 
 
 

@@ -53,9 +53,9 @@ They have offerings in English, French, and Dutch.
 ## Connections
 
 The following organisations are listed as "Partners" on their website:
-- [[profiles/Lunt Foundation]]
+- [[Lunt_Foundation]]
 - Schumacher College
-- [[Terre et Conscience]]
+- [[Terre_et_Conscience]]
 - [[profiles/Ashoka]]
 - Ferme de Froidefontaine
 - Spes Forum

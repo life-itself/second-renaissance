@@ -44,6 +44,6 @@ x27
 Sens Suisse
 Ecogood
 Amani Institute
-[[Global Impact Alliance]]
+[[Global_Impact_Alliance]]
 JoinSeeds
 IASS Potsdam

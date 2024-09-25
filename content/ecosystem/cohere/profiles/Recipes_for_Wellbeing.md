@@ -39,9 +39,9 @@ Online Wholebeing Library: https://www.recipesforwellbeing.org/library/. A great
 
 Among their partners & collaborators are:
 - [[Euforia]]
-- [[Wellbeing Economy Alliance]]
-- [[Impact Hub]]
-- [[Post Growth Institute]]
+- [[Wellbeing_Economy_Alliance]]
+- [[Impact_Hub]]
+- [[Post_Growth_Institute]]
 - [[The_Weaving_Lab]]
 - [[The_Wellbeing_Project]]
 

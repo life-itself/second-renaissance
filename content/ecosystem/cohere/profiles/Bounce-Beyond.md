@@ -48,9 +48,9 @@ These six activities are:
 ## Connections
 
 On their homepage they list some of the following as organisations that their Advisors are associated with:
-- [[Wellbeing Economy Alliance]]
-- [[Catalyst 2030]]
-- [[Capital Institute]]
+- [[Wellbeing_Economy_Alliance]]
+- [[Catalyst-2030]]
+- [[Capital-Institute]]
 - Economy for the Common Good
 - Regenerative Communities Network
 - University for International Cooperation

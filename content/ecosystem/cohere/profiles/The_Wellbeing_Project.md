@@ -50,6 +50,6 @@ intergenerational trauma; ecological belonging
 
 ## Connections
 
-Anchor Co-creators are: [[Ashoka]], Georgetown University, [[Impact Hub]], Porticus, Skoll Foundation, and Synergos.
+Anchor Co-creators are: [[Ashoka]], Georgetown University, [[Impact_Hub]], Porticus, Skoll Foundation, and Synergos.
 
 [[Tavistock_Institute_for_Human_Relations]] is a Research Partner

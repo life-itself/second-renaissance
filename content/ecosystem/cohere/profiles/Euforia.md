@@ -43,6 +43,6 @@ collaboration; self management; wholeness; purpose
 - Radical Collaboration
 - WWF
 - [[OIKOS_International]]
--  [[Impact Hub]]
+-  [[Impact_Hub]]
 - Amani Institute
 - [[Collaboratio_Helvetica]]

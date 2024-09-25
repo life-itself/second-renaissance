@@ -38,7 +38,7 @@ https://www.holomovement.net/media
 
 Fundación por el Futuro
 Purpose Earth
-[[Source of Synergy Foundation]]
+[[Source_of_Synergy_Foundation]]
 Great Transition Stories
 [[The_Hague_Center_for_Global_Governance,_Innovation,_and_Emergence]]
 Green Heart Music
