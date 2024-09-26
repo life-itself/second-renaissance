@@ -38,8 +38,8 @@ const Heading = () => (
       </div>
   );
 
-const MapImage = () => (
-    <figure id="mapimage" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
+const Image = () => (
+    <figure id="image" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
       <a href="/ecosystem/cohere/map" target="_blank">
       <img
         className="bg-gray-50 object-cover"
@@ -86,14 +86,18 @@ const HomePage: React.FC<Props> = ({ profiles }) => {
     return (
         <>
             <Heading></Heading>
-            <MapImage></MapImage>
+            <Image></Image>
             <Intro></Intro>
             <Cohere></Cohere>
             <div id="profiles" className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
                 <h2 id="directory" className="text-center">
                     Directory
                 </h2>
-                <div className="text-center py-5">Explore the directory of organizations, communities, and initiatives who are taking action towards paradigmatic social change in Europe.</div>
+                <div className="text-center py-5">
+                    <p>Explore the directory of organizations, communities, and initiatives who are taking action towards paradigmatic social change in Europe.</p>
+                    <p>You can add or edit profiles in this directory. To do so, read our <a href="https://docs.google.com/document/d/1OMCbH3glclCSWo64pW5vrTpoWjSrQ7_bPaDSDwm34xM/edit#heading=h.993wtwfvc0or" target="_blank">guide for contributors</a>.</p>
+                </div>
+
                 <ProfileSearch profiles={profiles} />
             </div>
         </>
