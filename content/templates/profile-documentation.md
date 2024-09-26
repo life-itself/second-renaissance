@@ -16,7 +16,7 @@
 - format = select one of the following ranges: 1-3; 4-10; 11-20; 21-50; 51-100; 101+
 ## image
 - representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
-- format = filepath (save image in assets/img)
+- format = filepath (save image in assets)
 ## sectors 
 - what areas of activity is the actor skilled or specialised in?
 	- Arts & Culture
