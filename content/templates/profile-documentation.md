@@ -18,7 +18,7 @@
 - representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
 - format = filepath (save image in assets)
 ## sectors 
-- what areas of activity is the actor skilled or specialised in?
+- what areas of activity is the actor skilled or specialised in? (select 1-3)
 	- Arts & Culture
 	- Economics & Business
 	- Education & Learning
@@ -32,7 +32,7 @@
 	- Science & Technology 
 	- Spirituality & Religion 
 ## activities 
-- what are the main activities/interventions they do to bring about change?
+- what are the main activities/interventions they do to bring about change? (select 1-3)
 	- Advocacy & Activism 
 	- Art Production & Curation 
 	- Community Spaces 
