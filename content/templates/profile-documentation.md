@@ -17,6 +17,8 @@
 ## image
 - representative image for the organization. Should include name/logo. Normally just take a standard screenshot of the home page.
 - format = filepath (save image in assets)
+## logo
+- N.B. logo will not show up if it is white
 ## sectors 
 - what areas of activity is the actor skilled or specialised in? (select 1-3)
 	- Arts & Culture
