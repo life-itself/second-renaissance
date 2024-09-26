@@ -100,11 +100,8 @@ html {
 }
 
 .btnsq {
-  @apply px-8 py-4 text-lg font-semibold text-white shadow-sm no-underline inline-block;
+  @apply px-4 py-2 text-lg font-semibold text-white shadow-sm no-underline inline-block;
 }
 .btn-black {
   @apply bg-black;
-}
-.btn-blue:hover {
-  @apply bg-yellow-500 outline-none;
 }

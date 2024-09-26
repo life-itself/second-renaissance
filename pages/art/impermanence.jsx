@@ -40,10 +40,10 @@ const Hero = () => (
               grow our wisdom and insight of inter-connectedness.
             </p>
             <p className="mt-8">
-              <a href={magazineLink} className="btnsq btn-black text-2xl">
+              <a href={magazineLink} className="btnsq btn-black text-xl">
                 Download magazine
               </a>
-              <a href="#exhibition" className="btnsq btn-black text-2xl ml-2">
+              <a href="#exhibition" className="btnsq btn-black text-xl ml-2">
                 View exhibition
               </a>
             </p>
@@ -113,8 +113,8 @@ const Hero = () => (
           </p>
 
           <p className="mt-8">
-            <a href="{manifestoLink}" className="btnsq btn-black text-3xl">
-              Download Manifesto for Art of the Second Renaissance
+            <a href="{manifestoLink}" className="btnsq btn-black text-xl">
+              Download Manifesto
             </a>
           </p>
         </div>
@@ -125,7 +125,7 @@ const Hero = () => (
             className="w-full h-full object-cover"
           />
           <p className="mt-[-50px]">
-            <a href={magazineLink} className="btnsq btn-black text-3xl">
+            <a href={magazineLink} className="btnsq btn-black text-xl">
               Download Magazine
             </a>
           </p>
