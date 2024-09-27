@@ -5,21 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
 
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-    crossorigin=""/>
-
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     <!-- Make sure you put this AFTER Leaflet's CSS -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-        crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
+    <script src="./leaflet.responsive.popup.js"></script>
+    <link rel="stylesheet" href="./leaflet.responsive.popup.css" />    
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 
     <!-- Position the map with Cascading Style Sheet (CSS) -->
     <style>
       body { margin:0; padding:0; }
       #map { position: absolute; top:0; bottom:0; right:0; left:0; }
+
+      .leaflet-popup-content-wrapper .card-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .leaflet-popup-content-wrapper .card-item-link {
+        display: flex;
+        justify-content: right;
+        align-items: center;
+      }
     </style>
 
   </head>
@@ -42,23 +51,44 @@
         const {title, url_path, image, sectors, description } = feature.properties;
         const popupContent = `
           <h1>${title}</h1>
+          <div class="card-container">
           <p>${description}</p>
           <a href=${`../${url_path}`} target="_blank">
-            <div style="display:flex justify-content:center align-items:center">
-              <img src="${image}" height=150 style="aspect-ration:16/9 !important object-fit:contain !important"/>
+            <img src="${image}" height=150 width=300 style="object-fit:fill !important"/>
+            <div class="card-item-link">
               <h3>See Profile</h3>
             </div>
           </a>
+        </div>
         `
-        layer.bindPopup(popupContent);
-        layer.bindTooltip(title, {direction: 'center', offseTooltipt: [0, -10]})
+        var popup = L.responsivePopup().setContent('A pretty CSS3 responsive popup.<br> Easily customizable.');
+        L.marker([48.850258, 2.351074], { icon: myIcon }).addTo(map).bindPopup(popup);
+
+        layer.bindPopup(popupContent, {title:title, closeButton: false});
     }
+
+    const popupContent = ( {title, url_path, image, sectors, description} ) =>  {
+        return  `
+          <h1>${title}</h1>
+          <div class="card-container">
+          <p>${description}</p>
+          <a href=${`../${url_path}`} target="_blank">
+            <img src="${image}" height=150 width=300 style="object-fit:fill !important"/>
+            <div class="card-item-link">
+              <h3>See Profile</h3>
+            </div>
+          </a>
+        </div>
+        `
+      }
 
     const orgsLayer = L.geoJson(geoJSONData, {
       pointToLayer: function (feature, latlng) {
-          return L.marker(latlng);
+          const popup = L.responsivePopup().setContent(popupContent(feature.properties));
+console.log(popup);          
+          return L.marker(latlng, {title:feature.properties.title}).bindPopup(popup, {closeButton: false});
       },
-      onEachFeature: onEachFeature
+//      onEachFeature: onEachFeature
     }).addTo(map);
 
   </script>
