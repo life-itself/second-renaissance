@@ -113,14 +113,14 @@ const Hero = () => (
           </p>
 
           <p className="mt-8">
-            <a href="{manifestoLink}" className="btnsq btn-black text-xl">
+            <a href={manifestoLink} className="btnsq btn-black text-xl">
               Download Manifesto
             </a>
           </p>
         </div>
         <div className="md:w-4/12 flex flex-col items-center">
           <img
-            src="/assets/img/art/impermanence-cover.webp"
+            src="/assets/img/art/impermanence-cover-square.webp"
             alt=""
             className="w-full h-full object-cover"
           />

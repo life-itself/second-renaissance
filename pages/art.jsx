@@ -78,7 +78,7 @@ const Catalyst = () => (
               and took place in Thénac France in April 2024.
             </p>
             <p className="mt-8">
-              <a href="/art/impermanence" className="btnsq btn-black text-3xl">
+              <a href="/art/impermanence" className="btnsq btn-black text-xl">
                 See the exhibition and magazine
               </a>
             </p>
@@ -122,7 +122,7 @@ const SecondRenaissance = () => (
               Marrying the artistic, political and spiritual world.
             </p>
             <p className="mt-8">
-              <a href={manifestoLink} className="btnsq btn-black text-3xl">
+              <a href={manifestoLink} className="btnsq btn-black text-xl">
               Download
               </a>
             </p>
@@ -140,7 +140,7 @@ const SecondRenaissance = () => (
             Subscribe for updates about art of the second renaissance
           </p>
           <p className="mt-8">
-            <a href="https://secondrenaissance.substack.com/s/art" className="btnsq btn-black text-3xl">
+            <a href="https://secondrenaissance.substack.com/s/art" className="btnsq btn-black text-xl">
               Sign on our substack newsletter
             </a>
           </p>
@@ -245,7 +245,7 @@ const Manifesto = () => (
       </ul>
     </div>
       <p className="mt-8">
-        <a href="/assets/docs/impermanence-magazine-art-of-second-renaissance.pdf" className="btnsq btn-black text-3xl">
+        <a href="/assets/docs/impermanence-magazine-art-of-second-renaissance.pdf" className="btnsq btn-black text-xl">
           Download
         </a>
       </p>
