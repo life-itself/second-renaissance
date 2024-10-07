@@ -18,7 +18,7 @@ const Page = () => {
 <div className="container mx-auto px-10 h-screen">
 
 <div className="mt-12 sm:mt-24 prose max-w-5xl mx-auto">
-    <h1 className="text-center">Map of Paradigmatic Social Change Ecosystem</h1>
+    <h1 className="text-center">Map of "Second Renaissance" Ecosystem</h1>
     <div className="text-center py-5">Explore the map of organizations, communities, and initiatives who are taking action towards paradigmatic social change in Europe.</div>
 </div>
 <iframe src="/map/cohere_map.html" width="100%" height="90%"></iframe>
