@@ -1,4 +1,9 @@
+- Filename: must NOT have spaces in it. Otherwise some elements of site build will not work.
+
 # Properties/Frontmatter
+
+If you can't find information for a field, leave it blank.
+
 ## created 
 - date that file was created
 ## contributors 
