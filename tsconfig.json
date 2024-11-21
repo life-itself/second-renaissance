@@ -24,6 +24,6 @@
     "isolatedModules": true,
     "jsx": "preserve"
   },
-  "include": ["types.d.ts", "next-env.d.ts", "**/*.tsx", "**/*.ts"],
+  "include": ["types.d.ts", "next-env.d.ts", "**/*.tsx", "**/*.ts", "pages/mapnew.jsx"],
   "exclude": ["node_modules"]
 }
