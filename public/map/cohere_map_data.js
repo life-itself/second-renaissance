@@ -5546,6 +5546,48 @@ const geoJSONData = {
 		{
 			"type": "Feature",
 			"properties": {
+				"url_path": "ecosystem/cohere/profiles/Integrale_Politik",
+				"created": "2024-10-07T00:00:00.000Z",
+				"contributors": [
+					"Catherine Tran"
+				],
+				"title": "Integrale Politik",
+				"url": "https://integrale-politik.ch/fr/",
+				"locations": [
+					"Zurich, Switzerland"
+				],
+				"start": 2011,
+				"end": "present",
+				"size": [
+					"4-10"
+				],
+				"image": "/assets/integrale-politik-homepage.png",
+				"logo": "[[../../../assets/integrale_politik_schweiz_logo.jpeg]]",
+				"sectors": [
+					"Governance & Community"
+				],
+				"activities": [
+					"Advocacy & Activism",
+					"Events & Retreats",
+					"Government & Policymaking"
+				],
+				"cohere": true,
+				"metadata_version": "1",
+				"y": 411,
+				"x": 474,
+				"description": "We bring integral awareness to people and to politics.\n\nWe are a community of people who want to contribute to the further development of society - towards an integral vision for the benefit of all li..."
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					474,
+					411
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"url_path": "ecosystem/cohere/profiles/Essentia_Foundation",
 				"created": "2024-08-05T00:00:00.000Z",
 				"contributors": [
