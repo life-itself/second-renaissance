@@ -164,13 +164,13 @@ const Resources = () => {
       <div className="group relative flex flex-col items-start gap-y-3 m-0 p-0">
         <div role="heading" className="text-base font-semibold text-primary">
           <div className="absolute -inset-x-4 -inset-y-6 z-0 scale-95 bg-zinc-100 opacity-0 transition group-hover:scale-100 group-hover:opacity-100 sm:-inset-x-6 sm:rounded-2xl"></div>
-          <a href="/glossary" className="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
+          <a href="https://wiki.secondrenaissance.net/wiki/Second_Renaissance_wiki" className="flex flex-col gap-y-3 transition font-medium text-primary group-hover:text-secondary">
             <span className="absolute -inset-x-4 -inset-y-6 z-20 sm:-inset-x-6 sm:rounded-2xl"></span>
             <img src="/assets/img/glossary-romain-vignes-unsplash.jpg" className="z-10 w-full mb-2 aspect-video object-cover object-left m-0 rounded-lg shadow-sm" alt="Conscious Coliving"/>
-            <span className="relative z-10">Glossary of Key Terms</span>
+            <span className="relative z-10">Wiki</span>
           </a>
         </div>
-        <p className="relative z-10 text-sm text-primary/80 line-clamp-3">A (non-exhaustive) list of some of the key terminology used in the ecosystem. There are no doubt many more that should be added, so please get in touch with suggestions!</p>
+        <p className="relative z-10 text-sm text-primary/80 line-clamp-3">A Wiki covering key concepts, people and organisations in the Second Renaissance ecosystem.</p>
       </div>
     </ul>
     </div>
