@@ -11,7 +11,7 @@ const userConfig = {
       name: 'Whitepaper'
     },
     {
-      href: '/art',
+      href: 'https://secondrenaissance.net/art',
       name: 'Art'
     },
     {
