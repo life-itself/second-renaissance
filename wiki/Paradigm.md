@@ -1,3 +1,0 @@
-## Related
-
-- [[Paideia]]
