@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: PIP Report: Mapping an Emerging Ecosystem of Paradigmatic, Integrated, Pragmatic (PIP) Changemakers
+title: "PIP Report: Mapping an Emerging Ecosystem of Paradigmatic, Integrated, Pragmatic (PIP) Changemakers"
 ---
 
 <div className="relative pt-6 pb-16 sm:pb-24">
