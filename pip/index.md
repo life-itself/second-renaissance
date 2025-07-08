@@ -1,3 +1,8 @@
+---
+layout: plain
+title: PIP Report: Mapping an Emerging Ecosystem of Paradigmatic, Integrated, Pragmatic (PIP) Changemakers
+---
+
 <div className="relative pt-6 pb-16 sm:pb-24">
 <main className="mt-16 mx-auto max-w-7xl px-4 sm:mt-24">
     <div className="text-center">
