@@ -1,5 +1,4 @@
 ---
-layout: plain
 title: "PIP Report: Mapping an Emerging Ecosystem of Paradigmatic, Integrated, Pragmatic (PIP) Changemakers"
 ---
 
@@ -132,5 +131,6 @@ Read more about the visualization in the [full report](https://drive.google.com/
     <div className="text-center py-5">Explore the directory of organizations, communities, and initiatives who are active in or close to the ecosystem.</div>
   
     TODO: Get the profiles grid back here ...
-
 </div>
+
+<List dir="/pip/profiles" fields={["title", "description", "image"]}  />
