@@ -21,6 +21,7 @@ size: 21-50
 territory: Technology
 y: 438
 x: 1190
+email: hello@humanetech.com
 ---
 > Together with our partners, the Center for Humane Technology (CHT) is dedicated to radically reimagining our digital infrastructure. Our mission is to drive a comprehensive shift toward humane technology that supports our well-being, democracy, and shared information environment.
 > 
