@@ -17,6 +17,7 @@ size: 4-10
 territory: Technology
 y: 474
 x: 1235
+email: contact@coasys.org
 ---
 > Coasys offers a contribution to the public’s capacity to sense-make as a collective by providing the infrastructure for an open, interoperable web, a collaboratively curated knowledge graph, as well as the tools to improve our ability to find and share reliable information and coordinate effectively at any scale or complexity.  By doing so, it tries to approach the meta-crisis with pragmatic technological upgrades to our society's digital communication infrastructure.
 
