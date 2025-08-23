@@ -17,6 +17,7 @@ size: 4-10
 territory: Inner Wisdom & Healing
 y: 687
 x: 189
+email: admin@awakeacademy.org
 ---
 > A resource of film-based courses and tools grounded in mindfulness, lucid dreaming, shadow integration, compassion, mindful activism, sustainability and all things that help wake up the mind.
 > 
