@@ -18,6 +18,7 @@ size: 4-10
 territory: Movement Building & Civic Action
 y: 344
 x: 789
+email: info@blivande.com
 ---
 > Blivande as a platform is co-designed and stewarded by its members. We develop into the direction those involved put energy in. Participatory culture, events, art and design, urban placemaking and civic action-based initiatives are paths that have crystallised so far. Our intention is to remain open to future unknowns and establish a place in Stockholm that supports nascent ideas by sharing risks and providing the budding crews with an ecosystem of kind and talented professionals to realise their dreams. We want to create a playground for ideas and dialogue countering polarisation and invite national and international actors to establish collaborative relationships devoid of a competition mindset.
 > 
