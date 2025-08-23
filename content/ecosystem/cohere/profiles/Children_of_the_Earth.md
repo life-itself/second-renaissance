@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Inner Development & Evolution of Consciousness
 y: 435
 x: 16
+email: nina@coeworld.org
 ---
 >Children of the Earth was established in 1990 as an international US tax exempt, 501(C)(3) corporation. Working with youth and children locally and globally, we have been recognized as a charitable NGO non-governmental organization of the United Nations since 1992.
 >
