@@ -20,6 +20,9 @@ territory: Relationships & Conflict
 y: 122
 x: 366
 ---
+
+_2025-08-23 update: This organisation appears to be no longer active (website link no longer works)_
+
 > Business Plan for Peace provides the skills and support to transform destructive conflict and build sustainable peace personally, locally, internationally.
 > 
 > We support people to develop the inner practices that make their work in the world far more effective. We work with communities, decision-makers and business leaders to develop competence, confidence and commitment to transform conflict and invest in peace.
