@@ -21,6 +21,7 @@ size: 51-100
 territory: Movement Building & Civic Action
 y: 361
 x: 828
+email: info@beautifultrouble.org
 ---
 > Beautiful Trouble is… 
 > A book, strategy card deck, online toolbox and creative campaign incubator.
