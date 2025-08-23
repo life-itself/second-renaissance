@@ -22,6 +22,7 @@ metadata_version: "1"
 territory: Intentional Communities & Ecovillages
 y: 152
 x: 712
+email: hallo@caia-academy.de
 ---
 >**C** o-existence  
 >**A** wareness-based  
