@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Systems Thinking & Complexity
 y: 588
 x: 672
+email: vincent@catalist.org
 ---
  >Catalist is a social impact network and digital library where you can discover projects, events, and opportunities to change the world.
  
