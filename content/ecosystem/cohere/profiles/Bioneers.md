@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Alternative Futures
 y: 210
 x: 1149
+email: info@bioneers.org
 ---
 >**_Bioneers is inspiring and realizing a shift to live on Earth in ways that honor the web of life, each other and future generations._**
 >
