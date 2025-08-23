@@ -20,6 +20,7 @@ metadata_version: "1"
 territory: Alternative Economics & Regenerative Finance
 y: 49
 x: 1245
+email: Info@Brand.Earth
 ---
 >**Vision**
 >Transform commerce to fund a just transition to a regenerative earth. 
