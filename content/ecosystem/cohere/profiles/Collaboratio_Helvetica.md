@@ -19,6 +19,7 @@ size: 4-10
 territory: Co-creation & Collaboration
 y: 436
 x: 674
+email: hello@collaboratio.ch
 ---
 > The challenges of our time require new forms of collaboration and a holistic way of thinking. Switzerland has a long tradition of collaboration and dialogue across language barriers and religious divides. Collaboratio helvetica therefore believes in Switzerland's unique potential to leverage participatory approaches and collaboration to contribute to a change towards more ecological responsibility, humanity and the common good. 
 > 
