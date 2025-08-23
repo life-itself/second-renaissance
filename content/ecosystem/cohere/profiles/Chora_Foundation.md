@@ -6,7 +6,7 @@ contributors:
 logo: /assets/chora-foundation-logo.png
 image: /assets/choora-foundation-homepage.png
 locations:
-  - Haarlem, Natherlands
+  - Haarlem, Netherlands
 start: 
 end: present
 sectors:
