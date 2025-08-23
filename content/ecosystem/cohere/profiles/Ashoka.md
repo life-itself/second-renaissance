@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Movement Building & Civic Action
 y: 498
 x: 895
+email: info@ashoka.nl
 ---
 >Ashoka builds and cultivates a community of Fellows, Young Changemakers, Changemaker Institutions, and beyond who see that the world now requires everyone to be a changemaker – a person that sees themselves as capable of creating large-scale, positive change.  
 >
