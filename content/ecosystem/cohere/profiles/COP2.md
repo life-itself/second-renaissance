@@ -22,7 +22,11 @@ metadata_version: "1"
 territory: Emotional Support & Resilience
 y: 94
 x: 32
+email: info@abillion.org
 ---
+
+_2025-08-23 Update: They seem to have re-branded as Billion Minds Institute_
+
 >COP² is a global network of organisations, reflecting the knowledge, practice, activism, lived experience and traditions that go into bolstering the ‘social climate’ and emotional resilience that we need to care for a sustainable earth.
 >
 >We are mental health systems innovators, community leaders, advocates, researchers, practitioners in sustainability and wellbeing economy and more. We need all of these strands to shift global levers of power for nurtured people to nurture the planet.
