@@ -19,6 +19,7 @@ size: 4-10
 territory: Co-creation & Collaboration
 y: 534
 x: 618
+email: admin@actionresearchplus.com
 ---
 > AR+ supports a global community, online and face to face, so that  action-oriented scholar practitioners find community and developmental support in responding to the call of our times. 
 > 
