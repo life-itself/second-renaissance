@@ -21,6 +21,7 @@ metadata_version: "1"
 territory: Inner Wisdom & Healing
 y: 544
 x: 222
+email: coccinelles.assoc@gmail.com
 ---
 >The Association "Les Coccinelles" is a little organisation with a big dream!
 >
