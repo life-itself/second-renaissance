@@ -18,6 +18,7 @@ size: 4-10
 territory: Alternative Economics & Regenerative Finance
 y: 26
 x: 1296
+email: outreach@7billionpresidents.org
 ---
 > The idea for 7 Billion Presidents started with a question – How would a society where there is well-being for all look like? The answer to this was followed by a plan for an alternative economic model. We like to call it 7 Billion Presidents Regenerative economy. In this model companies give 100% of profit back to society to build a better life for you and me, and everyone else.
 > 
