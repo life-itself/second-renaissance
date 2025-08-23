@@ -22,6 +22,7 @@ metadata_version: "1"
 territory: Movement Building & Civic Action
 y: 446
 x: 920
+email: contact@axaclimate.com
 ---
 >We provide resources to educate and inform organisations about environmental sustainability.
 
