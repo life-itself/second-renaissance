@@ -18,6 +18,7 @@ size: ""
 territory: Movement Building & Civic Action
 y: 488
 x: 876
+email: info@atelier-gardens.berlin
 ---
 > A home for societal transformation
 > 
