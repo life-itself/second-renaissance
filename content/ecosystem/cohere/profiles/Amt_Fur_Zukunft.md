@@ -21,6 +21,7 @@ metadata_version: "1"
 territory: Systems Thinking & Complexity
 y: 616
 x: 728
+email: sekretariat@amt-fuer-zukunft.ch
 ---
 >Amt Für Zukunft is a think and do tank for a future-proof society.
 
