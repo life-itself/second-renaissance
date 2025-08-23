@@ -19,6 +19,7 @@ size: 11-20
 territory: Intentional Communities & Ecovillages
 y: 225
 x: 696
+email: info@anandakalyani.org
 ---
 > Ananda Kalyani is a pioneering Integrated Rural Development (IRD) project of Ananda Marga dedicated to spirituality, local development and holistic regeneration, encompassing environmental, economic, and social aspects. Our aim is to serve as a model and educational hub for sustainable and regenerative living in the 21st century.
 > 
