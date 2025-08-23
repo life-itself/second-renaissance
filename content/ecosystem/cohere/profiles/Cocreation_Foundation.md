@@ -18,6 +18,7 @@ size: 4-10
 territory: Co-creation & Collaboration
 y: 458
 x: 589
+email: contact@cocreation-foundation.org
 ---
 > The Cocreation Foundation is a think and do tank to understand, forward and prototype cocreation as a cultural technique to tackle the global challenges of our time.
 > 
