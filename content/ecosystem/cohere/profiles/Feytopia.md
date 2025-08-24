@@ -20,6 +20,7 @@ size: ""
 territory: Intentional Communities & Ecovillages
 y: 136
 x: 681
+email: hello@feytopia.com
 ---
 > An extitutional community prototyping the world of tomorrow. 
 > 
