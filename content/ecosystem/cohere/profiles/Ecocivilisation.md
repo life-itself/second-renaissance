@@ -21,6 +21,7 @@ size: 11-20
 territory: Movement Building & Civic Action
 y: 405
 x: 911
+email: info@ecocivilisation.earth
 ---
 > Ecocivilisation is a movement
 > 
