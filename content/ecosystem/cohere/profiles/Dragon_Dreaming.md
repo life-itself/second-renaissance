@@ -29,8 +29,9 @@ metadata_version: "1"
 territory: Co-creation & Collaboration
 y: 458
 x: 622
+email: info@dragondreaming.org
 ---
-Dragon Dream is "an open-source interactive networking phenomenon which provides technology and philosophy that assists Activists, informal community projects, NGOs, Government and Business Enterprises". They emphasize that this process, which has four steps- dreaming, planning, doing, celebrating- is about realizing "one's dreams and making them a reality."
+Dragon Dreaming is "an open-source interactive networking phenomenon which provides technology and philosophy that assists Activists, informal community projects, NGOs, Government and Business Enterprises". They emphasize that this process, which has four steps- dreaming, planning, doing, celebrating- is about realizing "one's dreams and making them a reality."
 
 They provide an integrated method for how to do this. 
 
