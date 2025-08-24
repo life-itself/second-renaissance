@@ -20,6 +20,7 @@ size: 1-3
 territory: Co-creation & Collaboration
 y: 516
 x: 677
+email: hello@collectivetransitions.com
 ---
 > In order to create meaningful impact, businesses, organisations and groups of all sizes must be able to navigate historically unprecedented levels of complexity and uncertainty. Collective Transitions offers a grounded set of transformational approaches and practices for groups and facilitators to better navigate these shifts. We are an action-learning and research hub working with a wide range of clients, especially social change and multi-stakeholder initiatives.
 
