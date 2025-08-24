@@ -20,6 +20,7 @@ size: 4-10
 territory: Emotional Support & Resilience
 y: 173
 x: 51
+email: welcome@collapseclub.com
 ---
 > How are we to live in the time of collapse?
 > 
