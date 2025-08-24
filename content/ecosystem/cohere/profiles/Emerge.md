@@ -22,6 +22,7 @@ metadata_version: "1"
 territory: Metacrisis
 y: 188
 x: 361
+email: contribute@whatisemerging.com
 ---
 
 >Emerge is a network responding to the question of what is happening within, between and beyond human beings in a civilisation that appears to be dying. We connect pioneers, seekers, innovators and their initiatives. We highlight what we share and seek to make visible the patterns that connect us. We help each other to respond to the most urgent challenges of our time. Together, we will sow the seeds of a new civilisation.
