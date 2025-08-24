@@ -19,6 +19,7 @@ size: 11-20
 territory: Leadership Development
 y: 643
 x: 420
+email: contact@euforia.org
 ---
 > We are an innovative, youth-driven NGO based in Switzerland with a community of volunt'heroes in over 20 countries across three continents. Combining non-formal education and transformative learning methods we empower people and organizations to embark on their own changemaking journey. Our key strength is to create safe spaces where people realize their own potential, find solutions and become transformational leaders.
 
