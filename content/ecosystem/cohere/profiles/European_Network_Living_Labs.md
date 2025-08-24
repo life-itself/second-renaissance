@@ -21,6 +21,7 @@ size: 21-50
 territory: Alternative Futures
 y: 207
 x: 1099
+email: info@enoll.org
 ---
 > Living Labs (LLs) are open innovation ecosystems in real-life environments using iterative feedback processes throughout a lifecycle approach of an innovation to create sustainable impact.
 > 
