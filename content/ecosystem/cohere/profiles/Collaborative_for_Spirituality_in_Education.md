@@ -25,6 +25,7 @@ metadata_version: "1"
 territory: Alternative Education
 y: 303
 x: 984
+email: info@spiritualityineducation.org
 ---
 >CSE is housed at Teachers College and was founded in partnership with the Fetzer Institute and Rockefeller Philanthropy Advisors. CSE’s research and teaching hub is housed at Teachers College.
 
