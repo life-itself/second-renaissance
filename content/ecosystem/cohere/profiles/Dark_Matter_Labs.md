@@ -27,6 +27,7 @@ metadata_version: "1"
 territory: Alternative Futures
 y: 126
 x: 1018
+email: info@darkmatterlabs.org
 ---
 
 > Dark Matter Labs (Dm) is working on what is needed to manifest transformations to our food, housing, land, material and nature systems towards a future of mutual thriving.  
