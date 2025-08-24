@@ -22,6 +22,7 @@ metadata_version: "1"
 territory: Spirituality & Contemplative Practice
 y: 540
 x: 51
+email: info@ecodharma.com
 ---
 >The Eco-Dharma Centre is situated in a beautiful and wild part of the Catalan Pyrenees. We offer courses, events and retreats which support the realisation of our human potential and the development of an ecological consciousness honouring our mutual belonging within the web of life – drawing on the Buddhist Dharma and the emerging ecological paradigms of our time.
 
