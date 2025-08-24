@@ -21,6 +21,7 @@ size: 11-20
 territory: Leadership Development
 y: 632
 x: 527
+email: germany@collectiveleadership.com
 ---
 > The Collective Leadership Institute is a cutting-edge organization with deep expertise in bringing emerging paradigm leadership concepts to multi-stakeholder processes and projects in support of achieving the Sustainable Development Goals. [...]
 > 
