@@ -20,6 +20,7 @@ size: 4-10
 territory: Environment & Food
 y: 152
 x: 1184
+email: hello@collectiveabundance.org
 ---
 > "Collective Abundance is a new collaborative initiative, working to change the way philanthropy redistributes wealth to climate justice organisers in Europe and building collective organised power amongst those working on the frontlines of the climate crisis.
 > 
