@@ -21,6 +21,7 @@ size: 4-10
 territory: Inner Wisdom & Healing
 y: 620
 x: 241
+email: hello@femmeq.world
 ---
 > FemmeQ: Feminine Intelligence is a global movement launched in 2016, when 140 people from 15 countries gathered in Berlin. 
 > 
