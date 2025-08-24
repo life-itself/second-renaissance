@@ -20,6 +20,7 @@ size: 4-10
 territory: Inner-led Systems Change
 y: 306
 x: 618
+email: info@earthwisecentre.org
 ---
 > "EARTHwise is a visionary movement and ecosystem for a thrivable world and future. Founded in 2015 through EARTHwise Centre, it champions personal, collective, and systemic transformation to shift trajectories from collapse to collective thriving. Building the foundations and movement for a new and planetary civilization, in partnership with life.
 > 
