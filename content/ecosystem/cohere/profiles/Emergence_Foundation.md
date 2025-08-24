@@ -22,6 +22,7 @@ size: ""
 territory: Inner Development & Evolution of Consciousness
 y: 309
 x: 65
+email: info@emergenecefoundation.org
 ---
 > Emergence Foundation is a non-profit organisation focused on fostering personal, societal, and global transformation through highlighting unique expressions of the nexus of inner and outer change, something we call the X Factor. Our mission is to help create a more compassionate, equitable and sustainable world by supporting these innovative projects and change-makers in areas such as education, community building, arts, ecology and spiritual growth. We believe that transformative change begins with individuals and communities, and our work emphasises the importance of collaboration, creativity and consciousness in regenerating global culture.
 > 
