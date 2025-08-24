@@ -19,6 +19,7 @@ size: 51-100
 territory: Worldviews & Narratives
 y: 87
 x: 189
+email: office@eusg.org
 ---
 > WE NEED NEW THINKING AND NEW ACTION
 > Governing the Anthropocene is the ultimate challenge of the 21st century. We are concerned with the ecological meltdown as well as with the digital transformation. We build on Anthropocene Thinking and explore Metamodernity. Systems Change lies at the very heart of the European School of Governance as a true thought and practice leader a European New School realising the necessary Mind Shift in the tradition of the legendary Bauhaus. Being a community of inquiry and transformation, we research and teach. We engage and intervene. We believe in dialogue, provoking and facilitating public discourse. [...]
