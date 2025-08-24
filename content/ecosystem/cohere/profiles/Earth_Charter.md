@@ -25,6 +25,7 @@ metadata_version: "1"
 territory: Alternative Futures
 y: 177
 x: 1150
+email: info@earthcharter.org
 ---
  The Earth Charter is  a document with sixteen principles for systems change, which can be [found here](https://earthcharter.org/read-the-earth-charter/). 
  
