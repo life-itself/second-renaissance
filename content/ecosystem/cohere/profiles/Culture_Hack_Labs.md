@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Worldviews & Narratives
 y: 86
 x: 368
+email: hello@culturehack.io
 ---
 >Culture Hack Labs (CHL) is a not-for-profit consultancy that supports organizations, social movements and activists to create cultural interventions for systems change.  
   >
