@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Co-creation & Collaboration
 y: 435
 x: 737
+email: hello@culturalstrategies.net
 ---
 >Established in 2008, the CSC is a bespoke consulting firm that leads complex learning and strategies initiatives in the United States and internationally, to advance transformational change. Realizing just societies where all life flourishes requires diverse actors to remediate the fundamental conditions, from which injustice grows informed by and accountable to the people and places most impacted by change.
 >
