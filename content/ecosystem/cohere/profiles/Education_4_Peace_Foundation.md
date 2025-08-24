@@ -25,6 +25,7 @@ metadata_version: "1"
 territory: Alternative Education
 y: 312
 x: 1056
+email: info@e4p.org
 ---
 >Founded in 2002, Education 4 Peace (E4P) is a Swiss non-profit foundation dedicated to advocating and supporting Emotional Health (EH) programmes in schools and sports.
 >
