@@ -21,6 +21,7 @@ size: 11-20
 territory: Relationships & Conflict
 y: 140
 x: 332
+email: info@consciouscafe.org
 ---
 > ConsciousCafe was founded in 2011 when a group of friends got together to hold deep, conscious conversations.
 > 
