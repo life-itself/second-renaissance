@@ -20,6 +20,8 @@ territory: Environment & Food
 y: 342
 x: 1165
 ---
+_2025-08-24 Update: This association seems to be no longer active (URL broken)_
+
 > The Ecological Law and Governance Association (ELGA) seeks to provide a forum and a platform for diverse groups to work together and amplify their voices to transform our current human-centered, growth-focused legal paradigm, to an Earth-centered, ‘ecological law and governance’ paradigm to better protect the foundations of life. Our vision is a just, flourishing world where state and global governance systems protect the foundations of life.
 
 ## Key People
