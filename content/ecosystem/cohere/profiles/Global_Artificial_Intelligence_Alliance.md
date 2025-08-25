@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Technology
 y: 483
 x: 1280
+email: info@globalai.life
 ---
 >The **Global Artificial Intelligence Alliance** (GAIA) is a multidisciplinary **impact start-up** which uses **collective creativity** to develop **artificial intelligence with compassion**. Our team of scientists, entrepreneurs, activists and philosophers globally research AI’s social, sociological, legal, technological and ethical aspects of AI. **Collective wisdom** has undeniably been deeply ingrained in GAIA’s DNA from the very beginning.
 >
