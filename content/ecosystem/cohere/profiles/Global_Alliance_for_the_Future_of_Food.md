@@ -18,6 +18,7 @@ size: 11-20
 territory: Environment & Food
 y: 202
 x: 1290
+email: info@futureoffood.org
 ---
 > "Founded in 2012, the Global Alliance for the Future of Food is a strategic alliance for collective action on food systems transformation. Our work is grounded in our principles of food systems that are renewable, resilient, equitable, healthy, diverse, inclusive, and interconnected. At the heart of our work are our philanthropic foundation members, who work alongside a global Secretariat, along with our Allied Initiatives, partners in civil society, funder affinity groups and intermediaries, governments and the private sector, and global fora, including the UN FAO.
 > 
