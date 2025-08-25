@@ -20,6 +20,7 @@ metadata_version: "1"
 territory: Intentional Communities & Ecovillages
 y: 250
 x: 789
+email: colivingatk9@gmail.com
 ---
 >K9 Coliving is a bubbly, thriving and unique home for 50ish lucky K9ers. 20 different nationalities, as young as 6 to 50+ years old, Phd student, architects, yoga teachers, doctors, psychologists, artists, designers, developers, entrepreneurs and everything in between.
 >
