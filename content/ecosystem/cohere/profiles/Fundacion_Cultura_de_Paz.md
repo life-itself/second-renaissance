@@ -19,6 +19,7 @@ size: 4-10
 territory: International Relations & Peacebuilding
 y: 86
 x: 821
+email: info@fund-culturadepaz.org
 ---
 > In 2000, the Culture of Peace Foundation was established with the aim of strengthening and promoting the culture of peace, implementing and putting into action the Declaration and Program of Action, approved in 1999 by the General Assembly of the United Nations.
 > 
