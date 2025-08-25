@@ -21,6 +21,7 @@ size: 4-10
 territory: Systems Thinking & Complexity
 y: 575
 x: 652
+email: connect@gaianet.earth
 ---
 > Gaianet is a global organization which hosts a network of professionals, project leaders, experts, elders and investors in co-creation of a New Earth.
 > 
