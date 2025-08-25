@@ -20,6 +20,7 @@ size: 4-10
 territory: Health & Wellbeing
 y: 103
 x: 915
+email: info@mind-foundation.org
 ---
 > "The MIND Foundation envisions a healthier, more connected world through evidence-based, safe, and legal applications of the psychedelic experience.
 > 
