@@ -19,6 +19,7 @@ size: 1-3
 territory: Co-creation & Collaboration
 y: 592
 x: 551
+email: backoffice@h3uni.org
 ---
 > H3Uni, an educational charity, offers purposeful people and groups powerful methods to access, activate and enliven their innate collaborative wisdom, that will help us to navigate the deepening uncertainties of the 21st century.
 
