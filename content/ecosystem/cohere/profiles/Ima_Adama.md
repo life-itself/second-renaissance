@@ -19,6 +19,7 @@ size: 1-3
 territory: Worldviews & Narratives
 y: 14
 x: 318
+email: kontakt@ima-adama.earth
 ---
 > We create new narratives. This happens through two business areas: the publishing house (here you can find works on new narratives) and the experience spaces (here we playfully engage with existing and new narratives).
 > 
