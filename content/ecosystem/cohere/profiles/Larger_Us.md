@@ -22,6 +22,7 @@ metadata_version: "1"
 territory: Relationships & Conflict
 y: 163
 x: 281
+email: hello@larger.us
 ---
 Larger Us is an organization dedicated to overcoming some of the psychological and emotional hurdles that exist in our current world, and they aim to make a more common sense of 'oneness'. As they put it on their website, they are "a community of change-makers who share the aim of bridging divides rather than deepening them, who want to transform relationships rather than defeat enemies, and who recognize that achieving these things is about psychology as much as politics.''
 
