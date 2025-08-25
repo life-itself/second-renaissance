@@ -20,6 +20,7 @@ size: 21-50
 territory: Alternative Politics & Governance
 y: 250
 x: 922
+email: info@grli.org
 ---
 > The Globally Responsible Leadership Initiative exists to catalyse the development of globally responsible leadership and practice in organisations and societies worldwide. It was co-founded by EFMD and UN Global Compact and in Strategic Partnership with EFMD and AACSB International.
 
