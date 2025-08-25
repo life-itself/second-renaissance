@@ -29,6 +29,7 @@ metadata_version: "1"
 territory: Spirituality & Contemplative Practice
 y: 592
 x: 88
+email: webmaster@heartfulness.org
 ---
 >Heartfulness is a 100-year-old tradition that continues to evolve with the times, integrating scientific inquiry and time-honored contemplative practices. Certified trainers guide you to experience the subtle energy of Transmission, which awakens a deeper level of inner experience, authenticity, compassion, and awareness. Heartfulness practices expand your awareness, and develop well-being, contentment, calm, compassion, courage, and clarity. With this awakened potential, together we can create a world based on respect, peace and unity.
 >
