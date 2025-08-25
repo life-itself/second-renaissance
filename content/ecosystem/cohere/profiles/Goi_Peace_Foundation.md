@@ -20,6 +20,7 @@ size: 11-20
 territory: International Relations & Peacebuilding
 y: 71
 x: 751
+email: info@goipeace.or.jp
 ---
 > "Based in Japan, the Goi Peace Foundation is a public benefit organization supported by members around the world working together to create a culture of peace. Our mission is to foster a sustainable and harmonious global society by promoting consciousness, values and wisdom for creating peace, and building cooperation among individuals and organizations across diverse fields, including education, science, culture and the arts.
 > 
