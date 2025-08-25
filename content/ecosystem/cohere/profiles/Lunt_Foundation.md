@@ -24,6 +24,9 @@ territory: Inner-led Systems Change
 y: 224
 x: 567
 ---
+
+_2025-08-25 Update: No longer active? Website is no longer available_
+
 >**The Lunt Foundation** promotes regenerative solutions growing wealth from the perspectives of ecology, well-being and community.   
   >
 >Through our work, we seek to contribute to the elevation of collective consciousness for a more harmonious and loving world.   
