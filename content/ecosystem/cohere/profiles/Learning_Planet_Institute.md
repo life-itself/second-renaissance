@@ -20,6 +20,7 @@ size: 51-100
 territory: Alternative Education
 y: 337
 x: 1004
+email: team.communication@learningplanetinstitute.org 
 ---
 > Since 2006, the Learning Planet Institute has been dedicated to reinventing learning for all ages (lifelong learning) through collective intelligence in order to build sustainable & inclusive learning societies able to rise to the complex challenges we face. 
 > 
