@@ -20,6 +20,7 @@ size: 4-10
 territory: Alternative Economics & Regenerative Finance
 y: 3
 x: 1240
+email: hi@leapcollective.org
 ---
 > We are activists, social entrepreneurs, foundation staff, and philanthropists working towards systemic change in philanthropy.
 > 
