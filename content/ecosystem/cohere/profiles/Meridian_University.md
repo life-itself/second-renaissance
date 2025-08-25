@@ -22,6 +22,7 @@ size: 21-50
 territory: Inner Development & Evolution of Consciousness
 y: 287
 x: 129
+email: info@meridianuniversity.edu
 ---
 > Founded over 30 years ago in the San Francisco Bay Area, Meridian University enrolls students globally in its unique hybrid and 100% online graduate degree, professional certificate, and public programs. The University offers master's and doctoral programs in Business, Education, Leadership, and Psychology with diverse concentrations available within each of these programs. Meridian’s integrated, innovative curriculum is designed to be experiential and transformative.
 > 
