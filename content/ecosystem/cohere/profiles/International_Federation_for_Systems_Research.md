@@ -19,6 +19,7 @@ size: 11-20
 territory: Systems Thinking & Complexity
 y: 556
 x: 821
+email: office@ifsr.org
 ---
 > The IFSR is representing 30+ organizations with 30,000+ systems scientists and practicioners.
 > 
