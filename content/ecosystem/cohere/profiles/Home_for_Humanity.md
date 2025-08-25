@@ -30,6 +30,7 @@ size: 4-10
 territory: International Relations & Peacebuilding
 y: 35
 x: 695
+email: welcome@homeforhumanity.earth
 ---
 > Home for Humanity is an inclusive movement for planetary regeneration.
 > 
