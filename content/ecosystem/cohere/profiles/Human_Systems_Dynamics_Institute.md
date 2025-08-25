@@ -19,6 +19,7 @@ size: 1-3
 territory: Co-creation & Collaboration
 y: 607
 x: 608
+email: info@hsdglobalservices.org
 ---
 > Human systems dynamics (HSD) creates opportunities out of chaos. Our methods give you power to see patterns in complexity. You will understand your most wicked problems in new and useful ways. Most important, you will take innovative action to move past biggest challenges and toward future success.
 > 
