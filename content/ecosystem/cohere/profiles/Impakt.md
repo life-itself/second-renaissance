@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Worldviews & Narratives
 y: 4
 x: 407
+email: info@impakt.nl
 ---
 >IMPAKT is a media arts organization based in Utrecht and founded in 1988. We present critical and creative views on contemporary media culture and arts, in an interdisciplinary context. Our aim is to identify urgent issues in our digital and transglobal culture, by focusing on the relationship between society, media, technology and arts. We examine issues around politics, science and popular culture from different angles. We aim to present creative and innovative approaches and stir debates with critical ideas on common beliefs in society at large as well as towards dominant perceptions in arts and academia.
 >
