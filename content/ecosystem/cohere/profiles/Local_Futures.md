@@ -22,6 +22,7 @@ size: 11-20
 territory: Alternative Economics & Regenerative Finance
 y: 75
 x: 1156
+email: info@localfutures.org
 ---
 > Local Futures is an international non-profit organization dedicated to renewing ecological and social well-being by strengthening communities and local economies. Together we’re building a worldwide localization movement.
 > 
