@@ -20,6 +20,7 @@ size: 51-100
 territory: Movement Building & Civic Action
 y: 453
 x: 898
+email: livingcitiesearth@gmail.com
 ---
 > Living Cities Earth is a global bottom-up movement based on integral approach and dedicated to creating conditions for people in 10.000 cities worldwide to live healthier happier lives in harmony with each other and with nature.
 > 
