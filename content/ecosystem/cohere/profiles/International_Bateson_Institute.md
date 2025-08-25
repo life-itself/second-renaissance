@@ -21,6 +21,7 @@ size: 1-3
 territory: Systems Thinking & Complexity
 y: 514
 x: 749
+email: contact@batesoninstitute.org
 ---
 > The International Bateson Institute, registered in Stockholm, is a non-profit foundation for transcontextual research in ecology, economy, social change, health, education, and art. The International Bateson Institute supports a new kind of research that encourages and incubates projects, which examine the interactions within complex systems.
 > The aim of this research is to increase our ability to take into account the many relationships that coexist in any context of living things. In addition to providing much-needed perspective to existing research institutions, the findings of the International Bateson Institute projects are presented as seminars, media, and artistic exhibitions, which engage culture and education simultaneously in public spaces, for all ages.
