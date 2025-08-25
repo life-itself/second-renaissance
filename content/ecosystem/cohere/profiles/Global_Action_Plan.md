@@ -20,6 +20,7 @@ size: 11-20
 territory: Environment & Food
 y: 150
 x: 1227
+email: team@globalactionplan.org.uk
 ---
 > "Global Action Plan is an environmental charity focused on issues where the connection between the health of people and our planet is most tangible.
 > 
