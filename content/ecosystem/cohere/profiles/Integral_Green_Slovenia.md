@@ -18,6 +18,7 @@ size: ""
 territory: Alternative Economics & Regenerative Finance
 y: 110
 x: 1192
+email: integralnaslovenija@gmail.com
 ---
 > The Citizens’ Initiative for an Integral Green Slovenia, founded in April 2013 by a group of distinguished Slovenian experts and led by Dr. Darja Piciga, is a pan-Slovenian and non-partisan initiative for a wholesome life in the internationally respected community of Slovenia. [...]
 > 
