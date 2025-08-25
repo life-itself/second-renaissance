@@ -20,6 +20,7 @@ size: 4-10
 territory: Intentional Communities & Ecovillages
 y: 286
 x: 784
+email: info@labolina.org
 ---
 > La Bolina is an ecological, regenerative and intercultural association based in El Valle, near Granada, Spain.
 > 
