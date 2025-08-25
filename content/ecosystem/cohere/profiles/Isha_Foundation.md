@@ -27,6 +27,7 @@ size: ""
 territory: Spirituality & Contemplative Practice
 y: 688
 x: 120
+email: uk@ishafoundation.org
 ---
 > "Three decades ago, Sadhguru founded Isha Foundation, a non-profit human-service organization, with human wellbeing as its core commitment. 
 > 
