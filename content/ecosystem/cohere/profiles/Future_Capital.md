@@ -21,6 +21,8 @@ territory: Alternative Economics & Regenerative Finance
 y: 26
 x: 1060
 ---
+_2025-08-25 Update: This has now evolved into the Conscious Capital Foundation: https://consciouscapital.org/._
+
 > Future Capital is a global initiative to establish a more evolved relationship between capital and consciousness — using investment capital as a creative force for supporting and accelerating the well-being of current and future generations. [...]
 > 
 > The inaugural gathering of the Future Capital was held at the United Nations in New York, September 12–13, 2019. The Design Team included members of the UN Office of Partnerships, the United Nations Conference on Trade and Development (UNCTAD), and the World Academy of Art & Science (WAAS).
