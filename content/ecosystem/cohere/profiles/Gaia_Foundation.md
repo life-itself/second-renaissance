@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Environment & Food
 y: 333
 x: 1201
+email: info@gaianet.org
 ---
  >The Gaia Foundation is a small, international organisation with 35 years’ experience accompanying partners, communities and movements around the world to revive and protect bio-cultural diversity. We take a holistic approach to regenerate healthy ecosystems and strengthen community self-governance. Both are critical as we face the grave reality of climate chaos, biodiversity collapse and social injustice.
 >
