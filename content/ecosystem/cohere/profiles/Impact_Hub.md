@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Movement Building & Civic Action
 y: 373
 x: 913
+email: branding@impacthub.net
 ---
 >Our collective purpose is clear: to build a regenerative economy where business and profit serve our people and the planet.
 >
