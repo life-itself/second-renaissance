@@ -19,6 +19,7 @@ size: 11-20
 territory: Leadership Development
 y: 544
 x: 489
+email: hello@fraendi.com
 ---
 > Frændi is a group of consulting professionals, thinkers, educators, doers, and optimists who are committed to the practice of unlocking potential—in people, teams, systems, and organizations.
 > 
