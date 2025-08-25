@@ -18,6 +18,7 @@ size: 21-50
 territory: Leadership Development
 y: 561
 x: 342
+email: info@innergreendeal.com
 ---
 > The Inner Green Deal gGmbH (IGD) is a non-profit leadership development organisation based in Brussels and Cologne with a growing community around the world. Its mission is to accelerate the green transformation through inner development, reconnection to nature and collaboration. The Inner Green Deal works with large systemic organisations such as the EU and the UN as well as with community leaders and facilitators.
  
