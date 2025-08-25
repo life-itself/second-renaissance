@@ -20,6 +20,7 @@ size: 1-3
 territory: Emotional Support & Resilience
 y: 172
 x: 120
+email: info@leadingthroughstorms.org
 ---
 > Leading Through Storms supports people to discover their best adaptive responses to the climate, ecological and related crises, building a more consciously interconnected society in community with others.
 > 
