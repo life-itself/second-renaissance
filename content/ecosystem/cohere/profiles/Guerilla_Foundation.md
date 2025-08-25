@@ -21,6 +21,7 @@ size: 4-10
 territory: Movement Building & Civic Action
 y: 347
 x: 883
+email: hello@guerrillafoundation.org
 ---
 > True to our name, the Guerrilla Foundation resources activists & grassroots movements in building pockets of resistance while carrying out radical societal transformations needed to cultivate a living, circular economy with a deeply democratic society that prioritises social & ecological wellbeing.
 
