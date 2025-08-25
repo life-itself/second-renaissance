@@ -22,6 +22,7 @@ cohere: true
 metadata_version: "1"
 y: 411
 x: 474
+email: info@integrale-politik.ch
 ---
 >We bring integral awareness to people and to politics.
 
