@@ -19,6 +19,7 @@ size: 1-3
 territory: Emotional Support & Resilience
 y: 187
 x: 90
+email: info@goodgriefnetwork.org
 ---
 > Good Grief Network (GGN) is a nonprofit organization based in the United States that brings people together to metabolize collective grief, eco-distress, and other heavy emotions that arise in response to daunting planetary crises.
 > 
