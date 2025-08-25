@@ -20,6 +20,7 @@ size: 4-10
 territory: Inner Development & Evolution of Consciousness
 y: 259
 x: 97
+email: hello@liminal-learning.com
 ---
 > A way to find your way
 > 
