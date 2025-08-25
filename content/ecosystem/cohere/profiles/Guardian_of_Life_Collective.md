@@ -18,6 +18,7 @@ size: 4-10
 territory: Relationships & Conflict
 y: 170
 x: 175
+email: hello@guardianoflife.org
 ---
 > Guardian of Life collaborates through collective action of its networks, loosely interdependent and independent, united in diversity through Guardian of Life essence. It is not a process as most humans have understood it to be in this present time. It's an embodied / immersive / experiential living system process where the process is not in the system but in the being of the person (also a living system / nature). [...]
 > 
