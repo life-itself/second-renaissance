@@ -19,6 +19,7 @@ size: 4-10
 territory: Environment & Food
 y: 291
 x: 1266
+email: lyon@notreaffaireatous.org
 ---
 > "Notre Affaire à Tous is a non-profit organisation which uses law as a strategic lever in the fight against the triple environmental crisis – climate, biodiversity, pollution. It defends a vision of law in favour of social justice and the primary affected communities.
 > 
