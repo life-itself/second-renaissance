@@ -19,6 +19,7 @@ size: 4-10
 territory: Alternative Futures
 y: 200
 x: 1042
+email: kontakt@realutopien.de
 ---
 > Reinventing Society is a non-profit and independent think tank founded in late 2020. Our mission is to accompany people into a regenerative society. To do this, we develop positive visions of the future , accompany change processes and impart future skills. We see our organization itself as a real-world laboratory in which new empirical knowledge is created.
 > 
