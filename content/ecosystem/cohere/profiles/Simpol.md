@@ -19,6 +19,7 @@ size: 4-10
 territory: Alternative Politics & Governance
 y: 206
 x: 977
+email: info@simpol.org
 ---
 > "What?
 > 
