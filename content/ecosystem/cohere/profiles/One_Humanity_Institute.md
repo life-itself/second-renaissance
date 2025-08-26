@@ -18,6 +18,7 @@ size: 4-10
 territory: International Relations & Peacebuilding
 y: 45
 x: 865
+email: info@onehumanity.institute
 ---
 > "One Humanity Institute is a social incubator. A global nexus where one can experience both the micro and macro potential of a united humanity.
 > 
