@@ -19,6 +19,7 @@ size: 4-10
 territory: Alternative Politics & Governance
 y: 242
 x: 890
+email: info@systemicjustice.ngo
 ---
 > "Systemic Justice is a new NGO that partners with organisations working on racial, social, and economic justice to bring about change through strategic litigation.
 > 
