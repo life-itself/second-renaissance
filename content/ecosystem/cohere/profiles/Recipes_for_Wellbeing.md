@@ -22,6 +22,7 @@ metadata_version: "1"
 territory: Inner Wisdom & Healing
 y: 472
 x: 129
+email: info@recipesforwellbeing.org
 ---
 >Recipes for Wellbeing works towards shifting the culture of changemaking to include a focus on wholebeing to enable anyone to contribute more effectively to creating positive change in the world. **We interpret wholebeing both as a catalyst for change in the world, and as the change in the world itself.** We aim for changemakers to both experience wholebeing for themselves, and to spread wellbeing to their teams, communities, and to the whole world. We believe that focusing on wholebeing opens up a path towards achieving individual and collective flourishing – the ultimate goal of changemaking.
 
