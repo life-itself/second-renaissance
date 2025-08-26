@@ -4,7 +4,7 @@ contributors:
   - Matthew McCarthy
   - Catherine Tran
 title: Systems Innovation Network
-url: https://www.systemsinnovation.network/spaces/12561475/page
+url: https://www.systemsinnovation.network/spaces/9305168/page
 locations:
   - International/Online
 start: 
