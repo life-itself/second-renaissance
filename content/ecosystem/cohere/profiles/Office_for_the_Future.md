@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Integral
 y: 389
 x: 339
+email: contact@officeforthefuture.com
 ---
 >The Office for the Future understands that sensemaking is essential for a new future. We have the science and technological capacity to feed and empower every human being and at the same time we stand poised between a level of suffering, catastrophic and existential risk that’s unimaginable. [...]
 >
