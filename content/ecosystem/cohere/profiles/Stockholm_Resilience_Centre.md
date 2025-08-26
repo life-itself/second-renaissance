@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Environment & Food
 y: 384
 x: 1248
+email: info@stockholmresilience.su.se
 ---
 >Stockholm Resilience Centre (SRC) is an international research centre on resilience and sustainability science
 >
