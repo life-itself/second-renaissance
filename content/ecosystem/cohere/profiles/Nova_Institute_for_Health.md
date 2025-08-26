@@ -19,6 +19,7 @@ size: 11-20
 territory: Health & Wellbeing
 y: 81
 x: 963
+email: info@novainstituteforhealth.org
 ---
 > "The Nova Institute for Health is a heart-centered think tank that takes action for the good of people, places, and the planet. We look at the whole picture, the entire lived experience that influences health.   
 > 
