@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Alternative Politics & Governance
 y: 201
 x: 859
+email: info@thealternative.org.uk
 ---
 
 >We live in an era of perma-crisis (climate, societal, warring of all kinds). Over these six years, The Alternative has found that the remedies are available—but scattered. The systems we are embedded in—media, economic, political—take our power away. So how do we achieve the world we know, deep down, is possible?
