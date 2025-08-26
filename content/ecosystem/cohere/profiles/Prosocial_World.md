@@ -26,6 +26,7 @@ metadata_version: "1"
 territory: Inner Development & Evolution of Consciousness
 y: 260
 x: 147
+email: hello@proscial.world
 ---
 >ProSocial World is a 501(c)3 non-profit organization
 >
