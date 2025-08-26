@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Movement Building & Civic Action
 y: 364
 x: 762
+email: info@ulexproject.org
 ---
 >The Ulex Project provides high-quality training for activists, change makers, and organisations.
 >
