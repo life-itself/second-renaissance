@@ -19,6 +19,7 @@ size: 4-10
 territory: Inner Wisdom & Healing
 y: 443
 x: 153
+email: hello@berkeleyalembic.org
 ---
 > The Alembic is a nonprofit bodymind center committed to experiments in transformation. Drawing from ancient traditions and contemporary protocols, the space offers a wide range of skillful means for exploring, integrating, and transforming our felt engagement with the world and the mystery of our own consciousness. Our classes, workshops, and special events are led by an array of teachers and facilitators: contemplative masters and scientists, fringe scholars and somatic wizards, imaginal artists and seasoned psychonauts. You can think of the Alembic as an awareness gym, or a metamodern mutation lab, or a transformational festival without the dust.
 > 
