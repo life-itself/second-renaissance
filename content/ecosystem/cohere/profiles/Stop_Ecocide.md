@@ -20,6 +20,7 @@ size: 21-50
 territory: Environment & Food
 y: 249
 x: 1186
+email: info@stopecocidio.org
 ---
 > "'Ecocide' is a word to describe what is happening to our planet; the mass damage and destruction of the natural living world.  It literally means “killing one’s home”.   And right now, in most of the world, no-one is held responsible.  
 > 
