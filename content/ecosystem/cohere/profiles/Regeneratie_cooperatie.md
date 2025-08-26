@@ -20,6 +20,7 @@ size: 11-20
 territory: Leadership Development
 y: 554
 x: 521
+email: info@regeneratie.org
 ---
 > The Regeneration Cooperative is a collective of entrepreneurs and scientists, coaches and artists who actively work for a regenerative society in which all people see and behave as part of nature. Because we believe that by removing the imaginary boundary between man and nature, all life on this earth can flourish again.
 > 
