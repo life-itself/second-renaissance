@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: International Relations & Peacebuilding
 y: 138
 x: 788
+email: partner@unify.org
 ---
 
 >UNIFYING THE EMERGING GLOBAL MOVEMENT FOR WORLD PEACE
