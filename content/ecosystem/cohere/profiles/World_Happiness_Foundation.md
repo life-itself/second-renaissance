@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Health & Wellbeing
 y: 3
 x: 918
+email: hello@worldhappiness.foundation
 ---
 >The World Happiness Foundation’s purpose is to realize such a world with freedom, consciousness, and happiness, FOR ALL. Humanity has never faced simultaneously such vulnerability and opportunity to make this come true. We are not asking in vain how can we realize a world where everyone is free, healthy, and happy. On the contrary, The World Happiness Foundation is actively working on finding the answer to this most important question. Thankfully, the number of creative thinkers, social impact organizations, and practitioners who understand that this is not a zero-sum game is growing. And we are here to unite and amplify those leaders, institutions, and programs that are making the world a happier place.
 
