@@ -19,6 +19,7 @@ size: 11-20
 territory: Systems Thinking & Complexity
 y: 542
 x: 851
+email: info@sesge.org
 ---
 > The Spanish Society of General Systems is a non-profit society that was founded in 1980 to be a national benchmark for Systemics and a meeting point for the different sectors of society (Social, Political, Economic, Military, Educational, etc. .), to address the problems of the 21st century, through the design and application of new models.
 > 
