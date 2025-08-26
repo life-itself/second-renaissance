@@ -20,6 +20,7 @@ size: 1-3
 territory: Alternative Futures
 y: 139
 x: 1101
+email: europe@systemschangealliance.org
 ---
 > We bring people and organizations together to create integrated and long-term system change. 
 > 
