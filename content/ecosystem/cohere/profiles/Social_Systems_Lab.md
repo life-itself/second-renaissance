@@ -24,6 +24,7 @@ metadata_version: "1"
 territory: Technology
 y: 423
 x: 1269
+email: hello@socialsystems.io.
 ---
 >Social Systems lab is a not-for-profit design studio & social innovation lab prototyping and incubating tools for a transforming world. Because change, at least sustainable and regenerative change, and for all its philosophy and noble intent, comes down to good engineering. Or rather, engineering for the good of society.
 >
