@@ -25,6 +25,7 @@ metadata_version: "1"
 territory: Inner-led Systems Change
 y: 251
 x: 609
+email: info@thelaszloinstitute.com
 ---
 The Laszlo Institute of New Paradigm Research is an ETS (Ente del Terzo Settore or Third Sector Organization, an Italian Non-Profit).
 
