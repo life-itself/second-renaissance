@@ -22,6 +22,7 @@ size: 4-10
 territory: Movement Building & Civic Action
 y: 442
 x: 860
+email: contact@oneresilientearth.org
 ---
 > Our mission is to grow the resilience of individuals and communities to the impacts of climate change, so that we can enhance our agency despite climate instability, and are equipped to respond to the crisis through transformation and regeneration.
 > 
