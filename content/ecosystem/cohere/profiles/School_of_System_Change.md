@@ -22,6 +22,7 @@ size: 4-10
 territory: Leadership Development
 y: 642
 x: 459
+email: hello@schoolofsystemchange.org
 ---
 > In a world on the brink of collapse, changing so fast and yet in many ways not fast enough, we need broad and deep systems change. The School of System Change exists to nurture the work of leaders and changemakers who are embracing complexity and bringing about hopeful futures.
 > 
