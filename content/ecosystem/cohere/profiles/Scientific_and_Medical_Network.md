@@ -20,6 +20,7 @@ size: ""
 territory: Worldviews & Narratives
 y: 98
 x: 383
+email: support@scimednet.org
 ---
 > For fifty years, the Scientific and Medical Network has been bringing together individuals – including professionals with a background in science, medicine, engineering, psychology, philosophy and complementary practices – who accept the existence of a fundamental, unifying and transcendent reality.
 > 
