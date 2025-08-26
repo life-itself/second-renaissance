@@ -19,6 +19,7 @@ size: 1-3
 territory: Systems Thinking & Complexity
 y: 517
 x: 804
+email: info@protopialab.org
 ---
 > Our public conversation has become highly dysfunctional. More and more people are afraid to speak out publicly on certain issues because they don't have the 'right' opinion. 
 > 
