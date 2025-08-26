@@ -34,6 +34,7 @@ metadata_version: "1"
 territory: Leadership Development
 y: 656
 x: 515
+email: hello@thenaturalstep.nl
 ---
 >We are a leading partner for organisations ready to address humanities grand challenges to create a better future. We enable decision makers to manage complexity, define their future position and seize opportunities for short and long term success.
 >
