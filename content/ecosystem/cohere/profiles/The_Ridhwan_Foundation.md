@@ -18,6 +18,7 @@ size: ""
 territory: Spirituality & Contemplative Practice
 y: 699
 x: 18
+email: info@ridhwan.org
 ---
 > "The Ridhwan Foundation is the nonprofit spiritual organization (incorporated as a church) established to support and preserve the integrity of the Diamond Approach teaching."
 > 
