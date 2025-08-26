@@ -21,6 +21,7 @@ size: ""
 territory: Intentional Communities & Ecovillages
 y: 203
 x: 758
+emai: contact@thera.earth
 ---
 > The Applied Research Center for the Regeneration of Living Systems responds to the global metacrisis by fostering a holistic approach to revitalization. Nestled within the biodiverse and culturally rich Tarn-et-Garonne, we strive to empower civil society through research and co-development, integrating local and global stakeholders and knowledge, and bringing all of that together into real projects.
 > 
