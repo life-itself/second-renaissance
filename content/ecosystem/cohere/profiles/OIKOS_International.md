@@ -20,6 +20,7 @@ size: 4-10
 territory: Leadership Development
 y: 631
 x: 377
+email: info@oikos-international.org
 ---
 > At oikos, we have been coming together as a global community of student change agents for over 30 years. Spread in over 20 countires and 40 cities worldwide, we organize on campus to raise awareness for sustainability and transform our own education.
 > 
