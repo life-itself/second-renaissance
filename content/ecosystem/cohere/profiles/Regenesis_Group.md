@@ -20,6 +20,7 @@ size: 4-10
 territory: Environment & Food
 y: 187
 x: 1246
+email: regenesis@regenesisgroup.com
 ---
 > "Regenesis is a world leader in the field of regenerative development—an approach to land use, community development, and the built environment that has defined the leading edge of sustainability practice for more than two decades.
 > 
