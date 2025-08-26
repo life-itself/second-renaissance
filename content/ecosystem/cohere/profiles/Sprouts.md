@@ -21,6 +21,7 @@ metadata_version: "1"
 territory: Inner Development & Evolution of Consciousness
 y: 382
 x: 172
+email: hello@thesprouts.co
 ---
 Sprouts is a learning community inspired by Schumacher College based at Froidefontaine Farm, an agroecological farm in Belgium.
 
