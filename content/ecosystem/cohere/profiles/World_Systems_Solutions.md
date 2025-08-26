@@ -20,6 +20,7 @@ size: 21-50
 territory: Co-creation & Collaboration
 y: 468
 x: 720
+email: connect@wssnow.org
 ---
 > Our Vision is that through conscious collaboration, we will unite, organize, mobilize and align humanity in common purpose to find a solution to the climate crisis. Together as a global collaborative community, we will generate a global sustainable future via intelligent application of technology and resources. 
 > 
