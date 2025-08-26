@@ -20,6 +20,7 @@ size: 1-3
 territory: Inner-led Systems Change
 y: 391
 x: 534
+email: info@nordicbildung.org
 ---
 > "Nordic Bildung is a thinking lab and a bildung lab; that is what we mean by future systems studies and humanistic futurism. We want to grasp the world in new ways that match its constantly rising complexity, and we want people to engage with new knowledge, with the world, and with their own life-situation in new and meaningful ways that match the 21st century.
 > 
