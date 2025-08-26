@@ -21,6 +21,7 @@ size: 11-20
 territory: Co-creation & Collaboration
 y: 479
 x: 686
+email: demandes@universite-du-nous.org
 ---
 > The University of Us is a world to discover, to meet. It is a unique journey of pioneers of doing things together, of sensitivity, of the common. It is a handful of committed, fiery utopians, convinced of a possible "other tomorrow".
 > 
