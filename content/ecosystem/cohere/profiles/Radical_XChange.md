@@ -21,6 +21,7 @@ size: 4-10
 territory: Technology
 y: 531
 x: 1280
+email: info@radicalxchange.org
 ---
 > "The best opportunities for liberating social progress arise in times of technological transformation. Yet technologies that emerge from capitalist incentives too often fail to deliver on this promise. More often, they increase our capacity to pursue self-interest and externalize harm, exacerbating our deepest challenges rather than solving them.
 > 
