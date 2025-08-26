@@ -20,6 +20,7 @@ size: 4-10
 territory: Alternative Economics & Regenerative Finance
 y: 61
 x: 1231
+email: info@p4ne.org
 ---
 > Partners for a New Economy is an international philanthropic fund focused on transforming our economy for nature and all people to flourish. We were founded in 2015 by the MAVA, Oak, Marisla and KR Foundations, to address the root causes of environmental degradation that lie within our economic system. In 2020 we were joined by Laudes and Ford Foundations, by Omidyar Network in 2022 and by the William & Flora Hewlett Foundation in 2023.
 > 
