@@ -22,6 +22,7 @@ size: 4-10
 territory: Integral
 y: 382
 x: 447
+email: info@trans-4-m.com
 ---
 > Trans4m is a passionate enabler of individual and collective transformation processes. We address the burning issues of our time, releasing individual and collective genius. 
 > 
