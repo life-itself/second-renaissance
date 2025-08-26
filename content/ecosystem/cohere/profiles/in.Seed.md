@@ -18,6 +18,7 @@ size: 4-10
 territory: Environment & Food
 y: 386
 x: 1177
+email: info@inseed.be
 ---
 > "in.Seed is a multidisciplinary design and consulting workshop serving integrated projects. [...]
 > 
