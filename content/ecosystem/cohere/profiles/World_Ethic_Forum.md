@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Worldviews & Narratives
 y: 72
 x: 160
+email: info@worldethicforum.com
 ---
 >A sense of division and powerlessness, and alienation run as deep undercurrents in today’s society at local, national, and global levels. These are often rooted in centuries-old injustices, unresolved traumas, and hierarchical worldviews that continue to fester and leave us often feeling helpless, afraid, and overwhelmed.
 >
