@@ -24,6 +24,7 @@ size: 4-10
 territory: Systems Thinking & Complexity
 y: 531
 x: 709
+email: info@reimaginedfutures.org
 ---
 > We help organisations make sense of complexity and collaborate towards systems change.
 > 
