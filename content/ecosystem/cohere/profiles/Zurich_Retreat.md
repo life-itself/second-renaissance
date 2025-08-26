@@ -20,6 +20,7 @@ size: 4-10
 territory: Systems Thinking & Complexity
 y: 594
 x: 706
+email: info@zurichretreat.com
 ---
 > A competence centre of social innovation and future sense-making.
 > 
