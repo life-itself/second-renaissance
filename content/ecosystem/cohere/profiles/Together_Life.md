@@ -1,5 +1,5 @@
 ---
-title: Together Life
+title: Together Movement
 url: https://www.togethermovement.world/
 contributors:
   - Elisa
