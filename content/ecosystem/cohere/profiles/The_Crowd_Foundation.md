@@ -22,6 +22,7 @@ metadata_version: "1"
 territory: Alternative Politics & Governance
 y: 159
 x: 815
+email: info@crowd.ngo
 ---
 >The Crowd Foundation aims to bring crowdocracy to life, through
 >
