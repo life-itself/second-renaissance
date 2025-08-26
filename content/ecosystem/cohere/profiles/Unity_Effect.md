@@ -19,6 +19,7 @@ size: 4-10
 territory: Co-creation & Collaboration
 y: 562
 x: 550
+email: info@unityeffect.net
 ---
 > We are a social enterprise who works with a network of freelancers, guided by our purpose of leading from the inside out. Our team structures are based on principles of self-organisation, shared leadership, transparency and continuous learning. In our team culture as well as our collaborations, we value showing up as whole humans, in balance with efficient and effective work. We work in English and German.
 > 
