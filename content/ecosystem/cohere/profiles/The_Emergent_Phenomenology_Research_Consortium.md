@@ -21,6 +21,7 @@ size: 101+
 territory: Health & Wellbeing
 y: 84
 x: 892
+email: info@theeprc.org
 ---
 > The Emergent Phenomenology Research Consortium (EPRC) is a multidisciplinary, multinational alliance of researchers, clinicians, and patrons who share a vision of bringing scientific methods and clinical sensibilities to the rigorous, ethical, ontologically-agnostic study of emergent phenomena.
 
