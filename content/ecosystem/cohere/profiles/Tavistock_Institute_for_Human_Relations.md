@@ -20,6 +20,7 @@ size: 21-50
 territory: Co-creation & Collaboration
 y: 649
 x: 593
+email: hello@tavinstitute.org
 ---
 > In our earliest history, just over a centenary ago, a group of medical professionals who called themselves the Tavistock group worked with the British Army to help soldiers who had been prisoners during World War II return to civilian life and – equally as importantly – to help their families and communities adjust to having them back.
 > 
