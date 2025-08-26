@@ -21,6 +21,7 @@ metadata_version: "1"
 territory: Worldviews & Narratives
 y: 13
 x: 33
+email: info@worldviewjourneys.com
 ---
 >Our mission is to support people to _explore_, _exchange_, and _expand_ their worldviews, empowering them to _enact_ a better world.
 >
