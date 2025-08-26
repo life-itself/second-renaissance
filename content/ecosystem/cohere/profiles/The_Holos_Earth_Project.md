@@ -20,6 +20,7 @@ size: 4-10
 territory: Leadership Development
 y: 542
 x: 449
+email: info@holos.earth
 ---
 > Holos Earth is a gathering space for leading edge thinkers and practitioners building an international network, capable of and committed to, changing the discourse and practice of holistic leadership and governance in the face of the meta-crisis of global challenges humanity faces today.
 
