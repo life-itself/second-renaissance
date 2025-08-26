@@ -18,6 +18,7 @@ size: 4-10
 territory: Relationships & Conflict
 y: 133
 x: 220
+email: info@theforgivenessproject.com
 ---
 > The Forgiveness Project collects and shares stories from both victims/survivors and perpetrators of crime and conflict who have rebuilt their lives following hurt and trauma.
 > 
