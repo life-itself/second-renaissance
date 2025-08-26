@@ -18,6 +18,7 @@ size: 4-10
 territory: Alternative Education
 y: 396
 x: 1091
+email: info@rogersalapitvany.hu
 ---
 > Based on Carl R. Rogers’s thoughts, we believe that a person can understand and fulfil him or herself through live, personal experiences and in relationships of positive regard and real acceptance.
 > 
