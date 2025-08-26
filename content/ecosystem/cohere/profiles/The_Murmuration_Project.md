@@ -18,6 +18,9 @@ territory: Inner-led Systems Change
 y: 193
 x: 521
 ---
+
+_2025-08-26 Update: Website has expired_
+
 > The Murmuration Project is a research initiative that is helping organisations and networks understand how they can develop more effective leadership skills and strategies and work collaboratively to inspire and influence greater change.  
 > 
 > The project is mapping the field through a creative inquiry with hundreds of leaders of organisations and networks expanding human consciousness.  The intelligence revealed from this inquiry will aim to identify the most important challenges and opportunities and will be shared to help inspire individual and collective action. 
