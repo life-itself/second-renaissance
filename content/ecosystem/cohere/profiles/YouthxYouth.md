@@ -23,6 +23,7 @@ metadata_version: "1"
 territory: Alternative Education
 y: 316
 x: 960
+email: community@youthxyouth.com
 ---
 >We are a global community of youth activists and adult allies.
 >
