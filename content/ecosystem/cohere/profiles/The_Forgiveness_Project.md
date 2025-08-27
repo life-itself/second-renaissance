@@ -20,8 +20,12 @@ y: 133
 x: 220
 email: info@theforgivenessproject.com
 ---
-> The Forgiveness Project collects and shares stories from both victims/survivors and perpetrators of crime and conflict who have rebuilt their lives following hurt and trauma.
-> 
-> At the heart of The Forgiveness Project is an understanding that restorative narratives have the power to transform lives; not only supporting people to deal with issues in their own lives, but also building a climate of resilience, hope and empathy.
-
+>The Forgiveness Project provides opportunities and resources for people to explore the complexities of forgiveness. Rooted in the belief that stories have the power to transform, we collect and share personal narratives that illuminate restorative responses to harm and conflict. Our mission is to restore and humanise both ourselves and our communities.
+>
+>Through storytelling and creative methodologies, we collaborate with individuals who have experienced pain and trauma. Our work is a process of exploration and inquiry, creating spaces where meaningful conversations can emerge and grow.
+>
+>Visit our website:
 https://www.theforgivenessproject.com/our-purpose/
+>
+>Subscribe to our newsletter:
+https://theforgivenessproject.substack.com/
