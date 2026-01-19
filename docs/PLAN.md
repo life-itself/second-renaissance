@@ -64,3 +64,6 @@ Implementation
 # Inbox
 
 - [ ] ➕2026-01-20 💤 split out the pip and cohere assets to their own subfolders so it is clean (rewrite markdown for this)
+- [ ] ➕2026-01-20 work out what we do with old /wiki - kind of random and only standard thing is overview-mapping-efforts.md
+  - [x] have moved overview-mapping-efforts to root
+    - [ ] Create a redirect for this ...
