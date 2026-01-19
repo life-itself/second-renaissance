@@ -60,6 +60,10 @@ Implementation
 * /paper
 ```
 
+## Tidy-ups / themeing
+
+- [ ] Set favicon
+
 
 # Inbox
 
