@@ -1,0 +1,51 @@
+{
+  "title": "Second Renaissance",
+  "description": "This is a moment of civilizational crisis and rebirth: a Second Renaissance. Many terms are associated with this moment: great turning, metamodern, metacrisis, integral, teal, liminal web, gameB, regenerative and more.  This site provides an introduction to this vision — and a home for a growing community of people who are working to make it happen.",
+  "author": "Life Itself",
+  "authorLogo": "/life-itself-logo.svg",
+  "authorUrl": "https://lifeitself.org/",
+  "analytics": "G-K5529JHP9G",
+  "nav": {
+    "title": "Second Renaissance",
+    "logo": "/assets/2r-logo-small.svg",
+    "links": [
+      {
+        "href": "/paper",
+        "name": "Whitepapers"
+      },
+      {
+        "href": "/oasis",
+        "name": "Oasis"
+      },
+      {
+        "href": "/ecosystem",
+        "name": "Ecosystem"
+      },
+      {
+        "href": "/art",
+        "name": "Art"
+      },
+      {
+        "href": "https://wiki.secondrenaissance.net/",
+        "name": "Wiki"
+      },
+      {
+        "href": "/events",
+        "name": "Events"
+      },
+      {
+        "href": "https://secondrenaissance.substack.com/",
+        "name": "News"
+      },
+      {
+        "href": "https://forum.secondrenaissance.net/",
+        "name": "Forum"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ]
+  },
+  "theme": "lessflowery"
+}
