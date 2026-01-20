@@ -12,26 +12,30 @@ layout: plain
   />
   <div class="mx-auto max-w-4xl py-8 sm:py-16 lg:py-12 text-center">
     <h2 class="text-2xl tracking-tight sm:text-5xl font-serif">
-      We live in a moment of<br />civilizational crisis and awakening
+      We live in a moment of<br />civilizational crisis and potential rebirth
     </h2>
     <h1 class="text-4xl font-bold tracking-tight sm:text-7xl mt-8">
       A Second Renaissance
     </h1>
     <div class="mt-4 sm:mt-8 text-xl tracking-tight sm:text-4xl font-serif">
       <p>
-        From the old paradigm of modernity to a new paradigm of<br />interconnectedness,
-        wisdom and inner growth, beyond capitalism
+        There are many terms associated with it: great turning, metamodern, metacrisis, integral, teal, liminal web, gameB, regenerative and more.
+      </p>
+      <p>
+        This site provides an introduction to this vision — and a home for a growing community of people who are working to make it happen.
       </p>
     </div>
     <div class="mt-10 flex items-center justify-center gap-x-6">
-      <a href="#" class="text-sm font-semibold leading-6">
-        Continue
-        <br />
-        <span aria-hidden="true">↓</span>
+      <a href="#vision" class="text-sm font-semibold leading-6">
+        Read more
+      </a>
+      <a href="/oasis" class="text-sm font-semibold leading-6">
+        Participate
       </a>
     </div>
   </div>
 </div>
+
 
 <!-- Signs Section -->
 <div id="signs" class="overflow-hidden bg-white pt-12 sm:pt-24">
@@ -471,13 +475,13 @@ layout: plain
             <dt
               class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900"
             >
-              Join the chat
+              Join the Forum
             </dt>
             <dd
               class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600"
             >
               <p class="flex-auto">
-                Join the chat to engage with the community, exchange ideas
+                Join the forum to engage with the community, exchange ideas
                 and get support.
               </p>
               <p class="mt-6">
@@ -485,7 +489,7 @@ layout: plain
                   href="https://discord.gg/nNRt6V9jA4"
                   class="text-sm font-semibold leading-6 text-indigo-600"
                 >
-                  Learn more <span aria-hidden="true">→</span>
+                  Forum<span aria-hidden="true">→</span>
                 </a>
               </p>
             </dd>
@@ -494,21 +498,20 @@ layout: plain
             <dt
               class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900"
             >
-              Download the Whitepaper
+              Download the Whitepapers
             </dt>
             <dd
               class="mt-4 flex flex-auto flex-col text-base leading-7 text-gray-600"
             >
               <p class="flex-auto">
-                Download our full whitepaper to learn more about key
-                concepts and the theory change.
+                Download our whitepapers to learn more about key concepts and the theory of change.
               </p>
               <p class="mt-6">
                 <a
                   href="/paper"
                   class="text-sm font-semibold leading-6 text-indigo-600"
                 >
-                  Learn more <span aria-hidden="true">→</span>
+                  Whitepapers<span aria-hidden="true">→</span>
                 </a>
               </p>
             </dd>
