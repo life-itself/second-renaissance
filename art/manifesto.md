@@ -2,17 +2,12 @@
 title: Manifesto and Essay
 description: "Seeking an artistic tribe for an emerging cultural paradigm. Marrying the artistic, political and spiritual worlds."
 image: /assets/img/art/manifesto-cover-color.png
-hero:
-  image: /assets/img/art/manifesto-cover-color.png
-  title: "Manifesto and Essay"
-  subtitle: "Seeking an artistic tribe for an emerging cultural paradigm. Marrying the artistic, political and spiritual worlds."
-  cta:
-    -
-      href: https://renaissance.metalabel.com/manifesto?variantId=2
-      label: Download Manifesto
-    -
-      href: #essay
-      label: Read Here
+cta:
+- href: https://renaissance.metalabel.com/manifesto?variantId=2
+  label: Download Manifesto
+- href: "#essay"
+  label: Read Here
+hero: true
 ---
 
 This manifesto essay marks the beginning of the Second Renaissance Art Collective. It lays out our vision and principles, setting the stage for what we hope will be a new artistic tribe and movement.
