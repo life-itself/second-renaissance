@@ -37,33 +37,41 @@ Implementation
 ## Framer to Flowershow
 
 - [x] What content is there
-- [ ] Analyse how to migrate a framer page (focus on art)
-- [ ] Home page
-  - [ ] Just re-add video
+- [x] Analyse how to migrate a framer page (focus on art) **✅2026-01-20 this works quite well to just brute force with anti-gravity**
+- [ ] Cache framer html pages **✅2026-01-20 to `tmp/framer`**
+- [ ] Migrate pages - first convert
+  - [ ] `/` **will do by hand as flowershow self-hosted had this**
+    - [x] Tweak hero text
+    - [ ] add video after hero
+    - [x] Fix up calls to action at bottom
+    - [x] Fix rendering on flowershow cloud **✅2026-01-20 now works**
+  - [x] `/art` **🚧2026-01-20 tailwind. ✅**
+  - [x] `/art/exhibition` **🚧2026-01-20 tailwind✅**
+  - [x] `/art/collective` **🚧2026-01-20 tailwind✅.**
+    - [ ] Need to copy over hero image plus missing top text.
+  - [x] `/art/residency` **🚧2026-01-20 tailwind✅**
+  - [x] `/art/magazine` **🚧2026-01-20 tailwind✅**
+  - [x] `/art/manifesto` **🚧2026-01-20 tailwind✅**
+  - [x] `/art/magazine-submission` **✅2026-01-21 done as markdown by hand**
+  - [x] `/course` **Already exists as markdown. Not much changed from original**
+    - [ ] ❓ Add hero.
+    - [ ] Check content for updates
+  - [x] `/about` **✅2026-01-20 just go with markdown 😉. Updated content to latest. all done**
+  - [ ] `/unconference` 🔽 **can use markdown.**
+    - [x] migrate content **✅2026-01-21**
+    - [ ] hero image
+    - [ ] 🔽 images at bottom of orgs involved
+  - [ ] `/oasis` **Do in markdown by hand. Want nice hero?**
+  - [ ] `/ecosystem` ??
+  - [ ] `/paper` **Can probably do in markdown better**
 
-### Pages on Framer (to migrate)
+🏆
 
-```
-* / (home) # NB: i think this has not changed much from what we had in old flowershow site
-* /art
-  * /exhibition
-  * /collective
-  * /residency
-  * /magazine
-  * /manifesto
-  * /magazine-submission
-* /course  # not much changed from original in Flowershow self-hosted
-* /about
-* /unconference
-* /oasis
-* /ecosystem
-* /paper
-```
+- [x] Flowershow supports nice heros **✅2026-01-21**
 
 ## Tidy-ups / themeing
 
 - [ ] Set favicon
-
 
 # Inbox
 
