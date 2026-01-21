@@ -1,10 +1,10 @@
 ---
-title: "Unconference on Metacrisis &  Second Renaissance"
+title: "Unconference on Metacrisis & Second Renaissance"
 description: "Harvard, May 3rd 2025"
 image: /assets/img/unconference-hero.png
 cta:
-  label: "Read more below"
-  href: "#join-us-in-boston"
+  - label: "Read more below"
+    href: "#join-us-in-boston"
 ---
 
 ## Join Us in Boston
