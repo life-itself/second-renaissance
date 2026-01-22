@@ -1,0 +1,38 @@
+/* Button Styles */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  background-color: #ad2831;
+  color: white;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: #8a2028;
+}
+
+/* Arrow circle on the right */
+.btn-primary::after {
+  content: '\2192';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 9999px;
+  font-size: 1rem;
+  transition: font-size 0.15s ease, transform 0.15s ease;
+}
+
+.btn-primary:hover::after {
+  font-size: 1.3rem;
+  transform: translateX(2px);
+}

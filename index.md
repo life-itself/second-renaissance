@@ -8,30 +8,26 @@ layout: plain
   <img
     src="/assets/img/homepage/sun-spoor-1874.webp"
     alt=""
-    class="absolute inset-0 -z-10 h-full w-full object-cover bg-slate-700 opacity-40"
+    class="absolute inset-0 -z-10 h-full w-full object-cover"
   />
-  <div class="mx-auto max-w-4xl py-8 sm:py-16 lg:py-12 text-center">
-    <h2 class="text-2xl tracking-tight sm:text-5xl font-serif">
+  <div class="mx-auto max-w-4xl py-8 sm:py-16 lg:py-12 text-center text-white">
+    <h3 class="text-xl tracking-tight sm:text-3xl">
       We live in a moment of<br />civilizational crisis and potential rebirth
-    </h2>
-    <h1 class="text-4xl font-bold tracking-tight sm:text-7xl mt-8">
+    </h3>
+    <h1 class="text-4xl tracking-tight sm:text-7xl mt-8">
       A Second Renaissance
     </h1>
-    <div class="mt-4 sm:mt-8 text-xl tracking-tight sm:text-4xl font-serif">
+    <div class="mt-8 sm:mt-8 text-xl tracking-tight sm:text-3xl">
       <p>
         There are many terms associated with it: great turning, metamodern, metacrisis, integral, teal, liminal web, gameB, regenerative and more.
       </p>
-      <p>
+      <p class="mt-4">
         This site provides an introduction to this vision — and a home for a growing community of people who are working to make it happen.
       </p>
     </div>
     <div class="mt-10 flex items-center justify-center gap-x-6">
-      <a href="#vision" class="text-sm font-semibold leading-6">
-        Read more
-      </a>
-      <a href="/oasis" class="text-sm font-semibold leading-6">
-        Participate
-      </a>
+      <a href="#vision" class="btn-primary">Read more</a>
+      <a href="/oasis" class="btn-primary">Participate</a>
     </div>
   </div>
 </div>
@@ -489,7 +485,7 @@ layout: plain
                   href="https://discord.gg/nNRt6V9jA4"
                   class="text-sm font-semibold leading-6 text-indigo-600"
                 >
-                  Forum<span aria-hidden="true">→</span>
+                  Forum <span aria-hidden="true">→</span>
                 </a>
               </p>
             </dd>
@@ -511,7 +507,7 @@ layout: plain
                   href="/paper"
                   class="text-sm font-semibold leading-6 text-indigo-600"
                 >
-                  Whitepapers<span aria-hidden="true">→</span>
+                  Whitepapers <span aria-hidden="true">→</span>
                 </a>
               </p>
             </dd>
