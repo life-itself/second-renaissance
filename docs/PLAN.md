@@ -61,7 +61,8 @@ Implementation
     - [x] migrate content **✅2026-01-21**
     - [ ] hero image
     - [ ] 🔽 images at bottom of orgs involved
-  - [ ] `/oasis` **Do in markdown by hand. Want nice hero?**
+  - [x] `/oasis` **Do in markdown by hand. Want nice hero?**
+    - [ ] nice hero ...
   - [ ] `/ecosystem` ??
   - [ ] `/paper` **Can probably do in markdown better**
 
