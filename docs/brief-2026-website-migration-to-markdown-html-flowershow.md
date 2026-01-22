@@ -7,15 +7,23 @@ Planning
 - [x] Write MOTIVATION.md
 - [x] Write PLAN.md
 
-Implementation
+## Acceptance
+
+- [ ] Entire still working as is at https://secondrenaissance.net/
+- [x] Entire site served from Flowershow
+- [ ] Notified Sylvie and anyone else using framer
+
+## Tasks
 
 *Keep the old repo and Framer site untouched until the new site is clearly viable, then decommission deliberately.*
 
-- [ ] Flowershow Self-hosted to Cloud
-- [ ] Framer to Flowershow
-- [ ] Remove frontend proxy
+- [x] Flowershow Self-hosted to Cloud
+- [x] Framer to Flowershow
+- [ ] Repo reordering
+- [ ] Deployment
+  - [ ] Remove frontend proxy
 
-## Flowershow Self-hosted to Cloud
+### Flowershow Self-hosted to Cloud
 
 * **Will not start with the ecosystem split**; treat it as already decided and out of scope for the first steps.
 * **Create a new, clean repo for the FlowerShow Cloud site** and copy only the core Markdown content you intend to keep.
@@ -23,7 +31,7 @@ Implementation
 * First milestone:
   * Get FlowerShow self-hosted content deploying end-to-end on FlowerShow Cloud.
 
-### Tasks
+#### Tasks
 
 - [x] Analyse what is in old site outside of ecosystem
 - [x] Copy over base markdown **✅2026-01-20**
@@ -34,17 +42,18 @@ Implementation
 
 ---
 
-## Framer to Flowershow
+### Framer to Flowershow
 
 - [x] What content is there
 - [x] Analyse how to migrate a framer page (focus on art) **✅2026-01-20 this works quite well to just brute force with anti-gravity**
-- [ ] Cache framer html pages **✅2026-01-20 to `tmp/framer`**
+- [x] Cache framer html pages **✅2026-01-20 to `tmp/framer`**
 - [ ] Migrate pages - first convert
   - [ ] `/` **will do by hand as flowershow self-hosted had this**
     - [x] Tweak hero text
     - [ ] add video after hero
     - [x] Fix up calls to action at bottom
     - [x] Fix rendering on flowershow cloud **✅2026-01-20 now works**
+    - [ ] Fix button styling (here and everywhere ...?)
   - [x] `/art` **🚧2026-01-20 tailwind. ✅**
   - [x] `/art/exhibition` **🚧2026-01-20 tailwind✅**
   - [x] `/art/collective` **🚧2026-01-20 tailwind✅.**
@@ -57,6 +66,7 @@ Implementation
     - [ ] ❓ Add hero.
     - [ ] Check content for updates
   - [x] `/about` **✅2026-01-20 just go with markdown 😉. Updated content to latest. all done**
+    - [ ] hero image ❓ (not sure really needed here?)
   - [ ] `/unconference` 🔽 **can use markdown.**
     - [x] migrate content **✅2026-01-21**
     - [ ] hero image
@@ -64,15 +74,38 @@ Implementation
   - [x] `/oasis` **Do in markdown by hand. Want nice hero?**
     - [ ] nice hero ...
   - [ ] `/ecosystem` ??
-  - [ ] `/paper` **Can probably do in markdown better**
+  - [ ] `/paper` **Can probably do in markdown better** 
 
-🏆
+### Repo refactoring
 
-- [x] Flowershow supports nice heros **✅2026-01-21**
+Want to end up with 2 repos:
+
+- One for ecosystem stuff as per https://github.com/life-itself/community/issues/1210
+- This one for the website
+
+What is currently in this repo should really go into ecosystem (and be refactored). Meanwhile we have the new website fairly clean.
+
+Tasks
+
+- [x] Create new repo for ecosystem **✅2026-01-23 at https://github.com/life-itself/2r-ecosystem**
+- [x] Push this repo current content to that new repo
+  - [x] Clean up branches here first
+- [x] Force push the new repo content here from the new repo we have made **✅2026-01-23 https://github.com/life-itself/secondrenaissance is now the new clean version**
+
+### Deploy new site
+
+- [ ] Set up flowershow.app for that ...
+- [ ] Switch over DNS
+- [ ] Remove front end proxy
+
 
 ## Tidy-ups / themeing
 
+🏆
+
 - [ ] Set favicon
+- [x] Flowershow supports nice heros **✅2026-01-21**
+- [ ] Nice "2R" theme
 
 # Inbox
 
