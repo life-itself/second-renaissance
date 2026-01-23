@@ -5,7 +5,7 @@
   gap: 0.75rem;
   background-color: #ad2831;
   color: white;
-  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  padding: 0.35rem 0.45rem 0.35rem 1rem;
   border-radius: 9999px;
   font-size: 0.9rem;
   text-transform: uppercase;
@@ -24,15 +24,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 2.75rem;
-  height: 2.75rem;
+  width: 2.25rem;
+  height: 2.25rem;
   background-color: rgba(255, 255, 255, 0.25);
   border-radius: 9999px;
   font-size: 1rem;
-  transition: font-size 0.15s ease, transform 0.15s ease;
+  transition: font-size 0.15s ease;
 }
 
 .btn-primary:hover::after {
   font-size: 1.3rem;
-  transform: translateX(2px);
 }
