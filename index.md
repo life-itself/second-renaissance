@@ -4,30 +4,47 @@ layout: plain
 ---
 
 <!-- Hero Section -->
-<div class="relative isolate overflow-hidden pt-14 sm:pt-24 pb-14 sm:pb-24">
+<div class="relative isolate overflow-hidden min-h-[calc(100vh-64px)] flex items-center">
   <img
     src="/assets/img/homepage/sun-spoor-1874.webp"
     alt=""
-    class="absolute inset-0 -z-10 h-full w-full object-cover"
+    class="absolute -z-20 h-full object-cover top-0 bottom-0 -left-[10px] -right-[10px] w-[calc(100%+20px)]"
   />
-  <div class="mx-auto max-w-4xl py-8 sm:py-16 lg:py-12 text-center text-white">
-    <h3 class="text-xl tracking-tight sm:text-3xl">
-      We live in a moment of<br />civilizational crisis and potential rebirth
-    </h3>
-    <h1 class="text-4xl tracking-tight sm:text-7xl mt-8">
-      A Second Renaissance
-    </h1>
-    <div class="mt-8 sm:mt-8 text-xl tracking-tight sm:text-3xl">
-      <p>
-        There are many terms associated with it: great turning, metamodern, metacrisis, integral, teal, liminal web, gameB, regenerative and more.
-      </p>
-      <p class="mt-4">
-        This site provides an introduction to this vision — and a home for a growing community of people who are working to make it happen.
-      </p>
-    </div>
-    <div class="mt-10 flex items-center justify-center gap-x-6">
-      <a href="#vision" class="btn-primary">Read more</a>
-      <a href="/oasis" class="btn-primary">Participate</a>
+  <div class="absolute inset-0 -z-10 bg-black/40"></div>
+  <div class="mx-auto max-w-7xl px-6 lg:px-8 py-12 lg:py-0">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
+      <!-- Text Content -->
+      <div class="text-center lg:text-left text-white">
+        <h3 class="text-xl tracking-tight sm:text-2xl">
+          We live in a moment of<br />civilizational crisis and potential rebirth
+        </h3>
+        <h1 class="text-4xl tracking-tight sm:text-6xl mt-6">
+          A Second Renaissance
+        </h1>
+        <div class="mt-6 text-lg tracking-tight sm:text-xl">
+          <p>
+            There are many terms associated with it: great turning, metamodern, metacrisis, integral, teal, liminal web, gameB, regenerative and more.
+          </p>
+          <p class="mt-4">
+            This site provides an introduction to this vision — and a home for a growing community of people who are working to make it happen.
+          </p>
+        </div>
+        <div class="mt-8 flex items-center justify-center lg:justify-start gap-x-4">
+          <a href="#vision" class="btn-primary">Read more</a>
+          <a href="/oasis" class="btn-primary">Participate</a>
+        </div>
+      </div>
+      <!-- Video -->
+      <div class="aspect-video rounded-xl overflow-hidden shadow-2xl">
+        <iframe
+          class="w-full h-full"
+          src="https://www.youtube.com/embed/614QtQvepGQ"
+          title="Second Renaissance"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
     </div>
   </div>
 </div>
