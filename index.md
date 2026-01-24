@@ -12,13 +12,13 @@ layout: plain
   />
   <div class="absolute inset-0 -z-10 bg-black/40"></div>
   <div class="mx-auto max-w-4xl px-6 lg:px-8 py-12 text-center text-white">
-    <h3 class="text-xl tracking-tight sm:text-2xl">
+    <h2 class="text-2xl tracking-tight sm:text-4xl">
       We live in a moment of<br />civilizational crisis and potential rebirth
-    </h3>
-    <h1 class="text-4xl tracking-tight sm:text-6xl mt-6">
+    </h2>
+    <h1 class="text-4xl tracking-tight sm:text-7xl mt-6">
       A Second Renaissance
     </h1>
-    <div class="mt-6 text-lg tracking-tight sm:text-xl">
+    <div class="mt-6 text-2xl tracking-tight sm:text-4xl">
       <p>
         There are many terms associated with it: great turning, metamodern, metacrisis, integral, teal, liminal web, gameB, regenerative and more.
       </p>
